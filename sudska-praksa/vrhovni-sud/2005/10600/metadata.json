@@ -1,0 +1,17 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10600",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker"
+  ],
+  "source_sha256": "b6aaa3c33d063c1e36fa152853fc73f011e9df96d5dde87118386607282e4b35",
+  "url": "https://www.vrh.sud.rs/sr/%D0%BA%D0%B6-i-44705",
+  "title": "Кж I 447/05",
+  "date": "2005-06-30",
+  "case": "Кж I 447/05",
+  "summary": "Кривична материја / Уписници: Кж I / Бр. предмета: 447/05 / Датум: 30.06.2005.",
+  "collection": "vs"
+}
