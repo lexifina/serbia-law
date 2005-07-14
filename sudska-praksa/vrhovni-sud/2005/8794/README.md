@@ -1,0 +1,11 @@
+# Гж 55/05
+
+Official anonymised decision, as published by the court.
+
+Court: Врховни суд Србије
+
+Case: Гж 55/05
+
+Decided: 2005-07-14
+
+Source: https://www.vrh.sud.rs/sr/%D0%B3%D0%B6-5505
