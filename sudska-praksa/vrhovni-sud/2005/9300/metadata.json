@@ -1,0 +1,17 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/9300",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "potential identifying number or birth date"
+  ],
+  "source_sha256": "6b6b4ee465be80ecc055d10b965b182b1536f918d41ec63954e7db76a81544ba",
+  "url": "https://www.vrh.sud.rs/sr/%D1%80%D0%B5%D0%B2-145105",
+  "title": "Рев 1451/05",
+  "date": "2005-09-08",
+  "case": "Рев 1451/05",
+  "summary": "Грађанска материја / Уписници: Рев / Бр. предмета: 1451/05 / Датум: 08.09.2005.",
+  "collection": "vs"
+}
