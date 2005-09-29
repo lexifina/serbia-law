@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10328",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "partially anonymised name after surname/initial marker"
+  ],
+  "source_sha256": "77f8cacae1ae8fb8dc1dd9ec77a66581e5315092fd10abb4d2cd2ab653ab782e",
+  "url": "https://www.vrh.sud.rs/sr/node/10328",
+  "title": "Кж I ОК 1/05",
+  "date": "2005-09-29",
+  "case": "Кж I ОК 1/05",
+  "summary": "Кривична материја / Уписници: Кж I ОК / Бр. предмета: 1/05 / Датум: 29.09.2005.",
+  "collection": "vs"
+}
