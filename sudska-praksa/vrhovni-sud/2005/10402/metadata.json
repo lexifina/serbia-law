@@ -1,0 +1,17 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10402",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker"
+  ],
+  "source_sha256": "3a93b0f838b7266b103f8727f88b7f11f91aec901d4995c871f69ea44ea2936a",
+  "url": "https://www.vrh.sud.rs/sr/node/10402",
+  "title": "Кж I ОК 2/05",
+  "date": "2005-09-30",
+  "case": "Кж I ОК 2/05",
+  "summary": "Кривична материја / Уписници: Кж I ОК / Бр. предмета: 2/05 / Датум: 30.09.2005.",
+  "collection": "vs"
+}
