@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/8806",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "potential unmasked party name"
+  ],
+  "source_sha256": "e63303054475a4cd8221d572f15e077653e7bce954ae30d257c4f67e1e87939a",
+  "url": "https://www.vrh.sud.rs/sr/%D0%B3%D0%B6-6505",
+  "title": "Гж 65/05",
+  "date": "2005-10-06",
+  "case": "Гж 65/05",
+  "summary": "Грађанска материја / Уписници: Гж / Бр. предмета: 65/05 / Датум: 06.10.2005.",
+  "collection": "vs"
+}
