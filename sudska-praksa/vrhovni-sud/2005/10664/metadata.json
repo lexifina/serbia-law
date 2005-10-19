@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10664",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "partially anonymised name after surname/initial marker"
+  ],
+  "source_sha256": "3dd22e6b39566bb388b1d8b94316bd3f62b904e2a9e0b1dad07932289aca87e4",
+  "url": "https://www.vrh.sud.rs/sr/%D0%BA%D0%B6-i-53905",
+  "title": "Кж I 539/05",
+  "date": "2005-10-19",
+  "case": "Кж I 539/05",
+  "summary": "Кривична материја / Уписници: Кж I / Бр. предмета: 539/05 / Датум: 19.10.2005.",
+  "collection": "vs"
+}
