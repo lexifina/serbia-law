@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10564",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "partially anonymised name after surname/initial marker"
+  ],
+  "source_sha256": "14ed56f60e3b5fb7062b4ea678e5372c1cdc539034c8bb8436e890d6d79a9e44",
+  "url": "https://www.vrh.sud.rs/sr/node/10564",
+  "title": "Кж I ОК 4/05",
+  "date": "2005-10-26",
+  "case": "Кж I ОК 4/05",
+  "summary": "Кривична материја / Уписници: Кж I ОК / Бр. предмета: 4/05 / Датум: 26.10.2005.",
+  "collection": "vs"
+}
