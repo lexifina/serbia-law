@@ -1,0 +1,17 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/9220",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker"
+  ],
+  "source_sha256": "8dd22dddc60846028245ee18a1a4de74c9f4d9ae7997815c9b6aa11e92c052c4",
+  "url": "https://www.vrh.sud.rs/sr/%D1%80%D0%B5%D0%B2-139005",
+  "title": "Рев 1390/05",
+  "date": "2005-11-16",
+  "case": "Рев 1390/05",
+  "summary": "Грађанска материја / Уписници: Рев / Бр. предмета: 1390/05 / Датум: 16.11.2005.",
+  "collection": "vs"
+}
