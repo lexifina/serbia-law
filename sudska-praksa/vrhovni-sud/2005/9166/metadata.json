@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/9166",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "potential unmasked party name"
+  ],
+  "source_sha256": "cde14543b440b4278ae302e2e454b82203bf61f9e7db8c886e1d3ea179087218",
+  "url": "https://www.vrh.sud.rs/sr/%D1%80%D0%B5%D0%B2-132805",
+  "title": "Рев 1328/05",
+  "date": "2005-11-23",
+  "case": "Рев 1328/05",
+  "summary": "Грађанска материја / Уписници: Рев / Бр. предмета: 1328/05 / Датум: 23.11.2005.",
+  "collection": "vs"
+}
