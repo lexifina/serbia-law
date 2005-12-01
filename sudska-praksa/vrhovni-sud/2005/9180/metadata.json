@@ -1,0 +1,17 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/9180",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker"
+  ],
+  "source_sha256": "a3d1fd7ef24bf003166effcd3ac19889edd7d58e88bfa7d758798a10fb2bb939",
+  "url": "https://www.vrh.sud.rs/sr/%D1%80%D0%B5%D0%B2-134205",
+  "title": "Рев 1342/05",
+  "date": "2005-12-01",
+  "case": "Рев 1342/05",
+  "summary": "Грађанска материја / Уписници: Рев / Бр. предмета: 1342/05 / Датум: 01.12.2005.",
+  "collection": "vs"
+}
