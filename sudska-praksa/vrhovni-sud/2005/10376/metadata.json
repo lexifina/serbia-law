@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10376",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "partially anonymised name after surname/initial marker"
+  ],
+  "source_sha256": "7a4b0c55fcfba51c0b09a9d777abc20043710f2edb193be395d4bae803c7d09b",
+  "url": "https://www.vrh.sud.rs/sr/%D0%BA%D0%B6-i-17905",
+  "title": "Кж I 179/05",
+  "date": "2005-12-01",
+  "case": "Кж I 179/05",
+  "summary": "Кривична материја / Уписници: Кж I / Бр. предмета: 179/05 / Датум: 01.12.2005.",
+  "collection": "vs"
+}
