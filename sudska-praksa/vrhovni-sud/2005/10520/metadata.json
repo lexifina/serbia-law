@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10520",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "partially anonymised name after surname/initial marker"
+  ],
+  "source_sha256": "fb47bb626958f154b3247ce133a9cf8952ca9b91b4b6e606a5c5043e284f0a97",
+  "url": "https://www.vrh.sud.rs/sr/%D0%BA%D0%B6-i-33605",
+  "title": "Кж I 336/05",
+  "date": "2005-12-08",
+  "case": "Кж I 336/05",
+  "summary": "Кривична материја / Уписници: Кж I / Бр. предмета: 336/05 / Датум: 08.12.2005.",
+  "collection": "vs"
+}
