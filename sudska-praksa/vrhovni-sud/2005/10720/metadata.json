@@ -1,0 +1,18 @@
+{
+  "path": "sudska-praksa/vrhovni-sud/2005/10720",
+  "court": "Врховни суд Србије",
+  "source_images": 0,
+  "decorative_images": 1,
+  "capture_mode": "metadata-only",
+  "privacy_reasons": [
+    "partially anonymised name before surname/initial marker",
+    "potential unmasked party name"
+  ],
+  "source_sha256": "1d14d6fb29d2c7a03bbf311fcf051b3335f7623ebf1667a04889e2b27c21ce82",
+  "url": "https://www.vrh.sud.rs/sr/node/10720",
+  "title": "Кж I ОК 6/05",
+  "date": "2005-12-14",
+  "case": "6/05",
+  "summary": "Кривична материја / Уписници:  / Бр. предмета: 6/05 / Датум: 14.12.2005.",
+  "collection": "vs"
+}
