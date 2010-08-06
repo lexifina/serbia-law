@@ -1,0 +1,9 @@
+# Члан 3.
+Поступак анализе ризика спроводи се на начин одређен међународним стандардима, и то:
+1) Међународним стандардом за фитосанитарне мере бр. 2 - Оквир за анализу ризика од штетног организма (ISPM No. 2 -2007 - Framework for pest risk analysis);
+2) Међународним стандардом за фитосанитарне мере бр. 3 - Водич за извоз, провоз и увоз агенаса за биолошку контролу и других корисних организама (ISPM No. 3-2005 - Guidelines for the export, shipment, import and release of biological control agents and other beneficial organisms);
+3) Међународним стандардом за фитосанитарне мере бр. 11 - Анализа ризика за карантински штетне организме, укључујући анализу ризика по животну средину и од генетски модификованих организама (ISPM No. 11-2004 - Pest risk analysis for quarantine pests, including analysis of environmental risks and living modified organisms);
+4) Међународним стандардом за фитосанитарне мере бр. 21 - Анализа ризика за регулисане не-карантински штетне организме (ISPM No. 21-2004 - Pest risk analysis for regulated non-quarantine pests;
+5) ЕППО стандардом - Водич за анализу ризика од штетног организма, Листа информација која се захтева приликом израде анализе ризика (ЕPPO Standards/ PM 5/1(1) - Guidelines on pest risk analysis - Check-list of information required for pest risk analysis (PRA));
+6) ЕППО стандардом - Водич за анализу ризика од штетног организма, Aнализa ризика у циљу детекције штетног организма на увозној пошиљци (ЕPPO Standards/ PM 5/2 - Guidelines on pest risk analysis-Pest risk analysis on detection of a pest in an imported consignment);
+7) ЕППО стандардом - Водич за анализу ризика од штетног организма, Помоћна шема за доношење одлуке да ли је штетни организам карантински (ЕPPO Standards/ PM 5/3 (4) Guidelines on pest risk analysis - Decision-support scheme for quarantine pests).
