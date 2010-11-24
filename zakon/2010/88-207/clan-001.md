@@ -1,0 +1,2 @@
+# Члан 1.
+Република Србија задужиће се, у износу од 250 милиона евра, подељено у 25 партија по 10 милиона евра, код KBC Bankе a.d. Beograd, Novе Kreditnе bankе Maribor d.d, EUROBANK EFG a.d. Beograd, Војвођанске банке а.д. Нови Сад, Hypo-Alpe-Adria Bank a.d. Beograd и Erste Bank а.d. Novi Sad и код банака које су дале заједничку понуду, и то: BANCA INTESA a.d. Beograd, UniCredit Bank Srbija a.d. Beograd и Raiffeisen bank a.d. Beograd и Societe Generale Banke Srbija a.d. Beograd (у даљем тексту: банке) за финансирање буџетског дефицита и рефинансирање дуга.
