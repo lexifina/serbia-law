@@ -1,0 +1,11 @@
+{
+  "status": "partial",
+  "record_scope": "conclusion_only",
+  "integral_reports": {
+    "status": "pending",
+    "source_basis": "Official PDF, page 1, point 1",
+    "description": "Market-analysis reports identified by the conclusion as integral to it",
+    "reason": "The one-page official PDF used for this record contains the conclusion but not the reports."
+  },
+  "source": "https://www.ratel.rs/storage/upload/2024/09/Zakljucak o usvajanju izvestaja o analizi trzista.pdf"
+}
