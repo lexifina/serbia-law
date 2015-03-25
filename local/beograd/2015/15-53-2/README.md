@@ -1,0 +1,9 @@
+# Решење о изменама Решења о именовању Изборне комисије Градске општине Звездара
+
+Акти градских општина Звездара · 15/2015 · published 2015-03-25.
+
+Metadata only.
+
+[Official source](https://www.sllistbeograd.rs/pdf/2015/15-2015.pdf#page=53) · [Record](record.md)
+
+Date basis: Official issue publication date; metadata record only, not an entry-into-force claim.
