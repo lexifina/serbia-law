@@ -1,0 +1,3 @@
+# Члан 1.
+Овим правилником прописују се мере за откривање, спречавање ширења и сузбијање штетног организма Anoplophora chinensis (Thomson) и Anoplophora malasiaca (Forster) (у даљем тексту: штетни организам), начин одређивања граница зараженог, угроженог и подручја без штетног организма, услови за окончање наложених мера, као и начин обавештавања о предузетим мерама и престанак мера.
+Осетљиво биље у смислу овог правилника, јесте биље намењено садњи, осим семена, коме пречник стабљике или кореновог врата на најдебљем делу износи најмање 1 cm, следећих родова и врста: Acer, Aesculus hippocastanum, Alnus, Betula, Carpinus, Citrus, Cornus, Corylus, Cotoneaster, Crategus, Fagus, Lagerstroemia, Malus, Platanus, Populus, Prunus laucerasus, Pyrus, Rosa, Salix и Ulmus.
