@@ -1,0 +1,9 @@
+# Решење о именовању вршиоца дужности директора ЈКП „Грочански комуналац”
+
+Акти градских општина Гроцка · 27/2015 · published 2015-05-29.
+
+Metadata only.
+
+[Official source](https://www.sllistbeograd.rs/pdf/2015/27-2015.pdf#page=60) · [Record](record.md)
+
+Date basis: Official issue publication date; metadata record only, not an entry-into-force claim.
