@@ -1,0 +1,7 @@
+# Одлука о измени Пословника о раду Изборне комисије Градске општине Чукарица
+
+Official record: <https://www.sllistbeograd.rs/pdf/2016/52-2016.pdf#page=26>
+
+Publication: 2016-05-17; Акти градских општина Чукарица.
+
+Metadata only; the decision concerns individual persons, bodies or property.
