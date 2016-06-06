@@ -1,0 +1,7 @@
+# Решење о именовању председника и члана Надзорног одбора из реда оснивача Јавног предузећа „Пословни простор Звездара”
+
+Official record: <https://www.sllistbeograd.rs/pdf/2016/55-2016.pdf#page=42>
+
+Publication: 2016-06-06; Акти градских општина Звездара.
+
+Metadata only; the decision concerns individual persons, bodies or property.
