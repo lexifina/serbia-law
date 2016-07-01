@@ -1,0 +1,9 @@
+# Одлука о начину поступања са непокретностима које су у јавној својини Града Београда, односно на којима Град Београд има посебна својинска овлашћења
+
+Акти Града · 63/2016 · published 2016-06-23.
+
+Metadata-only entry; the official decision text is not reproduced.
+
+[Official source](https://www.sllistbeograd.rs/pdf/2016/63-2016.pdf#page=132) · [Record](record.md)
+
+In-force basis: Official Gazette 63/2016, p. 136, Article 28: "Ова одлука ступа на снагу осмог дана од дана објављивања у ,,Службеном листу Града Београда”."; publication date 2016-06-23; 8 days after publication = 2016-07-01.
