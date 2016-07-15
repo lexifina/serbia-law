@@ -1,0 +1,7 @@
+# Решење о постављењу заменице секретара Скупштине Градске општине Врачар
+
+Official record: <https://www.sllistbeograd.rs/pdf/2016/72-2016.pdf#page=2>
+
+Publication: 2016-07-15; Акти градских општина Врачар.
+
+Metadata only; the decision concerns individual persons, bodies or property.
