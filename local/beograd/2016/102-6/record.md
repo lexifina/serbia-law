@@ -1,0 +1,7 @@
+# Решење о именовању председника и члана Надзорног одбора ЈПКП „Лазаревац” Лазаревац
+
+Official record: <https://www.sllistbeograd.rs/pdf/2016/102-2016.pdf#page=6>
+
+Publication: 2016-10-21; Акти градских општина Лазаревац.
+
+Metadata only; the decision concerns individual persons, bodies or property.
