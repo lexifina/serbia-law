@@ -1,0 +1,9 @@
+# Одлука о издвајању буџетских средстава градске општине Звездара за потребе набавке и уградње опреме за увођење система видео надзора у објекту полицијске станице Звездара
+
+Акти градских општина Звездара · 107/2016 · published 2016-11-18.
+
+Text as enacted from the official gazette; later amendments have not been consolidated.
+
+[Official source](https://www.sllistbeograd.rs/pdf/2016/107-2016.pdf#page=50) · [Record](tekst.md)
+
+Date basis: osmog dana od objavljivanja; source clause: Ова одлука ступа на снагу осмог дана од дана објављивања у "Службеном листу града Београда".
