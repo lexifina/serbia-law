@@ -1,0 +1,90 @@
+{
+  "title": "Стратегија у за сузбијање неправилности и превара у поступању са финансијским средствима Европске уније у Републици Србији за период 2017 - 2020. године (са Акционим планом)",
+  "url": "https://www.srbija.gov.rs/extfile/sr/306270/strategija_suzbijanje_zloupotreba026_cyr.zip",
+  "page": "https://www.srbija.gov.rs/dokument/45678/strategije-programi-planovi-.php",
+  "date": "2017-10-26",
+  "date_basis": "У Београду, 26. октобра 2017.",
+  "source_sha256": "a38ce6706c381f7fbe5e134abd22ab511e6b3e05928a1ba1446275d0ac91ecc4",
+  "source_images": 0,
+  "format": "docx",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "number": "48-9673/2017-1",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": "strategija_suzbijanje_zloupotreba-akcioni_plan026_cyr.xlsx",
+      "source_sha256": "a7c1302c759a9a0e0bf5a7598ce67454889405004ae7eb9034c660b97ed51f04",
+      "status": "included",
+      "files": [
+        "annexes/action-plan.md",
+        "annexes/action-plan.xlsx"
+      ],
+      "sheets": [
+        {
+          "sheet": "Sheet1",
+          "source_part": "xl/worksheets/sheet1.xml",
+          "populated_cells": 328,
+          "rows": 71,
+          "columns": 11,
+          "merged_ranges": [
+            "I3:I4",
+            "J3:K3",
+            "H3:H4",
+            "B3:B4",
+            "C3:C4",
+            "D3:D4",
+            "E3:E4",
+            "F3:F4",
+            "B58:B59",
+            "C58:C59",
+            "B60:H60",
+            "B61:H61",
+            "B62:B63",
+            "C62:C63",
+            "B57:H57",
+            "B39:B40",
+            "C39:C40",
+            "B41:B45",
+            "C41:C45",
+            "B46:H46",
+            "B47:B49",
+            "C47:C49",
+            "B50:B51",
+            "C50:C51",
+            "B52:B54",
+            "C52:C54",
+            "B55:H55",
+            "C1:K1",
+            "B35:B38",
+            "C35:C38",
+            "B7:B10",
+            "C7:C10",
+            "B11:B13",
+            "C11:C13",
+            "B15:H15",
+            "B16:B19",
+            "C16:C19",
+            "B20:B27",
+            "C20:C27",
+            "B29:B33",
+            "C29:C33",
+            "B34:H34",
+            "G3:G4"
+          ]
+        }
+      ],
+      "populated_cells": 328
+    },
+    {
+      "source_member": "strategija_suzbijanje_zloupotreba026_cyr.docx",
+      "source_sha256": "56f95bec89695e4cda4129f42931e82da5f7f7778a1f19944895a3a9f2157e43",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "complete-source-attachment"
+}
