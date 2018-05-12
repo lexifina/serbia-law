@@ -1,0 +1,2 @@
+# Члан 3.
+Квалификовани електронски сертификат обавезно садржи једну или више изјава да се сертификат користи као квалификовани електронски сертификат (поље "qcStatements") према документу ETSI EN 319 412-5 "Electronic Signatures and Infrastructures (ESI) - Certificate Profiles - Part 5: QCStatements" засновано на документу IETF RFC 3739 "Internet X.509 Public Key Infrastructure: Qualified Certificates Profile", у складу са политиком издавања сертификата коју примењује издавалац сертификата и условима прописаним овим правилником за појединачне врсте сертификата.

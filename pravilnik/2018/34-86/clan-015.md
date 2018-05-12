@@ -1,0 +1,2 @@
+# Члан 15.
+Квалификовани електронски сертификат за електронски потпис у пољу "Certificate Policies" обавезно садржи најмање идентификатор политике QCP-n-qscd у складу са документом ETSI EN 319 411-2 "Electronic Signatures and Infrastructures (ESI) - Policy and security requirements for Trust Service Providers issuing certificates - Part 2: Requirements for trust service providers issuing EU qualified certificates", одељак 4.2.5.
