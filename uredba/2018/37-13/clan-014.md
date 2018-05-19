@@ -1,0 +1,3 @@
+Примена стандарда ETSI EN 319 411-2
+# Члан 14.
+Услуга издавања квалификованих електронских сертификата обавља се сагласно захтевима стандарда ETSI EN 319 411-2 "Electronic Signatures and Infrastructures (ETSI); Policy and security requirements for Trust Service Providers issuing certificates; Part 2: Requirements for trust service providers issuing EU qualified certificates" (у даљем тексту: EN 319 411-2), укључујући захтеве из других стандарда на које се из тог стандарда директно и индиректно упућује, одговарајућим међународним стандардима и препорукама, односно другим стандардима, документима и препорукама које се односе на пружање услуге издавања квалификованих електронских сертификата, утврђеним овом уредбом.
