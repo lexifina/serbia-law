@@ -1,0 +1,16 @@
+# Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Хрватске о сарадњи у области заштите животне средине и очувања природе
+
+Text as adopted by the National Assembly (parlament.gov.rs), not the Službeni glasnik text: the law as the Assembly passed it, before publication in the Gazette.
+
+- Adopted by the National Assembly: 2018-10-12 (11. convocation)
+- Службени гласник number as the Assembly lists it: 13/18 (МУ) (the Gazette text is not part of this folder)
+- In force: not stated as a calendar day in the text as adopted
+- Source (PDF): <https://www.parlament.gov.rs/upload/archive/files/cir/pdf/zakoni/2018/1260-18.pdf>
+- Source (DOC): <https://www.parlament.gov.rs/upload/archive/files/cir/doc/zakoni/2018/1260-18.doc>
+- Bill: <https://www.parlament.gov.rs/upload/archive/files/cir/pdf/predlozi_zakona/1260-18.pdf>
+
+Checked: the files re-join to the PDF text layer letter for letter; the DOC agrees with it (100.00% of letters and digits).
+
+| File | Provision |
+| --- | --- |
+| [tekst.md](tekst.md) | текст |
