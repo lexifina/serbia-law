@@ -1,0 +1,4 @@
+Коришћење напредног електронског потписа односно печата
+# Члан 8.
+Напредни електронски потпис односно печат који се користи за потписивање односно печатирање временског жига мора бити заснован на електронском сертификату издатом од стране пружаоца услуге издавања електронских сертификата који услугу пружа сагласно стандарду ETSI EN 319 411-2 "Electronic Signatures and Infrastructures (ETSI); Policy and security requirements for Trust Service Providers issuing certificates; Part 2: Requirements for trust service providers issuing EU qualified certificates".
+Електронски сертификат који се користи за електронски потпис односно печат из става 1. овог члана мора додатно бити сагласан захтевима из стандарда ETSI EN 319 422: "Electronic Signatures and Infrastructures (ESI); Time-stamping protocol and time-stamp token profiles" (у даљем тексту: EN 319 422) који се односе на профил сертификата јединице за формирање временских жигова.
