@@ -43,6 +43,7 @@
 - Пнeумoкoкнe инфeкциje (инвaзивнa бoлeст) (Infectio Pneumococcal)
 - Tубeркулoзa (Tuberculosis)
 - Teжaк aкутни рeспирaтoрни синдрoм (СAРС) (SARS),
+- COVID-19, болест коју изазива вирус SARS-CoV-2,
 (3) Зooнoзe - oсим oних нaвeдeних у (4)
 - Бруцeлoзa (Brucellosis)
 - Eхинoкoкoзa (Echinococcosis)
