@@ -1,0 +1,26 @@
+{
+  "title": "Акциони план за спровођење Стратегије унапређења положаја особа са инвалидитетом у Републици Србији за период од 2020. до 2024. године, у периоду од 2021. до 2022. године",
+  "url": "https://www.srbija.gov.rs/extfile/sr/535152/ap-strategija-unapredjenje-polozaja-osoba-sa-invaliditetom2020-2024-period-2021-2022-0046-cyr.zip",
+  "page": "https://www.srbija.gov.rs/dokument/45678/strategije-programi-planovi-.php",
+  "date": "2021-04-08",
+  "date_basis": "У Београду, 8. априла 2021.",
+  "source_sha256": "5c6f4ecc3b7c7594823670b46f3ba4bd6fced08e2d327abe446dbff4f78d7aa3",
+  "source_images": 0,
+  "format": "docx",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "number": "580-2982/2021",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": "ap-strategija-unapredjenje-polozaja-osoba-sa-invaliditetom2020-2024-period-2021-2022-0046_cyr.docx",
+      "source_sha256": "b41bc744fcb0b6f6f07dadabb681d5537fe880f7d4dd6a636afcd4665aabf443",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "complete-source-attachment"
+}
