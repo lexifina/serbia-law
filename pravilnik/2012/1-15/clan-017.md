@@ -5,6 +5,7 @@
 У Београду, 15. децембра 2011. године
 Министар,
 проф. др Жарко Обрадовић, с.р.
-Погледати прилог Prilog_1_Standardi_za_kategorizaciju_objekata_domova_ucenika
-Погледати прилог Prilog_2_Standardi_za_kategorizaciju_objekata_studentskih_centara_domova
-Погледати прилог Prilog_3_Standardi_za_kategorizaciju_ucenickog_i_studentskog_odmaralista
+Прилози
+Прилог 1 - Стандарди за категоризацију објеката домова ученика
+Прилог 2 - Стандарди за категоризацију објеката студентских центара домова
+Прилог 3 - Стандарди за категоризацију ученичког и студентског одмаралишта
