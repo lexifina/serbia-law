@@ -1,5 +1,4 @@
-1. На предлог Агенције за лекове и медицинска средства Србије утврђују се магистралне формуле.*
-*Службени гласник РС, број 103/2008
+1. На предлог Агенције за лекове и медицинска средства Србије утврђују се магистралне формуле.
 2. Магистралне формуле из тачке 1. овог решења издаје Фармацеутско друштво Србије.
 3. Ово решење објавити у "Службеном гласнику Републике Србије".
 Број 515-04-2080/2008-05
@@ -526,3 +525,41 @@ Cl- 170 mmol/l
 Чувати на температури до 25°C.
 Назив и адреса галенске лабораторије:
 * Израда раствора Natrii hydrogencarbonatis infundibile 8,4% у складу са FM III
+НАПОМЕНА ИЗДАВАЧА: Решењем о измени Решења о утврђивању магистралних формула ("Службени гласник РС", број 101/2021) монографија за Маст хидрофилног вазелина (Ungentum vaselini hydrophilicum) замењује се новом монографијом (види Решење - 101/2021-36).
+Mast hidrofilnog vazelina
+Unguentum vaselini hydrophilicum
+IZRADA:
+I*
+II
+III**
+Cholesterolum
+5,00
+5,00
+3,00
+Alcohol cetylicus
+1,00
+Alcohol stearylicus
+3,00
+Adeps lanae
+15,00
+10,00
+Cera alba
+8,00
+Paraffinum liquidum
+15,00
+Vaselinum album
+65,00
+84,00
+86,00
+Mast I: holesterol se dobro razriba sa tečnim parafinom, a zatim se uz mešanje postepeno dodaju lanolin, bezvodni i beli vazelin, da se izradi homogena mast.
+Mast II: cetil alkohol, lanolin, bezvodni i deo belog vazelina se otope zagrevanjem na vodenoj pari. Holesterol se razriba sa otopljenom smešom i uz mešanje postepeno dodaje ostatak belog vazelina, da se izradi homogena mast.
+Mast III: stearil alkohol, pčelinji vosak i beli vazelin se otope zagrevanjem na vodenoj pari. Holesterol se dobro razriba sa delom otopljene smeše i uz mešanje dodaje ostatak mase, da se izradi homogena mast.
+PAKOVANJE:
+Mast se pakuje u plastične kutije ili aluminijumske tube.
+DELOVANJE I UPOTREBA:
+Bezvodna apsorpciona podloga za masti i kremove (uz dodatak vode ili vodenih rastvora); za omekšavanje i zaštitu kože.
+ČUVANJE:
+Dobro zatvoreno, zaštićeno od svetlosti, na temperaturi do 25 °C.
+SINONIMI:
+* Excipiens euceroli (RP), Eucerolum
+** Excipiens vaselini hydrophilicum, Hydrophilic Petrolatum (USP 43)
