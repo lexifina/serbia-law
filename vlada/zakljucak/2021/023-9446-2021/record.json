@@ -1,0 +1,36 @@
+{
+  "title": "Закључак о усвајању Извештаја Комисије за спровођење модела стратешког партнерства субјекта приватизације Акционарско дтуштво за производњу петрохемијских производа, сировина и хемикалија ХИП – ПЕТРОХЕМИЈА Панчево, који је Влада донела на седници одржаној 14. октобра 2021. године",
+  "url": "https://www.srbija.gov.rs/extfile/sr/586078/zakljucak-izvestaj-izbor-ponudjaca-HIP-petrohemija-privatizacija141021_cyr.docx",
+  "page": "https://www.srbija.gov.rs/dokument/586072/zakljucak-o-usvajanju-izvestaja-komisije-za-sprovodjenje-modela-strateskog-partnerstva-subjekta-privatizacije-akcionarsko-drustvo-za-proizvodnju-petrohemijskih-proizvoda-sirovina-i-hemikalija-hip-petrohemija-pancevo-koji-je-vlada-donela-na-sednici-odrzanoj-14-oktobra-2021-godine.php",
+  "date": "2021-10-14",
+  "date_basis": "У Београду, 14. октобра 2021.",
+  "source_sha256": "982232f01202b926b3ca1faeb1288803514c732318a6a6ed32748da60bdb784a",
+  "source_images": 0,
+  "format": "docx",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "extraction": "Microsoft Word 16 source rendering; PyMuPDF text layer, no OCR",
+  "number": "023-9446/2021",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": null,
+      "source_sha256": "982232f01202b926b3ca1faeb1288803514c732318a6a6ed32748da60bdb784a",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "annex-pending",
+  "annexes_pending": [
+    {
+      "source_url": "https://www.srbija.gov.rs/extfile/sr/586078/zakljucak-izvestaj-izbor-ponudjaca-HIP-petrohemija-privatizacija141021_cyr.docx",
+      "reason": "The source conclusion incorporates separate report/contract materials; these documents are not included in this record batch.",
+      "source_statements": [
+        "који је саставни део овог закључка. "
+      ]
+    }
+  ]
+}
