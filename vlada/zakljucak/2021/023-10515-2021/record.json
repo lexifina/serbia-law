@@ -1,0 +1,37 @@
+{
+  "title": "Закључак о прихватању Извештаја Комисије за спровођење модела стратешког партнерства о спроведеном поступку преговора са изабраним понуђачем „Нафтна индустрија Србије” а.д. Нови Сад, у поступку приватизације субјекта приватизације „ХИП-ПЕТРОХЕМИЈА” а.д. Панчево моделом стратешког партнерства, који је Влада донела на седници одржаној 18. новембра 2021. године",
+  "url": "https://www.srbija.gov.rs/extfile/sr/591115/zakljucak_stratesko_partnerstvo181121_cyr.pdf",
+  "page": "https://www.srbija.gov.rs/dokument/591109/zakljucak-o-prihvatanju-izvestaja-komisije-za-sprovodjenje-modela-strateskog-partnerstva-o-sprovedenom-postupku-pregovora-sa-izabranim-ponudjacem-naftna-industrija-srbije-ad-novi-sad-u-postupku-privatizacije-subjekta-privatizacije-hip-petrohemija-ad-pancevo-modelom-strateskog-partnerstva-koji-je-vlada-donela-na-sednici-odrzanoj-18-novembra-2021-godine.php",
+  "date": "2021-11-18",
+  "date_basis": "У Београду, 18. новембра 2021.",
+  "source_sha256": "fbcf8ac957d9f3d6adbd13e7f162d3870ceffd02f7379c363939b80cf8314f60",
+  "source_images": 0,
+  "format": "pdf",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "number": "023-10515/2021",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": null,
+      "source_sha256": "fbcf8ac957d9f3d6adbd13e7f162d3870ceffd02f7379c363939b80cf8314f60",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "annex-pending",
+  "annexes_pending": [
+    {
+      "source_url": "https://www.srbija.gov.rs/extfile/sr/591115/zakljucak_stratesko_partnerstvo181121_cyr.pdf",
+      "reason": "The source conclusion incorporates separate report/contract materials; these documents are not included in this record batch.",
+      "source_statements": [
+        "„ХИП-ПЕТРОХЕМИЈАˮ Панчево моделом стратешког партнерства, који је саставни део ",
+        "оперативног плана који је саставни део Уговора о стратешком партнерству, који је ",
+        "саставни део овог закључка. "
+      ]
+    }
+  ]
+}
