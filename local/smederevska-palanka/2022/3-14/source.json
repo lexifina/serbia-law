@@ -1,0 +1,34 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2022/03/msl2022-03.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2022",
+  "issue": "3",
+  "number": 14,
+  "title": "Одлука о измени и допуни Одлуке о безбедности саобраћаја на путевима Општине Смедеревска Паланка",
+  "printed_page": 17,
+  "folder": "local/smederevska-palanka/2022/3-14",
+  "published": "2022-02-10",
+  "in_force": "2022-02-18",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Међуопштинском службеном листу“.",
+  "sha256": "51fefb87297d11637799d7e28fa051ae318b50579e29a8722e97604ae5f15bb6",
+  "page": 3,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 3,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 3,
+      "line": "17. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; pypdf every non-whitespace character equal",
+  "image_audit": []
+}
