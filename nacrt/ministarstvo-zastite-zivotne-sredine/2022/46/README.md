@@ -1,0 +1,23 @@
+# ОДЛУКА О УТВРЂИВАЊУ КОНАЧНЕ РАНГ ЛИСТЕ ПРО. ЗА ФИН. ИЗ СРЕДСТАВА МИН. ЗАШТИТЕ ЖИВОТНЕ СРЕДИНЕ Р. СРБИЈЕ ПО Ј. КОНКУРСУ ЗА ДОДЕЛУ СРЕДСТАВА ЗА СУФИНАНСИРАЊЕ РЕАЛИЗАЦИЈЕ ПРОЈЕКАТА НАБАВКЕ, ЗАМЕНЕ, РЕКОНСКТРУКЦИЈЕ И САНАЦИЈЕ КОТЛАРНИЦА ЗА ГРЕЈАЊЕ У 2022.ГОД
+
+A draft in public consultation on the eKonsultacije portal (ekonsultacije.gov.rs). Not law.
+
+- Initiator: Министарство заштите животне средине
+- Document type: Остало
+- Area: Заштита животне средине
+- Opened on the portal: 2022-03-15
+- Phase when collected: Консултације (process ended)
+- Portal page: <https://ekonsultacije.gov.rs/topicOfDiscussionPage/46/1>
+- Collected: 2026-11-14
+
+## Description on the portal
+
+Министарство заштите животне средине је дана 21. јануара 2022. године расписало Јавни конкурс за доделу средстава за суфинансирање реализације пројеката набавке, замене, реконструкције и санације котларница за грејање. На Јавни конкурс пристигло је укупно 67 пријава.
+
+## Documents
+
+| Document | Type | Uploaded | File |
+| --- | --- | --- | --- |
+| Одлука о утврђивању коначне ранг листе - котларнице.pdf | Прилог | 2022-03-15 | no text layer (0 characters on 10 pages) |
+
+Each file is the document's text, taken by code from the file the portal serves, and re-joins to that file's letters and digits.
