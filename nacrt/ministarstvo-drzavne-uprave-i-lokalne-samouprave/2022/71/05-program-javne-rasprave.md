@@ -1,0 +1,10 @@
+ITPOfPAMJABHEPACITPABE 0 ITPOfP AMY PA3BOJA EJIEKTPOHCKE YITP ABE Y PEITYE.T.Il11U1 CPEI1JI1
+3A ITEPI10,Z1; o,n: 2023. ,n:o 2025. fO,n:MHE CA AKQMOIIBM ITJIAHOM 3A lbEfOBO CITPOBOnElbE
+1. Y IIOCTyrrKy npimpeMe ,n:OKYMeHTa jairne IIOJUfTHKe KOjHM ce ypeijyje o6JiaCT pa3BOja eJieKTpOHCKe yrrpaae, MHHHCTapCTBO .n:p)KaBHe yrrpaae H JIOKaJIHe caMoyrrpaae cnpoao,n:H jaBHY pacnpaay o ITpe,n:nory nporpaMa pa3aoja eneKTpoHcKe yrrpaae y Peny6JIHUH CpforjH 3a nepHo.n: o.n: 2023 . .n:o 2025. ro,n:HHe ca AKuHOHHM IIJiaHOM 3a H,erOBO cnpoBOijeH,e (y ,n:a.JI,eM TeKcTy: ITpe,n:Jior nporpaMa).
+2. JaaHa pacnpaaa o ITpe,n:nory nporpaMa o,n:p)Kati.e ce o.n: 23 . .n:eueM6pa 2022. ro,n:HHe .n:o 11. jaeyapa 2023. ro,n:HHe.
+3. YqecHHUH y jaBHOj pacnpaBH cy npe,n:cTaBHHUH Ha,n:Jie:>KHHX ,n:p)KaBHHX opraHa, opraHa ayTOHOMHe IIOKpajHHe, opraHa je,n:HHHUa JIOKaJIHe CaMoynpaae, eMHHeHTHH CTpyqH,aUH y OBOj o6JiaCTH, npe,n:cTaBHHUH npHBpe,n:Hor 1-1 UHBHJIHOr ceKTOpa, aKa,n:eMCKe 3aje,n:HHUe Kao H ,n:pyre 3aHHTepecoBaHe CTpaHe.
+4. IIporpaM jaBHe pacnpaae o ITpe.n:nory nporpaMa ca AKUHOHHM IIJiaHOM H IIpHJI03HMa yTBpijeHHM 3aKOHOM O IIJiaHCKOM CHCTeMy Peny6JIHKe Cp6Hje (,,Cn~6eHH rnacHHK PC", 6poj 30/18) H ITocJIOBHHKOM Bna.n:e o6jaaJoyje ce Ha HHTepHeT CTpaHHUH MHHHCTapCTBa .n:p)KaBHe ynpaae H JIOKaJIHe caMoynpaae www.mduls.gov.rs H Ha ITopTany eKoHcynrnuHje.
+5. ITpnMe,n:6e H npe.n:no3H ,n:ocTaBJoajy ce MHHHCTapcrny ,n:p)KaBHe ynpaae H JIOKaJIHe caMoynpaae, Ha Mejn: visnja.dragojlovic@mduls.gov.rs H. noIIITOM Ha a,n:pecy: MHHHCTapCTBO ,n:p)KaBHe yrrpaae H JIOKaJIHe CaMoynpaae, Eeorpa;::i:, EHpqaHHHoaa 6.
+6. no OKQHqaH,y jaBHe pacrrpaae, MHHHCTapCTBO ;J:p)KaBHe ynpaBe H
+JIOKaJIHe caMoyrrpaae aHaJIH3Hpahe cae cyrecTHje yqecHHKa y jaaHoj pacrrpaBH H caqHHHTH H3BeIIITaj O crrpoae,n:eHoj jaBHOj pacrrpaBH, KOjH he ce o6jaBHTH Ha HHTepHeT CTpaHHU:H rrpe.n:naraqa H TiopTany eKoHcynTau:nje HajKacmtje y poKy o;::i: 15 ,n:aHa o.n: ,n:aHa oKoHqaH,a jaaHe pacrrpaae, o,n:HOCHO HajKaCHHje ce,n:Mor pa;::i:Hor ;::i:aHa rrpe IIO.ll:HOIIIeH,a Ha;::i:Jie)KHOM .ll:OHOCHOU:Y Ha pa3MaTpaH,e H ycaajaH>e.
+4100322.006/66
