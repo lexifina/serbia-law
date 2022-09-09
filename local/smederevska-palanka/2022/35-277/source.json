@@ -1,0 +1,114 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2022/10/msl2022-35.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2022",
+  "issue": "35",
+  "number": 277,
+  "title": "Одлука о локалном омбудсману Општине Смедеревска Паланка",
+  "printed_page": 1939,
+  "folder": "local/smederevska-palanka/2022/35-277",
+  "published": "2022-09-09",
+  "in_force": "2022-09-09",
+  "basis": "danom donošenja",
+  "commencement_quote": "Ова Одлука ступа на снагу даном доношења а објавиће се у „Међуопштинском службеном листу”.",
+  "sha256": "8a525262186ded69f23316f5c2d60cb0f68c0236a59f953e8997c5f8baf83ebd",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 1,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "1939. страна"
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "1940. страна"
+    },
+    {
+      "page": 2,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 3,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 3,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 3,
+      "line": "1941. страна"
+    },
+    {
+      "page": 4,
+      "line": "1942. страна"
+    },
+    {
+      "page": 4,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 4,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 5,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 5,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 5,
+      "line": "1943. страна"
+    },
+    {
+      "page": 6,
+      "line": "1944. страна"
+    },
+    {
+      "page": 6,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 6,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 7,
+      "line": "бр. 35, 9.9.2022. год."
+    },
+    {
+      "page": 7,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 7,
+      "line": "1945. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
