@@ -1,0 +1,38 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2022/10/msl2022-35.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2022",
+  "issue": "35",
+  "number": 286,
+  "title": "Одлука о измени и допуни Одлуке о начину пружања помоћи ученицима и студентима – младим талентима",
+  "printed_page": 1952,
+  "folder": "local/smederevska-palanka/2022/35-286",
+  "published": "2022-09-09",
+  "in_force": "2022-09-17",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Међуопштинском службеном листу„.",
+  "sha256": "8a525262186ded69f23316f5c2d60cb0f68c0236a59f953e8997c5f8baf83ebd",
+  "page": 14,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 14,
+      "line": "1952. страна"
+    },
+    {
+      "page": 14,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 14,
+      "line": "бр. 35, 9.9.2022. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
