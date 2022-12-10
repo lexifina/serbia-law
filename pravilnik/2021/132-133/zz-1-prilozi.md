@@ -6024,6 +6024,41 @@ III biohemijske i imunohemijske analize
 L005091
 Određivanje koncentracije PAP (Pancreatic Associated Protein) iz osušenog uzorka kapilarne krvi na filter papiru, metodom fluorimetrije
 1.376,03
+III biohemijske i imunohemijske analize
+1063.
+L030585
+CA 50, serumu, CLIA
+1.243,54
+III biohemijske i imunohemijske analize
+1064.
+L030593
+CA 242, serumu, CLIA
+1.243,54
+III biohemijske i imunohemijske analize
+1065.
+L030601
+Hijaluronska kiselina u serumu, CLIA
+1.136,54
+III biohemijske i imunohemijske analize
+1066.
+L030619
+Laminin u serumu, CLIA
+1.136,54
+III biohemijske i imunohemijske analize
+1067.
+L030627
+Holiglicin u serumu, CLIA
+1.136,54
+III biohemijske i imunohemijske analize
+1068.
+L030635
+Kolagen tip III-N-peptida u serumu, CLIA
+1.136,54
+III biohemijske i imunohemijske analize
+1069.
+L030643
+Kolagen tip IV (C IV) u serumu, CLIA
+1.136,54
 IV imunološke analize imunološke analize (autoimunost) u serumu
 1.
 L015743
