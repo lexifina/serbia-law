@@ -1,0 +1,26 @@
+{
+  "title": "Одлука о изменама и допуни Програма за унапређење управљања споредним производима животињског порекла за период од 2020. до 2024. године",
+  "url": "https://www.srbija.gov.rs/extfile/sr/671746/odluka_izmena_programa_sporedni_proizvodi_zivotinjskog_porekla016_cyr.zip",
+  "page": "https://www.srbija.gov.rs/dokument/45678/strategije-programi-planovi-.php",
+  "date": "2022-12-15",
+  "date_basis": "У Београду, 15. децембра 2022.",
+  "source_sha256": "e551a44967dfdf328a5981aabc2b84779e58fc2525533027d2bcafd899946daa",
+  "source_images": 0,
+  "format": "docx",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "number": "110-10432/2022",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": "odluka_ID_prog_spored_proizv_zivot_porekla_2020-2024_016_cyr.docx",
+      "source_sha256": "2d3acbc0fe25e215a25a8e113079a013d0b4096b7f7f05b1de2d8862ed9c1288",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "complete-source-attachment"
+}
