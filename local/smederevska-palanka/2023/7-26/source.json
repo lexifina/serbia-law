@@ -1,0 +1,98 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2023/03/msl2023-07.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2023",
+  "issue": "7",
+  "number": 26,
+  "title": "Одлука о организацији и функционисању цивилне заштите на територији Општине Смедеревска Паланка",
+  "printed_page": 98,
+  "folder": "local/smederevska-palanka/2023/7-26",
+  "published": "2023-03-07",
+  "in_force": "2023-03-07",
+  "basis": "danom objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу од дана објављивања у „Међуопштинском службеном листу“.",
+  "sha256": "4f5ecd88e1fcb6f29ece41146ca5776517efe95aa712846668bb119b000592eb",
+  "page": 4,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 4,
+      "line": "98. страна"
+    },
+    {
+      "page": 4,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 4,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 5,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 5,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 5,
+      "line": "99. страна"
+    },
+    {
+      "page": 6,
+      "line": "100. страна"
+    },
+    {
+      "page": 6,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 6,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 7,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 7,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 7,
+      "line": "101. страна"
+    },
+    {
+      "page": 8,
+      "line": "102. страна"
+    },
+    {
+      "page": 8,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 8,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 9,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 9,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 9,
+      "line": "103. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
