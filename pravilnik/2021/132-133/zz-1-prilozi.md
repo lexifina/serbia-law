@@ -12313,7 +12313,7 @@ VIII analize iz oblasti citogenetike i molekularne genetike
 18.
 L025858
 Analiza kariotipa primenom metode CGH array
-32.012,48
+42.583,52
 VIII analize iz oblasti citogenetike i molekularne genetike
 19.
 L025866
@@ -12433,7 +12433,7 @@ VIII analize iz oblasti citogenetike i molekularne genetike
 42.
 L025859
 Analiza kariotipa primenom metode CGH array visoke rezolucije sa SNPom
-48.199,32
+63.846,38
 VIII analize iz oblasti citogenetike i molekularne genetike
 43.
 L025941
