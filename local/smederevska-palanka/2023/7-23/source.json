@@ -1,0 +1,54 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2023/03/msl2023-07.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2023",
+  "issue": "7",
+  "number": 23,
+  "title": "Одлука о изменама и допунама Одлуке о уређивању, одржавању гробаља и сахрањивању на територији Општине Смедеревска Паланка",
+  "printed_page": 95,
+  "folder": "local/smederevska-palanka/2023/7-23",
+  "published": "2023-03-07",
+  "in_force": "2023-03-08",
+  "basis": "narednog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу наредног дана од дана објављивања у „Међуопштинском службеном листу“.",
+  "sha256": "4f5ecd88e1fcb6f29ece41146ca5776517efe95aa712846668bb119b000592eb",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 1,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "95. страна"
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "96. страна"
+    },
+    {
+      "page": 2,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 7, 7.3.2023. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
