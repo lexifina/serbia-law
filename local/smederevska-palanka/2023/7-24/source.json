@@ -1,0 +1,62 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2023/03/msl2023-07.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2023",
+  "issue": "7",
+  "number": 24,
+  "title": "Одлука о изменама и допунама Одлуке о оснивању Народног музеја у Смедеревској Паланци",
+  "printed_page": 96,
+  "folder": "local/smederevska-palanka/2023/7-24",
+  "published": "2023-03-07",
+  "in_force": "2023-03-15",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Међуопштинском службеном листу”.",
+  "sha256": "4f5ecd88e1fcb6f29ece41146ca5776517efe95aa712846668bb119b000592eb",
+  "page": 2,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 2,
+      "line": "96. страна"
+    },
+    {
+      "page": 2,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 3,
+      "line": "бр. 7, 7.3.2023. год."
+    },
+    {
+      "page": 3,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 3,
+      "line": "97. страна"
+    },
+    {
+      "page": 4,
+      "line": "98. страна"
+    },
+    {
+      "page": 4,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 4,
+      "line": "бр. 7, 7.3.2023. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
