@@ -1,0 +1,38 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2024/10/msl2023-14.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2023",
+  "issue": "14",
+  "number": 73,
+  "title": "Одлука о изменама Одлуке о комуналном уређењу Општине Смедеревска Паланка",
+  "printed_page": 322,
+  "folder": "local/smederevska-palanka/2023/14-73",
+  "published": "2023-05-19",
+  "in_force": "2023-05-27",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Међуопштинском службеном листу”.",
+  "sha256": "55d1e5f3c6b33927acdd7642ef21f6b23b08837e3311d77a366afe7b49caee4d",
+  "page": 8,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 8,
+      "line": "322. страна"
+    },
+    {
+      "page": 8,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 8,
+      "line": "бр. 14, 19.5.2023. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
