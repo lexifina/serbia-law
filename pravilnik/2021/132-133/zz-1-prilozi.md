@@ -3867,13 +3867,13 @@ Komplement komponenta C5a u plazmi, ELISA
 III biohemijske i imunohemijske analize
 631.
 L007915
-Komplement faktor N u serumu, RID
-0,00
+Komplement faktor H u serumu, RID
+1.836,41
 III biohemijske i imunohemijske analize
 632.
 L007916
 Komplement faktor I u serumu, RID
-0,00
+11.238,41
 III biohemijske i imunohemijske analize
 633.
 L012138
@@ -5862,7 +5862,7 @@ Troponin T u serumu/plazmi, ECLIA
 III biohemijske i imunohemijske analize
 1030.
 L008532
-Troponin TI u krvi, POCT
+Troponin T/I u krvi, POCT
 1.188,09
 III biohemijske i imunohemijske analize
 1031.
@@ -6052,7 +6052,7 @@ Holiglicin u serumu, CLIA
 III biohemijske i imunohemijske analize
 1068.
 L030635
-Kolagen tip III-N-peptida u serumu, CLIA
+Prokolagen tip III-N-terminalni peptid u serumu, CLIA
 1.136,54
 III biohemijske i imunohemijske analize
 1069.
