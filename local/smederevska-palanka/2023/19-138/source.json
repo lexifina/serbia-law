@@ -1,0 +1,30 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2024/10/msl2023-19.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2023",
+  "issue": "19",
+  "number": 138,
+  "title": "Одлука о изменама и допунама Одлуке о условима и начину постављања мањих монтажних објеката привременог карактера на територији Општине Смедеревска Паланка",
+  "printed_page": 1117,
+  "folder": "local/smederevska-palanka/2023/19-138",
+  "published": "2023-06-30",
+  "in_force": "2023-07-08",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у «Међуопштинском службеном листу».",
+  "sha256": "2582efdfed7afd7d92758d7fa0fc2e430ece87c75494658b4574a00b545f0273",
+  "page": 3,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 3,
+      "line": "1117. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
