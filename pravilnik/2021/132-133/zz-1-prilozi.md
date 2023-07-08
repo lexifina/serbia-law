@@ -714,6 +714,151 @@ II opšte hematološke analize i analize hemostaze
 L015289
 Vreme krvarenja (Ivy)
 554,11
+II opšte hematološke analize i analize hemostaze
+137.
+L015412
+Citološki pregled kostne srži
+437,15
+II opšte hematološke analize i analize hemostaze
+138.
+L015461
+Pregled otiska bioptata kostne srži
+374,76
+II opšte hematološke analize i analize hemostaze
+139.
+L015479
+Pregled otiska limfne žlezde ili punktata tkiva
+314,66
+II opšte hematološke analize i analize hemostaze
+140.
+L015420
+Citološki pregled likvora sa citocentrifuge u hematoloških bolesnika
+328,47
+II opšte hematološke analize i analize hemostaze
+141.
+L015313
+Bojenje kostne srži na ANAE i NASDA
+830,06
+II opšte hematološke analize i analize hemostaze
+142.
+L015305
+Bojenje kostne srži na ANAE sa NaF
+834,14
+II opšte hematološke analize i analize hemostaze
+143.
+L015339
+Bojenje kostne srži na dvostruku esterazu (DE)
+828,68
+II opšte hematološke analize i analize hemostaze
+144.
+L015321
+Bojenje kostne srži na butirat esterazu (BE)
+894,90
+II opšte hematološke analize i analize hemostaze
+145.
+L015347
+Bojenje kostne srži na hloroacetat esterazu (CE)
+1.167,02
+II opšte hematološke analize i analize hemostaze
+146.
+L015362
+Bojenje kostne srži na mijeloperoksidazu (POX)
+643,87
+II opšte hematološke analize i analize hemostaze
+147.
+L015388
+Bojenje kostne srži perjodnom reakcijom po Šifu (PAS)
+791,86
+II opšte hematološke analize i analize hemostaze
+148.
+L015396
+Bojenje kostne srži Sudan crnim B (SBB)
+960,79
+II opšte hematološke analize i analize hemostaze
+149.
+L015354
+Bojenje kostne srži na kiselu fosfatazu (AcP)
+1.019,08
+II opšte hematološke analize i analize hemostaze
+150.
+L015370
+Bojenje kostne srži na TRAP
+1.033,78
+II opšte hematološke analize i analize hemostaze
+151.
+L015404
+Bojenje periferne krvi ili kostne srži na APL (skor)
+729,12
+II opšte hematološke analize i analize hemostaze
+152.
+L015453
+Određivanje gvožđa u kostnoj srži po Pearls-u
+921,47
+II opšte hematološke analize i analize hemostaze
+153.
+L015487
+Hemosiderin u urinu (Pearls)
+799,42
+II opšte hematološke analize i analize hemostaze
+154.
+L015446
+Morfološko-citohemijska analiza kostne srži po FAB/SZO klasifikaciji
+454,35
+II opšte hematološke analize i analize hemostaze
+155.
+L014852
+Multiparametarska agregacija trombocita iz krvi, pojedinačno
+918,57
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+1.
+L015495
+Deplecija T-limfocita kostne srži i periferne krvi (in vitro)
+5.096,53
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+2.
+L015503
+Kultura matičnih ćelija eritrocitne loze (BFU-E i CFU-E) iz kostne srži i periferne krvi (test zasnovan na serumu), pojedinačno
+4.003,24
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+3.
+L015511
+Kultura matičnih ćelija eritrocitne loze (BFU-E i CFU-E) iz kostne srži i periferne krvi pojedinačno (test zasnovan na serum-free sistemu) pojedinačno
+4.674,41
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+4.
+L015529
+Kultura matičnih ćelija granulocitne loze (CFU-GM i CFU-G) iz kostne srži i periferne krvi (klasični test zasnovan na serumu) pojedinačno
+3.637,20
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+5.
+L015537
+Kultura matičnih ćelija granulocitne loze (CFU-GM i CFU-G) iz kostne srži i periferne krvi (test zasnovan na serum-free sistemu) pojedinačno
+4.674,41
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+6.
+L015545
+Kultura matičnih ćelija granulocitne loze (CFU-GM i CFU-G) iz uzorka za procenu kvaliteta kalema za transplantaciju, pojedinačno
+3.463,31
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+7.
+L015552
+Kultura matičnih ćelija i prethodnika leukemije (CFU-AML) u kostnoj srži bolesnika sa leukemijom, pojedinačno
+5.610,10
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+8.
+L015560
+Kultura matičnih ćelija megakariocitnih prethodnika kostne srži i periferne krvi (test zasnovan na serum-free sistemu) pojedinačno
+9.670,25
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+9.
+L015578
+Kultura matičnih ćelija, megakariocitnih prethodnika kostne srži i periferne krvi , pojedinačno
+3.637,20
+II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
+10.
+L015586
+Određivanje broja živih ćelija (vijabilnosti) u kostnoj srži, pojedinačno
+493,60
 III biohemijske i imunohemijske analize
 1.
 L009522
@@ -6059,6 +6204,121 @@ III biohemijske i imunohemijske analize
 L030643
 Kolagen tip IV (C IV) u serumu, CLIA
 1.136,54
+III biohemijske i imunohemijske analize
+1070.
+L030650
+IGF-1 (Insulin like growthfactor 1) u amnionskoj tečnosti, imunohromatografija
+2.306,73
+III biohemijske i imunohemijske analize
+1071.
+L030668
+IGFBP-1 (fosforilisani) (phIGFBP-1) u amnionskoj tečnosti, imunohromatografija
+2.156,73
+III biohemijske i imunohemijske analize
+1072.
+L030676
+Proinsulin u serumu, CLIA
+917,44
+III biohemijske i imunohemijske analize
+1073.
+L030684
+Angiotenzin-I u plazmi, CLIA
+1.263,04
+III biohemijske i imunohemijske analize
+1074.
+L030692
+Angiotenzin-II u plazmi, CLIA
+1.263,04
+III biohemijske i imunohemijske analize
+1075.
+L030700
+Lipoproteinska fosfolipaza A2 (Lp-PLA2) u serumu/plazmi, CLIA
+1.435,84
+III biohemijske i imunohemijske analize
+1076.
+L030718
+Protein koji vezuje masne kiseline (srčana izoforma)(H-FABP, heart-type fatty acid binding protein) u serumu/plazmi, CLIA
+960,64
+III biohemijske i imunohemijske analize
+1077.
+L030726
+17-hidroksi-progesteron (17- OHP) u serumu, CLIA
+951,04
+III biohemijske i imunohemijske analize
+1078.
+L030734
+Testosteron slobodan u serumu, CLIA
+645,04
+III biohemijske i imunohemijske analize
+1079.
+L030742
+Tkivni polipeptidni antigen (TPA) u serumu, CLIA
+1.487,68
+III biohemijske i imunohemijske analize
+1080.
+L030759
+Prostatična kisela fosfataza (PAP) u serumu, CLIA
+964,96
+III biohemijske i imunohemijske analize
+1081.
+L030767
+Antitela na ćelije Langerhans-ovih ostrvaca pankreasa (ICA) u serumu/plazmi, CLIA
+960,64
+III biohemijske i imunohemijske analize
+1082.
+L030775
+Antitela na insulin (IAA) u serumu, CLIA
+917,44
+III biohemijske i imunohemijske analize
+1083.
+L030783
+Antitela na glutamat dekarboksilazu 65 (GAD65) u serumu, CLIA
+965,44
+III biohemijske i imunohemijske analize
+1084.
+L030791
+Antitela na tirozin fosfatazu (IA2) u serumu, CLIA
+960,64
+III biohemijske i imunohemijske analize
+1085.
+L030809
+Izomer trijodtironina (3,5,3′ trijodtironin, rT3) u serumu, CLIA
+869,44
+III biohemijske i imunohemijske analize
+1086.
+L030817
+Antinukleusna antitela (ANA screen) IgG klase u serumu/plazmi, CLIA
+1.090,72
+III biohemijske i imunohemijske analize
+1087.
+L030825
+Antitela na ekstraktibilne nukleusne antigene (ENA screen) u serumu/plazmi, CLIA
+1.090,72
+III biohemijske i imunohemijske analize
+1088.
+L030833
+Analiza kvaliteta sperme na automatu
+2.706,48
+III biohemijske i imunohemijske analize
+1089.
+L030841
+Ceftazidim u serumu/plazmi, EIA
+2.534,82
+III biohemijske i imunohemijske analize
+1090.
+L030858
+Linezolid u serumu/plazmi, EIA
+2.534,82
+III biohemijske i imunohemijske analize
+1091.
+L030866
+Ciprofloksacin u serumu/plazmi, EIA
+2.534,82
+III biohemijske i imunohemijske analize
+1092.
+L030874
+Piperacilin u serumu/plazmi, EIA
+2.534,82
 IV imunološke analize imunološke analize (autoimunost) u serumu
 1.
 L015743
@@ -7139,6 +7399,21 @@ IV imunološke analize imunološke analize kultura ćelija krvi
 L017741
 Test degranulacije bazofila metodom protočne citofluorimetrije
 2.468,11
+IV imunološke analize imunološke analize kultura ćelija krvi
+15.
+L015602
+Fiksiranje ćelija uzorka rastvorom na bazi formaldehida (po epruveti)
+160,97
+IV imunološke analize imunološke analize kultura ćelija krvi
+16.
+L015610
+Imunofenotipizacija intracelularnih antigena direktnom metodom i protočnom citometrijom (po antigenu)
+732,19
+IV imunološke analize imunološke analize kultura ćelija krvi
+17.
+L015701
+Određivanje ćelijskog vijabiliteta primenom supravitalnih boja protočnom citometrijom
+155,78
 IV imunološke analize imunološke analize ćelijskih kultura u krvi
 1.
 L017814
@@ -12489,6 +12764,11 @@ VIII analize iz oblasti citogenetike i molekularne genetike
 L026055
 Genomsko profilisanje solidnih tumora iz parafinskog bloka na 324 onkogena
 212.675,84
+VIII analize iz oblasti citogenetike i molekularne genetike
+54.
+L030882
+Identifikacija genskih mutacija metodom NGS-panel sekvenciranje celog egzoma
+96.371,41
 IX analize tipizacije tkiva
 1.
 L026096
