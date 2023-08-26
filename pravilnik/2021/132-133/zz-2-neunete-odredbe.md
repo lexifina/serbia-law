@@ -1,3 +1,7 @@
+ОДРЕДБЕ КОЈЕ НИСУ УНЕТЕ У "ПРЕЧИШЋЕН ТЕКСТ" ПРАВИЛНИКА
+Правилник о допунама Правилника о ценама лабораторијских здравствених услуга на примарном, секундарном и терцијарном нивоу здравствене заштите: "Службени гласник РС", број 71/2023-61
+Члан 3.
+Овај правилник ступа на снагу наредног дана од дана објављивања у "Службеном гласнику Републике Србијеˮ.
 Прилог
 OBLAST
 Red. br. u oblasti
@@ -12712,12 +12716,12 @@ Analiza kariotipa primenom metode CGH array visoke rezolucije sa SNPom
 VIII analize iz oblasti citogenetike i molekularne genetike
 43.
 L025941
-Identifikacija genskih mutacija metodom NGS panel klinički egzon
+Identifikacija genskih mutacija metodom NGS - panel klinički egzom
 107.762,22
 VIII analize iz oblasti citogenetike i molekularne genetike
 44.
 L025942
-Identifikacija genskih mutacija metodom NGS panel trijada klinički egzon
+Identifikacija genskih mutacija metodom NGS - panel trijada klinički egzom
 292.021,81
 VIII analize iz oblasti citogenetike i molekularne genetike
 45.
@@ -12769,6 +12773,11 @@ VIII analize iz oblasti citogenetike i molekularne genetike
 L030882
 Identifikacija genskih mutacija metodom NGS-panel sekvenciranje celog egzoma
 96.371,41
+VIII analize iz oblasti citogenetike i molekularne genetike
+55.
+L031088
+Detekcija delecije u SMN1 genu iz osušene kapi kapilarne krvi na filter papiru na PCR platformi
+929,74
 IX analize tipizacije tkiva
 1.
 L026096
