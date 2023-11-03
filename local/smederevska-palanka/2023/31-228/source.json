@@ -1,0 +1,62 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2024/10/msl2023-31.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2023",
+  "issue": "31",
+  "number": 228,
+  "title": "Одлука о изменама и допунама Одлуке о мрежи објеката, васпитних група, броја деце и васпитног особља потребног за непосредан рад са децом Предшколске установе „Чика Јова Змај“ у Смедеревској Паланци за радну 2023/24 годину",
+  "printed_page": 1709,
+  "folder": "local/smederevska-palanka/2023/31-228",
+  "published": "2023-10-26",
+  "in_force": "2023-11-03",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Међуопштинском службеном листу”.",
+  "sha256": "8bd83efb5901788c831d04a6bb19681ec62563eced2c305d75bedbc934cded0b",
+  "page": 3,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 3,
+      "line": "бр. 31, 26.10.2023. год."
+    },
+    {
+      "page": 3,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 3,
+      "line": "1709. страна"
+    },
+    {
+      "page": 4,
+      "line": "1710. страна"
+    },
+    {
+      "page": 4,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 4,
+      "line": "бр. 31, 26.10.2023. год."
+    },
+    {
+      "page": 5,
+      "line": "бр. 31, 26.10.2023. год."
+    },
+    {
+      "page": 5,
+      "line": "МЕЂУОПШТИНСКИ СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 5,
+      "line": "1711. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
