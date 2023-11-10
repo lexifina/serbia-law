@@ -813,6 +813,96 @@ II opšte hematološke analize i analize hemostaze
 L014852
 Multiparametarska agregacija trombocita iz krvi, pojedinačno
 918,57
+II opšte hematološke analize i analize hemostaze
+156.
+L030890
+Krvna slika sa petodelnom leukocitarnom formulom i MDW, VCS metodom
+708,71
+II opšte hematološke analize i analize hemostaze
+157.
+L030901
+ADAMTS13 u plazmi, CLIA
+46.539,81
+II opšte hematološke analize i analize hemostaze
+158.
+L030916
+Antitela na β2-glikoprotein I IgM klase u plazmi, CLIA
+4.095,25
+II opšte hematološke analize i analize hemostaze
+159.
+L030924
+Antitela na β2-glikoprotein I IgG klase u plazmi, CLIA
+4.095,25
+II opšte hematološke analize i analize hemostaze
+160.
+L030932
+Antitela na β2-glikoprotein I domen 1 IgG klase u plazmi, CLIA
+6.833,78
+II opšte hematološke analize i analize hemostaze
+161.
+L030940
+Antitela na kardiolipin IgG klase u plazmi, CLIA
+4.095,25
+II opšte hematološke analize i analize hemostaze
+162.
+L030957
+Antitela na kardiolipin IgM klase u plazmi, CLIA
+4.095,25
+II opšte hematološke analize i analize hemostaze
+163.
+L030965
+Heparin indukovana antitela (HIT) u plazmi, imunoturbidimetrija
+5.811,99
+II opšte hematološke analize i analize hemostaze
+164.
+L030973
+Heparin indukovana antitela (HIT) IgG klase u plazmi, CLIA
+8.928,50
+II opšte hematološke analize i analize hemostaze
+165.
+L030981
+Von Willebrand faktor Ag u plazmi, CLIA
+4.978,92
+II opšte hematološke analize i analize hemostaze
+166.
+L030999
+Von Willebrand faktor ristocetin kofaktor u plazmi, imunoturbidimetrija
+3.916,21
+II opšte hematološke analize i analize hemostaze
+167.
+L031005
+Von Willebrand faktor ristocetin kofaktor u plazmi, CLIA
+7.713,66
+II opšte hematološke analize i analize hemostaze
+168.
+L031013
+Von Willebrand faktor kolagen vezujuća akativnosti, CLIA
+7.713,66
+II opšte hematološke analize i analize hemostaze
+169.
+L031021
+Agregacija trombocita iz pune krvi arahidonskom kiselinom, turbidimetrija
+8.803,85
+II opšte hematološke analize i analize hemostaze
+170.
+L031039
+Agregacija trombocita iz pune krvi ADP-om, turbidimetrija
+16.963,85
+II opšte hematološke analize i analize hemostaze
+171.
+L031047
+Amiloid-beta 42 (Аβ42) u likvoru, ECLIA
+9.135,12
+II opšte hematološke analize i analize hemostaze
+172.
+L031054
+Protein tau u likvoru, ECLIA
+9.135,12
+II opšte hematološke analize i analize hemostaze
+173.
+L031062
+Protein tau, fosforilisani, u likvoru, ECLIA
+9.135,12
 II visokospecijalizovane hematološke analize - kulture ćelija kostne srži i krvi
 1.
 L015495
@@ -6323,6 +6413,11 @@ III biohemijske i imunohemijske analize
 L030874
 Piperacilin u serumu/plazmi, EIA
 2.534,82
+III biohemijske i imunohemijske analize
+1093.
+L031070
+Homocistein u plazmi, imunoturbidimetrija
+3.594,58
 IV imunološke analize imunološke analize (autoimunost) u serumu
 1.
 L015743
@@ -8322,12 +8417,12 @@ VI mikrobiološke analize opšte analize
 1.
 L020404
 Uzimanje biološkog materijala za mikrobiološki pregled
-56,71
+76,43
 VI mikrobiološke analize opšte analize
 2.
 L020412
 Uzimanje biološkog materijala za mikrobiološki pregled u transportnu podlogu
-118,93
+158,74
 VI mikrobiološke analize opšte analize
 3.
 L030031
@@ -8342,7 +8437,7 @@ VI mikrobiološke analize opšte analize
 5.
 L020149
 Izolacija mikroorganizma subkulturom
-178,25
+202,35
 VI mikrobiološke analize opšte analize
 6.
 L020770
@@ -8377,7 +8472,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 1.
 L020438
 Detekcija virusnih antigena u stolici (Rotavirus i dr.)
-550,22
+873,64
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 2.
 L020446
@@ -8452,22 +8547,22 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 16.
 L020578
 Kvalitativno određivanje anti HCV antitela - imunoenzimski test (ELISA, ELFA, ECLIA i dr.)
-981,50
+1.156,88
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 17.
 L020586
 Kvalitativno određivanje anti HIV antitela - imunoenzimski test (ELISA, ELFA, ECLIA i dr.)
-454,94
+800,73
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 18.
 L020594
 Kvalitativno određivanje anti-delta antitela - imunoenzimski test (ELISA, ELFA, ECLIA i dr.)
-842,71
+895,69
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 19.
 L020602
 Kvalitativno određivanje antigena i antitela za HIV - imunoenzimski test (ELISA, ELFA, ECLIA i dr.)
-451,89
+810,27
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 20.
 L020610
@@ -8512,7 +8607,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 28.
 L020727
 Kvantitativno određivanje IgG antitela na antigene virusa (HSV1, HSV2, CMV, EBV, Rubella, Mumps, Morbilli, Adeno, RSV, virus Parainfluenze 1, 2, 3, Parvo virus B19, Rubella virus, HAV, HEV i dr.) - imunoenzimski test (ELISA, ELFA, ECLIA i dr.)
-1.042,36
+1.101,13
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 29.
 L020743
@@ -8547,7 +8642,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 35.
 L020800
 Određivanje aviditeta IgG virus specifičnih antitela za jedan virus (CMV, HSV1, HSV2, Rubella, Coxsackie B virus i dr.) - imunoenzimski test (ELISA, ELFA, ECLIA i dr.)
-1.059,43
+1.525,37
 VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 36.
 L020818
@@ -8742,7 +8837,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 1.
 L020206
 Mikroskopski pregled bojenog preparata
-290,70
+310,62
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 2.
 L019158
@@ -8757,7 +8852,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 4.
 L019208
 Bakteriološki pregled brisa ždrela
-123,19
+208,11
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 5.
 L019216
@@ -8767,22 +8862,22 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 6.
 L019166
 Bakteriološki pregled brisa nosa
-133,18
+260,21
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 7.
 L019174
 Bakteriološki pregled brisa nosa na kliconoštvo (S. aureus., (MRSA), S. pneumoniae i dr.)
-166,49
+289,29
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 8.
 L019190
 Bakteriološki pregled brisa spoljašnjih genitalija ili vagine ili cerviksa ili uretre
-255,13
+483,80
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 9.
 L030221
 Detekcija Streptococcus agalactiae (GBS) kod trudnica od 35-37. gn u vaginalnom i rektalnom brisu
-285,39
+395,12
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 10.
 L019232
@@ -8792,17 +8887,17 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 11.
 L020396
 Urinokultura
-158,20
+219,13
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 12.
 L019380
 Bakteriološki pregled uzoraka na Neisseria gonorrhoeae
-471,24
+508,40
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 13.
 L020289
 Pregled vaginalnog brisa na bakterijsku vaginozu pregledom bojenog preparata
-170,48
+200,13
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 14.
 L019182
@@ -8817,7 +8912,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 16.
 L019372
 Bakteriološki pregled tečnosti ili tkiva iz primarno sterilnih područja
-527,95
+875,18
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 17.
 L019281
@@ -8852,7 +8947,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 23.
 L019315
 Bakteriološki pregled oka ili konjunktive
-300,01
+543,88
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 24.
 L019323
@@ -8892,7 +8987,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 31.
 L030239
 Bakteriološki pregled stolice za Escherichia coli O:157
-207,45
+300,01
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 32.
 L019349
@@ -8922,12 +9017,12 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 37.
 L019943
 Biohemijska identifikacija Yersinia enterocolitica/pseudotuberculosis
-730,78
+997,25
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 38.
 L019976
 Biotipizacija Yersinia enterocolitica/pseudotuberculosis
-918,09
+1.276,99
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 39.
 L019944
@@ -8947,7 +9042,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 42.
 L019430
 Biohemijska identifikacija enterobakterija testovima pripremljenim u laboratoriji
-226,51
+255,43
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 43.
 L019406
@@ -8967,12 +9062,12 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 46.
 L019471
 Biohemijska identifikacija Streptococcus pneumoniae
-221,06
+241,69
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 47.
 L019455
 Biohemijska identifikacija Moraxella vrsta
-249,91
+258,35
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 48.
 L019927
@@ -8987,7 +9082,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 50.
 L020156
 Izolacija vankomicin - rezistentnih Enterococcus spp.
-541,61
+938,28
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 51.
 L019463
@@ -8997,7 +9092,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 52.
 L020131
 Izolacija meticilin-rezistentnog Staphylococcus aureus iz kliničkih uzoraka
-341,10
+522,28
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 53.
 L019786
@@ -9047,7 +9142,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 62.
 L019554
 Detekcija antitela IgG klase na Borrelia burgdorferi u serumu/likvoru (pojedinačno) ELISA/CLIA testom
-870,51
+1.172,31
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 63.
 L019597
@@ -9102,7 +9197,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 73.
 L030304
 Određivanje titra antitela na Treponema pallidum u serumu/likvoru (pojedinačno) TPH testom
-1.941,49
+2.018,11
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 74.
 L030312
@@ -9112,7 +9207,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 75.
 L019273
 Bakteriološki pregled krvi i/ili bioptata na Brucella vrste
-908,07
+1.396,34
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 76.
 L019919
@@ -9122,17 +9217,17 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 77.
 L019604
 Detekcija antitela na Brucella vrste (IgM i/ili IgG) - ELISA
-723,56
+801,00
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 78.
 L019612
 Detekcija antitela na Brucella melitensis ili Brucella abortus testom aglutinacije (pojedinačno)
-782,62
+808,93
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 79.
 L020115
 Izolacija Legionella vrsta
-624,87
+821,16
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 80.
 L030320
@@ -9172,7 +9267,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 87.
 L019679
 Detekcija antitela na Mycoplasma pneumoniae (IgA, IgM ili IgG - pojedinačno) - ELISA
-726,34
+1.180,01
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 88.
 L019638
@@ -9197,7 +9292,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 92.
 L020107
 Detekcija prisustva i ispitivanje antibiotske osetljivosti U. urealyticum i M. Hominis
-459,57
+675,21
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 93.
 L020099
@@ -9207,7 +9302,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 94.
 L019653
 Detekcija antitela na Helicobacter pylori - ELISA
-883,95
+932,02
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 95.
 L019513
@@ -9232,7 +9327,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 99.
 L019844
 Brzi kvalitativni test za detekciju Clostridium difficilae toksina A i B u stolici
-358,05
+456,96
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 100.
 L030379
@@ -9282,7 +9377,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 109.
 L019687
 Serološka dijagnostika trbušnog tifusa/paratifusa
-689,19
+925,94
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 110.
 L020305
@@ -9327,7 +9422,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 118.
 L020354
 Serološka identifikacija Shigella flexneri, Shigella sonnei
-257,78
+411,06
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 119.
 L030460
@@ -9337,7 +9432,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 120.
 L030478
 Serološka identifikacija Yersinia enterocolitica O:3
-558,98
+667,56
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 121.
 L020362
@@ -9362,12 +9457,12 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 125.
 L020008
 Ispitivanje osetljivosti bakterija na antibiotike, disk - difuzionom metodomna prvu liniju
-231,02
+292,10
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 126.
 L019992
 Ispitivanje osetljivosti bakterija na antibiotike, disk - difuzionom metodom na drugu i/ili treću liniju
-257,67
+325,68
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 127.
 L019984
@@ -9382,12 +9477,12 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 129.
 L030486
 Ispitivanje osetljivosti bakterija na antibiotike (pojedinačno) i određivanje vrednosti MIK bujon mikrodilucionom metodom
-1.124,51
+1.538,03
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 130.
 L030494
 Detekcija karbapenem rezistentnih gram negativnih bakterija na selektivnoj podlozi/skrining za prijem u bolnicu
-249,76
+418,65
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 131.
 L019760
@@ -9402,17 +9497,17 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 133.
 L019711
 Detekcija beta - laktamaza proširenog spektra za Gram negativne bakterije (fenotipska)
-505,28
+600,07
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 134.
 L019729
 Detekcija beta - laktamaza za Gram pozitivne bakterije (fenotipska)
-301,08
+305,16
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 135.
 L020230
 Obrada uzorka (koji nije uzet iz primarno sterilne regije) za zasejavanje na podloge za izolaciju mikobakterija
-260,16
+399,60
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 136.
 L019810
@@ -9437,7 +9532,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 140.
 L019935
 Identifikacija mikobakterija biohemijskim testovima
-1.389,13
+2.152,93
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 141.
 L020057
@@ -9457,7 +9552,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 144.
 L020073
 Ispitivanje osetljivosti mikobakterija na više koncentracije antituberkulotika prve linije u tečnim podlogama
-2.238,95
+2.815,80
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 145.
 L020016
@@ -9497,17 +9592,17 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 152.
 L030510
 Molekularna metoda za detekciju bakterijskih uzročnika urogenitalnih infekcija - Chlamydia trachomatis i Neisseria gonorrhoeae (jedan test)
-2.018,42
+3.043,87
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 153.
 L030528
 Molekularna metoda za detekciju uzročnika urogenitalnih infekcija - Chlamydia trachomatis
-1.618,42
+2.048,87
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 154.
 L019521
 Detekcija mecA/C gena rezistencije kod Staphylococcus vrsta - PCR
-1.450,12
+1.624,32
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 155.
 L019794
@@ -9517,7 +9612,7 @@ VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 156.
 L019802
 Detekciju genoma Borrelia burgdorferi molekularnom metodom - sensu lato - real time PCR
-2.287,60
+2.677,35
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 157.
 L019752
@@ -9547,7 +9642,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 1.
 L020867
 Aviditet antitela na Toxoplasma gondii - ELISA
-1.282,54
+1.609,22
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 2.
 L020883
@@ -9557,7 +9652,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 3.
 L020891
 Detekcija antitela na Leishmania spp. - imunohromatografski test
-858,39
+883,17
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 4.
 L020917
@@ -9572,7 +9667,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 6.
 L020941
 Detekcija antitela na parazite - kvantitativno, ELISA (Leishmania, Echinococcus, Toxocara ili drugo - pojedinačno)
-698,48
+1.125,28
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 7.
 L020942
@@ -9602,7 +9697,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 12.
 L021014
 Detekcija antitela na parazite - test indirektne hemaglutinacije (Echinococcus ili drugi)
-1.119,75
+1.192,89
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 13.
 L021018
@@ -9647,7 +9742,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 21.
 L021097
 Molekularna metoda za dokazivanje genoma parazita (Toxoplasma, Leishmania, Trichinella ili drugo) - PCR
-1.936,29
+3.304,10
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 22.
 L021105
@@ -9657,22 +9752,22 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 23.
 L021113
 Parazitološki pregled kliničkog uzorka (osim stolice) - pregled direktnog bojenog preparata ili preparata sa kulture (Leishmania ili drugo)
-562,22
+1.097,89
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 24.
 L021121
 Parazitološki pregled kliničkog uzorka (osim stolice) - pregled nativnog preparata
-260,58
+450,37
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 25.
 L021147
 Pregled direktnog preparata krvi na mikrofilarije (Trypanosoma ili drugo)
-668,15
+1.050,18
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 26.
 L021162
 Pregled krvi na malariju - direktan bojeni preparat
-965,03
+1.576,67
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 27.
 L021170
@@ -9702,7 +9797,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 32.
 L021253
 Pregled perianalnog otiska na helminte (Enterobius ili drugo)
-78,62
+151,71
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 33.
 L021279
@@ -9712,12 +9807,12 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 34.
 L021295
 Pregled stolice na larve helminata (Strongyloides ili drugo)
-248,93
+400,69
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 35.
 L021303
 Pregled stolice na parazite - metodom koncentracije
-311,46
+417,54
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 36.
 L021311
@@ -9727,12 +9822,12 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 37.
 L021329
 Pregled stolice na protozoa (bojeni preparat)
-502,11
+730,61
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 38.
 L021345
 Pregled uzoraka na demodikozu, šugu i druge ektoparazitoze
-266,47
+414,46
 VI mikrobiološke analize mikrobiološke analize iz oblasti parazitologije
 39.
 L021352
@@ -9752,17 +9847,17 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 2.
 L030551
 Antimikogram - komercijalni bujon mikrodilucioni test
-2.769,74
+2.792,87
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 3.
 L021386
 Antimikogram - disk difuzioni metod
-219,49
+299,44
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 4.
 L021394
 Antimikogram sa vrednostima MIK agar dilucionom metodom (po jednom antimikotiku)
-460,98
+658,50
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 5.
 L021402
@@ -9772,22 +9867,22 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 6.
 L021410
 Antitela na Aspergillus i određivanje vrste uzročnika - metodom imunodifuzije
-534,81
+1.122,50
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 7.
 L021428
 Bojeni preparat na Pneumocystis jirovecii
-505,09
+685,60
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 8.
 L021444
 Detekcija Aspergillus galactomanan antigena - ELISA
-1.209,46
+1.563,78
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 9.
 L021451
 Detekcija Candida manan antigena - ELISA
-873,96
+990,47
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 10.
 L021469
@@ -9797,7 +9892,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 11.
 L021477
 Direktan nativan preparat na gljive
-144,98
+199,79
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 12.
 L021485
@@ -9817,12 +9912,12 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 15.
 L021519
 Hemokultura na gljive klasičnom metodom
-821,74
+963,20
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 16.
 L030569
 Biohemijska identifikacija gljiva komercijalnim testom (do nivoa vrste)
-1.153,82
+1.272,44
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 17.
 L021527
@@ -9847,7 +9942,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 21.
 L021568
 Izolacija dermatofita i drugih gljiva iz strugotina kože i njenih adneksa (dlake, nokti)
-260,57
+517,17
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 22.
 L021576
@@ -9867,7 +9962,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 25.
 L021600
 Određivanje antitela na bifazne gljive - metodom imunodifuzije
-553,03
+1.183,31
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 26.
 L021634
@@ -9877,7 +9972,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 27.
 L021642
 Otkrivanje metaboličkih i somatskih antigena gljiva - ELISA
-1.207,04
+1.636,09
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 28.
 L021659
@@ -9887,7 +9982,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 29.
 L021667
 Identifikacija dermatofita
-474,95
+748,09
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 30.
 L021675
@@ -9907,7 +10002,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 33.
 L021709
 Pregled uzorka iz primarno sterilnih regija na gljive
-340,72
+539,18
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 34.
 L019543
@@ -9917,7 +10012,7 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 35.
 L021626
 Određivanje titra IgM antitela na gljive (Aspergillus, Candida ili drugo) - ELISA
-779,10
+1.004,36
 VI mikrobiološke analize mikrobiološke analize iz oblasti mikologije
 36.
 L021619
