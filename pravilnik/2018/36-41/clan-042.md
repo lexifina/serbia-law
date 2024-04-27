@@ -4,8 +4,3 @@
 У Београду, 17. априла 2018. године
 Министар,
 Бранислав Недимовић, с.р.
-Прилози
-Прилог I - Шема испитивања у циљу смањења присуства Salmonella Еnteritidis, Salmonella Тyphimurium, Salmonella Hadar, Salmonella Infantis и Salmonella Virchow на газдинствима за одгој и експлоатацију родитељског јата врсте Gallus gallus
-Прилог II - Шема испитивања која је неопходна за верификацију да је постигнут циљ да се смањи присуство Salmonella Еnteritidis и Salmonella Тyphimurium код кока носиља
-Прилог III - Шема испитивања која је неопходна за верификацију да је постигнут циљ да се смањи присуство Salmonella Еnteritidis и Salmonella Тyphimurium код јата живине за тов (бројлери)
-Прилог IV - Шема испитивања у циљу смањења присуства Salmonella Еnteritidis, Salmonella Тyphimurium, код јата за одгој и експлоатацију родитељског јата ћурака и јата за тов ћурака
