@@ -1,0 +1,26 @@
+{
+  "title": "Акциони план за период од 2024. до 2025. године за спровођење Програма за реформу система локалне самоуправе у Републици Србији за период од 2021. до 2025. године",
+  "url": "https://www.srbija.gov.rs/extfile/sr/826504/strategija_lokalna_samouprava_akcioni_plan034_cyr3.zip",
+  "page": "https://www.srbija.gov.rs/dokument/45678/strategije-programi-planovi-.php",
+  "date": "2024-10-17",
+  "date_basis": "У Београду, 17. октобра 2024.",
+  "source_sha256": "55bf4d89f6dfc9d9c1955e09eddff0506b108543d68f9c5febfda92758315340",
+  "source_images": 0,
+  "format": "docx",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "number": "021-9800/2024",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": "Akcioni pl 2024 do 2025 Prog reforme sist lok sam RS 2021 do 2025.docx",
+      "source_sha256": "6d79c4aca6cd56061e72abec286000484b83ed1fb2ad9cdd13e9c1d619329aea",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "complete-source-attachment"
+}
