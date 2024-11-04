@@ -1,0 +1,11 @@
+# Предлог закона о изменама и допуни Закона о алтернативним инвестиционим фондовима
+
+A bill (предлог закона) as filed with the National Assembly (parlament.gov.rs), with its explanatory report (образложење). Not law.
+
+- Convocation: 14
+- Date the Assembly lists: 2024-11-04
+- Adopted as: Закон о изменама и допуни Закона о алтернативним инвестиционим фондовима, 2024-11-27, Службени гласник 94/24
+- Source (PDF): <https://www.parlament.gov.rs/upload/archive/files/cir/pdf/predlozi_zakona/14_saziv/2579-24.pdf>
+
+Checked: the files re-join to the PDF text layer letter for letter.
+
