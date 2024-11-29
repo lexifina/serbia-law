@@ -1,0 +1,64 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2024/11/slsp2024-04.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2024",
+  "issue": "4",
+  "number": 64,
+  "title": "Одлука о утврђивању просечних цена квадратног метра одговарајуће врсте непокретности за утврђивање пореза на имовину за 2025.годину на територији Општине Смедеревска Паланка",
+  "printed_page": 113,
+  "folder": "local/smederevska-palanka/2024/4-64",
+  "published": "2024-11-28",
+  "in_force": "2024-11-29",
+  "basis": "narednog dana od objavljivanja",
+  "commencement_quote": "Ова одлука ступа на снагу наредног дана од дана објављивања у „Службеном листу Општине Смедеревска Паланка“, а примењује се од 01.јануара 2025. године.",
+  "sha256": "62f6286527275dc53ed71bc7a8ee7fd7b60f53d11fc1387dba075ce4a3ee6c53",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 4, 28.11.2024. год."
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "113. страна"
+    },
+    {
+      "page": 2,
+      "line": "114. страна"
+    },
+    {
+      "page": 2,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 4, 28.11.2024. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": [
+    {
+      "page": 1,
+      "xref": 38,
+      "rects": [
+        [
+          56.69291305541992,
+          71.36637878417969,
+          485.4664001464844,
+          184.752197265625
+        ]
+      ],
+      "outside_act_header": true
+    }
+  ]
+}
