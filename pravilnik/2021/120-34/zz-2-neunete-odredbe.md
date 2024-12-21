@@ -2,8 +2,11 @@
 Правилник о изменaмa Правилника са списком српских стандарда којима су преузети хармонизовани стандарди који се примењују у складу са законом којим се уређују грађевински производи и списком донетих српских докумената за оцењивање: "Службени гласник РС", број 139/2022-90
 Члан 3.
 Овај правилник ступа на снагу наредног дана од дана објављивања у "Службеном гласнику Републике Србије".
+Правилник о измени Правилника са списком српских стандарда којима су преузети хармонизовани стандарди који се примењују у складу са законом којим се уређују грађевински производи и списком донетих српских докумената за оцењивање: "Службени гласник РС", број 101/2024-73
+Члан 2.
+Овај правилник ступа на снагу наредног дана од дана објављивања у "Службеном гласнику Републике Србије".
+НАПОМЕНА ИЗДАВАЧА: Правилником о измени Правилника са списком српских стандарда којима су преузети хармонизовани стандарди који се примењују у складу са законом којим се уређују грађевински производи и списком донетих српских докумената за оцењивање ("Службени гласник РС", број 101/2024) Прилог 1 замењен је новим прилогом (види члан 1. Правилника - 101/2024-73).
 ПРИЛОГ 1
-НАПОМЕНА ИЗДАВАЧА: Правилником о изменaмa Правилника са списком српских стандарда којима су преузети хармонизовани стандарди који се примењују у складу са законом којим се уређују грађевински производи и списком донетих српских докумената за оцењивање ("Службени гласник РС", број 139/2022) Прилози 1. и 2. замењени су новим прилозима (види члан 2. Правилника - 139/2022-90).
 Списак 1 - Списак српских стандарда којима су преузети хармонизовани стандарди, који се примењују у складу са законом којим се уређују грађевински производи
 1. Списак српских стандарда за грађевинске производе којима су преузети хармонизовани стандарди
 Ред. бр.
@@ -86,7 +89,7 @@ Fire detection and fire alarm systems - Part 4: Power supply equipment
 9.
 10
 SRPS EN 54-5:2019
-Системи за детекцију пожара и пожарни алармни системи - Део 5: Детектори топлоте - Тачкасти детектори топлоте
+Системи за детекцију пожара и пожарни алармни системи -Део 5: Детектори топлоте - Тачкасти детектори топлоте
 EN 54-5:2017 + A1:2018
 Fire detection and fire alarm systems - Part 5: Heat detectors - Point detectors
 01.01.2023.
@@ -198,7 +201,7 @@ SRPS EN 197-1:2013
 Цемент - Део 1: Састав, спецификације и критеријуми усаглашености за обичне цементе
 EN 197-1:2011
 Cement - Part 1: Composition, specifications and conformity criteria for common cements
-01.01.2025.
+01.01.2027.
 24.
 18/28
 SRPS EN 295-1:2014
@@ -290,7 +293,7 @@ SRPS EN 490:2014
 Црепови и фазонски комади од бетона за покривање кровова и облагање зидова - Спецификације производа
 EN 490:2011
 Concrete roofing tiles and fittings for roof covering and wall cladding - Product specifications
-01.01.2025.
+01.01.2027.
 37.
 21/22
 SRPS EN 492:2018
@@ -441,14 +444,14 @@ SRPS EN 771-1:2016
 Спецификација елемената за зидање - Део 1: Елементи за зидање од глине
 EN 771-1:2011 + A1:2015
 Specification for masonry units - Part 1: Clay masonry units
-01.01.2025.
+01.01.2027.
 57.
 17
 SRPS EN 771-2:2016
 Спецификација елемената за зидање - Део 2: Елементи за зидање од калцијум силиката
 EN 771-2:2011 + A1:2015
 Specification for masonry units - Part 2: Calcium silicate masonry units
-01.01.2025.
+01.01.2027.
 58.
 17
 SRPS EN 771-3:2016
@@ -556,21 +559,21 @@ SRPS EN 934-2:2014
 Додаци за бетон, малтер и инјекциону масу - Део 2: Додаци за бетон - Дефиниције, захтеви, усаглашеност, означавање и обележавање
 EN 934-2:2009 + A1:2012
 Admixtures for concrete, mortar and grout - Part 2: Concrete admixtures - Definitions, requirements, conformity, marking and labelling
-01.01.2025.
+01.01.2027.
 73.
 26
 SRPS EN 934-3:2014
 Додаци за бетон, малтер и инјекциону масу - Део 3: Додаци за малтер за зидање - Дефиниције, захтеви, усаглашеност, означавање и обележавање
 EN 934-3:2009 + A1:2012
 Admixtures for concrete, mortar and grout - Part 3: Admixtures for masonry mortar - Definitions, requirements, conformity and mark-ing and labelling
-01.01.2025.
+01.01.2027.
 74.
 26
 SRPS EN 934-4:2010
 Додаци бетону, малтеру и инјекционој маси - Део 4: Додаци инјекционој маси за каблове за претходно напрезање - Дефиниције, захтеви, усаглашеност, означавање и обележавање
 EN 934-4:2009
 Admixtures for concrete, mortar and grout - Part 4: Admixtures for grout for prestressing tendons - Definitions, requirements, conform-ity, marking and labelling
-01.01.2025.
+01.01.2027.
 75.
 26
 SRPS EN 934-5:2010
@@ -578,7 +581,7 @@ SRPS EN 934-5:2010
 Део 5: Додаци млазном бетону - Дефиниције, захтеви, усаглашеност, означавање и обележавање
 EN 934-5:2007
 Admixtures for concrete, mortar and grout - Part 5: Admixtures for sprayed concrete - Definitions, requirements, conformity, marking and labelling
-01.01.2025.
+01.01.2027.
 76.
 28
 SRPS EN 969:2012
@@ -728,7 +731,7 @@ SRPS EN 1304:2010
 Црепови од глине и фазонски комади - Дефиниције и спецификације производа
 EN 1304:2005
 Clay roofing tiles and fittings - Product definitions and specifications
-01.01.2025.
+01.01.2027.
 96.
 12
 SRPS EN 1317-5:2013
@@ -747,7 +750,7 @@ Domestic gas-fired forced convection air heaters for space heating, with fan-ass
 98.
 5
 SRPS EN 1337-3:2012
-Лежишта за конструкције - Део 3: Еластомерна лежишта
+Лежишта за конструкције - Део 3:Еластомерна лежишта
 EN 1337-3:2005
 Structural bearings - Part 3: Elastomeric bear-ings
 01.01.2023.
@@ -947,7 +950,7 @@ Glass in building - Special basic products - Borosilicate glasses - Part 1-2: Ev
 125.
 30
 SRPS EN 1748-2-2:2011
-Грађевинско стакло - Специјални производи - Стаклокерамика - Део 2-2: Вредновање усаглашености/стандард за производ
+Грађевинско стакло - Специјални производи - Стакло-керамика - Део 2-2: Вредновање усаглашености/стандард за производ
 EN 1748-2-2:2004
 Glass in building - Special basic products - Glass ceramics - Part 2-2: Evaluation of conformity/Product standard
 01.01.2023.
@@ -1004,7 +1007,7 @@ Glass in building - Heat strengthened soda lime silicate glass - Part 2: Evaluat
 133.
 22
 SRPS EN 1873:2009
-Додатна монтажна опрема за покривње кровова - Пластичне светлосне куполе - Спецификација производа и методе испитивања
+Додатна монтажна опрема за покривaње кровова - Пластичне светлосне куполе - Спецификација производа и методе испитивања
 EN 1873:2005
 Prefabricated accessories for roofing - Indivi-dual roof lights of plastics - Product specifica-tion and test methods
 01.01.2023.
@@ -1376,14 +1379,14 @@ SRPS EN 12271:2011
 Површинске обраде - Захтеви
 EN 12271:2006
 Surface dressing - Requirements
-01.01.2025.
+01.01.2027.
 183.
 23
 SRPS EN 12273:2011
 Танкослојне асфалтне пресвлаке изведене по хладном поступку - Захтеви
 EN 12273:2008
 Slurry surfacing - Requirements
-01.01.2025.
+01.01.2027.
 184.
 28
 SRPS EN 12285-2:2009
@@ -1436,7 +1439,7 @@ Chimneys - Components - Concrete outer wall elements
 191.
 21
 SRPS EN 12467:2018
-Влакнастоцементне равне плоче - Спецификација производа и методе испитивања
+Влакнасто-цементне равне плоче - Спецификација производа и методе испитивања
 EN 12467:2012 + A2:2018
 Fibre-cement flat sheets - Product specification and test methods
 01.01.2023.
@@ -1482,7 +1485,7 @@ SRPS EN 12591:2013
 Битумен и битуменска везива - Спецификације за битумене за путеве
 EN 12591:2009
 Bitumen and bituminous binders - Specifications for paving grade bitumens
-01.01.2025.
+01.01.2027.
 198.
 1
 SRPS EN 12602:2017
@@ -1496,7 +1499,7 @@ SRPS EN 12620:2010
 Агрегати за бетон
 EN 12620:2002+A1:2008
 Aggregates for concrete
-01.01.2025.
+01.01.2027.
 200.
 12
 SRPS EN 12676-1:2008
@@ -1634,7 +1637,7 @@ SRPS EN 13043:2007
 EN 13043:2002
 EN 13043:2002/AC:2004
 Aggregates for bituminous mixtures and surface treatments for roads, airfields and other trafficked areas
-01.01.2025.
+01.01.2027.
 218.
 24
 SRPS EN 13055-1:2007
@@ -1642,14 +1645,14 @@ SRPS EN 13055-1:2007
 EN 13055-1:2002
 EN 13055-1:2002/AC:2004
 Lightweight aggregates - Part 1: Lightweight aggregates for concrete, mortar and grout
-01.01.2025.
+01.01.2027.
 219.
 24
 SRPS EN 13055-2:2009
 Лаки агрегати - Део 2: Лаки агрегати за битуменске мешавине, површинску обраду и за примену у невезаним и везаним мешавинама
 EN 13055-2:2004
 Lightweight aggregates - Part 2: Lightweight aggregates for bituminous mixtures and surface treatments and for unbound and bound applications
-01.01.2025.
+01.01.2027.
 220.
 6
 SRPS EN 13063-1:2011
@@ -1707,7 +1710,7 @@ SRPS EN 13108-1:2011
 EN 13108-1:2006
 EN 13108-1:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 1: Asphalt Concrete
-01.01.2025.
+01.01.2027.
 228.
 23
 SRPS EN 13108-2:2011
@@ -1715,7 +1718,7 @@ SRPS EN 13108-2:2011
 EN 13108-2:2006
 EN 13108-2:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 2: Asphalt Concrete for very thin layers
-01.01.2025.
+01.01.2027.
 229.
 23
 SRPS EN 13108-3:2011
@@ -1723,7 +1726,7 @@ SRPS EN 13108-3:2011
 EN 13108-3:2006
 EN 13108-3:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 3: Soft Asphalt
-01.01.2025.
+01.01.2027.
 230.
 23
 SRPS EN 13108-4:2011
@@ -1731,7 +1734,7 @@ SRPS EN 13108-4:2011
 EN 13108-4:2006
 EN 13108-4:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 4: Hot Rolled Asphalt
-01.01.2025.
+01.01.2027.
 231.
 23
 SRPS EN 13108-5:2011
@@ -1739,7 +1742,7 @@ SRPS EN 13108-5:2011
 EN 13108-5:2006
 EN 13108-5:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 5: Stone Mastic Asphalt
-01.01.2025.
+01.01.2027.
 232.
 23
 SRPS EN 13108-6:2011
@@ -1747,7 +1750,7 @@ SRPS EN 13108-6:2011
 EN 13108-6:2006
 EN 13108-6:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 6: Mastic Asphalt
-01.01.2025.
+01.01.2027.
 233.
 23
 SRPS EN 13108-7:2011
@@ -1755,7 +1758,7 @@ Aсфалтне мешавине - Спецификације материјал
 EN 13108-7:2006
 EN 13108-7:2006/AC:2008
 Bituminous mixtures - Material specifications - Part 7: Porous Asphalt
-01.01.2025.
+01.01.2027.
 234.
 24
 SRPS EN 13139:2007
@@ -1763,7 +1766,7 @@ SRPS EN 13139:2007
 EN 13139:2002
 EN 13139:2002/AC:2004
 Aggregates for mortar
-01.01.2025.
+01.01.2027.
 235.
 28
 SRPS EN 13160-1:2009
@@ -1889,7 +1892,7 @@ SRPS EN 13242:2010
 Агрегати за невезане и хидраулички везане материјале за употребу у грађевинским радовима и изградњи путева
 EN 13242:2002 + A1:2007
 Aggregates for unbound and hydraulically bound materials for use in civil engineering work and road construction
-01.01.2025.
+01.01.2027.
 252.
 21
 SRPS EN 13245-2:2011
@@ -2025,7 +2028,7 @@ SRPS EN 13383-1:2007
 EN 13383-1:2002
 EN 13383-1:2002/AC :2004
 Armourstone - Part 1: Specification
-01.01.2025.
+01.01.2027.
 271.
 11
 SRPS EN 13407:2011
@@ -2041,7 +2044,7 @@ SRPS EN 13450:2007/AC:2011
 EN 13450:2002
 EN 13450:2002/AC:2004
 Aggregates for railway ballast
-01.01.2025.
+01.01.2027.
 273.
 19
 SRPS EN 13454-1:2008
@@ -2173,7 +2176,7 @@ SRPS EN 13808:2013
 Битумен и битуменска везива - Оквир за израду спецификације катјонских битуменских емулзија
 EN 13808:2013
 Bitumen and bituminous binders - Framework for specifying cationic bituminous emulsions
-01.01.2025.
+01.01.2027.
 291.
 19
 SRPS EN 13813:2009
@@ -2215,7 +2218,7 @@ SRPS EN 13877-3:2011
 Бетонски коловози - Део 3: Спецификације за можданике у бетонским коловозима
 EN 13877-3:2004
 Concrete pavements - Part 3: Specifications for dowels to be used in concrete pavements
-01.01.2025.
+01.01.2027.
 297.
 7
 SRPS EN 13915:2008
@@ -2230,7 +2233,7 @@ SRPS EN 13924:2013
 EN 13924:2006
 EN 13924:2006/AC:2006
 Bitumen and bituminous binders - Specifica-tions for hard paving grade bitumens
-01.01.2025.
+01.01.2027.
 299.
 7
 SRPS EN 13950:2015
@@ -2318,7 +2321,7 @@ SRPS EN 14023:2013
 Битумен и битуменска везива - Оквир за израду спецификација за битумене модификоване полимером
 EN 14023:2010
 Bitumen and bituminous binders - Specification framework for polymer modified bitumens
-01.01.2025.
+01.01.2027.
 311.
 27
 SRPS EN 14037-1:2017
@@ -2391,21 +2394,21 @@ SRPS EN 14188-1:2011
 Испуне спојница и заптивачи - Део 1: Спецификације за топло заптивање
 EN 14188-1:2004
 Joint fillers and sealants - Part 1: Specifications for hot applied sealants
-01.01.2025.
+01.01.2027.
 321.
 23
 SRPS EN 14188-2:2011
 Испуне спојница и заптивачи - Део 2: Спецификације за хладно заптивање
 EN 14188-2:2004
 Joint fillers and sealants - Part 2: Specifications for cold applied sealants
-01.01.2025.
+01.01.2027.
 322.
 23
 SRPS EN 14188-3:2011
 Испуне спојница и заптивачи - Део 3: Спецификације за префабриковане испуне спојница
 EN 14188-3:2006
 Joint fillers and sealants - Part 3: Specifications for preformed joint seals
-01.01.2025.
+01.01.2027.
 323.
 7
 SRPS EN 14190:2017
@@ -2434,7 +2437,7 @@ SRPS EN 14216:2016
 Цемент - Састав, спецификације и критеријуми усаглашености за специјалне цементе веома ниске топлоте хидратације
 EN 14216:2015
 Cement - Composition, specifications and conformity criteria for very low heat special cements
-01.01.2025.
+01.01.2027.
 327.
 13
 SRPS EN 14229:2012
@@ -2648,7 +2651,7 @@ SRPS EN 14411:2015
 Керамичке плочице - Дефиниције, класификација, карактеристике, вредновање усаглашености и означавање
 EN 14411:2012
 Ceramic tiles - Definitions, classification, characteristics, evaluation of conformity and marking
-01.01.2025.
+01.01.2027.
 357.
 11
 SRPS EN 14428:2011
@@ -2764,7 +2767,7 @@ SRPS EN 14695:2011
 Флексибилне траке за хидроизолацију - Ојачане битуменске траке за хидроизолацију бетонских мостова и других бетонских саобраћајних површина - Дефиниције и карактеристике
 EN 14695:2010
 Flexible sheets for waterproofing - Reinforced bitumen sheets for waterproofing of concrete bridge decks and other trafficked areas of concrete - Definitions and characteristics
-01.01.2025.
+01.01.2027.
 373.
 21
 SRPS EN 14716:2010
@@ -2954,7 +2957,7 @@ SRPS EN 15037-3:2012
 Префабриковани бетонски производи - Полумонтажне ситноребрасте таванице - Део 3: Блокови од глине
 EN 15037-3:2009 + A1:2011
 Precast concrete products - Beam-and-block floor systems - Part 3: Clay blocks
-01.01.2025.
+01.01.2027.
 400.
 1
 SRPS EN 15037-4:2015
@@ -3082,7 +3085,7 @@ SRPS EN 15322:2013
 Битумен и битуменска везива - Оквир за израду спецификације за разређена и омекшана битуменска везива
 EN 15322:2013
 Bitumen and bituminous binders - Framework for specifying cut-back and fluxed bituminous binders
-01.01.2025.
+01.01.2027.
 418.
 15
 SRPS EN 15368:2011
@@ -3215,7 +3218,7 @@ SRPS EN 15743:2016
 Суперсулфатни цемент - Састав, спецификације и критеријуми усаглашености
 EN 15743:2010 + A1:2015
 Supersulfated cement - Composition, specifications and conformity criteria
-01.01.2025.
+01.01.2027.
 437.
 3
 SRPS EN 15814:2015
@@ -3274,7 +3277,8 @@ EN 50575:2014
 EN 50575:2014/A1:2016
 Power, control and communication cables - Cables for general applications in construction works subject to reaction to fire requirements
 01.01.2023.
-2. Списак српских стандарда за испитивање битних карактеристика: реакције на пожар, отпорности на пожар, понашања при спољашњем пожару, апсорпције буке и емисије опасних материја, за које није неопходно упућивање на одговарајућу техничку спецификацију или технички пропис
+2. Списак српских стандарда за испитивање битних карактеристика:
+реакције на пожар, отпорности на пожар, понашања при спољашњем пожару, апсорпције буке и емисије опасних материја, за које није неопходно упућивање на одговарајућу техничку спецификацију или технички пропис
 Редни број
 Ознака српског стандарда за испитивање битних карактеристика за који није неопходно упућивање на одговарајућу техничку спецификацију или технички пропис
 Наслов српског стандарда
