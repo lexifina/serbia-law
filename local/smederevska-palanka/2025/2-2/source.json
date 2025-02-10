@@ -1,0 +1,64 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2025/03/slsp2025-02.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2025",
+  "issue": "2",
+  "number": 2,
+  "title": "Правилник о поступку изјашњавања корисника комуналних услуга о квалитету пружања комуналних услуга",
+  "printed_page": 9,
+  "folder": "local/smederevska-palanka/2025/2-2",
+  "published": "2025-02-10",
+  "in_force": "2025-02-10",
+  "basis": "danom donošenja",
+  "commencement_quote": "Овај Правилник ступа на снагу даном доношења а објавиће се у „Службеном листу Општине Смеде­ ревска Паланка“.",
+  "sha256": "cbac1bf71f51ca50c3dd01875ac05fe80cd6e3ccbb7be92f1f1457d72a389759",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 2, 10.2.2025. год."
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "9. страна"
+    },
+    {
+      "page": 2,
+      "line": "10. страна"
+    },
+    {
+      "page": 2,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 2, 10.2.2025. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": [
+    {
+      "page": 1,
+      "xref": 41,
+      "rects": [
+        [
+          56.69291305541992,
+          71.36637878417969,
+          485.4664001464844,
+          184.752197265625
+        ]
+      ],
+      "outside_act_header": true
+    }
+  ]
+}
