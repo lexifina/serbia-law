@@ -1,0 +1,38 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2025/03/slsp2025-04.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2025",
+  "issue": "4",
+  "number": 6,
+  "title": "Одлука о изменама и допунама Одлуке о остваривању права на повлашћену вожњу у јавном градском и приградском превозу путника",
+  "printed_page": 310,
+  "folder": "local/smederevska-palanka/2025/4-6",
+  "published": "2025-02-28",
+  "in_force": "2025-03-01",
+  "basis": "narednog dana od donošenja; adoption date in act preamble/signature: 2025-02-28",
+  "commencement_quote": "Ова Одлука ступа на снагу наредног дана од дана доношења, а објавиће се у „Службеном листу Општине Смедеревска Паланка”.",
+  "sha256": "8d44ef62e8b93227b19e0e8c612eaed32c5323791512caccb3baf7ae6eae66af",
+  "page": 2,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 2,
+      "line": "310. страна"
+    },
+    {
+      "page": 2,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 4, 28.2.2025. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; pypdf every non-whitespace character equal",
+  "image_audit": []
+}
