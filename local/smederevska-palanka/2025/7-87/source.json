@@ -1,0 +1,52 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2025/08/slsp2025-07.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2025",
+  "issue": "7",
+  "number": 87,
+  "title": "Одлука о проглашењу ванредне ситуације за део територије Општине Смедеревска Паланка у насељеним местима Стојачак, Баничина и Мраморац",
+  "printed_page": 525,
+  "folder": "local/smederevska-palanka/2025/7-87",
+  "published": "2025-05-09",
+  "in_force": "2025-05-09",
+  "basis": "danom donošenja",
+  "commencement_quote": "Ова одлука ступа на снагу даном доношења/ одмах и биће објављена у Међуопштинском службеном листу.",
+  "sha256": "44f1e4764bd127109202c9a9023804a465ddfc1ec3f798575fc89a35d0e3f1b4",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 7, 9.5.2025. год."
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "525. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": [
+    {
+      "page": 1,
+      "xref": 37,
+      "rects": [
+        [
+          56.69291305541992,
+          71.36637878417969,
+          485.4664001464844,
+          184.752197265625
+        ]
+      ],
+      "outside_act_header": true
+    }
+  ]
+}
