@@ -1,0 +1,62 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2025/08/slsp2025-12.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2025",
+  "issue": "12",
+  "number": 157,
+  "title": "Правилник о изменама и допунама Правилника о унутрашњој организацији и систематизацији радних места у Општинској управи и Општинском правобранилаштву Општине Смедеревска Паланка",
+  "printed_page": 865,
+  "folder": "local/smederevska-palanka/2025/12-157",
+  "published": "2025-06-27",
+  "in_force": "2025-07-05",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Овај Правилник ступа на снагу осмог дана од дана објављивања у „Службеном листу Општине Смедеревска Паланка„.",
+  "sha256": "eef9ea25fa7b8c57b67213578b124eb892a5358971fe60147de4d74a3872b276",
+  "page": 5,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 5,
+      "line": "бр. 12, 27.6.2025. год."
+    },
+    {
+      "page": 5,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 5,
+      "line": "865. страна"
+    },
+    {
+      "page": 6,
+      "line": "866. страна"
+    },
+    {
+      "page": 6,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 6,
+      "line": "бр. 12, 27.6.2025. год."
+    },
+    {
+      "page": 7,
+      "line": "бр. 12, 27.6.2025. год."
+    },
+    {
+      "page": 7,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 7,
+      "line": "867. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": []
+}
