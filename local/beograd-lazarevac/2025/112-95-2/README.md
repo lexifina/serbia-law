@@ -1,0 +1,12 @@
+# Решење о давању сагласности на Посебан програм Јавног предузећа за комуналну привреду „Лазаревац”, Лазаревац о коришћењу средстава буџета Градске општине Лазаревац за 2026. годину по основу субвенција
+
+Службени лист Града Београда 112/2025, стр. 95 · Акти градских општина Лазаревац · published 2025-12-29, in force 2026-01-06 · <https://www.sllistbeograd.rs/pdf/2025/112-2025.pdf>
+
+| Provision | File |
+| --- | --- |
+| Текст | [tekst.md](tekst.md) |
+
+## Notes
+
+- Text as printed in the gazette issue (PDF), cut by the issue's contents table; running headers and page numbers dropped, wrapped lines joined.
+- In force: no effectiveness clause read: dated the 8th day after publication (2025-12-29), the usual rule (Constitution, art. 196).
