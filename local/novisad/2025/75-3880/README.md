@@ -1,0 +1,12 @@
+# Решење о давању сагласности на Финансијски план Установе за израду таписерија „Атеље 61“, Петроварадин за 2026. годину
+
+Службени лист Града Новог Сада 75/2025, стр. 3880 · ГРАД НОВИ САД – Градско веће · published 2025-12-31, in force 2026-01-08 · <https://skupstina.novisad.rs/wp-content/uploads/2026/01/Sl-75-2025.pdf>
+
+| Provision | File |
+| --- | --- |
+| Текст | [tekst.md](tekst.md) |
+
+## Notes
+
+- Text as printed in the gazette issue (PDF), cut by the issue's contents table; running headers and page numbers dropped, wrapped lines joined.
+- In force: no effectiveness clause read: dated the 8th day after publication (2025-12-31), the usual rule (Constitution, art. 196).
