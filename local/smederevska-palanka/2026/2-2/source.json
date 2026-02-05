@@ -1,0 +1,52 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/06/slsp2026-02.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2026",
+  "issue": "2",
+  "number": 2,
+  "title": "Одлука о ангажовању ревизора за обављање Екстерне ревизије Завршног рачуна Буџета Општине Смедеревска Паланка за 2025. годину",
+  "printed_page": 69,
+  "folder": "local/smederevska-palanka/2026/2-2",
+  "published": "2026-01-28",
+  "in_force": "2026-02-05",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објав­ љивања у „Службеном листу Општине Смедеревска Паланка”.",
+  "sha256": "b0ac2694cf15bdb9bdd94a0b066bb59ac7e26d65206c8dcbbe37472604f98ce7",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 2, 28.1.2026. год."
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "69. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": [
+    {
+      "page": 1,
+      "xref": 335,
+      "rects": [
+        [
+          56.69291305541992,
+          71.36637878417969,
+          485.4664001464844,
+          184.752197265625
+        ]
+      ],
+      "outside_act_header": true
+    }
+  ]
+}
