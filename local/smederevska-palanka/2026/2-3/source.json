@@ -1,0 +1,47 @@
+{
+  "municipality": "smederevska-palanka",
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/06/slsp2026-02.pdf",
+  "issue": "2",
+  "year": "2026",
+  "number": 3,
+  "title": "Одлука о доношењу Плана генералне регулације за Смедеревску Паланку",
+  "folder": "local/smederevska-palanka/2026/2-3",
+  "published": "2026-01-28",
+  "in_force": "2026-02-05",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова одлука ступа на снагу осмог (8) дана од дана објављивања у „Службеном листу општине Смедеревска Паланка”",
+  "adoption_source_quote": null,
+  "sha256": "b0ac2694cf15bdb9bdd94a0b066bb59ac7e26d65206c8dcbbe37472604f98ce7",
+  "page": 2,
+  "printed_page": 70,
+  "source_images": 0,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": {
+    "lines": [
+      "бр. 2, 28.1.2026. год.",
+      "СЛУЖБЕНИ ЛИСТ",
+      "71. страна",
+      "72. страна",
+      "СЛУЖБЕНИ ЛИСТ",
+      "бр. 2, 28.1.2026. год.",
+      "бр. 2, 28.1.2026. год.",
+      "СЛУЖБЕНИ ЛИСТ",
+      "73. страна",
+      "74. страна",
+      "СЛУЖБЕНИ ЛИСТ",
+      "бр. 2, 28.1.2026. год.",
+      "бр. 2, 28.1.2026. год.",
+      "СЛУЖБЕНИ ЛИСТ",
+      "75. страна",
+      "76. страна",
+      "СЛУЖБЕНИ ЛИСТ",
+      "бр. 2, 28.1.2026. год."
+    ],
+    "basis": "exact running masthead lines at official PDF page starts"
+  }
+}
