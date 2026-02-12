@@ -1,0 +1,26 @@
+{
+  "title": "Одлука о изменама и допунама Стратегије превенције и заштите од дискриминације за период од 2022. до 2030. године",
+  "url": "https://www.srbija.gov.rs/extfile/sr//950/645/odluka_strategija_prevencije_i_zastite_od_diskriminacije_0064_cyr.zip",
+  "page": "https://www.srbija.gov.rs/dokument/45678/strategije-programi-planovi-.php",
+  "date": "2026-02-12",
+  "date_basis": "У Београду, 12. фебруара 2026.",
+  "source_sha256": "f4f7d968caf74e3e66720647c1ec8904fae12bc4198823574692f9e386b1fc3e",
+  "source_images": 0,
+  "format": "docx",
+  "kind": "record",
+  "legal_status": "official Government document as adopted; not a current consolidated law",
+  "source_date_type": "adoption/signature",
+  "number": "56-1301/2026",
+  "commencement": "No explicit commencement clause in this document; source adoption/signature date used for Kind record.",
+  "source_components": [
+    {
+      "source_member": "odluka_strategija_prevencije_i_zastite_od_diskriminacije_064_cyr.docx",
+      "source_sha256": "66cdaef6795406fbabc2421567fedff828f211a28dfacaa282bf3837d279e826",
+      "status": "included",
+      "files": [
+        "text.md"
+      ]
+    }
+  ],
+  "completeness": "complete-source-attachment"
+}
