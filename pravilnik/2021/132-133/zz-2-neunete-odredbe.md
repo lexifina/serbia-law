@@ -6418,6 +6418,11 @@ III biohemijske i imunohemijske analize
 L031070
 Homocistein u plazmi, imunoturbidimetrija
 3.594,58
+III biohemijske i imunohemijske analize
+1094.
+L031146
+Određivanje nivoa 17 - OH - Progesterona (17 - OHP) iz kapilarnog uzorka osušene krvi na papiru metodom fluorimetrije
+474,92
 IV imunološke analize imunološke analize (autoimunost) u serumu
 1.
 L015743
@@ -7332,7 +7337,7 @@ IV imunološke analize imunološke analize (alergologija) u serumu
 5.
 L017566
 IgE na mešavinu antigena u serumu - FIA
-1.340,50
+3.986,74
 IV imunološke analize imunološke analize (alergologija) u serumu
 6.
 L017574
@@ -7342,7 +7347,7 @@ IV imunološke analize imunološke analize (alergologija) u serumu
 7.
 L017582
 IgE na venome insekata u serumu - FIA
-948,30
+3.309,20
 IV imunološke analize imunološke analize (alergologija) u serumu
 8.
 L017590
@@ -7352,7 +7357,7 @@ IV imunološke analize imunološke analize (alergologija) u serumu
 9.
 L017608
 Specifičan IgE na inhalatorne alergene u serumu - FIA
-891,90
+3.348,01
 IV imunološke analize imunološke analize (alergologija) u serumu
 10.
 L017616
@@ -7362,7 +7367,7 @@ IV imunološke analize imunološke analize (alergologija) u serumu
 11.
 L017624
 Specifičan IgE na lekove u serumu - FIA
-962,10
+4.442,62
 IV imunološke analize imunološke analize (alergologija) u serumu
 12.
 L017632
@@ -7377,7 +7382,7 @@ IV imunološke analize imunološke analize (alergologija) u serumu
 14.
 L017657
 Specifičan IgE na nutritivne alergene u serumu - FIA
-891,90
+3.736,92
 IV imunološke analize imunološke analize (alergologija) u serumu
 15.
 L017665
@@ -8833,6 +8838,11 @@ VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
 L020788
 Detekcija virusnog Ag SARS - CoV-2 kvalitativnom metodom
 1.150,00
+VI mikrobiološke analize mikrobiološke analize iz oblasti virusologije
+74.
+L031096
+Dokazivanje prisustva visokoizičnih tipova HPV-a u uzorku cervikalnog brisa (Real time PCR kvalitativni test) u organizovanom skriningu raka grlića materice
+3.770,51
 VI mikrobiološke analize mikrobiološke usluge iz oblasti bakteriologije
 1.
 L020206
@@ -14648,6 +14658,26 @@ X patohistološke analize citološke analize
 L029546
 Pregled sedimenta mokraće
 397,63
+X patohistološke analize citološke analize
+15.
+L031104
+Eksfolijativna citologija tkiva reproduktivnih organa žene - automatizovana priprema i automatizovano bojenje u organizovanom skriningu
+628,12
+X patohistološke analize citološke analize
+16.
+L031112
+Eksfolijativna citologija tkiva reproduktivnih organa žene - automatizovana priprema i neutomatizovano bojenje, u organizovanom skriningu
+667,52
+X patohistološke analize citološke analize
+17.
+L031120
+Eksfolijativna citologija tkiva reproduktivnih organa žene - neutomatizovana priprema i automatizovano bojenje, u organizovanom skriningu
+359,47
+X patohistološke analize citološke analize
+18.
+L031138
+Eksfolijativna citologija tkiva reproduktivnih organa žene -neautomatizovana priprema i neautomatizovano bojenje, u organizovanom skriningu
+392,30
 X patohistološke analize histohemijske i imunohistohemijske metode bojenja patohistoloških preparata
 1.
 L029553
