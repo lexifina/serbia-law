@@ -1,0 +1,35 @@
+{
+  "municipality": "smederevska-palanka",
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/07/slsp2026-14.pdf",
+  "issue": "14",
+  "year": "2026",
+  "number": 55,
+  "title": "Одлука о унапређењу квалитета здравствене заштите грађана на територији Општине Смедеревска Паланка",
+  "folder": "local/smederevska-palanka/2026/14-55",
+  "published": "2026-06-29",
+  "in_force": "2026-06-30",
+  "basis": "narednog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу наредног дана од дана објављивања у „Службеном листу Општине Смедеревска Паланка”.",
+  "adoption_source_quote": null,
+  "sha256": "1403c9e47b62aeff7481cfd4ad12ce41dfba4739585d4d75e3953912146ce265",
+  "page": 2,
+  "printed_page": 634,
+  "source_images": 0,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": {
+    "lines": [
+      "бр. 14, 29.6.2026. год.",
+      "СЛУЖБЕНИ ЛИСТ",
+      "635. страна",
+      "636. страна",
+      "СЛУЖБЕНИ ЛИСТ",
+      "бр. 14, 29.6.2026. год."
+    ],
+    "basis": "exact running masthead lines at official PDF page starts"
+  }
+}
