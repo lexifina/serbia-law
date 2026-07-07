@@ -1,0 +1,32 @@
+{
+  "municipality": "smederevska-palanka",
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/07/slsp2026-14.pdf",
+  "issue": "14",
+  "year": "2026",
+  "number": 58,
+  "title": "Одлука о методологији формирања цене услуга социјалне заштите за Општину Смедеревска Паланка",
+  "folder": "local/smederevska-palanka/2026/14-58",
+  "published": "2026-06-29",
+  "in_force": "2026-07-07",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Службеном листу општине Смеде­ ревска Паланка“",
+  "adoption_source_quote": "дана 29. јуна 2026",
+  "sha256": "1403c9e47b62aeff7481cfd4ad12ce41dfba4739585d4d75e3953912146ce265",
+  "page": 24,
+  "printed_page": 656,
+  "source_images": 0,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": {
+    "lines": [
+      "бр. 14, 29.6.2026. год.",
+      "СЛУЖБЕНИ ЛИСТ",
+      "657. страна"
+    ],
+    "basis": "exact running masthead lines at official PDF page starts"
+  }
+}
