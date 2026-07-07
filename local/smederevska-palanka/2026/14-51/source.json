@@ -1,0 +1,52 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/07/slsp2026-14.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2026",
+  "issue": "14",
+  "number": 51,
+  "title": "Одлука о изменама и допунама Одлуке о Општинској управи Општине Смедеревска Паланка",
+  "printed_page": 633,
+  "folder": "local/smederevska-palanka/2026/14-51",
+  "published": "2026-06-29",
+  "in_force": "2026-07-07",
+  "basis": "osam dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу у року од осам дана од објављивања у „Службеном листу општине Смеде­ ревска Паланка“.",
+  "sha256": "1403c9e47b62aeff7481cfd4ad12ce41dfba4739585d4d75e3953912146ce265",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "633. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; Poppler -raw every non-whitespace character equal",
+  "image_audit": [
+    {
+      "page": 1,
+      "xref": 511,
+      "rects": [
+        [
+          56.69291305541992,
+          71.36637878417969,
+          485.4664001464844,
+          184.752197265625
+        ]
+      ],
+      "outside_act_header": true
+    }
+  ]
+}
