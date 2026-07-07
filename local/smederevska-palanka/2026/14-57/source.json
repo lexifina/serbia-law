@@ -1,0 +1,134 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/07/slsp2026-14.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2026",
+  "issue": "14",
+  "number": 57,
+  "title": "Одлука о утврђивању мањег односно већег броја деце у васпитним групама у Предшколској установи „Чика Јова Змај“ у Смедеревској Паланци за радну 2026/2027 годину",
+  "printed_page": 648,
+  "folder": "local/smederevska-palanka/2026/14-57",
+  "published": "2026-06-29",
+  "in_force": "2026-07-07",
+  "basis": "osmog dana od objavljivanja",
+  "commencement_quote": "Ова Одлука ступа на снагу осмог дана од дана објављивања у „Службеном листу Општине Смедеревска Паланка“.",
+  "sha256": "1403c9e47b62aeff7481cfd4ad12ce41dfba4739585d4d75e3953912146ce265",
+  "page": 16,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 15,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 15,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 15,
+      "line": "647. страна"
+    },
+    {
+      "page": 16,
+      "line": "648. страна"
+    },
+    {
+      "page": 16,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 16,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 17,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 17,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 17,
+      "line": "649. страна"
+    },
+    {
+      "page": 18,
+      "line": "650. страна"
+    },
+    {
+      "page": 18,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 18,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 19,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 19,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 19,
+      "line": "651. страна"
+    },
+    {
+      "page": 20,
+      "line": "652. страна"
+    },
+    {
+      "page": 20,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 20,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 21,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 21,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 21,
+      "line": "653. страна"
+    },
+    {
+      "page": 22,
+      "line": "654. страна"
+    },
+    {
+      "page": 22,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 22,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 23,
+      "line": "бр. 14, 29.6.2026. год."
+    },
+    {
+      "page": 23,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 23,
+      "line": "655. страна"
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; pypdf every non-whitespace character equal",
+  "image_audit": []
+}
