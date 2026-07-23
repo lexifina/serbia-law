@@ -4,6 +4,7 @@
 У Београду, 13. децембра 2024. године
 Министар,
 проф. др Славица Ђукић Дејановић, с.р.
+НАПОМЕНА ИЗДАВАЧА: Правилником о допуни Правилника о стандардима образовних постигнућа за крај средњег образовања и васпитања ("Службени гласник РС", број 65/2026) додати су стандарди образовних постигнућа за крај средњег образовања и васпитања за предмете: Српски као нематерњи језик, Словачки језик и књижевност, Мађарски језик и књижевност, Русински језик и књижевност, Румунски језик и књижевност, Албански језик и књижевност, Босански језик и књижевност, Бугарски језик и књижевност и Хрватски језик и књижевност (види члан 1. Правилника - 65/2026-252).
 БИОЛОГИЈА
 Стандарди образовних постигнућа за крај средњег образовања
 Општа предметна компетенција (ОПК)
@@ -2120,3 +2121,2850 @@
 - СЈ2.СО.Н.3.8. Пишу једноставније поруке, мејлове, СМС поруке, извештаје, формална и неформална писма, у приватном, јавном и образовном домену, у којима траже или преносе релевантне информације и мишљења, идеје, осећања, ставове, саопштавају новости, реагују адекватно на ставове и мишљења других, користећи адекватан регистар и језичка средства, уважавајући културне различитости, показујући емпатију и спремност на сарадњу.
 - СЈ2.СО.Н.3.9. Учествују у комуникацији на интернету (друштвене мреже, форуми итд.) у вези с познатим и блиским темама (дискусије, четови, дебате, коментари), износе своје мишљење и одговарају на мишљења других, уз помоћ доступних језичких алата (електронски преводилац, речник); учествују у једноставнијим колаборативним активностима (рад на заједничким документима попут Wiki, Google docs).
 - СЈ2.СО.Н.3.10. Преносе с једног језика на други у писаном и усменом облику главну идеју и релевантне детаље из усмених и писаних извора (медијација) у вези с блиским темама из приватног, јавног и образовног домена, примењујући креативно различите компензационе стратегије. Посредују у неформалној интеракцији двоје или више саговорника уз повремене потешкоће и коришћење компензационих стратегија, углавном адекватно преносећи и тумачећи културно условљене вредности и ставове.
+СРПСКИ КАО НЕМАТЕРЊИ ЈЕЗИК
+Стандарди образовних постигнућа за крај општег средњег образовања
+Општа предметна компетенција (ОПК)
+Ученик влада функционалним језиком у мери која му омогућава усмену и писану комуникацију. Разуме говорене и писане текстове различитих врста и из њих издваја релевантне информације ради задовољавања комуникативних, образовних и стручних потреба. Учествује у свакодневној, образовној и основној стручној комуникацији, поставља питања, изражава мишљење, жеље, ставове и осећања, и обрађује садржаје уз примену усвојених стратегија читања, слушања и говора. Пише текстове различитих форми и садржаја у складу са језичком и правописном нормом, користећи ћирилично и латинично писмо. Повезује знања стечена на часовима српског језика са искуствима из других области и предмета. Развија интеркултурну свест, поштује културне и социјалне различитости и учествује у комуникацији са саговорницима различитог језичког и културног порекла.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Изговара гласове српског језика, речи и реченичне моделе уз повремену интерференцију матерњег језика.
+Располаже фондом речи и граматичких конструкција стандардног српског језика неопходним за развијенију свакодневну комуникацију.
+Користи ћирилицу и латиницу.
+У комуникацији уме функционално да примени усвојене језичке елементе, уз повремене грешке.
+Специфична предметна компетенција 2 (СПК2)
+Унапређује и обогаћује своју језичку и комуникативну компетенцију слушањем, читањем и учествовањем у дијалогу.
+Поставља једноставнија питања о различитим темама из свакодневног живота и струке ослањајући се на основне стратегије разумевања и изражавања.
+До сазнања долази читањем и слушањем претежно информативних и стручних садржаја, који садрже углавном познату лексику и познате граматичке форме. Значење непознатих речи проналази у различитим врстама речника.
+Прикупља податке о темама које га занимају, задатим и стручним темама из различитих извора. Интерпретира добијене информације и на тај начин проверава тачност разумевања.
+Пише краће текстове различитих форми о различитим темама, структурирајући основне делове текста и организујући га у логичне целине, и на тај начин унапређује вештину писаног изражавања.
+Уочава узрочно-последичне везе и изводи закључке слушајући или читајући текст, дијалог и пратећи различите комуникативне и ванјезичке ситуацијe.
+Специфична предметна компетенција 3 (СПК3)
+Разуме теме из свакодневне комуникације и области за коју показује интересовање, као и суштину информација из различитих извора како би их користио за задовољење животних потреба у приватном, образовном и стручном домену.
+Говори о темама из свакодневног живота и области интересовања користећи стручне изразе и оспособљавајући се за рад у струци или даље школовање.
+Разуме и пише краће текстове различитих врста и садржаја како би пренео информације и изнео своје планове, намере, жеље, осећања и мишљење.
+Знања и вештине стечене на часовима српског језика повезује са знањима стеченим искуством, на часовима других предмета и на часовима матерњег језика и примењује их у различитим комуникативним ситуацијама.
+Исходи образовног циклуса (ИОЦ) - за крај општег средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученик:
+Ученик:
+Ученик:
+- СН.СО.О.1.1. Изговара гласове српског језика, речи и фреквентне реченичне моделе уз повремену интерференцију матерњег језика у артикулацији и интонацији.
+- СН.СО.О.1.2. Разуме и користи лексички фонд од 1000 до 1400 речи, укључујући и основну стручну терминологију.
+- СН.СО.О.1.3. Користи сложеније синтагме и зависне реченице (узрочне, временске, намерне, изричне, допусне и односне - уведене најфреквентнијим везницима и везничким спојевима).
+- СН.СО.О.1.4. Разуме условне реченице са везницима АКО и ДА.
+- СН.СО.О.1.5. Користи презент, перфекат, футур I и императив у њиховим основним значењима; разуме потенцијал; разуме исказе у којима се употребљава презент за будућност и прошлост.
+- СН.СО.О.1.6. Разуме значај глаголског вида за разликовање значења у типичним случајевима.
+- СН.СО.О.1.7. Разуме и користи падежне облике у најчешћим синтаксичким структурама, као и правила конгруенције.
+- СН.СО.О.1.8. Користи облике компаратива и суперлатива фреквентних придева и прилога.
+- СН.СО.О.2.1. Разуме говорне исказе пратећи аудио-визуелне материјале различитих жанрова (кратки видео записи, подкасти, емисије...).
+- СН.СО.О.2.2. Саставља сложеније исказе на основу визуелног инпута.
+- СН.СО.О.2.3. Учествује у комуникацији ослањајући се повремено на стратегије компензације.
+- СН.СО.О.2.4. Обликује сложеније синтагме и користи главне врсте зависних реченица, увежбавајући их у говорним и писаним вежбама, анализирајући примере у текстовима и примењујући граматичка правила у комуникацији.
+- СН.СО.О.2.5. Овладава акцентом и интонацијом речи и реченица читајући наглас различите врсте текстова.
+- СН.СО.О.2.6. Изводи закључке из прочитаног текста тако што одговара на питања о тексту, коментарише и тумачи текст.
+- СН.СО.О.2.7. Самостално структурира писани текст издвајајући основне делове (наслов, пасусе) и организујући га у смисаоне целине.
+- СН.СО.О.2.8. Слуша различите врсте текстова уочавајући и издвајајући најважније информације, водећи белешке и препричавајући садржај својим речима.
+- СН.СО.О.3.1. Разуме свакодневну неформалну комуникацију матерњих говорника, дуже говорне исказе о темама из свакодневног живота и окружења, основни садржај информативних и других емисија електронских медија и стручна упутства из области за која показује интересовања изговорене стандардним језиком, нормалним темпом.
+- СН.СО.О.3.2. Активно учествује у разговорима и изражава своја осећања, мишљење и искуства и тако гради самопоуздање, усваја социјалне норме комуникације и оспособљава се за различите врсте интеракција.
+- СН.СО.О.3.3. Чита текстове различитих врста како би могао да тумачи информације, повезује садржај са ширим културним и историјским контекстом и критички приступа тексту, што му помаже у наставку образовања и сналажењу у свакодневном животу.
+- СН.СО.О.3.4. Издваја и аргументује поруку текста у циљу развијања логичког мишљења, формирања ставова на основу доказа и оспособљавања за критичку анализу различитих извора информација.
+- СН.СО.О.3.5. Самостално пише текстове различитих врста и жанрова како би развијао вештине формулисања и преношења информација, аргументовања и прилагођавања писане комуникације различитим ситуацијама.
+- СН.СО.О.2.9. Издваја и аргументује проблем, идеју или поруку у тексту постављањем питања, анализом контекста и повезивањем са сопственим знањем и искуством.
+- СН.СО.О.2.10. Користи речнике и језичке приручнике.
+- СН.СО.О.3.6. Уочава елементе српске културне баштине и историјског наслеђа уз неговање сопственог језичког, националног и културног идентитета.
+- СН.СО.О.3.7. Поштује и уважава културолошке различитости.
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Има развијенију језичку и комуникативну компетенцију.
+Правилно употребљава језичке структуре и повезује их с комуникативном ситуацијом. Уме да пронађе компромисна лексичка и граматичка решења.
+Равноправно користи ћирилицу и латиницу.
+У комуникацији уме функционално да примени усвојене језичке елементе, уз повремене грешке.
+Специфична предметна компетенција 2 (СПК2)
+Унапређује и обогаћује своју језичку и комуникативну компетенцију слушањем, читањем и учествовањем у дијалогу.
+До сазнања долази читањем и слушањем претежно информативних и стручних садржаја. Значење непознатих речи одређује на основу контекста или их проналази у различитим врстама речника.
+Примењујући различите стратегије и средства комуникације и користећи различите изворе, укључујући и дигиталне алате, прикупља податке о темама које га занимају, као и о задатим и стручним темама. Интерпретира и самостално анализира садржаје добијених информација.
+Пишући текстове различитих форми о различитим темама, унапређује вештину писаног изражавања.
+Специфична предметна компетенција 3 (СПК3)
+Разуме основни садржај сложенијих говорених и писаних текстова и по потреби их цитира, парафразира и препричава како би прикупио и пренео информације.
+Аргументовано говори и пише о различитим темама које га интересују да би изнео своје мишљење, идеје и ставове.
+Знања и вештине стечене на часовима српског језика повезује са знањима стеченим искуством, на часовима других предмета и на часовима матерњег језика и примењује их у различитим комуникативним ситуацијама.
+Исходи образовног циклуса (ИОЦ) - за крај општег средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученик:
+Ученик:
+Ученик:
+- СН.СО.С.1.1. Активно користи лексички фонд од 1400 до 1800 речи; влада основним терминима своје струке, односно области интересовања.
+- СН.СО.С.1.2. У говору и писању користи различите реченичне моделе (активне, пасивне, обезличене и безличне реченице; реченице са допунским предикативом, са најфреквентнијим семикопулативним глаголима; реченице са логичким субјектом, разноврсним неправим објектима).
+- СН.СО.С.1.3. Користи различите врсте зависних реченица (узрочне, временске, намерне, изричне, допусне, односне и условне).
+- СН.СО.С.1.4. Правилно употребљава падежне облике у сложенијим синтаксичким структурама и примењује правила конгруенције.
+- СН.СО.С.1.5. Разуме исказе у којима је употребљен аорист; употребљава футур II у зависним реченицама.
+- СН.СО.С.1.6. Разуме исказе с глаголским прилозима.
+- СН.СО.С.1.7. Користи глаголе одговарајућег вида у реченичном контексту.
+- СН.СО.С.2.1. Разуме основни садржај сложенијих говорних исказа, предавања из струке, песама, филмова и електронских медија тако што издваја главне информације, повезује узроке и последице, резимира и дискутује о садржају.
+- СН.СО.С.2.2. Води белешке сажимајући различите врсте језичких садржаја.
+- СН.СО.С.2.3. Говори о познатим темама, постављајући питања, аргументујући своје мишљење и бранећи своје ставове.
+- СН.СО.С.2.4. Самостално излаже унапред припремљени садржај на задату тему.
+- СН.СО.С.2.5. Учествује у комуникацији ослањајући се повремено на стратегије компензације (проналажење алтернативних исказа).
+- СН.СО.С.2.6. Обликује језичке исказе, увежбавајући их у говорним и писаним вежбама, анализирајући примере у текстовима и примењујући граматичка правила у комуникацији.
+- СН.СО.С.2.7. Анализира и интерпретира различите текстове тако што одређује њихову тему, главне догађаје, време и место дешавања, препознаје учеснике радње и структурне елементе текста.
+- СН.СО.С.2.8. Чита сложеније текстове различитих врста и жанрова, а значење непознатих речи одређује на основу контекста.
+- СН.СО.С.2.9. Самостално структурира писане текстове различите намене организујући их у смисаоне целине.
+- СН.СО.С.2.10. Учествује у интеркултурној комуникацији, размењујући основне информације и ставове у вези са културом свакодневице уважавајући основна правила учтивости.
+- СН.СО.С.3.1. Разуме сложеније говорне исказе, медијске садржаје и предавања како би могао да прати наставу, усваја нове информације и активно учествује у дискусијама.
+- СН.СО.С.3.2. Самостално преноси информације, повезује их и изводи закључке, ради унапређења вештине логичког мишљења, синтезе и аргументације.
+- СН.СО.С.3.3. Анализира различите језичке садржаје како би критички проценио информације; повезује садржај са личним и општим знањем и примењује научене стратегије у свакодневном животу и даљем образовању.
+- СН.СО.С.3.4. Упоређује и тумачи текстове различитих врста и жанрова да би проширио културне видике и разумео контекст у коме су текстови настали.
+- СН.СО.С.3.5. Пише различите врсте текстова, јасно изражава своје мисли, организује информације у смисаоне целине и формулише аргументе, што му користи у личном и професионалном животу.
+- СН.СО.С.3.6. Интерпретира садржаје из медија како би се оспособио да селектује и критички процени информације, што му омогућава бољу оријентацију у дигиталном и информационом окружењу.
+- СН.СО.С.3.7. Познаје елементе српске културне баштине и историјског наслеђа уз неговање сопственог језичког, националног и културног идентитета.
+- СН.СО.С.3.8. Негује хумани однос у дијалогу међу културама.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Има развијену језичку и комуникативну компетенцију и влада српским језиком на нивоу ученика тог узраста чији је матерњи језик српски.
+Разуме говорене и писане текстове различитих врста и садржаја, укључујући и текстове из струке.
+Прави систематичне белешке на основу писаног и говореног исказа.
+Уме да интерпретира, критички анализира и упоређује податке које је чуо или прочитао.
+Уме да аргументује и брани своје ставове на основу прикупљених информација.
+Пише сложеније текстове различитих форми о различитим темама, уз примену књижевнојезичке норме.
+Специфична предметна компетенција 2 (СПК2)
+Унапређује и обогаћује своју језичку и комуникативну компетенцију слушањем, читањем и учествовањем у дијалогу.
+До сазнања долази читањем и слушањем сложенијих садржаја различитих форми, прикупљајући податке о темама које га занимају, задатим и стручним темама из различитих извора.
+Упоређујући различите податке које је чуо или прочитао, самостално их интерпретира и критички анализира.
+Аргументује и брани своје ставове учествујући у дискусији.
+Пише сложеније текстове различитих форми о различитим темама и на тај начин усавршава вештину писаног изражавања, увежбавајући примену језичких правила у различитим комуникативним ситуацијама.
+Специфична предметна компетенција 3 (СПК3)
+Разуме сложене говорене и писане текстове различитих врста и жанрова на нивоу матерњих говорника како би уочио различите слојеве значења, критички их интерпретирао и равноправно учествовао у разговору на српском језику.
+Пише текстове различитих врста и жанрова у складу са језичком нормом да би пренео информације и изнео своје мишљење, осећања и идеје.
+У стању је да припреми излагање и јавно наступа на српском језику учествујући равноправно у животу вишејезичне заједнице.
+Знања и вештине стечене на часовима српског језика повезује са знањима стеченим искуством, на часовима других предмета и на часовима матерњег језика и примењује их у различитим комуникативним ситуацијама.
+Разуме и прихвата културне и социјалне различитости, препознаје стереотипе и прилагођава своје понашање основним конвенцијама у комуникацији, негујући отвореност и интеркултурални дијалог.
+Исходи образовног циклуса (ИОЦ) - за крај општег средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученик:
+Ученик:
+Ученик:
+- СН.СО.Н.1.1. Влада стандардним језиком и језичком нормом на нивоу изворног говорника, као и лексиком струке у складу са интересовањима.
+- СН.СО.Н.1.2. Самостално уочава и критички тумачи идеје, појаве и проблеме у друштву и дискутује о њима.
+- СН.СО.Н.1.3. Анализира структуру текстова различитих функционалних стилова, разликује њихову комуникативну функцију и препознаје карактеристична језичка средства.
+- СН.СО.Н.2.1. Одређују значења непознатих речи и фразеологизама на основу ситуације и контекста у којем су употребљени, издваја делове текста који су му нејасни, тражи објашњења и прикупља додатне информације из различитих извора.
+- СН.СО.Н.2.2. Користећи стратегије активног слушања, примењујући технике аргументовања (нпр. парафразирање, резимирање, навођење доказа и контрааргумената), користећи одговарајући тон и стил, формулишући јасна питања и одговоре у оквиру структурисаних дискусија, ефикасно учествује у разговору и дебати.
+- СН.СО.Н.2.3. Разним типовима вежби (анализа примера у текстовима, трансформација реченица, исправљање неправилних конструкција), усваја и унапређује језичке компетенције.
+- СН.СО.Н.2.4. Користећи различите стратегије (издвајање кључних информација, прављење бележака, коришћење речника и других извора, парафразирање и структурирано сумирање садржаја) разуме сложеније текстове.
+- СН.СО.Н.2.5. Пише сложеније текстове различитих врста и жанрова, користећи одговарајућа језичка средства и примењујући норме стандардног српског језика, структурира текстове у складу са жанровским конвенцијама и користи различите изворе за проверу и унапређивање писаног израза.
+- СН.СО.Н.2.6. Прави систематичне белешке на основу усменог и писаног дискурса издвајајући основне информације и кључне речи.
+- СН.СО.Н.3.1. Учествује у разговорима и дискусијама и тако развија самопоуздање, вештине аргументовања и способност да се ефикасно укључи у сложене комуникативне ситуације, како у образовном, тако и у ширем друштвеном окружењу.
+- СН.СО.Н.3.2. Ради постизања комуникације са говорницима различитог узраста, образовања и језичких варијетета прилагођава стил говора.
+- СН.СО.Н.3.3. Критички тумачи проблеме и идеје у текстовима како би развио аналитичко и апстрактно мишљење, што му омогућава да разуме сложене појаве у различитим друштвеним и научним областима.
+- СН.СО.Н.3.4. Пише самостално различите врсте текстова (биографија, мотивационо писмо, молба, захтев...) ради задовољавања комуникативног циља.
+- СН.СО.Н.3.5. Интерпретира и критички процењује садржаје из различитих медија, укључујући дигиталне изворе, препознајући намеру аутора и потенцијалне манипулације информацијама.
+- СН.СО.Н.3.6. Користи знања стечена у матерњем језику како би унапредио језичке и комуникативне вештине у српском језику.
+- СН.СО.Н.3.7. Има свест о социјалним конвенцијама и културолошким различитостима, промовише културу толеранције и интеркултуралност.
+- СН.СО.Н.3.8. Разуме штетан утицај стереотипа и предрасуда у образовном, приватном и јавном контексту.
+SLOVENSKÝ JAZYK A LITERATÚRA
+Štandardy vzdelávacích výsledkov na konci stredoškolského vzdelávania
+Všeobecná predmetová kompetencia (VPK)
+Žiaci majú vedomosti o funkcii a význame jazyka a viacjazyčnosti, ovládajú gramatiku slovenského jazyka a uplatňujú ju v každodennom živote. Chápu vplyv jazyka a používajú ho spoločensky zodpovedným spôsobom, čím si rozvíjajú svoju občiansku zodpovednosť a sociálne začlenenie. Pestujú a zachovávajú slovenský jazyk, rešpektujúc rozmanitosť jeho dialektov, ako aj väčšinový jazyk, jazyky národnostných menšín a iné jazyky.
+V ústnej a písomnej komunikácii používajú rozvinutú a bohatú slovnú zásobu: hovoria a píšu s rešpektovaním spisovného jazyka a pravopisných noriem a formujú logický a štylisticky harmonický text. Dbajú na kultúru dialógu, majú rečnícke zručnosti a vedia aktívne počúvať. Formulujú a vyjadrujú ústne a písomné argumenty presvedčivým spôsobom, ktorý je vhodný pre daný kontext. Komunikujú konštruktívnym spôsobom, spolupracujú v tímoch a rokujú, rozvíjajú zmysel pre iniciatívnosť a konanie pri dosahovaní cieľov, a to aj s využitím nástrojov informačných a komunikačných technológií.
+Rozvíjajú čitateľskú gramotnosť. Rozumejú literárnym a neumeleckým textom, kriticky a kreatívne o nich premýšľajú. Pestujú si kultúru rozprávania a čítania kvôli vlastnému zdokonaľovaniu a osobnému naplneniu. Vyhľadávajú, zhromažďujú a kriticky spracúvajú informácie z rôznych zdrojov a zodpovedne používajú a vytvárajú multimediálny obsah.
+Interpretujú literárne diela z národnej a svetovej literatúry. Chápu multikultúrne rozmery literatúry a spôsob, akým národná literatúra prispieva k svetovému kultúrnemu dedičstvu. Všímajú si a pomocou príkladov argumentujú základné, poetické, jazykové, estetické, štrukturálnečrty literárnych diel. Majú schopnosť obrazne a abstraktne vyjadrovať myšlienky, skúsenosti a emócie; vyjadrujú tvorivé možnosti. Taktiež využívajú čítanie na lepšie pochopenie seba, ostatných a sveta okolo seba tým, že prijímajú a budujú etické princípy. Prostredníctvom čítania si rozvíjajú empatiu a starostlivosť o ľudí a svet.
+Sú otvorení voči rôznym kultúrnym formám. Prepájajú literatúru s inými druhmi umenia, vedy a techniky. Efektívne využívajú rôzne učebné techniky a uvedomujú si dôležitosť celoživotného vzdelávania. Získané vedomosti a kognitívne stratégie uplatňujú v rôznych životných situáciách.
+K duševnému a kultúrnemu vlastníctvu pristupujú eticky a zodpovedne.
+Základná úroveň
+Špecifická predmetová kompetencia 1 (ŠPK1)
+Žiaci poznajú základné vlastnosti slovenského spisovného jazyka. Poznajú spisovné a pravopisné normy, gramatiku a štylistiku slovenského jazyka. Zameriavajú sa na obohatenie svojej slovnej zásoby, jazykového a štylistického vyjadrovania. Hovoria jasne a plynule, rozlišujú formálny a neformálny prejav, verbálnu a neverbálnu komunikáciu. Poznajú pravidlá písania rôznych typov textov. Čítajú lineárne (súvislé) a nelineárne (nesúvislé) texty a rozumejúim; rozlišujú umelecký text od neumeleckého. Spájajú literárne diela s ich autormi a literárnymi obdobiami. Určujú základné prvky štruktúry umeleckých a neumeleckých textov.
+Špecifická predmetová kompetencia 2 (ŠPK2)
+V súlade s komunikačnou situáciou žiaci vedia uplatniť zručnosti počúvania a hovorenia. Aplikujú teoretické znalosti gramatiky v konkrétnej jazykovej situácii a pri písaní uplatňujú pravopisné pravidlá. Tvoria logický, dobre štruktúrovaný a štylisticky koherentný hovorený a písaný text. Vyjadrujú sa ústne aj písomne presvedčivým spôsobom, ktorý je primeraný kontextu, pričom rešpektujú rasovú, národnú, kultúrnu, jazykovú, náboženskú, rodovú a vekovú rovnosť. Všímajú si autorove zámery v texte (informatívnosť, manipulatívnosť). Pri čítaní a interpretácii umeleckých a neumeleckých textov používajú rôzne metódy. Čítanie si osvojujú ako koníček a rozširujú si záujmy z literatúry pre mládež na všeobecnú beletriu. Využívajú knižničné a archívne zbierky, navštevujú výstavy a pozerajú divadelné predstavenia a filmy.
+Špecifická predmetová kompetencia 3 (ŠPK3)
+Žiaci pestujú a zachovávajú slovenský jazyk a zároveň rešpektujú rozmanitosťjeho nárečí; rešpektujú väčšinový jazyk a jazyky národnostných menšín a iné cudzie jazyky. Sú uschopnení, aby sa vyjadrovali správne, jasne, úsporne a presvedčivo, a to ústne aj písomne. Čítaním a interpretáciou literárnych diel z národnej, srbskej a svetovej literatúry si formujú ľudské hodnoty a presvedčenia. Prepájajú literárne, divadelné a filmové umenie. Používajú čitateľskú gramotnosť a rôzne stratégie čítania a učenia sa. Predsudky, stereotypy a nenávistné prejavy vnímajú ako negatívny jav. Využívajú znalosti jazyka a literatúry v situáciách relevantných pre aktívnu občiansku angažovanosť. K duševnému a kultúrnemu vlastníctvu pristupujú eticky a zodpovedne.
+Výkony vzdelávacieho cyklu (VVC) na konci stredoškolského vzdelávania:
+Základná úroveň
+ŠPK1
+ŠPK 2
+ŠPK3
+Žiaci:
+Žiaci:
+Žiaci:
+- SLO.SV.Z.1.1. Poznajú základné charakteristiky slovenského spisovného jazyka (písmo, výslovnosť, nárečia).
+- SLO.SV.Z.1.2. Rozlišujú správnu od nesprávnej výslovnosti hlások a klasifikujú hlásky podľa zadaných kritérií.
+- SLO.SV.Z.1.3. Chápu čo je slabika, poznajú základné pravidlá prízvuku.
+- SLO.SV.Z.1.4. Klasifikujú slovné druhy; rozlišujú gramatické kategórie ohybných slovných druhov v typických školských príkladoch.
+- SLO.SV.Z.1.5. Rozlišujú neodvodené slová od odvodených a tvoria slová podľa zadaného modelu.
+- SLO.SV.Z.1.6. Klasifikujú základné vetné členy; rozlišujú priraďovacie od podraďovacích viet; správne tvoria vetu.
+- SLO.SV.Z.1.7. Rozumejú významu slov, ustáleným výrazom a frazeologizmom, s ktorými sa stretávajú v bežnej komunikácii, v povinnom čítaní a v školských textoch z iných predmetov.
+- SLO.SV.Z.1.8. Rozlišujú formálnu od neformálnej slovnej zásoby a používajú ju v súlade s príležitosťou; poznajú lexikálne javy a lexikálne vzťahy a uplatňujú ich v komunikačných situáciách.
+- SLO.SV.Z.1.9. Poznajú a uplatňujú pravopisné pravidlá.
+- SLO.SV.Z.1.10. Poznajú pravidlá písania rôznych typov textov (napr. listy, emaily, životopisy, žiadosti, odvolania, správy...); správne vypĺňajú rôzne tlačivá.
+- SLO.SV.Z.1.11. Literárne diela spájajú s ich autormi a literárnymi obdobiami, v ktorých vznikli.
+- SLO.SV.Z.1.12. Rozlišujú umelecký text od neumeleckého textu; určujú základné prvky štruktúry literárnoumeleckého diela: tému, motív, dej, postavy, čas a miesto deja.
+- SLO.SV.Z.1.13. Rozlišujú charakteristiky ľudovej a autorskej literatúry; poznajú základné charakteristiky literárnych druhov a žánrov; všímajú si lyrické, epické a dramatické prvky v literárnom diele.
+- SLO.SV.Z.1.14. Rozlišujú opis deja od analýzy diela.
+- SLO.SV.Z.1.15. Prepájajú motívy/témy z literatúry a dejín umenia so základnými vedomosťami z dejín.
+- SLO.SV.Z.2.1. Uplatňujú vedomosti z teórie gramatiky v konkrétnej jazykovej situácii/v konkrétnom texte.
+- SLO.SV.Z.2.2. Pri písaní uplatňujú pravopisné pravidlá a základné typograficko-pravopisné postupy pri počítačovej sadzbe používajúc pravopis.
+- SLO.SV.Z.2.3. Dokážu čítať umelecké a neumelecké texty, lineárne (súvislé)a nelineárne(nesúvislé); dokážu pozorne a s pochopením sledovať jednoduchšie prednášky (výklady) a robia si poznámky, dokážu identifikovať kľúčové slová.
+- SLO.SV.Z.2.4. Vyjadrujú subjektívny a estetický zážitok o hovorenom prejave alebo písanom texte; prepájajú obsah diela s vlastnou alebo cudzou skúsenosťou.
+- SLO.SV.Z.2.5. Všímajú si hlavné motívy, tému a štylistické výrazové vlastnosti literárnych diel konkrétnej epochy, uvedomujú si hlavné rozdiely a podobnosti s dielami predchádzajúcich literárnych epoch.
+- SLO.SV.Z.2.6. Vedia zhustiť, citovať, prerozprávať/parafrázovať text a vyčleniť dôležité; interpretujú text; vedia rozlíšiť informáciu od interpretácie.
+- SLO.SV.Z.2.7. Tvarujú hovorený prejav a písaný text s prihliadaním na komunikačnú situáciu (volia si zodpovedajúce výrazové prostriedky - verbálne a neverbálne, lexiku a štylistické postupy).
+- SLO.SV.Z.2.8. Vedia vyhľadať informácie v texte (v súvislom a nesúvislom) podľa zadaného kritéria; vedia nájsť spôsob ako prísť k informáciám, keď niečomu nerozumejú; vyberajú si a klasifikujú informačné zdroje; vedia rozpoznať manipulačné techniky v texte a v hovorenom prejave.
+- SLO.SV.Z.2.9. Účinkujú v projektovej vyučbe a v tvorivých dramatizačných procesoch; vedia používať knižničný fond, pozerajú divadelné predstavenia a filmy, navštevujú výstavy...
+- SLO.SV.Z.3.1. Znalosť jazyka využívajú na to, aby sa správne a zreteľne vyjadrovali písomne a ústne vo vzdelávacom kontexte, v súkromnom a verejnom styku, v situáciách dôležitých pre aktívnu občiansku angažovanosť.
+- SLO.SV.Z.3.2. Informácie prezentujú rôznymi spôsobmi (ústne, písomne, vizuálne, digitálne).
+- SLO.SV.Z.3.3. Svoj názor vyjadrujú argumentovane a volia jazykový prejav v súlade s kontextom, vrátane konštruktívnej komunikácie v spolupráci s ostatnými, v skupine, na sociálnych sieťach.
+- SLO.SV.Z.3.4. Vedia rozpoznať predsudky a stereotypy v literárnych a neumeleckých textoch a v ústnych prejavoch, ako aj nenávistné prejavy (nezdôrilé oslovenie, neúcta k partnerovi, urážky, nenávistné prejavy atď.) v každodenných situáciách a v médiách ako negatívny jav.
+- SLO.SV.Z.3.5. Vedia uplatniť čitateľskú gramotnosť ako nástroj na učenie a lepšie porozumenie iným predmetom.
+- SLO.SV.Z.3.6. Vedia využiť rôzne čitateľské stratégie a stratégie učenia sa vzhľadom na cieľ, ktorý chcú dosiahnuť.
+- SLO.SV.Z.3.7. Majú vyvinuté čitateľské návyky a chápu význam čítania pre rozvoj vlastnej všeobecnej kultúry a vedomostí;
+- SLO.SV.Z.3.8. Uvedomujú si význam literatúry a kultúry vo vlastnom živote; hodnotia literárne umelecké dielo ako bytostnú súčasť národnej kultúry aj ako pomôcku na prezentáciu rozličných kultúr.
+- SLO.SV.Z.3.9. Vedia použiť vedomosti z jazyka a literatúry na zúčastnenie sa v rozličných oblastiach kultúry.
+- SLO.SV.Z.3.10. Vedia zostaviť hovorený prejav a písaný text; majú zodpovedný vzťah voči otázkam duševného vlastníctva; vedia citovať a/alebo parafrázovať texty.
+- SLO.SV.Z.3.11. Vedomí sú si významu jazyka v pestovaní kultúrnej a národnej identity; rozumejú právam na použitie vlastného jazyka a rešpektujú jazyky iných národnostných spoločenstiev v Srbsku.
+- SLO.SV.Z.3.12. Rešpektujú ľudské práva a súkromie iných; rozumejú prečo je dôležitá rodová rovnosť.
+- SLO.SV.Z.3.13. Sú si vedomí úlohy tradičných a súčasných médií v demokratickej spoločnosti.
+- SLO.SV.Z.3.14. Uvedomujú si súvislosti medzi literárnym, divadelným a filmovým umením pri interpretácií rovnakých tém.
+Stredná úroveň
+Špecifická predmetová kompetencia 1 (ŠPK1)
+Žiaci poznajú hlavné jazykové skupiny v Európe a poznajú miesto slovenského jazyka v slovanských a európskych jazykových skupinách. Majú širšie znalosti o hláskach slovenského jazyka, poznajú pravidlá pre zdôrazňovanie slov a rozlišujú medzi spisovným a nespisovným prízvukom. Majú širšie vedomosti o druhoch a podtypoch slov, ich tvaroch a spôsoboch ich tvorenia. Analyzujú vety zostavené podľa rôznych modelov. Majú rozvinutú slovnú zásobu v súlade so svojím vzdelaním a sú schopní použiť vhodné slovo pri danej príležitosti; sú zameraní na ďalšie obohatenie vlastnej slovnej zásoby. Používajú stratégie čítania v súlade s cieľmi čítania a typom textu. Poznajú a interpretujú najvýznamnejšie diela slovenského, srbského a svetového literárneho dedičstva a lokalizujú ich v literárnohistorickom kontexte; rozumejú základným literárnoteoretickým a literárnohistorickým konceptom. Poznajú rôzne formy mediálneho vyjadrovania.
+Špecifická predmetová kompetencia 2 (ŠPK2)
+Žiaci skúmajúslovenskýjazyk a literatúru a porovnávajú ho so srbským a inými jazykmi a rozvíjajú si zvedavosť a kompetencie v medzikultúrnej komunikácii. Pravidelne čítajú literárne diela. Používajú rôzne zdroje informácií, posudzujú spoľahlivosť zdrojov, spracúvajú informácie, vedia rozlíšiť dôležité od nedôležitých a prezentujú ich argumentačným spôsobom v súlade s komunikačnou situáciou, pričom prispôsobujú jazyk a formy vyjadrovania rôznym cieľovým skupinám.
+Špecifická predmetová kompetencia 3 (ŠPK3)
+Žiaci hodnotia svoje vlastné komunikačné metódy a interakčné zručnosti. Majú bohatú slovnú zásobu a jazyk vnímajú ako škálu možností vyjadrovania a vytvárania kultúrnych, sociálnych a materiálnych hodnôt. Vytvárajú a oceňujú rôznorodý kultúrny obsah. Chápu multikultúrne rozmery literatúry a spôsob, akým národná literatúra prispieva k svetovému kultúrnemu dedičstvu. Rozvíjajú kritické myslenie a analytické schopnosti.
+Výkony vzdelávacieho cyklu (VVC) na konci stredoškolského vzdelávania:
+Stredná úroveň
+ŠPK 1
+ŠPK 2
+ŠPK 3
+Žiaci:
+Žiaci:
+Žiaci:
+- SLO.SV.S.1.1. Zaraďujú jazyky do základných jazykových skupín v Európe, poznajú miesto slovenského jazyka v rodine indoeurópskych a slovanských jazykov a rozlišujú nárečia slovenského jazyka na základe jednotlivých charakteristík.
+- SLO.SV.S.1.2. Poznajú základné etapy vývoja spisovného jazyka u Slovákov a najvýznamnejšie kultúrne a historické pamiatky.
+- SLO.SV.S.1.3. Poznajú jazykovú normu prízvukovania v slove a slabičnú dĺžku; vedia určiť kvantitu slabiky v slove a uplatniť pravidlá o platnosti a výnimkách slabičnej dĺžky.
+- SLO.SV.S.1.4. Vedia rozlíšiť striedanie hlások na rôznych príkladoch a spájajú ich s pravopisnou normou.
+- SLO.SV.S.1.5. Vedia určiť jednotlivé ohybné slová a ich gramatické kategórie; určujú všetky slovesné tvary.
+- SLO.SV.S.1.6. Rozlišujú typy odvodených slov.
+- SLO.SV.S.1.7. Analyzujú syntagmy a vety utvorené podľa základných modelov.
+- SLO.SV.S.1.8. Poznajú druhy a funkcie vedľajších viet.
+- SLO.SV.S.1.9. Rozumejú významu slov a frazeologizmov, ktoré sa vyskytujú v literárnych a mediálnych textoch, rozlišujú typy lexém vzhľadom na ich pôvod a sféru použitia, rozumejú významovým vzťahom medzi lexémami.
+- SLO.SV.S.1.10. Analyzujú vlastnosti funkčných štýlov a chápu dôležitosť ich použitia.
+- SLO.SV.S.1.11. Prepájajú literárne diela s historickým a spoločenským kontextom; vedia rozpoznať základné charakteristiky literárnych období a dávajú ich do súvislosti s literárnym dielom a autorom.
+- SLO.SV.S.1.12. Vedia rozlíšiť znaky literárnych, vedeckých a hybridných žánrov, ako aj charakteristiky rôznych foriem mediálneho prejavu.
+- SLO.SV.S.1.13. Pri rozbore literárneho diela odlišujú autora literárneho diela od rozprávača, dramatickej osoby alebo lyrického subjektu.
+- SLO.SV.S.1.14. Určujú prvky štruktúry literárneho diela: retrospektívne a chronologické rozprávanie, fabulu a sujet; rozlišujú typy rozprávania v literatúre; všímajú si typy charakterizácie podľa základných vlastností postavy (fyzické, psychologické, jazykové, spoločenské a etické).
+- SLO.SV.S.1.15. Pomenúvajú štylistické výrazové prostriedky a rozumejú ich funkcii v texte.
+- SLO.SV.S.2.1. Uplatňujú vedomosti z teórie gramatiky, všímajú si, ilustrujú a analyzujú jazykové javy v rámci zložitejšej jazykovej situácie.
+- SLO.SV.S.2.2. Všímajú si pravopisné chyby vo vlastnom a v cudzích textoch a vedia ich opraviť uplatňujúc pravopisnú normu; dokážu posúdiť spisovnosť slov a vyjadrovania sa v každodennej komunikácii.
+- SLO.SV.S.2.3. Uplatňujú rozličné stratégie pri čítaní a vedia ich prispôsobiť typu textu a účelom čítania.
+- SLO.SV.S.2.4. Pravidelne čítajú literárne umelecké texty určené programom, volia si diela podľa vlastného výberu a rozvíjajú čitateľské návyky, estetické kritériá a názory.
+- SLO.SV.S.2.5. Vedia vyjadriť vlastný umelecký zážitok z prečítaného diela na základe všestrannejanalýzy (kompozičnej, štylistickej, obsahovej); vedia interpretovať rozličné typy textov; usúvzťažňujú, porovnávajú a zdôvodňujú svoje uzávery na základe textu.
+- SLO.SV.S.2.6. Analyzujú vyčlenený problém; uvedomujú si a interpretujú tematickú, ideovú, výrazovú, štylistickú, jazykovú a kompozičnú zložku a žánrové vlastnosti literárneho textu.
+- SLO.SV.S.2.7. Dokážu posúdiť akú má úlohu forma, štýl a naratívny postup v tvarovaní významu a ideovej zložky literárneho diela.
+- SLO.SV.S.2.8. Hodnotia konanie a vlastnosti postáv, formujú morálne postoje z aspektu rasovej, národnej, kultúrnej, jazykovej, náboženskej, rodovej, pohlavnej a vekovej rovnosti.
+- SLO.SV.S.2.9. Určujú zorný uhol, postoj a zámer autora, vedia rozlíšiť subjektívnosť od objektívnosti vo vyjadrovaní, vedia rozoznať figuratívnosť (obraznosť), humor, iróniu a satiru.
+- SLO.SV.S.2.10. Vedia organizovať zložitejší hovorený prejav alebo písaný text (prekomponovať obsah, pospájať časti do jednoduhšie štruktúrovaného hovoreného alebo písaného celku).
+- SLO.SV.S.2.11. Samostatne vyhľadávajú a usúvzťažňujú informácie z textov rozličných oblastí a vedia ich použiť pri učení sa a každodenných životných situáciách.
+- SLO.SV.S.2.12. Účinkujú vo verejných rozhovoroch; vedia debatovať a pritom formulovať argumenty a protiargumenty, vedia aktívne počúvať a rešpektovať pozíciu iného, kontrolujú emocionálne výstupy a vedia rozoznať argumenty, ktoré sa zakladajú na emóciách.
+- SLO.SV.S.3.1. Formulujú svoj vlastný názor a verejne ho prejavujú pričom používajú spisovný jazyk s vedomím o spoločenských konvenciách a kulturologických rozdieloch.
+- SLO.SV.S.3.2. Všímajú si súvislosť medzi spôsobom vyjadrovania a zámerom a postojom autora; posudzujú použiteľnosť informácií a spoľahlivosť zdrojov.
+- SLO.SV.S.3.3. Využívajú rozvinuté schopnosti spolupráce, kultúru vlastného verbálneho a neverbálneho prejavu, ako aj počúvania a rešpektovania názorov iných ľudí.
+- SLO.SV.S.3.4. Rešpektujú rozmanitosť kultúrnych identít v Európe a vo svete.
+- SLO.SV.S.3.5. Rozvíjajú gramotnosť v rôznych sférach (umeleckú, digitálnu, informatickú, finančnú, zdravotnícku, mediálnu, vedeckú, matematickú...).
+- SLO.SV.S.3.6. Prispôsobujú stratégie čítania a učenia sa nezávisle stanovenému cieľu; sú schopní korigovať svoj prístup.
+- SLO.SV.S.3.7. Rozširujú svoj záujem o čítanie - od rôznych neumeleckých textov až po národnú a svetovú literatúru.
+- SLO.SV.S.3.8. Chápu súvzťažnosti medzi literatúrou a kultúrou; pri čítaní tvarujú vlastné estetické a etické názory a vedia ich zdôvodniť.
+- SLO.SV.S.3.9. Využívajú vedomosti z jazyka a literatúry na tvorbu a kritické prehodnocovanie rozličných obsahov v oblasti kultúry.
+- SLO.SV.S.3.10. Vedia zostaviť zložitejšie hovorené prejavy a písané texty na základe vlastnej skúsenosti, východiskovej a sekundárnej literatúry.
+- SLO.SV.S.3.11. Rešpektujú kultúrnu rozmanitosť Srbska, vážia si kultúrne dedičstvo rodiska; majú vyvinuté kultúrne potreby a vedia ako si ich môžu uspokojiť.
+- SLO.SV.S.3.12. Vedia vysvetliť škodlivývplyv predsudkov a stereotypovvo vzdelávacom, súkromnom a verejnom kontexte;presadzujú kultúru mieru, nenásilia, tolerancie.
+- SLO.SV.S.3.13. Vedia kriticky posúdiť pravdivosť informácií v rozličných textoch.
+- SLO.SV.S.3.14. Porovnávajú výrazové prostriedky literárneho, divadelného a filmového umenia priinterpretácii rovnakých alebo podobných motívov a tém.
+Pokročilá úroveň
+Špecifická predmetová kompetencia 1 (ŠPK1)
+Žiaci chápu funkcie a dôležitosť jazyka a viacjazyčnosti. Majú podrobnejšie znalosti gramatiky slovenského jazyka (prízvuky, zloženie slov, význam pádov a slovesných tvarov, štruktúra viet); poznajú štruktúru heslovej state v slovníku. Ovládajú ústne a písomné formy vyjadrovania potrebné vo vzdelávaní, občianskom a sociálnom začleneniení sa. Hodnotia štylistické postupy v umeleckých a neumeleckých textoch a interpretujú ich úlohupri dosahovaní estetických a sémantických charakteristík rôznych typov textov. Chápu a vytvárajú súvislosti medzi literatúrou a inými druhmi umenia, vedou a technikou. Rozvíjajú osobnú, národnú a kultúrnu identitu, povedomie o príslušnosti k európskemu a svetovému kultúrnemu dedičstvu na základe diel slovenskej, srbskej a svetovej literatúry, divadelného a filmového umenia, vedeckého a umeleckého dedičstva a rôznych foriem mediálnej kultúry.
+Špecifická predmetová kompetencia 2 (ŠPK2)
+Žiaci hovoria verejne a pred širším publikom na témy z oblasti jazyka, literatúry a kultúry. V procese učenia sa jazyka a literatúry vidia výskumné a tvorivé príležitosti a získané vedomosti a zručnosti uplatňujú v každodennom živote. Skúmajú charakteristiky registrov a štýlov súvisiacich so slovníkmi a výber vhodných jazykových výrazov. Porovnávajú informácie z rôznych odborov a mediálnych zdrojov a súvoči nim kritickí.
+Špecifická predmetová kompetencia 3 (ŠPK3)
+Žiaci majú zvyk a potrebu rozvíjať svoju kultúru rozprávania a čítania, a to ako pre vlastné zlepšenie, tak aj pre účasť na občianskom a spoločenskom živote. Monitorujú vplyv spoločensko-ekonomických dianí na jazyk, literatúru, kultúru a vedu; starajú sa o udržateľný spôsob života v komunite. Sú otvorení voči dialógu medzi kultúrami. Sú pripravení prevziať zodpovednosť za voľby a rozhodnutia, ktoré ovplyvňujú ich osobný život a život komunity.
+Výkony vzdelávacieho cyklu (VVC) na konci stredoškolského vzdelávania:
+Pokročilá úroveň
+ŠPK 1
+ŠPK 2
+ŠPK 3
+Žiaci:
+Žiaci:
+Žiaci:
+- SLO.SV.P.1.1. Rozumejú podstatným vlastnostiam a funkciám jazyka.
+- SLO.SV.P.1.2. Poznajú pojmy jednojazyčnosť a viacjazyčnosť ako aj jazykovúrozmanitosť v Srbsku.
+- SLO.SV.P.1.3. Sú schopní určiť prízvučné slabiky v slove a slabičnú dĺžku; všímajú si nespisovný prízvuk a dĺžku v bežnej komunikácii.
+- SLO.SV.P.1.4. Rozumejú pojmu fonéma; určujú všetky hláskoslovné alternácie.
+- SLO.SV.P.1.5. Rozumejú pojmu morféma.
+- SLO.SV.P.1.6. Určujú modely tvorenia slov (prefixácia, sufixácia, kompozícia, kombinované tvorenie a tvorenie konverziou).
+- SLO.SV.P.1.7. Poznajú význam pádov a určitých slovesných tvarov.
+- SLO.SV.P.1.8. Analyzujú text, rozlišujú jednotlivé druhy viet, činný a trpný rod, vzťahy medzi vetami a vetnými členmi.
+- SLO.SV.P.1.9. Uplatňujú základné pravidlá kongruencie.
+- SLO.SV.P.1.10. Vedia rozoznať v texte hyperonymá/hyponymá, paronymiu, rozlišujú lexikálne vrstvy slov; poznajú metaforu, metonymiu a synekdochu ako prenášanie významov slov.
+- SLO.SV.P.1.11. Interpretujú jazykovo-štylistické, estetické a štruktúrne vlastnosti literárno-umeleckých a literárnovedných textov s použitím literárnoteoretickej terminológie.
+- SLO.SV.P.1.12. Hodnotia slohové postupy v umeleckých a neumeleckých textoch; porovnávajú slohové postupy v dvoch (a viacerých) zložitých textoch; interpretujú ich úlohu pri uvedomovaní si estetických a významových charakteristík uvedených typov textov.
+- SLO.SV.P.2.1. Porovnávajú jazykové javy vo vlastnom a v cudzom jazyku, analyzujú ich a vyvodzujú závery.
+- SLO.SV.P.2.2. Interpretujú literárne umelecké dielo s porozumením jeho žánrových charakteristík a literárnohistorickej epochy, pri analýze sa opierajú o štruktúrne a štylistické prvky diela a používajú literárnoteoretické pojmoslovie a sekundárnu literatúru.
+- SLO.SV.P.2.3. Posudzujú funkciu štylistických výrazových prostriedkov použitých v texte.
+- SLO.SV.P.2.4. Analyzujú problém, ideu alebo odkaz v umeleckom a neumeleckom texte z rozličných zorných uhlov; nachádzajú argumenty a posudzujú ich, klasifikujú a prehodnocujú ich hodnotu a prípadne korigujú vlastné postoje.
+- SLO.SV.P.2.5. Usúvzťažňujú historické, náboženské, politické témy v spracovaných dielach a tým spôsobom budujú a prehodnocujú vlastnú identitu; vysvetľujú akosa tvorivé idey prejavujú v rozličných kultúrach a porovnávajú ich.
+- SLO.SV.P.2.6. Účel, obsah a spôsob prejavu vedia prispôsobiť komunikačnej situácii.
+- SLO.SV.P.2.7. Skúmajú vzťahy medzi teoretickými východiskami (existencializmu, recepčnej estetiky, teórie otvoreného diela) a literárnoumeleckým textom ako aj vzťahy medzi samotnými literárnymi textami (intertextualitu); vedia transponovať teoretické východiská do nového kontextu.
+- SLO.SV.P.2.8. Vedia zostaviť rozličné typy textovpoužívajúc pritom zodpovedajúce funkčné štýly a formy prejavu.
+- SLO.SV.P.2.9. Skúmajú a porovnávajú informácie z rozličných disciplín a mediálnych prameňov a vedia si utvoriť kritický odstup voči nim.
+- SLO.SV.P.2.10. Verejne vystupujú pred väčším auditóriom a ústne obhajujú témy z jazyka, literatúry a kultúry.
+- SLO.SV.P.2.11. Aktívne sa vedia zúčastniť verejnej debaty (pripravujú sa buď samostatne alebo tímovo, vedia argumentovať svoj postoj, vyvodiť závery a strategicky plánovať).
+- SLO.SV.P.3.1. Chápu silu jazyka ako prostriedka na vyjadrenie rôznych rozmerov ľudských skúseností (sociálnych, kultúrnych, morálnych, duchovných a estetických), rešpektujúc kontext a rôzne perspektívy.
+- SLO.SV.P.3.2. Kriticky skúmajú a hodnotia informácie z rôznych médií; vedia rozpoznať rôzne typy mediálnych manipulácií a ich vplyv na formovanie reality.
+- SLO.SV.P.3.3. Rozvíjajú osobný štýl vo verbálnom a neverbálnom vyjadrovaní a zároveň podporujú pozitívnu interakciu a spoluprácu s ostatnými; hodnotia a rozvíjajú svoj komunikačný potenciál proaktívnym prístupom a vytrvalosťou pri dosahovaní cieľov.
+- SLO.SV.P.3.4. Majú interaktívny vzťah s médiami a sú ochotní zúčastňovať sa v aktivitách skupiny a spoločnosti.
+- SLO.SV.P.3.5. Všímajú si a sledujú vývoj a vplyv umenia, vedy a technológie na gramotnosť a jazyk; starajú sa o zachovanie kultúrnych a historických pamiatok, o bezpečnosť a udržateľnosť životného prostredia.
+- SLO.SV.P.3.6. Prehlbujú svoje vedomosti v oblasti porozumenia textu, rôznych stratégií a techník čítania a učenia saa uvedomujú si pritom vlastné silné a slabé stránky.
+- SLO.SV.P.3.7. Pri čítaní rozširujú svoje obzory a rozvíjajú myšlienkový a emocionálny svet, pripravení sú prebrať zodpovednosť za voľby a rozhodnutia, ktoré vplývajú na osobný život a život spoločenstva.
+- SLO.SV.P.3.8. Spoznávajú rozličné kultúry prostredníctvom umeleckej literatúry regiónu, Európy a sveta a otvorení sú voči dialógu medzi kultúrami.
+- SLO.SV.P.3.9. Hodnotia rozličné kultúrne prejavy, poznajú a vedia ako dosiahnuť osobnú, spoločenskú a komerčnú hodnotu.
+- SLO.SV.P.3.10. Vedia si vážiť jazyk ako médium národnej kultúry, národné a kultúrne dedičstvo ako i kultúrnu rozmanitosť vlastného prostredia, regiónu, Európy a sveta.
+- SLO.SV.P.3.11. Skúmajú vplyv stereotypov a predsudkov na jednotlivca a spoločnosť a vedia sa zasadzovať o ľudské práva a pokojné (mierumilovné) riešenie konfliktov.
+- SLO.SV.P.3.12. Kriticky hodnostia literárne umelecké diela, divadelné a filmové umenie.
+СЛОВАЧКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општа предметна компетенција (ОПК)
+Ученици имају знања о функцији и значају језика и вишејезичности, познају граматику словачког језика и примењују је у свакодневном животу. Разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и социјалну укљученост. Негују и чувају словачки језик уважавајући разноврсност његових дијалеката, као и већински језик и језике националних мањина и друге језике.
+Користе развијен и богат речник у усменој и писаној комуникацији: говоре и пишу поштујући књижевнојезичку и правописну норму, уобличавају логичан и стилски складан текст. Воде рачуна о култури дијалога, владају говорним вештинама и вештинама активног слушања. Формулишу и изражавају усмене и писане аргументе на уверљив начин који је примерен контексту. Комуницирају на конструктиван начин, сарађују у тимовима и преговарају, развијајући осећај за иницијативу и деловање у остваривању циљева, користећи и ИКТ средства.
+Развијају читалачку писменост. Разумеју, критички и креативно промишљају књижевни и неуметнички текст. Његују говорну и читалачку културу ради сопственог усавршавања и личног испуњења. Траже, прикупљају и критички обрађују информације из различитих врста извора и одговорно употребљавају и креирају мултимедијалне садржаје.
+Тумаче књижевна дела из националне и светске књижевности. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Уочавају и примерима аргументују основне поетичке, језичке, естетске и структурне особине књижевних дела. Поседују способност фигуративног и апстрактног изражавања идеја, искустава и емоција; испољавају стваралачке могућности. Користе читање и да би боље спознали себе, друге и свет око себе усвајајући и изграђујући етичке принципе. Читањем развијају емпатију и бригу за људе и свет. Негују хумани и критички однос у различитим културним формама. Успостављају везу између књижевности и других уметности, наука и технологије.
+Ефикасно користе разноврсне технике учења и свесни су значаја целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици знају основне одлике словачког књижевног језика. Познају књижевнојезичку и правописну норму, граматику и стилистику словачког језика. Усмерени су ка богаћењу свог речника, језичког и стилског израза. Говоре јасно и течно, разликују формално и неформално изражавање, вербалну и невербалну комуникацију. Познају правила писања различитих врста текстова. Читају и разумеју линеарне и нелинеарне текстове; разликују књижевни од неуметничког текста. Повезују књижевна дела са њиховим ауторима и књижевним периодима. Одређују основне елементе структуре књижевног и неуметничког текста.
+Специфична предметна компетенција 2 (СПК2)
+Ученици имају вештине слушања и говорења и примењују их у складу са комуникативном ситуацијом. Примењују теоријска знања из граматике у конкретној језичкој ситуацији и пишу примењујући правописна правила. Састављају логичан, добро структуриран и стилски складан говорени и писани текст. Изражавају се усмено и писано на уверљив начин који је примерен контексту уз поштовање расне, националне, културне, језичке, верске, полне, родне и узрасне равноправности. Уочавају намере аутора у тексту (информативност, манипулативност). Током читања и тумачења књижевног и неуметничког текста примењују различите методе. Усвајају читање као хоби и проширују своја интересовања од омладинске књижевности ка општој белетристици. Користе фондове библиотека и архива, посећују изложбе, гледају позоришне представе и филмове.
+Специфична предметна компетенција 3 (СПК3)
+Ученици негују и чувају словачки језик уз уважавање разноврсности његових дијалеката; поштују већински језик и језике националних мањина и друге стране језике. Оспособљени су за правилно, јасно, економично и уверљиво усмено и писано изражавање. Читањем и тумачењем књижевних дела из националне, српске и светске књижевности формирају хуманистичке вредносне ставове и уверења. Успостављају везу између књижевне, позоришне и филмске уметности. Користе читалачку писменост и различите стратегије читања и учења. Препознају предрасуде, стереотипе и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) као негативне појаве. Користе знања из језика и књижевности у ситуацијама од значаја за активну грађанску укљученост. Етички и одговорно приступају интелектуалном и културном власништву.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- СЛО.СО.O.1.1. Знају основне одлике словачког књижевног језика (писма, изговори, дијалекти).
+- СЛО.СО.О.1.2. Разликују правилан од неправилног изговора гласа и класификују гласове по задатим критеријумима.
+- СЛО.СО.О.1.3. Разумеју појам слога, знају основна правила акценатске норме.
+- СЛО.СО.О.1.4. Класификују врсте речи; разликују граматичке категорије променљивих врста речи у типичним, школским примерима.
+- СЛО.СО.О.1.5. Разликују просте речи од твореница и граде речи по задатом моделу.
+- СЛО.СО.О.1.6. Класификују основне реченичне чланове; разликују независне од зависних реченица; исправно структурирају реченицу.
+- СЛО.СО.О.1.7. Разумеју значења речи, устаљених израза и фразеологизама са којима се сусрећу у свакодневној комуникацији, у лектири и школским текстовима из других предмета.
+- СЛО.СО.О.1.8. Разликују формалну од неформалне лексике и употребљавају је у складу са приликом; познају лексичке појаве и лексичке односе и примењују их у комуникативним ситуацијама.
+- СЛО.СО.О.1.9. Знају и примењују правописна правила.
+- СЛО.СО.О.1.10. Познају правила писања различитих врста текстова (нпр. писма, имејла, биографије, молбе, жалбе, извештаја…); правилно попуњавају различите обрасце.
+- СЛО.СО.О.1.11. Повезују књижевна дела са њиховим ауторима и књижевним периодима у којима су настала.
+- СЛО.СО.О.1.12. Разликују књижевни од неуметничког текста; одређују основне елементе структуре књижевноуметничког дела: тему, мотив, радњу, ликове, време и место радње.
+- СЛО.СО.О.1.13. Разликују карактеристике народне и ауторске књижевности; познају основне одлике књижевних родова и врста; уочавају лирске, епске и драмске елементе у књижевном делу.
+- СЛО.СО.О.1.14. Разликују препричавање од анализе дела.
+- СЛО.СО.О.1.15. Повезују мотиве/теме из књижевности и историје уметности са основним знањима из историје.
+- СЛО.СО.О.2.1. Примењују теоријска знања из граматике у конкретној језичкој ситуацији/тексту.
+- СЛО.СО.О.2.2. Пишу примењујући правописна правила, укључујући и основна типографско-правописна решења у куцаном тексту користећи одговарајући правопис.
+- СЛО.СО.О.2.3. Читају књижевне и неуметничке текстове (линеарне и нелинеарне); с пажњом и разумевањем слушају једноставније излагање и праве белешке, одређују кључне речи.
+- СЛО.СО.О.2.4. Исказују субјективни и естетски доживљај о говореном или писаном тексту; повезују садржај књижевног дела са сопственим или туђим искуством.
+- СЛО.СО.О.2.5. Уочавају главне мотиве, тематику и изразите стилске одлике књижевних дела одређеног књижевног правца, типичне разлике и сличности у односу на претходне књижевне епохе.
+- СЛО.СО.О.2.6. Сажимају, цитирају, препричавају/парафразирају текст издвајајући битно; интерпретирају текст; разликују информацију од интерпретације.
+- СЛО.СО.О.2.7. Обликују свој говор и писање према комуникативној ситуацији (бирају одговарајућа изражајна средства - вербална и невербална, лексику и облике казивања).
+- СЛО.СО.О.2.8. Проналазе информације у тексту (у линеарном и нелинеарном) по задатом критеријуму; налазе начине за сазнавање информација које не разумеју; одабирају и разврставају изворе информација; препознају технике манипулације у тексту и говору.
+- СЛО.СО.О.2.9. Учествују у пројектној настави и креативним драмским процесима; користе библиотечки фонд, гледају позоришне представе и филмове, посећују изложбе…
+- СЛО.СО.О.3.1. Користе знања из језика како би се правилно и јасно изражавали писаним и усменим путем у образовном контексту, у приватном и јавном животу, у ситуацијама од значаја за активну грађанску укљученост.
+- СЛО.СО.О.3.2. Представљају информације на различите начине (усмено, писмено, визуелно, дигитално).
+- СЛО.СО.О.3.3. Изражавају аргументовано своје мишљење и бирају језички израз у складу са контекстом, укључујући и конструктивну комуникацију у сарадњи са другима, у групи, на друштвеним мрежама.
+- СЛО.СО.О.3.4. Препознају предрасуде и стереотипе у књижевним и неуметничким текстовима и усменом излагању, као и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) у свакодневним ситуацијама и у медијима као негативну појаву.
+- СЛО.СО.О.3.5. Користе читалачку писменост као средство за учење и боље разумевање других предмета.
+- СЛО.СО.О.3.6. Користе различите стратегије читања и учења у складу са постављеним циљем.
+- СЛО.СО.О.3.7. Имају развијене читалачке навике и схватају значај читања за развој сопствене опште културе и знања.
+- СЛО.СО.О.3.8. Препознају значај књижевности и културе у свом животу; вреднују књижевност као суштински део националне културе и као средство за промоцију различитих култура.
+- СЛО.СО.О.3.9. Користе знања из језика и књижевности за учествовање у различитим културним садржајима.
+- СЛО.СО.О.3.10. Користе оба писма, дајући предност ћирилици; састављају говорени или писани текст; одговорно се односе према питањима везаним за интелектуалну својину; умеју да цитирају и/или парафразирају текстове.
+- СЛО.СО.О.3.11. Препознају значај језика у неговању културног и националног идентитета; разумеју право на употребу сопственог језика и поштују језике националних мањина у Србији.
+- СЛО.СО.О.3.12. Поштују људска права и привaтност других; разумеју значај равноправности људи.
+- СЛО.СО.О.3.13. Препознају улогу традиционалних и савремених медија у демократском друштву.
+- СЛО.СО.О.3.14. Препознају везу између књижевне, позоришне и филмске уметности у интерпретацији истих тема.
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне језичке групе у Европи и знају место словачког језика у словенској и европској групи језика. Имају шира знања о гласовима словачког језика, знају правила о наглашавању речи и разликују књижевни од некњижевног акцента. Имају шира знања о врстама и подврстама речи, њиховим облицима и начинима њиховог грађења. Анализирају реченице грађене по различитим моделима. Имају развијен речник у складу са образовањем и умеју да употребе одговарајућу реч у складу са приликом; усмерени су ка даљем богаћењу сопственог речника. Користе читалачке стратегије у складу са циљевима читања и врстом текста. Познају и тумаче најзначајнија дела словачке, српске и светске књижевне баштине и локализују их у књижевноисторијски контекст; разумеју основне књижевнотеоријске и књижевноисторијске појмове. Познају различите облике медијског изражавања.
+Специфична предметна компетенција 2 (СПК2)
+Истражујући словачки језик и књижевност, ученици га упоређују са српским и са другим језицима и развијају радозналост и компетенцију за међукултурну комуникацију. Редовно читају књижевна дела. Користе различите изворе информација, процењују поузданост извора, обрађују информације, бирају их према релевантности и аргументовано их представљају у складу са комуникативном ситуацијом, прилагођавајући језик и облике изражавања различитим циљним групама.
+Специфична предметна компетенција 3 (СПК3)
+Ученици процењују сопствене комуникационе методе и вештине интеракције. Имају богат речник и виде језик као низ могућности за изражавање и стварање културних, друштвених и материјалних вредности. Креирају и вреднују различите културне садржаје. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Развијају вештине критичког мишљења и аналитичке вештине.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- СЛО.СО.С.1.1. Разврставају језике у основне језичке групе у Европи, знају место српског језика у породици словенских и индоевропских језика и препознају дијалекте словачког језика на основу њихових одлика.
+- СЛО.СО.С.1.2. Познају основне етапе у развоју књижевног језика код Срба и најзначајније културноисторијске споменике.
+- СЛО.СО.С.1.3. Познају књижевнојезичку норму у вези са акцентима; умеју да одреде дужину/квантитет акценатског слога и примене правила акцентуације у једноставним примерима (унутрашњи слогови и једносложне речи).Примењују правила о изузецима при акцентовању.
+- СЛО.СО.С.1.4. Уочавају гласовне алтернације у различитим примерима и повезују их са књижевнојезичком нормом.
+- СЛО.СО.С.1.5. Одређују подврсте променљивих речи и њихове граматичке категорије; одређују све глаголске облике.
+- СЛО.СО.С.1.6. Разликују врсте твореница.
+- СЛО.СО.С.1.7. Анализирају синтагме и реченице грађене по основним моделима.
+- СЛО.СО.С.1.8. Познају врсте и функције зависних реченица.
+- СЛО.СО.С.1.9. Знају значења речи и фразеологизама који се јављају у литерарним и медијским текстовима, разликују типове лексема с обзиром на порекло и сферу употребе, разумеју значењске односе међу лексемама.
+- СЛО.СО.С.1.10. Анализирају обележја функционалних стилова и разумеју важност њихове употребе.
+- СЛО.СО.С.1.11. Повезују књижевна дела са историјским и друштвеним контекстом; препознају основне карактеристике књижевних периода и повезују их са књижевним делом и аутором.
+- СЛО.СО.С.1.12. Препознају одлике књижевнонаучних и хибридних врста као и карактеристике различитих облика медијског изражавања.
+- СЛО.СО.С.1.13. Разликују аутора књижевноуметничког дела од наратора, драмског лица или лирског субјекта приликом анализе књижевног дела.
+- СЛО.СО.С.1.14. Одређују елементе књижевне структуре: ретроспективно и хронолошко приповедање, фабулу и сиже; разликују врсте казивања у књижевности; уочавају врсте карактеризације према основним особинама лика (физичка, психолошка, језичка, друштвена и етичка).
+- СЛО.СО.С.1.15. Именују језичко-стилска средства и разумеју њихову функцију у тексту.
+- СЛО.СО.С.2.1. Примењују теоријска знања из граматике, уочавају, илуструју и анализирају језичке појаве у сложенијој језичкој ситуацији.
+- СЛО.СО.С.2.2. Уочавају и исправљају правописне грешке у свом и туђем тексту у складу са правописном нормом; препознају некњижевне акценте и облике речи у свакодневној комуникацији.
+- СЛО.СО.С.2.3. Примењују различите стратегије читања и прилагођавају их природи текста и сврси читања.
+- СЛО.СО.С.2.4. Редовно читају књижевна дела из програма и бирају дела по свом слободном избору развијајући читалачке навике, естетске критеријуме и судове.
+- СЛО.СО.С.2.5. Свестрано доживљавају књижевноуметничко дело исказујући личне утиске; интерпретирају различите врсте текстова; повезују, упоређују и образлажу своје закључке чињеницама из текста.
+- СЛО.СО.С.2.6. Анализирају издвојен проблем; увиђају и тумаче тематске, идејне, поетичке, стилске, језичке, композиционе и жанровске особине књижевног текста.
+- СЛО.СО.С.2.7. Процењују улогу коју форма, стил и тип приповедања имају у обликовању значења и идеје књижевног дела.
+- СЛО.СО.С.2.8. Вреднују поступке и особине ликова формирајући моралне ставове и из угла равноправности људи.
+- СЛО.СО.С.2.9. Утврђују тачке гледишта, став и намере аутора, разликују субјективност од објективности у изражавању, препознају фигуративност, хумор, иронију, сатиру.
+- СЛО.СО.С.2.10. Организују сложенији говорени или писани текст (преуређују садржај, повезују делове у једноставно структурирану говорену или писану целину).
+- СЛО.СО.С.2.11. Самостално проналазе и повезују информације из текстова из различитих области и користе их у учењу и у свакодневним животним ситуацијама.
+- СЛО.СО.С.2.12. Учествују у јавним разговорима; дебатују формулисањем аргумената и контрааргумената, активним слушањем и уважавањем позиције другог, контролом емоционалног садржаја и препознавањем аргумената заснованих на емоцијама.
+- СЛО.СО.С.3.1. Формулишу своје мишљење и јавно га исказују служећи се књижевним језиком уз свест о социјалним конвенцијама и културолошким различитостима.
+- СЛО.СО.С.3.2. Уочавају повезаност начина изражавања са намером и ставом аутора; процењују употребљивост информација и поузданост извора.
+- СЛО.СО.С.3.3. Користе изграђене вештине сарадње, културу сопственог вербалног и невербалног изражавања, као слушања и поштовања туђег мишљења.
+- СЛО.СО.С.3.4. Уважавају разноликост културних идентитета у Европи и свету.
+- СЛО.СО.С.3.5. Развијају писменост у различитим сферама (уметничкој, дигиталној, информатичкој, финансијској, здравстеној, медијској, научној, математичкој…).
+- СЛО.СО.С.3.6. Прилагођавају стратегије читања и учења самостално постављеном циљу; способни су да коригују свој приступ.
+- СЛО.СО.С.3.7. Проширују интересовање за читање - од различитих неуметничких текстова до националне и светске књижевности.
+- СЛО.СО.С.3.8. Разумеју међусобне везе књижевности и културе; читајући обликују своје естетске и етичке ставове и аргументовано их образлажу.
+- СЛО.СО.С.3.9. Користе знања из језика и књижевности за креирање и критичко преиспитивање различитих културних садржаја.
+- СЛО.СО.С.3.10. Састављају сложеније говорене или писане текстове на основу личног искуства, основне и секундарне литературе.
+- СЛО.СО.С.3.11. Уважавају културну разноликост Србије, цене културну баштину свог завичаја; имају изграђене културне потребе и знају како да их остваре.
+- СЛО.СО.С.3.12. Објашњавају штетан утицај предрасуда и стереотипа у образовном, приватном и јавном контексту; промовишу културу мира и ненасиља, толеранцију.
+- СЛО.СО.С.3.13. Користе стратегије критичког мишљења за проверу информација у различитим текстовима.
+- СЛО.СО.С.3.14. Упоређују изражајна средства књижевне, позоришне и филмске уметности приликом интерпретације истих или блиских мотива и тема.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функције и значај језика и вишејезичности. Имају детаљнија знања о граматици словачког језика (акцентима, саставу речи, значењу падежа и глаголских облика, структури реченице); познају структуру речничког чланка. Владају усменим и писаним облицима потребним за школовање, грађанску и социјалну укљученост. Процењују стилске поступке у књижевном и неуметничком тексту и тумаче њихову улогу у остваривању естетских и значењских одлика различитих врста текстова. Разумеју и успостављају везе између књижевности и других уметности, науке и технологије. Развијају лични, национални и културни идентитет, свест о припадности европском и светском културном наслеђу на основу дела словачке, српске и светске књижевности, позоришне и филмске уметности, научне и уметничке баштине и различитих облика медијске културе.
+Специфична предметна компетенција 2 (СПК2)
+Ученици говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе. Уочавају истраживачке и стваралачке могућности у процесу учења језика и књижевности и примењују стечена знања и вештине у свакодневном животу. Истражују карактеристике регистара и стилова везаних за речнике и избор одговарајућих језичких израза. Упоређују информације из различитих дисциплина и медијских извора и критички се односи према њима.
+Специфична предметна компетенција 3 (СПК3)
+Ученици имају навику и потребу да развијају говорну и читалачку културу, како ради сопственог усавршавања тако и ради учешћа у грађанском и друштвеном животу. Прате утицај социоекономских кретања на језик, књижевност, културу и науку; брину о одрживом начину живота у заједници. Негују хумани и критички однос у дијалогу међу културама. Спремни су да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- СЛО.СО.Н.1.1. Разумеју битна својства и функције језика.
+- СЛО.СО.Н.1.2. Познају појмове једнојезичности и вишејезичности и знају одговарајуће језичке прилике у Србији.
+- СЛО.СО.Н.1.3. Умеју да одреде место и квантитет акцента у речи, опажају некњижевни акценат у свакодневној комуникацији.
+- СЛО.СО.Н.1.4. Разумеју појам фонеме; одређују све гласовне алтернације.
+- СЛО.СО.Н.1.5. Разумеју појам морфеме.
+- СЛО.СО.Н.1.6. Одређују творбене моделе (префиксација, извођење, слагање, комбинована творба и творба претварањем).
+- СЛО.СО.Н.1.7. Знају значења падежа и личних глаголских облика.
+- СЛО.СО.Н.1.8. Анализирају текст разликујући специјалне врсте реченица, актив и пасив, напоредне односе међу реченицама и реченичним члановима.
+- СЛО.СО.Н.1.9. Примењују основна правила конгруенције.
+- СЛО.СО.Н.1.10. Препознају у тексту хиперонимију/хипонимију, паронимију, разликују лексичке слојеве; познају метафору, метонимију и синегдоху као лексичке механизме.
+- СЛО.СО.Н.1.11. Тумаче језичко-стилске, естетске и структурне особине књижевноуметничких и књижевнонаучних текстова, користећи књижевнотеоријску терминологију.
+- СЛО.СО.Н.1.12. Процењују стилске поступке у књижевном и неуметничком тексту; пореде стилске поступке у два сложена текста (или више њих); тумаче њихову улогу у остваривању естетских и значењских одлика наведених врста текстова.
+- СЛО.СО.Н.2.1. Упоређују језичке појаве у свом и другим страним језицима, анализирају их и изводе закључке.
+- СЛО.СО.Н.2.2. Тумаче књижевно дело са разумевањем његових жанровских карактеристика и књижевноисторијског контекста, ослањајући се у анализи на структурне и стилистичке елементе дела и употребљавајући књижевнотеоријску терминологију и секундарне изворе.
+- СЛО.СО.Н.2.3. Процењују функцију употребљених стилских средстава у тексту.
+- СЛО.СО.Н.2.4. Анализирају проблем, идеју или поруку у књижевном и неуметничком тексту сагледавајући их из различитих перспектива; проналазе и процењују аргументе, рангирају и преиспитују њихову вредност и евентуално коригују своје ставове.
+- СЛО.СО.Н.2.5. Повезују историјске, религијске, политичке теме у делима која обрађују и на тај начин граде и преиспитују сопствени идентитет; објашњавају и пореде како се идеје креативно изражавају у различитим културама.
+- СЛО.СО.Н.2.6. Усклађују сврху, садржај и начин излагања са комуникативном ситуацијом.
+- СЛО.СО.Н.2.7. Истражују односе између одређене теорије (егзистенцијализам, теорија рецепције/отвореног дела) и књижевноуметничког текста и односе између самих књижевноуметничких текстова (интертекстуалност); преносе теоријска знања у нови контекст.
+- СЛО.СО.Н.2.8. Састављају различите типове текстова употребљавајући одговарајуће функционалне стилове и форме казивања.
+- СЛО.СО.Н.2.9. Истражују и упоређују информације из различитих дисциплина и медијских извора, стварајући критички однос према њима.
+- СЛО.СО.Н.2.10. Говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе.
+- СЛО.СО.Н.2.11. Активно учествују у јавној дебати (припремају се за њу, самостално или у сарадњи са тимом, аргументовано излажу ставове, изводе закључке и осмишљавају стратегије).
+- СЛО.СО.Н.3.1. Разумеју моћ језика као средства изражавања различитих димензија људских искустава (друштвених, културних, моралних, духовних и естетских), уважавајући контекст и различите перспективе.
+- СЛО.СО.Н.3.2. Критички истражују и вреднују информације из различитих медија; умеју да препознају различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- СЛО.СО.Н.3.3. Развијају лични стил у вербалном и невербалном изражавању уз неговање позитивне интеракције и сарадње са другима; процењују и развијају своје комуникативне потенцијале уз проактиван став и истрајност у остваривању циљева.
+- СЛО.СО.Н.3.4. Имају интерактиван однос са медијима уз спремност да учествују у активностима заједнице и друштва.
+- СЛО.СО.Н.3.5. Уочавају и прате развој и утицај уметности, науке и технологије на писменост и језик; брину о очувању културно-историјских споменика, о безбедности и одрживости животне средине.
+- СЛО.СО.Н.3.6. Продубљују своје разумевање и примену различитих стратегија и техника читања и учења уз самосвест о својим властитим снагама и слабостима.
+- СЛО.СО.Н.3.7. Читајући проширују своје видике и развијају свој мисаони и емоционални свет, уз спремност да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+- СЛО.СО.Н.3.8. Упознају различите културе кроз књижевност региона, Европе и света и негују хумани и критички однос у дијалогу међу културама.
+- СЛО.СО.Н.3.9. Вреднују различите културне садржаје препознајући и остварујући личну, друштвену и комерцијалну вредност.
+- СЛО.СО.Н.3.10. Вреднују језик као медиј националне културе, националну културну баштину и културну разноликост своје средине, региона, Европе и света.
+- СЛО.СО.Н.3.11. Истражују утицај стереотипа и предрасуда на појединца и друштво залажући се за остваривање људских права и мирно решавање сукоба.
+- СЛО.СО.Н.3.12. Критички вреднују књижевна, позоришна и филмска остварења.
+MAGYAR NYELV ÉS IRODALOM
+Képzési tudásszabványok a középfokú oktatás végén
+Általános tantárgyi kompetenciák (ÁTK)
+A tanuló ismeretekkel rendelkezik a nyelv és a többnyelvűség funkciójával és jelentőségével kapcsolatban. Ismeri és alkalmazza a magyar nyelv nyelvtani szabályait. Tisztában van a nyelv szerepével, és ennek tudatában használja anyanyelvét megnyilatkozásaiban. Fejleszti polgári felelősségtudatát, és fokozza társadalmi aktivitását. Ápolja és őrzi a magyar nyelvet, tiszteletben tartja nyelvjárásainak sokszínűségét, valamint a többi nemzeti kisebbség nyelvét és más nyelveket.
+Árnyaltan fejezi ki magát a szóbeli és írásbeli kommunikációban, szókincsét folyamatosan gazdagítja. Tiszteletben tartja az igényes nyelvhasználat szabályait és a helyesírási normát. A nyelvet kreatív módon alkalmazza, logikusan tagolt és a stilisztikai követelményeknek megfelelő, szabatos szöveget alkot. Ismeri a kulturált párbeszéd szabályait. Fejlett a beszédkészsége, vitastratégiája mások véleményének a meghallgatására épül. Fejleszti érvelési készségét, és építő jellegű ötletekkel vesz részt csoportja munkájában a kitűzött cél elérése érdekében. Meggyőző érvelő technikával fogalmazza meg a kontextusnak megfelelő szóbeli és írásbeli érveit. IKT-eszközöket használ.
+Fejlett olvasói jártassággal rendelkezik. Megérti és összeveti a szépirodalmi és nem szépirodalmi jellegű műveket, és kreatívan, valamint kritikai szemlélettel viszonyul hozzájuk. Egyéni fejlődése és az önmegvalósítás érdekében ápolja olvasói és beszédkultúráját. Különféle forrásokból merít információkat, és hozzáértően dolgozza fel őket. Multimediális tartalmakat hoz létre.
+Gyakorlottan értelmezi a magyar és a világirodalom alkotásait. Megérti az irodalom multikulturális dimenzióit, átlátja a nemzeti irodalomnak és a világ kulturális hagyatékának a kapcsolatát. Felismeri és példákkal szemlélteti a szépirodalmi művek alapvető nyelvi, poétikai, esztétikai és szerkezeti jellemzőit.
+Képes gondolatainak, érzelmeinek, tapasztalatainak megfogalmazására: képi és elvont kifejezésmód alkalmazására, alkotói tevékenység kifejtésére. Az olvasást az ön- és világértés eszközének tekinti, és általa érti meg és sajátítja el az alapvető etikai elveket. Az olvasás révén fejleszti empátiáját embertársai és a világ iránt. Kulturális tevékenységeit a humanitás és a kritikai szemlélet jegyében végzi.
+Összefüggéseket fedez fel az irodalom, valamint más művészetek és a tudományok között.
+Hatékonyan alkalmazza a különféle tanulási technikákat, és tudatában van az élethosszig tartó tanulás jelentőségének. Különféle élethelyzetekben sikeresen alkalmazza az elsajátított tudást és a kognitív stratégiákat. Az etikai követelményeknek megfelelően viszonyul a szellemi és kulturális tulajdon fogalmához.
+Alapszint
+Speciális tantárgyi kompetenciák 1 (STK 1)
+A tanuló ismeri a magyar irodalmi nyelv jellemzőit. Ismeri a köznyelvi normát és a helyesírási szabályokat, valamint a magyar nyelv nyelvtani és stilisztikai jellemzőit. Betekintést nyer a magyar hangok rendszerébe; ismeri a helyes kiejtés, a hangsúlyozás szabályait, a kulturált nyelvi megnyilatkozás eszköztárát. Folyamatosan törekszik szókincsének gazdagítására, az árnyalt nyelvi-stilisztikai kifejezőeszközök elsajátítására. Érthetően és folyékonyan beszél, különbséget tesz a hivatalos és a nem hivatalos nyelv, verbális és nem verbális kommunikáció között. Ismeri a különféle fajtájú szövegek megalkotásának szabályait. Olvas és megért lineáris és nem lineáris szövegeket; megkülönbözteti a szépirodalmi szöveget a nem szépirodalmitól. Összekapcsolja az irodalmi alkotást szerzőjével és a megfelelő irodalmi irányzattal. Ismeri a szépirodalmi és nem szépirodalmi szövegek szerkezetének alapvető elemeit.
+Speciális tantárgyi kompetenciák 2 (STK 2)
+A tanuló kulturáltan meghallgatja mások véleményét, és az aktuális kommunikációs szituációnak, beszédhelyzetnek megfelelően szólal meg, tanúbizonyságot tesz fejlett beszédkészségéről. A nyelvtanból elsajátított elméleti tudást konkrét szituációkban alkalmazza. A helyesírási és nyelvhelyességi szabályok ismeretében fogalmazza meg mondanivalóját. Logikusan tagolt, jól szerkesztett és stilisztikailag megfelelő szóbeli és írásbeli szövegeket alkot. Meggyőző módon érvel szóban és írásban, az adott kontextus jegyeinek a figyelembevételével. Szövegének megfogalmazásakor tiszteletben tartja a faji, nemzeti, kulturális, nyelvi, vallási, nemi és korosztálybeli egyenlőséget. Felismeri a műben a kommunikációs célokat. Szépirodalmi és nem szépirodalmi szövegek olvasása és értelmezése közben változatos elemzési módszereket alkalmaz. Szívesen olvas; érdeklődési köre fokozatosan tágul, az ifjúsági és populáris irodalomtól eljut a legfontosabb szépirodalmi alkotások olvasásáig. Használja a hagyományos és elektronikus könyvtárak, valamint a levéltárak anyagát és szolgáltatásait, kiállításokra jár, színházi előadásokat és filmeket néz.
+Speciális tantárgyi kompetenciák 3 (STK 3)
+A tanuló ápolja és tudatosan őrzi a magyar nyelvet, becsüli nyelvjárásaink sokszínűségét, tiszteli a nemzeti kisebbségek nyelvét és más idegen nyelveket. Képes jól érthető, tömör, a nyelv szabályainak megfelelő, szabatos, meggyőző szóbeli és írásbeli szövegek létrehozására. A magyar és a világirodalmi alkotások olvasása és értelmezése révén kialakítja a maga humanista értékítéleteit és meggyőződését. Összefüggéseket fedez fel az irodalom és más művészetek (pl. színház, filmművészet, képzőművészet) között. Felhasználja olvasói jártasságát és a különféle olvasási és tanulási stratégiákat a mindennapi életben. Ennek a tapasztalatnak a birtokában felismeri az olyan negatív jelenségeket a kommunikációban, mint amilyenek az előítéletek, sztereotípiák és a verbális agresszió formái (tiszteletlen megszólítás, a beszédtárs semmibevétele, sértegetés, gyűlöletbeszéd stb.). Nyelvi és irodalmi készségeit felhasználja a polgári aktivitásokban való részvétel szempontjából fontos helyzetekben. Az etikai követelményeknek megfelelően viszonyul a szellemi és kulturális tulajdon fogalmához.
+Az oktatási ciklus kimenetei (OCK) a középfokú oktatás végén:
+Alapszint
+STK 1
+STK 2
+STK 3
+A tanuló:
+A tanuló:
+A tanuló:
+- MNY.KO.A.1.1. Ismeri a nyelvet mint jelrendszert. Ismeri a nyelv rétegződését, társadalmi és táji tagolódását. Ismeri a norma fogalmát, a nyelvhasználat alapvető szabályait.
+- MNY.KO.A.1.2. Ismeri a magyar beszédhangok keletkezésének módját. Megismerkedik a fonéma fogalmával. Megkülönbözteti a magánhangzókat időtartam és a nyelv vízszintes mozgása szerint. Ismeri a hangrend és a magánhangzó-illeszkedés törvényét. Ismeretei vannak a mássalhangzók felosztásáról (kivéve a képzés módja szerint). Ismeri a mássalhangzó-változások alapvető eseteit.
+- MNY.KO.A.1.3. Érti a szótag fogalmát, ismeri a hangsúlyozás alapvető szabályait. Hangképzése helyes.
+- MNY.KO.A.1.4. Tisztában van a lexéma és a szó(alak) fogalmával. Ismeri az alapszófajokat, a viszonyszók közül pedig a kötőszót.
+- MNY.KO.A.1.5. Különbséget tesz az egyszerű szavak és a szóösszetételek között.
+- MNY.KO.A.1.6. Megkülönbözteti az egyszerű és összetett mondatot. Ismeri a mondatrészeket, megkülönbözteti a mellé- és alárendelő mondatokat; képes a nyelvi normának megfelelő, szabatos mondatokat megfogalmazni.
+- MNY.KO.A.1.7. Tisztában van a hangalak és a jelentés kapcsolatával. Ismeri a szavak állandó és alkalmi jelentését. Ismeri az egyjelentésű, a többjelentésű, az azonos alakú, hasonló alakú, ellentétes jelentésű, hangutánzó és hangulatfestő, valamint a rokon értelmű szavakat.
+- MNY.KO.A.1.8. Alapismeretei vannak a szókészlet felosztásáról. Folyamatosan ismerkedik a szavak, állandósult szókapcsolatok (frazémák) jelentésével, amelyekkel a mindennapi kommunikációban, valamint szépirodalmi, ismeretterjesztő és tudományos szövegek olvasásakor találkozik.
+- MNY.KO.A.1.9. Ismeri és alkalmazza a helyesírási szabályokat. Helyesen jelöli a hangok időtartamát, a hangkapcsolatokat a mássalhangzó-változások esetében.
+- MNY.KO.A.1.10. Ismeri a különféle szövegtípusok létrehozásának szabályait (pl. levél, e-mail, önéletrajz, kérvény, fellebbezés, jelentés…); helyesen tölt ki különféle űrlapokat.
+- MNY.KO.A.1.11. Összekapcsolja az irodalmi alkotást szerzőjével és a megfelelő irodalmi irányzattal.
+- MNY.KO.A.1.12. Megkülönbözteti a szépirodalmi és nem szépirodalmi szöveget; megnevezi az epikai alkotás alaptényezőit: téma, motívum, cselekmény, szereplők, a cselekmény ideje és helye.
+- MNY.KO.A.1.13. Megkülönbözteti a népköltészetet a műköltészettől; megismeri a szépirodalmi műnemek és műfajok alapvető ismertetőjegyeit; felismeri a lírai, epikai és drámai elemeket a szépirodalmi műben; megkülönbözteti a kötött és szabadverset; felismeri a rímfajtákat és versformákat (pl. képvers, szonett).
+- MNY.KO.A.1.14. Különbséget tesz a mű parafrazeálása és elemzése között.
+- MNY.KO.A.1.15. Összefüggést teremt az irodalmi és a művészettörténeti motívumok/témák és történelmi alapismeretei között.
+- MNY.KO.A.2.1. A szóbeli és írásbeli kommunikációban alkalmazza nyelv(tan)i ismereteit.
+- MNY.KO.A.2.2. Szövegalkotáskor alkalmazza a helyesírási szabályokat, ismeri a digitális szöveg létrehozásához szükséges tipográfiai-helyesírási eljárásokat.
+- MNY.KO.A.2.3. Szépirodalmi és nem szépirodalmi szövegeket (lineárisakat és nem lineárisakat) olvas; figyelmesen és értőn meghallgat egyszerűbb tartalmú előadásokat, közben jegyzetel, és meghatározza a kulcsszavakat.
+- MNY.KO.A.2.4. Szabatosan megfogalmazza olvasmányélményét valamely irodalmi szövegről; az irodalmi mű tartalmát összefüggésbe hozza a maga és mások tapasztalataival.
+- MNY.KO.A.2.5. Felismeri egy adott irodalmi irányzathoz tartozó mű témáját, motívumait és főbb stilisztikai jellemzőit; kiemeli a korábbi irodalmi korszakokéhoz hasonló és attól eltérő vonásokat.
+- MNY.KO.A.2.6. Összefoglalja, idézi és értelmezi a szöveget; kiemeli a lényeget; megkülönbözteti az objektív tényeket az értelmezéstől.
+- MNY.KO.A.2.7. Beszédét és írását az adott kommunikációs szituációhoz idomítja: törekszik a helyénvaló szó- és nyelvhasználatra, megválasztja a megfelelő beszédmódot, valamint a verbális és nem verbális kifejezőeszközöket.
+- MNY.KO.A.2.8. Képes adott kritériumok szerint fellelni információkat a szövegben (lineárisban vagy nem lineárisban); képes az önálló információszerzésre; megválogatja és osztályozza az információforrásokat; írott szövegben és beszédben felismeri a manipulációs technikákat.
+- MNY.KO.A.2.9. Részt vesz projektmunkában és előadó-művészeti alkotófolyamatokban; használja a könyvtári állományt, színházi előadásokat és filmeket néz, kiállításokat látogat.
+- MNY.KO.A.3.1. Alkalmazza a nyelvi, nyelvhelyességi szabályokat a szóbeli és írásbeli kommunikációban (mind iskolai tevékenységei során, mind a magán- és közélet különféle színterein).
+- MNY.KO.A.3.2. A szóbeli és írásbeli kommunikáció mellett az információátadást vizuális és digitális eszközök révén is megvalósítja.
+- MNY.KO.A.3.3. Érvekkel alátámasztva fejti ki véleményét, és a kontextusnak megfelelő nyelvi kifejezésmódot választ; építő jellegű beszélgetést folytat beszélgetőpartnereivel, csoporttársaival (a közösségi médiában vagy a kommunikáció egyéb színterein).
+- MNY.KO.A.3.4. Felismeri az előítéleteket és sztereotípiákat az irodalmi és nem irodalmi szövegekben és a szóbeli megnyilatkozásokban; észleli a mindennapi helyzetekben és a médiában megnyilvánuló verbális agresszióformákat (tiszteletlen megszólítás, a beszédtárs semmibevétele, sértegetés, gyűlöletbeszéd stb.).
+- MNY.KO.A.3.5. Olvasói jártasságát az ismeretszerzés és az iskolai tantárgyak mélyebb megértése során is kamatoztatja.
+- MNY.KO.A.3.6. Az olvasás céljához igazítva alkalmaz különféle olvasási és tanulási stratégiákat.
+- MNY.KO.A.3.7. Fejlett olvasási szokásokkal rendelkezik, és tudatában van annak, milyen jelentősége van az olvasásnak tudása és általános műveltsége fejlesztésében.
+- MNY.KO.A.3.8. Felismeri a szépirodalom és a kultúra jelentőségét az életében; értékeli a szépirodalmat mint a nemzeti kultúra lényeges elemét és mint különféle kultúrák népszerűsítésének eszközét.
+- MNY.KO.A.3.9. Nyelvi és irodalmi ismereteit felhasználva részt vesz különféle kulturális tartalmak létrehozásában.
+- MNY.KO.A.3.10. Szóbeli és írásbeli szöveget alkot; tud idézni és értelmezni irodalmi szövegeket; felelősségteljesen viszonyul a szellemi tulajdon kérdéséhez
+- MNY.KO.A.3.11. Felismeri a nyelv jelentőségét kulturális és nemzeti identitása ápolásában; tudatosul benne az anyanyelvhasználathoz való joga; tiszteletben tartja a Szerbiában élő népek nyelvét.
+- MNY.KO.A.3.12. Tiszteletben tartja az emberi és személyiségi jogokat, mások magánélethez való jogát; megérti az emberek közötti egyenlőség jelentőségét.
+- MNY.KO.A.3.13. Felismeri a hagyományos és az újmédia szerepét a demokratikus társadalomban.
+- MNY.KO.A.3.14. Felismeri a kapcsolatot az azonos témát feldolgozó szépirodalmi, színház-, film- és képzőművészeti alkotások között. Figyelmet fordít a multimediális szempontokra: a szépirodalom, a zene és a vizuális kultúra (pl. a film- és a képzőművészet) egymásra hatására.
+Középszint
+Speciális tantárgyi kompetenciák 1 (STK 1)
+A tanuló megismeri a főbb európai nyelvcsaládokat, ismeri a magyar nyelv eredetét, és meg tudja határozni a magyar nyelv helyét az uráli nyelvcsaládon belül.
+Alaposabb ismeretei vannak a magyar nyelv hangtani, szófaji, alaktani rendszeréről, a szóképzés módjairól. Felismeri a mondat részeit, és megfelelő mondatmodellek révén elemzi. Szókincse folyamatosan gyarapodik; a különféle beszédszituációkban a kommunikációs körülményeknek megfelelően szólal meg. Az olvasási stratégiákat az olvasás céljával és a szöveg fajtájával összhangban választja meg. Ismeri és értelmezi a magyar és a világirodalom legjelentősebb műveit, és elhelyezi őket az irodalomtörténeti korszakokban; ismeri az alapvető irodalomelméleti és irodalomtörténeti fogalmakat. Megismerkedik a tömegtájékoztató eszközökben rejlő kifejezési lehetőségekkel.
+Speciális tantárgyi kompetenciák 2 (STK 2)
+A magyar nyelv és irodalom tanulmányozása során szerzett élményeit összeveti idegen nyelvi tapasztalataival. Mindez felkelti érdeklődését a téma iránt, és fejleszti kompetenciáját az interkulturális kommunikáció terén. Rendszeresen olvas irodalmi műveket. Különféle információforrásokat használ, felméri a források megbízhatóságát, értékeli és feldolgozza az információkat. A gondosan kiválasztott, hiteles információkat a beszédhelyzetnek megfelelően, érvekkel alátámasztva mutatja be. Nyelvi kifejezésmódját a megfelelő célcsoporthoz idomítja.
+Speciális tantárgyi kompetenciák 3 (STK 3)
+A tanuló felméri saját kommunikációs képességeit és interakciós készségeit. Gazdag szókincse van, és érzékeli a nyelvben rejlő lehetőségeket, amelyek révén kulturális és társadalmi értékeket lehet kifejezni és létrehozni. Különféle szellemi tartalmakat alkot és értékel. Érti az irodalom multikulturális dimenzióit, és látja, hogyan gyarapítja a nemzeti irodalom a világ szellemi örökségét. Fejleszti kritikai gondolkodási képességét és elemzési készségét.
+Az oktatási ciklus kimenetei (OCK) a középfokú oktatás végén:
+Középszint
+STK 1
+STK 2
+STK 3
+A tanuló:
+A tanuló:
+A tanuló:
+- MNY.KO.K.1.1. Besorolja a nyelveket a főbb európai nyelvcsaládokba, meg tudja határozni a magyar nyelv helyét az uráli nyelvcsaládon belül; megismerkedik a nyelvjárások alapvető ismertetőjegyeivel. Ismeri a kettősnyelvűség és a regionális köznyelv fogalmát.
+- MNY.KO.K.1.2. Ismeri a főbb nyelvtörténeti korszakokat és a legfontosabb magyar nyelvemlékeket. Különbséget tesz szórványemlék és szövegemlék között.
+- MNY.KO.K.1.3. Ismeretekkel rendelkezik a nyelvújító mozgalmáról, ismeretei vannak a nyelvrokonság legjelesebb kutatóiról.
+- MNY.KO.K.1.4. Ismeri az írásmű és beszédmű létrehozásának fázisait: anyaggyűjtés, elrendezés, megszerkesztés. Megismerkedik a retorika néhány alapfogalmával: érvtípusok, retorikai eszközök. Tud vázlatot készíteni.
+- MNY.KO.K.1.5. Ismeri a magánhangzók felosztását (az ajakműködés és a nyelv függőleges mozgása szerint is). Ismeri a mássalhangzó-változások teljes rendszerét.
+- MNY.KO.K.1.6. Tud a szókészlet változásáról. Felismeri a különböző nyelvváltozatok nyelvi jellemzőit. Ismeri a dialektus, a szociolektus, a digilektus és az idiolektus fogalmát. Ismeri a tájszavak felosztását.
+- MNY.KO.K.1.7. Megnevezi az alapszófajokat és az átmeneti szófajokat, ismeri jellemzőiket; ismeri és megnevezi az igefajtákat.
+- MNY.KO.K.1.8. Ismeri a legalapvetőbb szóalkotási módokat. Ismeri a morféma fogalmát. Ismeri és megnevezi az igékhez és névszókhoz járuló toldalékokat. Megismerkedik a szóösszetételek fajtáival.
+- MNY.KO.K.1.9. Felismeri és megnevezi a szószerkezeteket. Az egyszerű mondatot mondatmodellek révén elemzi. Ismeri a mondatfajtákat, a mondatok modalitását jelző formai jegyeket.
+- MNY.KO.K.1.10. Ismeri az összetett mondatok rendszerét, az alá- és mellérendelő mondatok fajtáit. Alkalmazza az egyeztetés alapszabályait.
+- MNY.KO.K.1.11. Összekapcsolja a szépirodalmi műveket a történelmi és társadalmi kontextussal; felismeri az irodalomtörténeti korszakok, stílusirányzatok alapvető jellemzőit, és összeköti őket a megfelelő szépirodalmi művekkel és szerzőkel.
+- MNY.KO.K.1.12. Irodalmi művek elemzésekor elhatárolja az irodalmi alkotás szerzőjét a mű elbeszélőjétől, a dráma szereplőitől, illetve a lírai éntől.
+- MNY.KO.K.1.13. Megismeri az irodalomtudományi és közéleti műfajok sajátosságait, valamint a különféle sajtóműfajok jellegzetességeit.
+- MNY.KO.K.1.14. Az irodalmi művek értelmezésekor megkülönbözteti az elbeszélés fajtáit: pl. retrospektív (visszatekintő) és kronológiai (időrendi); az elbeszélés alaptényezőit, az epikus közlés alapformáit/beszédmódjait (elbeszélés, leírás, belső monológ, párbeszéd, reflexió); Felismeri az irodalmi hős jellemzésének fizikai, pszichikai, társadalmi, erkölcsi és nyelvi aspektusait.
+- MNY.KO.K.1.15. Ismeri a stílus alapvető jellemzőit, a stíluselemeket, stílusárnyalatokat, továbbá a stílusrétegek, korstílusok, stílusirányzatok nyelvi-stilisztikai jellemzőit. Felismeri a szépirodalmi műben a nyelvi-stilisztikai eszközöket (szóképek, alakzatok).
+- MNY.KO.K.1.16. Ismeri a funkcionális stílusfajták jellemzőit, és megérti szerepüket.
+- MNY.KO.K.2.1. Szóbeli és írásbeli megnyilvánulásai során alkalmazza megszerzett nyelv(tan)i ismereteit; felismeri és elemzi a különféle beszédhelyzetekre jellemző nyelvi jelenségeket.
+- MNY.KO.K.2.2. Észreveszi és a helyesírási normával összhangban javítja a helyesírási hibákat; a mindennapi kommunikációban felismeri a köznyelvitől eltérő megnyilatkozásokat.
+- MNY.KO.K.2.3. Különféle olvasási stratégiákat alkalmaz, és a szöveg fajtájához, valamint az olvasás céljához idomítja őket.
+- MNY.KO.K.2.4. Rendszeresen olvassa a tantervben szereplő és a szabadon választott irodalmi műveket, fejlesztve olvasási szokásait és esztétikai értékítéletét.
+- MNY.KO.K.2.5. Az irodalmi művek olvasása élményt jelent számára, és szemléletesen kifejti benyomásait; különféle fajtájú szövegeket értelmez; megindokolja következtetéseit, és a szöveg részleteivel igazolja őket.
+- MNY.KO.K.2.6. Önállóan elemzi a szépirodalmi művekben felvetődő kérdéseket, felfedezi és értelmezi a szépirodalmi művek tematikai, eszmei, nyelvi-stilisztikai, szerkezeti és műfaji jellemzőit.
+- MNY.KO.K.2.7. Felméri, hogyan járulnak hozzá a megválasztott beszédmódok, a nyelvi-stilisztikai jegyek az irodalmi mű jelentésének és mondanivalójának kifejtéséhez.
+- MNY.KO.K.2.8. Értékeli a szépirodalmi mű szereplőinek cselekedeteit és tulajdonságait, és az emberek közötti egyenlőség szempontjai alapján erkölcsi álláspontokat fogalmaz meg.
+- MNY.KO.K.2.9. Különbséget tesz az objektív és szubjektív kifejezésmód között, felismeri a groteszk, humoros, ironikus, szatirikus és képi ábrázolásmódot az irodalmi művekben.
+- MNY.KO.K.2.10. Összetettebb szóbeli vagy írásbeli szöveget szerkeszt, és a követelményeknek megfelelően átalakítja, tömöríti őket.
+- MNY.KO.K.2.11. Önállóan gyűjt és köt össze különféle területekről származó információkat, és felhasználja őket a tanulás során és a mindennapi élethelyzetekben.
+- MNY.KO.K.2.12. Nyilvános vitákban vesz részt; érveket és ellenérveket alkalmaz igazának bizonyítása során, figyelmesen meghallgatja és értékeli beszélgetőtársa véleményét; zabolátlan indulatok nélkül, kulturáltan fogalmazza meg mondanivalóját, és felismeri az érzelmi indíttatású érveket.
+- MNY.KO.K.3.1. Nyilvános (közéleti) beszédhelyzetekben fejti ki véleményét, a köznyelv követelményeinek megfelelően szólal meg; és tudatában van a társadalmi konvencióknak és a kulturális különbözőségnek.
+- MNY.KO.K.3.2. Felismeri a mondanivaló és a kifejezésmód közötti összefüggéseket; felméri az általa szerzett információk felhasználhatóságát és a források megbízhatóságát.
+- MNY.KO.K.3.3. Alkalmazza kialakult együttműködési készségeit; a szóbeli és írásbeli kommunikációban a kulturált nyelvi viselkedés szabályainak megfelelően jár el; figyelmesen meghallgatja és tiszteletben tartja mások véleményét.
+- MNY.KO.K.3.4. Tiszteletben tartja és megbecsüli a világ népeinek eltérő kulturális identitását.
+- MNY.KO.K.3.5. Számos területen fejleszti kifejezőkészségét (művészetek, tudományok, digitális világ, informatika, média).
+- MNY.KO.K.3.6. Olvasási és tanulási stratégiáit az önállóan választott célhoz idomítja; képes módosítani az álláspontjait.
+- MNY.KO.K.3.7. Bővíti olvasmányai körét, önállóan válogat a magyar és világirodalomból; ismeretterjesztő, tudományos és publicisztikai jellegű szövegeket is olvas.
+- MNY.KO.K.3.8. Érti az irodalom kultúrában betöltött szerepét; a szépirodalmi és nem szépirodalmi szövegek értelmezése során saját erkölcsi és esztétikai álláspontot alakít ki; érvekkel támasztja alá véleményét.
+- MNY.KO.K.3.9. Nyelvi és irodalmi tudásának birtokában képes különféle kulturális tartalmak megfogalmazására és kritikai felülvizsgálására.
+- MNY.KO.K.3.10. Összetettebb szóbeli vagy írásbeli szövegeket alkot a maga irodalmi élményei alapján és szakirodalmi források felhasználásával.
+- MNY.KO.K.3.11. Becsüli a kulturális sokszínűséget, értékeli a nemzeti kulturális örökséget; megtalálja a sokoldalú kulturális érdeklődésének megfelelő tartalmakat.
+- MNY.KO.K.3.12. Kifejti az előítéletek és sztereotípiák káros hatását az oktatásban, a magán- és közéleti szférában; népszerűsíti a béke és erőszakmentesség gondolatát és a toleranciát.
+- MNY.KO.K.3.13. A kritikai gondolkodás stratégiáit alkalmazza a szövegekben rejlő információk feltárása során.
+- MNY.KO.K.3.14. Azonos vagy rokon motívumok feldolgozása során összehasonlítja a szépirodalom, a színház-, a film- és a képzőművészet kifejezési eszközeit. Felfigyel a vizuális kultúra (pl. a filmművészet és a digitális képzőművészet) új megjelenítési módjaira.
+Haladó szint
+Speciális tantárgyi kompetenciák 1 (STK 1)
+A tanuló megérti a nyelv és a többnyelvűség funkcióit és jelentőségét. Tanulmányozza anyanyelve és az idegen nyelvek közötti különbségeket. Széles körű ismeretei vannak a nyelvi szintek grammatikájáról (hangtan, szótan, mondattan, szövegtan); ismeri a nyomtatott és elektronikus szótárak szócikkeinek felépítését. Birtokában van a tanuláshoz és a társadalmi beilleszkedéshez szükséges szóbeli és írásbeli kifejezési formának. Felismeri a szépirodalmi és nem szépirodalmi szövegek létrehozásakor alkalmazott stilisztikai eljárásokat, és értékeli a szöveg esztétikai és jelentésbeli jellemzőinek kialakításában betöltött szerepüket. Felismeri és összefüggésében értelmezi az irodalom és más művészetek, valamint az irodalom és a különféle tudományterületek kapcsolatát. Kialakítja személyes, nemzeti és kulturális identitását. Egyre inkább tudatosul benne, hogy a kulturális európai és világörökség részese, melyet a magyar és a világirodalom, a színház- és filmművészet, a tudományos és művészeti hagyaték és a médiakultúra határoz meg.
+Speciális tantárgyi kompetenciák 2 (STK 2)
+A tanuló helytáll a kommunikáció különféle közéleti színterein. Nagyobb közönség előtt beszél nyelvi, irodalmi és művelődési témákról. A magyar nyelv és irodalom tanulmányozása során felfedezi a kutatási, alkotói lehetőségeket, és az elsajátított tudást és kialakult készségeit alkalmazza a mindennapi életben felmerülő problémák megoldása során. Kutatja a szótárakban fellelhető szóállomány jellemzőit és a stilisztikai jelzéseket. Összeveti egymással a különféle forrásokból (a szakirodalomból és a médiából) származó információkat, és kritikai szemlélettel viszonyul hozzájuk.
+Speciális tantárgyi kompetenciák 3 (STK 3)
+A tanulónak fokozatosan igényévé válik, hogy ápolja olvasói és beszédkultúráját egyfelől a saját kiteljesedése, másfelől a társadalmi életben való tevékeny részvétel érdekében. Figyelemmel kíséri, hogyan hatnak a nyelvre, az irodalomra és a tudományra a társadalmi-gazdasági folyamatok. Tudatosan törekszik a fenntartható életmód megvalósítására a környezetében. Humánusan és kritikai szemlélettel viszonyul a kultúrák közötti párbeszédhez. Kész vállalni a felelősséget az általa hozott döntésekért, amelyek hatással vannak mind a maga, mind a közösség életére.
+Az oktatási ciklusok kimenetei (OCK) a középfokú oktatás végén:
+Haladó szint
+STK 1
+STK 2
+STK 3
+A tanuló:
+A tanuló:
+A tanuló:
+- MNY.KO.H.1.1. Ismereteket szerez a modern nyelvészet eredményeiről. Megismerkedik a nyelvészet határtudományaival. Ismereteit interdiszciplináris kontextusba helyezi.
+- MNY.KO.H.1.2. Ismeri az egynyelvűség, valamint a két- és többnyelvűség fogalmát; ismeri a szerbiai nyelvi környezetet. Ismeri a kétnyelvűségből eredő, közismert interferenciajelenségeket. Ismereteket szerez a határon túli régiók nyelvhasználatáról.
+-MNY.KO.H.1.3. Ismeri a nyelvrokonság bizonyítékait. Képes bemutatni első nyelvemlékeink főbb tartalmi-nyelvi jellemzőit.
+- MNY.KO.H.1.4. Ismeri és alkalmazza a mondat- és szövegfonetikai eszközöket (hangerő, hangmagasság, hangszín, tempó, szünet, hangsúly, hanglejtés).
+- MNY.KO.H.1.5. Ismeri a magyar beszédhangok rendszerét. Különbséget tesz hang és fonéma között. Érti, milyen szempontok alapján osztjuk fel a mássalhangzókat. Magabiztosan elemzi a mássalhangzó-változásokat. Megismerkedik a többszörös mássalhangzó-változásokkal.
+- MNY.KO.H.1.6. Ismeri a magyar szófajok teljes rendszerét, ismeri a jellemzőiket, alaktani viselkedésüket és mondatbeli szerepüket.
+- MNY.KO.H.1.7. Ismeri a többszófajúság, az alkalmi szófajváltás fogalmát. Ismeri a ritkább szóalkotási módokat.
+- MNY.KO.H.1.8. Ismeri a szóképzés szabályait. Ismeri a toldalékmorfémák fajtáit, alakját, jelentését, sorrendjét.
+- MNY.KO.H.1.9. Felismeri és mondatmodellek révén elemzi az összetett mondatokat. Bővebb ismereteket szerez a mondat szerkezetéről (beékelődéses mondatok), felismeri és alkalmazza a függő beszéd jellemző jegyeit.
+- MNY.KO.H.1.10. Ismeretei vannak a szöveg jellemzőiről, a szövegtípusokról. Felismeri, megnevezi és tudatosan alkalmazza a szöveg grammatikai és jelentéstani kapcsolóelemeit.
+- MNY.KO.H.1.11. Érti a szépirodalmi műben a nyelvi-stilisztikai eszközök (szóképek, alakzatok) szerepét.
+- MNY.KO.H.1.12. Érti és elemzi a szépirodalmi és irodalomelméleti szövegek nyelvi-stilisztikai, esztétikai és szerkezeti jellemzőit; jártas az irodalomelméleti terminológia használatában.
+- MNY.KO.H.1.13. Értékeli a stilisztikai eljárásokat irodalmi és nem irodalmi szövegekben; összehasonlítja két (vagy több) összetett tartalmú szöveg stilisztikai jellemzőit; értelmezi ezek jelentésképzésben betöltött szerepét.
+- MNY.KO.H.2.1. Összehasonlítja anyanyelve és az idegen nyelvek jellemzőit; elemzéseiből következtetéseket von le.
+- MNY.KO.H.2.2. Irodalmi műveket értelmez; megérti azok műfaji jellegzetességeit és irodalomtörténeti kontextusát; a művek szerkezeti- stilisztikai jegyeit elemzi; használja az irodalomelméleti terminológiát; szakirodalmi forrásokból tájékozódik.
+- MNY.KO.H.2.3. Felméri a szövegben használt stilisztikai eszközök funkcióját.
+- MNY.KO.H.2.4. Sokoldalúan értelmezi a szépirodalmi és nem szépirodalmi szövegek alapvető kérdéseit, érveket keres, rangsorol, értékel és vizsgál felül, szükség esetén módosítja álláspontját.
+- MNY.KO.H.2.5. Összekapcsolja a szépirodalmi művekben felmerülő történelmi, vallási, politikai momentumokat; ezáltal építi és felülvizsgálja a maga identitásának jegyeit; összeveti, milyen utakat választanak a különböző kultúrák gondolataik, érzéseik kreatív kifejezésére.
+- MNY.KO.H.2.6. A közlés célját, tartalmát és módját összehangolja a kommunikációs helyzettel.
+- MNY.KO.H.2.7. Megvizsgálja, hogyan viszonyul egymáshoz a szépirodalmi mű és az alapjául szolgáló elmélet vagy filozófiai gondolat (pl. az egzisztencializmus vagy a befogadáselmélet/a nyitott mű elmélete); felfedezi a szépirodalmi művek közötti intertextuális és a szépirodalom és más művészetek közötti intermediális kapcsolatokat; elméleti tudását a gyakorlatban alkalmazza.
+- MNY.KO.H.2.8. Különféle típusú szövegeket alkot a beszédhelyzetnek megfelelő stíluseszközök és a megfelelő beszédmódok alkalmazásával.
+- MNY.KO.H.2.9. Különféle tudományos szakirodalmi forrásokból és a médiumokból gyűjt információkat; felméri a források megbízhatóságát.
+- MNY.KO.H.2.10. Nagyobb közönség előtt beszél nyelvi, irodalmi és kulturális témákról.
+- MNY.KO.H.2.11. Aktívan vesz részt nyilvános vitákban (önállóan vagy csoportmunkában készül fel a szereplésre, érvekkel támasztja alá álláspontjait, következtetéseket von le, és stratégiákat dolgoz ki).
+- MNY.KO.H.3.1. Felismeri a nyelvnek mint kifejezőeszköznek a szerepét, amely által az ember bemutathatja szellemi és esztétikai jellegű tapasztalatait; érti a kontextus és a különböző nézőpontok meghatározó szerepét.
+- MNY.KO.H.3.2. Kritikusan viszonyul a különféle médiumokból származó információkhoz; felismeri a médiamanipuláció különféle fajtáit és hatásukat a valóság alakítására.
+- MNY.KO.H.3.3. Egyéni verbális és nonverbális kommunikációs stílust alakít ki; pozitívan viszonyul a különféle együttműködési formákhoz; felméri és fejleszti kommunikációs készségeit, kezdeményező magatartásról és kitartásról tesz tanúbizonyságot céljai megvalósítása érdekében.
+- MNY.KO.H.3.4. Részt vesz az interaktív médiakommunikációban, a közösségi és társadalmi tevékenységekben.
+- MNY.KO.H.3.5. Figyelemmel kíséri a művészetek, a tudomány és a technika fejlődését, hatását a nyelvre; felelősen viszonyul a műemlékvédelemhez és a természeti környezet megóvásához.
+- MNY.KO.H.3.6. Elmélyíti jártasságát a különféle olvasási és tanulási stratégiákban a tudatos (ön)fejlesztés érdekében.
+- MNY.KO.H.3.7. Olvasás révén tágítja látókörét, és gazdagítja gondolat- és érzelemvilágát, kész vállalni a felelősséget az általa hozott döntésekért, amelyek hatással vannak mind a maga, mind a közösség életére.
+- MNY.KO.H.3.8. Régiónk irodalma és a világirodalom révén különféle kultúrákat ismer meg, humánusan és kritikai szemlélettel viszonyul a kultúrák közötti párbeszédhez.
+- MNY.KO.H.3.9. Megbecsüli a különféle kulturális tartalmakat, felismerve azok személyes, társadalmi és piaci értékét.
+- MNY.KO.H.3.10. Tiszteli a nyelvet mint a nemzeti kultúra hordozóját, becsüli a nemzeti kulturális örökséget, környezete, a régió, Európa és a világ kulturális sokszínűségét.
+- MNY.KO.H.3.11. Tanulmányozza a sztereotípiák és előítéletek egyénre és a társadalomra gyakorolt hatását, síkra száll az emberi jogokért és a konfliktusok békés megoldásáért.
+- MNY.KO.H.3.12. Kritikai szemlélettel értékeli a szépirodalmi és a színházi alkotásokat, valamint a vizuális kultúra (pl. a filmművészet és a képzőművészet) alkotásait.
+МАЂАРСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општa предметнa компетенцијa (ОПК)
+Ученик поседује знање о функцији и значају језика и вишејезичности. Познаје и примењује граматичка правила мађарског језика. Свестан је улоге језика и користи свој матерњи језик у својим изјавама y свакодневном животу. Развија осећај грађанске одговорности и повећава своју друштвену активност. Негује и чува мађарски језик, поштује разноликост његових дијалеката, као и језике других националних мањина и све друге језике.
+Изражава се нијансирано у усменој и писаној комуникацији и континуирано обогаћује свој речник. Поштује правила књижевнојезичке и правописне норме. Креативно користи језик, ствара логички структуриран и прецизан текст који испуњава стилске захтеве. Познаје правила културног дијалога. Развијене су му говорничке вештине, а његова стратегија дебате заснива се на слушању мишљења других. Развија вештине аргументисања и учествује у раду своје групе са конструктивним идејама како би постигао циљ. Формулише усмене и писане аргументе прилагођене контексту користећи технике убедљиве аргументације. Користи ИКТ алате.
+Поседује напредне вештине читања. Разуме и упоређује књижевни и неуметнички текст и приступа им креативно и критички. Негује своју културу читања и говора ради свог индивидуалног развоја и самоостварења. Прикупља информације из различитих извора и компетентно их обрађује. Креира мултимедијални садржај.
+Тумачи дела мађарске и светске књижевности. Разуме мултикултуралне димензије књижевности, увиђа везу између националне књижевности и културног наслеђа света. Препознаје и примерима илуструје основне језичке, поетске, естетске и структурне карактеристике књижевности. Способан је да артикулише своје мисли, емоције и искуства: користи визуелни и апстрактни начин изражавања и испољава своје стваралачке могућности. Сматра читање средством саморазумевања и разумевања света и кроз њега разуме и стиче основне етичке принципе. Кроз читање развија емпатију према свету и другим људима. Спроводи културне активности у духу хуманости и критичке перспективе.
+Открива везе између књижевности, других уметности и наука.
+Ефикасно примењује различите технике учења и свестан је важности целоживотног учења. Успешно примењује стечено знање и когнитивне стратегије у различитим животним ситуацијама. Приступа концепту интелектуалне и културне својине у складу са етичким захтевима.
+Основни ниво
+Специфичнa предметнa компетенцијa 1 (СПК1)
+Ученик познаје карактеристике мађарског књижевног језика. Познаје књижевнојезичку норму и правописна правила, као и граматичке и стилске карактеристике мађарског језика. Упознаје се са карактеристикама мађарског гласовног система, познаје правила правилног изговора, нагласка и алате културног језичког изражавања. Стално тежи да обогати свој речник и да савлада нијансирана језичка и стилска средства изражавања. Говори јасно и течно, разликује службени и незванични језик, вербалну и невербалну комуникацију. Познаје правила за стварање различитих врста текстова. Чита и разуме линеарне и нелинеарне текстове; разликује књижевни од неуметничког текста. Повезује књижевно дело са његовим аутором и одговарајућим књижевним правцем. Познаје основне елементе структуре књижевних и неуметничких текстова.
+Специфичнa предметнa компетенцијa 2 (СПК2)
+Ученик културно слуша мишљења других и говори у складу са тренутном комуникацијском ситуацијом, демонстрирајући своје развијене говорне вештине. Примењује теоријска знања стечена из граматике у конкретним ситуацијама. Формулише своју поруку уз познавање правила правописа и граматике. Креира добро структуриране и стилски прикладне усмене и писане текстове. Убедљиво аргументује у усменом и писаном облику, узимајући у обзир карактеристике датог контекста. Приликом формулисања свог текста поштује расну, националну, културну, језичку, верску, родну и старосну равноправност. Препознаје комуникативне сврхе у делу. Примењује разноврсне аналитичке методе приликом читања и тумачења књижевних и публицистичних текстова. Ужива у читању; постепено проширује свој спектар интересовања, читајући не само омладинску и популарну литературу већ и најзначајнија књижевна дела. Користити материјале и услуге традиционалних и електронских библиотека, као и архива, посећује изложбе, гледа позоришне представе и филмове
+Специфичнa предметнa компетенцијa 3 (СПК3)
+Ученик негује и свесно чува мађарски језик, цени разноликост наших дијалеката, поштује језике других националних мањина и све друге језике. Способан је да ствара добро разумљиве, концизне, тачне и убедљиве усмене и писане текстове који су у складу са језичким правилима. Развија сопствене хуманистичке вредносне судове и уверења кроз читање и тумачење дела мађарске и светске књижевности. Открива везе између књижевности и других уметности (нпр. позориште, филм, ликовна уметност). Користи своје вештине читања и различите стратегије читања и учења у свакодневном животу. Овим искуством препознаје негативне појаве у комуникацији као што су предрасуде, стереотипи и облици вербалне агресије (непоштовање саговорника, увреде, говор мржње итд.). Користи језичке и књижевне вештине у ситуацијама релевантним за учешће у грађанским активностима. Повезује се са концептом интелектуалне и културне својине у складу са етичким захтевима.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученик:
+Ученик:
+Ученик:
+- МЈ.СО.О.1.1. Познаје језик као знаковни систем. Познаје хоризонталну и вертикалну стратификацију језика. Познаје концепт норме, основна правила употребе језика.
+- МЈ.СО.О.1.2. Познаје начин на који се производе гласови мађарског говора. Упознаје се са концептом фонеме. Разликује самогласнике према трајању и хоризонталном кретању језика. Познаје закон гласовног реда и поравнања самогласника. Поседује знање о подели сугласника (осим према начину творбе). Познаје основне случајеве промена сугласника.
+- МЈ.СО.О.1.3. Разуме концепт слога, зна основна правила акцентуације. Има правилан изговор гласова.
+- MЈ.СO.О.1.4. Разликује појам лексеме и (облик) речи (у реченици). Познаје основне врсте речи и везник (од непроменлјивих речи).
+- МЈ.СО.О.1.5. Разликује просте речи од сложених.
+- МЈ.СО.О.1.6. Разликује просте и сложене реченице. Познаје делове реченицe, разликује зависне и независне реченице; уме да формулише прецизне реченице у складу са језичком нормом.
+- МЈ.СО.О.1.7. Свестан је односа између звучног облика и значења речи. Познаје трајно и повремено значење речи. Познаје речи са једним значењем, вишеструким значењима, истим обликом, сличним обликом, сличним значењем, супротним значењем, ономатопеју и речи са експресивним значењем.
+- МЈ.СО.О.1.8. Поседује основна знања о вокабулару. Контуинирано се упознаје са устаљеним облицима речи (фраза) са којима се сусреће у свакодневној комуникацији, као и при читању књижевних, образовних и научних текстова.
+- МЈ.СО.О.1.9. Познаје и примењује правила правописа. Правилно означава трајање гласова и звучне односе у случају промена сугласника.
+- МЈ.СО.О.1.10. Познаје правила за креирање различитих врста текста (нпр. писмо, имејл, биографија, пријава, жалба, извештај…); правилно попуњава разне формуларе.
+- МЈ.СО.О.1.11. Повезује књижевно дело са његовим аутором и одговарајућим књижевним покретом.
+- МЈ.СО.О.1.12. Разликује књижевни од неуметнишког текста; именује основне факторе епског дела: тему, мотив, заплет, ликове, време и место радње.
+- МЈ.СО.О.1.13. Разликује карактеристике народне и ауторске књижевности; познаје основне одлике књижевних родова и жанрова; препознаје лирске, епске и драмске елементе у књижевном делу; разликује везани и слободни стих; препознаје врсте рима и стиховне облике (нпр. калиграм, сонет).
+- МЈ.СО.О.2.1. Примењује лингвистичко знање у усменој и писаној комуникацији.
+- МЈ.СО.О.2.2. Примењује правописна правила приликом креирања текста, познаје типографске и правописне поступке неопходне за креирање дигиталног текста.
+- МЈ.СО.О.2.3. Чита књижевне и неуметничке текстове (линеарне и нелинеарне); пажљиво и са разумевањем слуша предавања једноставнијег садржаја, прави белешке и идентификује кључне речи.
+- МЈ.СО.О.2.4. Изражава своје читалачко искуство у вези књижевног текста; повезује садржај књижевног дела са својим и туђим искуствима.
+- МЈ.СО.О.2.5. Препознаје тему, мотиве и главне стилске карактеристике дела које припада датом књижевном покрету; истиче сличности и разлике са претходним књижевним периодима.
+- МЈ.СО.О.2.6. Сумира, цитира и тумачи текст; истиче суштину; разликује објективне чињенице од тумачења.
+- МЈ.СО.О.2.7. Прилагођава говор и писање датој комуникацијској ситуацији: тежи одговарајућој употреби речи и језика, бира одговарајући начин говора, вербална и невербална средства изражавања.
+- МЈ.СО.О.2.8. У стању је да пронађе информације у тексту (линеарном или нелинеарном) према датим критеријумима; у стању је да самостално прибавља информације; бира и класификује изворе информација; препознаје технике манипулације у писаном тексту и говору.
+- МЈ.СО.О.2.9. Учествује у пројектном раду и креативним процесима извођачких уметности; користи библиотечку колекцију, гледа позоришне представе и филмове, посећује изложбе.
+- МЈ.СО.О.3.1. Примењује језичка и граматичка правила у усменој и писаној комуникацији (како током школских активности, тако и у различитим областима приватног и јавног живота).
+- МЈ.СО.О.3.2. Поред усмене и писане комуникације преноси информације и визуелним и дигиталним средствима.
+- МЈ.СО.О.3.3. Изражава мишљења поткрепљена аргументима и бира језичке изразе прикладне контексту; учествује у конструктивним разговорима са саговорницима и члановима групе (на друштвеним мрежама или у другим областима комуникације).
+- МЈ.СО.О.3.4. Препознаје предрасуде и стереотипе у књижевним и некњижевним текстовима и у усменим изјавама; уочава облике вербалне агресије у свакодневним ситуацијама и у медијима (непоштовање саговорника, увреде, говор мржње итд.).
+- МЈ.СО.О.3.5. Користи своје вештине читања у стицању знања и дубљем разумевању школских предмета.
+- МЈ.СО.О.3.6. Користи различите стратегије читања и учења прилагођене сврси читања.
+- МЈ.СО.О.3.7. Има развијене навике читања и свестан је важности читања за развој своје опште културе и знања.
+- МЈ.СО.О.3.8. Препознаје значај књижевности и културе у свом животу; цени књижевност као суштински елемент националне културе и као средство популаризације различитих култура.
+- МЈ.СО.О.3.9. Користећи своје лингвистичко и књижевно знање, учествује у стварању различитих културних садржаја.
+- МЈ.СО.О.3.10. Ствара усмене и писане текстове; може да цитира и тумачи књижевне текстове; има одговоран став према питању интелектуалне својине.
+- МЈ.СО.О.3.11. Препознаје важност језика у неговању свог културног и националног идентитета; свестан је свог права да користи свој матерњи језик; поштује језике народа који живе у Србији.
+- МЈ.СО.О.3.12. Поштује људска и лична права, право других на приватност; разуме важност једнакости међу људима.
+- МЈ.СО.О.3.13. Препознаје улогу традиционалних и нових медија у демократском друштву.
+- МЈ.СО.О.3.14. Препознаје везу између књижевних дела, позоришта, филма и визуелних уметности у интерпретацији истих тема. Обраћа пажњу на мултимедијалне аспекте: интеракцију између књижевности, музичке и визуелне културе (нпр. филма и визуелне уметности).
+- МЈ.СО.О.1.14. Разликује парафразирање и анализу дела.
+- МЈ.СО.О.1.15. Успоставља везе између књижевних и уметничко-историјских мотива/тема и основних историјских знања.
+Средњи ниво
+Специфичнa предметнa компетенцијa 1 (СПК1)
+Ученик учи о главним европским језичким породицама, познаје порекло мађарског језика и може да одреди место мађарског језика унутар уралске језичке породице.
+Поседује темељније знање о фонолошком и морфолошком систему мађарског језика, као и о начинима творбе речи. Препознаје делове реченице и анализира их користећи одговарајуће моделе реченица. Његов речник се стално повећава; говори у складу са комуникацијским околностима у различитим говорним ситуацијама. Бира стратегије читања у складу са сврхом читања и врстом текста. Познаје и тумачи најзначајнија дела мађарске и светске књижевности и повезује их са њиховим ауторима и књижевним периодима; познаје основне концепте књижевне теорије и књижевне историје. Упознаје се са изражајним могућностима које су својствене масовним медијима.
+Специфичнa предметнa компетенцијa 2 (СПК2)
+Упоређује искуства стечена током учења мађарског језика и књижевности са својим искуствима у учењу страног језика. Све ово буди његово интересовање за тему и развија његову компетенцију у области интеркултуралне комуникације. Редовно чита књижевна дела. Користи различите изворе информација, процењује поузданост извора, вреднује и обрађује информације. Презентује пажљиво одабране, аутентичне информације у складу са говорном ситуацијом, поткрепљене аргументима. Прилагођава свој језички израз одговарајућој циљној групи.
+Специфичнa предметнa компетенцијa 3 (СПК3)
+Ученик процењује сопствене комуникацијске и интеракцијске вештине. Има богат речник и увиђа потенцијал језика за изражавање и стварање културних и друштвених вредности. Ствара и процењује различите интелектуалне садржаје. Разуме мултикултуралне димензије књижевности и види како национална књижевност обогаћује интелектуално наслеђе света. Развија вештине критичког мишљења и аналитичке вештине.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК1
+СПК 2
+СПК 3
+Ученик:
+Ученик:
+Ученик:
+- МЈ.СО.С.1.1. Класификује језике у главне европске језичке породице, у стању је да одреди место мађарског језика унутар уралске језичке породице, упознајте се са основним карактеристикама дијалеката. Познаје концепте билингвализма и регионалног колоквијализма.
+- МЈ.СО.С.1.2.Познаје главне периоде лингвистичке историје и најважније споменике мађарског језика. Разликује расуте споменике и текстуалне споменике.
+- МЈ.СО.С.1.3. Поседује знање о покрету обнове језика, поседује знање о најистакнутијим истраживачима сродства мађарског језика.
+- МЈ.СО.С.1.4. Познаје фазе стварања писаног и усменог дела: прикупљање материјала, сређивање, уређивање. Упознаје се са основним концептима реторике: врсте аргумената, реторички поступци. Зна да направи белешку.
+- МЈ.СО.С.1.5. Познаје поделу самогласника према функцији усана и вертикалном кретању језика. Познаје комплетан систем промена сугласника.
+- МЈ.СО.С.1.6. Зна за промене у вокабулару мађарског језика. Препознаје језичке карактеристике различитих језичких варијетета. Познаје појам дијалекта, социолекта, дигилекта и идиолекта. Познаје врсте регионалних речи.
+- МЈ.СО.С.1.7. Именује основне врсте речи и прелазне врсте речи, зна њихове карактеристике; познаје и именује врсте глагола.
+- МЈ.СО.С.1.8. Познаје најосновније начине творбе речи. Познаје појам морфеме. Познаје и именује суфиксе који се придају глаголима и именицама. Познаје врсте сложеница.
+- МЈ.СО.С.1.9. Препознаје и именује структуре речи. Анализира просте реченице уз помоћ модела реченица. Познаје врсте реченица и формалне карактеристике које указују на модалност реченица.
+- МЈ.СО.С.1.10. Познаје систем сложених реченица, врсте зависних и независних реченица. Примењује основна правила за слагање речи у реченици.
+- МЈ.СО.С.1.11. Повезује књижевна дела са историјским и друштвеним контекстом; препознаје основне карактеристике књижевноисторијских периода и стилских трендова и повезује их са књижевним делом и аутором.
+- МЈ.СО.С.1.12. Приликом анализе књижевних дела, разликује аутора књижевног дела од наратора дела, ликова драме или лирског субјекта.
+- МЈ.СО.С.1.13. Упознаје се са карактеристикама књижевних и новинарских жанрова као и са специфичностима жанрова јавног живота.
+- МЈ.СО.С.1.14. Приликом тумачења књижевних дела, разликује врсте нарације: нпр. ретроспективну и хронолошку; основне факторе нарације, основне облике/начине говора епске комуникације (нарација, опис, унутрашњи монолог, дијалог, рефлексија); Препознаје физичке, психолошке, друштвене, моралне и језичке аспекте карактеризације књижевног јунака.
+- МЈ.СО.С.2.1. Примењује стечено језичко знање у усменом и писаном изражавању; препознаје и анализира језичке појаве карактеристичне за различите говорне ситуације.
+- МЈ.СО.С.2.2. Уочава и исправља правописне грешке у складу са правописном нормом; препознаје изразе који се разликују од књижевнојезичке норме у свакодневној комуникацији.
+- МЈ.СО.С.2.3. Примењује различите стратегије читања и прилагођава их врсти текста и сврси читања.
+- МЈ.СО.С.2.4. Редовно чита књижевна дела обухваћена наставним планом и програмом и слободно изабрана дела, развијајући навике читања и естетске вредносне судове.
+- МЈ.СО.С.2.5. Читање књижевних дела је за ученика естетски доживљај; ученик живописно изражава своје утиске; тумачи текстове различитих врста; образлаже своје закључке и поткрепљује их детаљима из текста.
+- МЈ.СО.С.2.6. Самостално анализира питања покренута у књижевним делима, открива и тумачи тематске, идеолошке, лингвистичко-стилске, структурне и жанровске карактеристике књижевних дела.
+- МЈ.СО.С.2.7. Процењује како изабрани начини говора и лингвистичко-стилске карактеристике доприносе тумачењу значења и поруке књижевног дела.
+- МЈ.СО.С.2.8. Процењује поступке и карактеристике ликова у кљижевним делима; формулише моралне ставове засноване на аспектима једнакости међу људима.
+- МЈ.СО.С.2.9. Разликује објективно и субјективно изражавање, препознаје гротескно, хумористичко, иронично, сатирично и сликовито представљање у књижевним делима.
+- МЈ.СО.С.2.10. Саставља сложеније усмене или писане текстове и трансформише их и сумира према захтевима.
+- МЈ.СО.С.2.11. Самостално прикупља и повезује информације из различитих области, користи их током учења и у свакодневним животним ситуацијама.
+- MЈ.СO.С.2.12. Учествује у јавним дебатама; користи аргументе и контрааргументе да би доказао истину, пажљиво слуша и процењује мишљење саговорника; говори на културан начин, без неконтролисаних емоција; препознаје емоционално мотивисане аргументе.
+- МЈ.СО.С.3.1. Изражава своје мишљење у јавним наступима, говори у складу са захтевима уобичајеног језика; и свестан је друштвених конвенција и културних разлика.
+- МЈ.СО.С.3.2. Препознаје везе између поруке и начина изражавања; процењује употребљивост стечених нформација и поузданост извора.
+- МЈ.СО.С.3.3. Примењује своје развијене вештине сарадње; делује у складу са правилима цивилизованог језичког понашања у усменој и писаној комуникацији; пажљиво слуша и поштује мишљења других.
+- МЈ.СО.С.3.4. Поштује и цени различите културне идентитете народа света.
+- МЈ.СО.С.3.5. Развија своје изражајне вештине у многим областима (уметност, наука, дигитални свет, ИТ, медији).
+- МЈ.СО.С.3.6. Прилагођава стратегије читања и учења самостално изабраном циљу; способан је да модификује своје ставове.
+- МЈ.СО.С.3.7. Проширује опсег својих читања, самостално бира из мађарске и светске књижевности; такође чита образовне, научне и публицистичке текстове.
+- МЈ.СО.С.3.8. Разуме улогу књижевности у култури; развија сопствени морални и естетски став приликом тумачења књижевних и неуметничких текстова; поткрепљује своје мишљење аргументима.
+- МЈ.СО.С.3.9. Са својим лингвистичким и књижевним знањем, способан је да формулише и критички преиспита различите културне садржаје.
+- МЈ.СО.С.3.10. Креира сложеније усмене или писане текстове на основу сопствених књижевних искустава и користећи специјализоване литературне изворе.
+- МЈ.СО.С.3.11. Цени културну разноликост, цени националну културну баштину; проналази садржај који задовољава његова разнолика културна интересовања.
+- МЈ.СО.С.3.12. Објашњава штетне ефекте предрасуда и стереотипа у образовању, у приватној и јавној сфери; промовише идеју мира, ненасиља и толеранције.
+- МЈ.СО.С.3.13. Примењује стратегије критичког мишљења приликом истраживања информација садржаних у текстовима.
+- МЈ.СО.С.3.14. Упоређује изражајна средства књижевности, позоришта, филма и ликовних уметности приликом обраде идентичних или сродних мотива. Обраћа пажњу на нове начине представљања визуелне културе (нпр. филма и дигиталне ликовне уметности).
+- МЈ.СО.С.1.15. Познаје основне карактеристике стила, стилске елементе, стилске нијансе, као и лингвистичко-стилске карактеристике стилских слојева, стилова књижевних периода и стилских трендова. Препознаје лингвистичко-стилске карактеристике у кљижевном делу.
+- МЈ.СO.С.1.16. Познаје карактеристике функционалних стилских типова и разуме њихову улогу.
+Напредни ниво
+Специфичнa предметнa компетенцијa 1 (СПК1)
+Ученик разуме функције и значај језика и вишејезичности. Поседује опсежно знање граматике на свим нивоима језика (фонологија, лексика, синтакса, текстуалност); познаје структуру одредница у штампаним и електронским речницима. Поседује усмени и писани облик изражавања неопходан за учење и социјалну интеграцију. Препознаје стилске поступке који се користе у стварању књижевних и неуметничких текстова и процењује њихову улогу у обликовању естетских и семантичких карактеристика текста. Препознаје и контекстуализује однос између књижевности и других уметности, као и књижевности и различитих области науке. Развија лични, национални и културни идентитет. Све је свеснији да је део културног европског и светског наслеђа, које је дефинисано мађарском и светском књижевношћу, позориштем и филмом, научним и уметничким наслеђем и медијском културом.
+Специфичнa предметнa компетенцијa 2 (СПК2)
+Ученик је компетентан у различитим јавним сферама комуникације. Говори пред већом публиком о лингвистичким, књижевним и културолошким темама. Током проучавања мађарског језика и књижевности открива истраживачке и креативне могућности и примењује стечено знање и развијене вештине у решавању проблема који се јављају у свакодневном животу. Истражује карактеристике вокабулара и стилских знакова који се налазе у речницима. Упоређује информације из различитих извора (стручне литературе и медија) и приступа им са критичке перспективе.
+Специфичнa предметнa компетенцијa 3 (СПК3)
+Ученик постепено постаје свестан потребе да негује своју културу читања и говора, како због сопственог усвршавања, тако и због активног учешћа у друштвеном животу. Свестан је како друштвено-економски процеси утичу на језик, књижевност и науку. Свесно тежи да оствари одрживи начин живота у свом окружењу. Приступа интеркултуралном дијалогу са хуманим и критичким приступом. Спреман је да преузме одговорност за одлуке које доноси, а које утичу и на његов сопствени живот и на живот заједнице.
+Исходи образовних циклуса (ИОЦ) на крају средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученик:
+Ученик:
+Ученик:
+- МЈ.СО.Н.1.1. Стиче знања о резултатима савремене лингвистике. Упознаје се са граничним дисциплинама лингвистике. Своја знања поставља у интердисциплинарни контекст.
+- МЈ.СО.Н.1.2. Познаје појам једнојезичности, двојезичности и вишејезичности; упознат је са језичким окружењем у Србији. Познаје општепознате интерференцијске појаве које произилазе из двојезичности. Стиче знања о специфичностима употребе језика у регионима ван матичне државе.
+- МЈ.СО.Н.1.3. Познаје доказе језичког сродства. Уме да представи главне садржајно-језичке особине првих мађарских писаних докумената.
+- МЈ.СО.Н.1.4. Познаје и примењује фонетске карактеристике реченице и текста (јачина гласа, висина тона, боја гласа, темпо, пауза, акценат, интонација).
+- МЈ.СО.Н.1.5. Познаје систем гласова мађарског језика. Разликује глас и фонему. Разуме принципе поделе сугласника. Компетентно анализира фонетске промене сугласника. Упознаје се са сложеним фонетским променама сугласника.
+- МЈ.СО.Н.1.6. Познаје цео систем врста речи у мађарском језику, познаје њихове особине, морфолошко понашање и синтаксичке функције.
+- МЈ.СО.Н.1.7. Познаје појам вишеврсности речи и промене врсте речи према употреби. Познаје ређе начине творбе речи.
+- МЈ.СО.Н.1.8. Познаје правила грађења речи. Познаје врсте, облик, значење и редослед суфиксних морфема.
+- МЈ.СО.Н.1.9. Препознаје, и на основу модела реченице, анализира сложене реченице. Стиче детаљнија знања о структури реченице (уметнуте реченице), препознаје и примењује обележја индиректног говора.
+- МЈ.СО.Н.1.10. Поседује знања о особинама текста и типовима текстова. Препознаје, именује и свесно примењује граматичке и семантичке везивне елементе у тексту.
+- МЈ.СО.Н.1.11. Разуме улогу лингвистичко-стилских средстава (фигуративног говора) у књижевном делу.
+- МЈ.СО.Н.1.12. Разуме и анализира језичко-стилске, естетске и структурне особине књижевноуметничких и књижевнонаучних текстова, користећи књижевнотеоријску терминологију.
+- МЈ.СО.Н.1.13. Процењујe стилске поступке у књижевним и неуметничким текстовима; упоређује стилске карактеристике у два сложена текста (или више њих); тумачи њихову улогу у остваривању значењских одлика текста.
+- МЈ.СО.Н.2.1. Упоређује језичке појаве у свом и другим страним језицима, анализира их и изводи закључке.
+- МЈ.СО.Н.2.2. Тумачи књижевна дела; разуме њихове жанровске карактеристике и књижевноисторијски контекст; анализира структурне и стилске одлике дела; користи терминологију књижевне теорије; прикупља информације из секундарних извора.
+- МЈ.СО.Н.2.3. Процењујe функцију употребљених стилских средстава у тексту.
+- МЈ.СО.Н.2.4. Анализира фундаментална питања у књижевном и неуметничком тексту, сагледавајући их из различитих перспектива; проналази и процењује аргументе, рангира их, преиспитује њихову вредност и евентуално коригује своје ставове.
+- МЈ.СО.Н.2.5. Повезује историјске, верске и политичке моменте који се јављају у књижевним делима; и на тај начин гради и преиспитујe сопствени идентитет; објашњава и упоређује како се идеје креативно изражавају у различитим културама.
+- МЈ.СО.Н.2.6. Усклађујe сврху, садржај и начин излагања са комуникативном ситуацијом.
+- МЈ.СО.Н.2.7. Истражујe како се књижевно дело и теорија или филозофска идеја која је у његовој основи односе једна на другу (нпр. егзистенцијализам или теорија прихватања/теорија отвореног дела); открива интермедијалне везе између књижевности и других уметности; преноси теоријска знања у нови контекст.
+- МЈ.СО.Н.2.8. Саставља различите типове текстова примењујући одговарајућа стилска средства и форме казивања.
+- МЈ.СО.Н.2.9. Истражујe и упоређујe информације из различитих дисциплина и медијских извора, стварајући критички однoс према њима.
+- МЈ.СО.Н.2.10. Говори јавно и пред већим аудиторијумом о темама из језика, књижевности и културе.
+- МЈ.СО.Н.2.11. Активно учествује у јавној дебати (припрема се за њу, самостално или у сарадњи са тимом, аргументовано излаже ставове, изводи закључке и осмишљава стратегије).
+- МЈ.СО.Н.3.1. Разуме моћ језика као средства изражавања различитих димензија људских искустава (интелектуалних и естетских), уважавајући контекст и различите перспективе.
+- МЈ.СО.Н.3.2. Критички истражује и вреднује информације из различитих медија; уме да препозна различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- МЈ.СО.Н.3.3. Развија свој индивидуални стил у вербалном и невербалном изражавању; има позитиван однос према различитим облицима сарадње; процењује и развија своје комуникативне потенцијале уз проактиван став и истрајност у остваривању циљева.
+- МЈ.СО.Н.3.4. Учествује у интерактивној медијској комуникацији, као и у активностима заједнице и друшртва.
+- МЈ.СО.Н.3.5. Уочава и прати развој и утицај уметности, науке и технологије на писменост и језик; брине о очувању културно-историјских споменика и о одрживости животне средине.
+- МЈ.СО.Н.3.6. Продубљује своје разумевање и примену различитих стратегија и техника читања и учења уз свестан (само)развој.
+- МЈ.СО.Н.3.7. Читајући проширује своје видике и развија свој мисаони и емоционални свет, уз спремност да преузме одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+- МЈ.СО.Н.3.8. Упознаје различите културе кроз књижевност региона и света и негује хуман и критички однос у дијалогу међу културама.
+- МЈ.СО.Н.3.9. Вреднује различите културне садржаје препознајући и остварујући личну, друштвену и комерцијалну вредност.
+- МЈ.СО.Н.3.10. Вреднује језик као медиј националне културе, националну културну баштину и културну разноликост своје средине, региона, Европе и света.
+- МЈ.СО.Н.3.11. Истражује утицај стереотипа и предрасуда на појединца и друштво, залажући се за остваривање људских права и мирно решавање сукоба.
+- МЈ.СО.Н.3.12. Критички вреднује књижевна и позоришна остварења, као и дела визуелне културе (нпр. филмска уметност и ликовна уметност).
+РУСКИ ЯЗИК И КНЇЖОВНОСЦ
+Стандарди образовних посцигнуцох за конєц штреднього образованя
+Обща предметна компетенция (ОПК)
+Школяре маю знаня о функциї и значносци язика и вецейязичносци, познаю ґраматику руского язика и применюю ю у каждодньовим живоце. Розумя уплїв язика и хасную го на дружтвено одвичательни способ, розвиваюци свою гражданску одвичательносц и социялну уключеносц. Пестую и чуваю руски язик почитуюци розлики у коцурскей и керестурскей бешеди, як и язики националних меншинох и други язики.
+Хасную розвити и богати словнїк у усней и писаней комуникациї: бешедую и пишу почитуюци литературноязичну и правописну норму, оформюю лоґични и стилистично добре зведзени текст. Водза рахунку о култури диялоґу, владаю зоз бешеднима схопносцами и схопносцами активного слуханя. Формулую и виражую усни и писани арґументи на прешвечлїви способ хтори прикладни контексту. Комуникую на конструктивни способ, сотрудзую у тимох и прегваряю, розвиваюци чувство за инициятиву и дїлованє при витворйованю цильох, хаснуюци и ИКТ средства.
+Маю розвиту читательну писменосц. Розумя, критично и креативно спатраю литературни и нєуметнїцки текст. Пестую бешедну и читательну културу пре власне усовершованє и особне виполнєнє. Глєдаю, збераю и критично обрабяю информациї зоз розличних файтох жридлох и одвичательно хасную и креирую мултимедиялни змисти.
+Толкую литературни дїла зоз рускей, сербскей и шветовей литератури. Розумя мултикултурни димензиї литератури на способ на хтори национална литература доприноши шветовому културному нашлїдству. Обачую и на прикладох арґументую основни поетични, язични, естетични и структурни прикмети литературних дїлох. Маю способносц фиґуративного и абстрактного виражованя идейох, искуствох и емоцийох; указую творчи можлївосци. Хасную читанє же би лєпше спознали себе, других и швет коло себе, усвоююци и вибудовююци етични принципи. Зоз читаньом розвиваю емпатию и старанє за людзох и швет. Пестую гумане и критичне одношенє у розличних културних формох. Установюю вязу медзи литературу и другима уметносцами, науку и технолоґию.
+Ефикасно хасную рижнородни технїки ученя и свидоми су значносци цаложивотного ученя. У розличних животних ситуацийох применюю здобути знаня и коґнитивни стратеґиї. Етично и одвичательно приступаю ґу интелектуалней и културней власносци.
+Основни уровень
+Специфична предметна компетенция 1 (СПК1)
+Школяре знаю основни прикмети руского литературного язика. Познаю литературноязичну и правописну норму, ґраматику и стилистику руского язика. Унапрямени су на збогацованє свойого словнїка, язичного и стилского виразу. Бешедую ясно и чечно, розликую формалне и нєформалне виражованє, вербалну и нєвербалну комуникацию. Познаю правила писаня розличних файтох текстох. Читаю и розумя линеарни и нєлинеарни тексти; розликую литературни од нєуметнїцкого тексту. Повязую литературни дїла зоз їх авторами и литературнима периодами. Одредзую основни елементи структури литературного и нєуметнїцкого тексту.
+Специфична предметна компетенция 2 (СПК2)
+Школяре маю схопносц слуханя и бешедованя и применюю их у складзе зоз комуникативну ситуацию. Применюю теорийни знаня зоз ґраматики у конкретней язичней ситуациї и пишу применююци правописни правила. Составяю лоґични, добре структуровани и стилистично складни бешедни и писани текст. Виражую ше усно и писано на прешвечлїви способ хтори прикладни контексту зоз почитованьом расней, националней, културней, язичней, вирскей, полней, родовей и возросней ровноправносци. Обачую авторово намири у тексту (информативност, манипулативност). При читаню и толкованю литературного и нєуметнїцкого тексту применюю розлични методи. Усвоюю читанє як гоби и преширюю свойо интересованя од младежскей литератури ґу общей белетристики. Хасную фонди библиотекох и архивох, нащивюю вистави, патра театрални представи и филми.
+Специфична предметна компетенция 3 (СПК3)
+Школяре пестую и чуваю руски язик почитуюци розлики у коцурскей и керестурскей бешеди; почитую язики националних меншинох и други странски язики. Оспособени су за правилне, ясне, економичне и прешвечлїве усне и писане виражованє. Зоз читаньом и толкованьом литературних дїлох зоз рускей, сербскей и шветовей литератури формую гуманистични вредносци, становиска и прешвеченя. Установюю вязу медзи литературну, театралну и филмску уметносцу. Хасную читательну писменосц и розлични стратеґиї читаня и ученя. Препознаваю предрозсудки, стереотипи и форми вербалней аґресиї (нєприкладне оздзиванє, нєпочитованє собешеднїка, увредзованє, бешеда нєнависци и под.) як неґативни зявеня. Хасную знаня зоз язика и литератури у ситуацийох хтори важни за активну гражданску уключеносц. Етично и одвичательно приступаю ґу интелектуалному и културному власнїцтву.
+Виходи образовного циклусу (РОЦ) за конєц штреднього образованя:
+Основни уровень
+СПК 1
+СПК 2
+СПК 3
+Школяре:
+Школяре:
+Школяре:
+- РУС.ШО.О.1.1. Знаю основни прикмети руского литературного язика (писмо, вигварянє, други вариянти рускей бешеди).
+- РУС.ШО.О.1.2. Розликую правилне од нєправилного вигваряня гласох и класификую гласи по задатих критериюмох.
+- РУС.ШО.О.1.3. Розумя поняце складу, знаю основне правило акцентовей норми и обачую нєлитературни акцент у каждодньовей комуникациї.
+- РУС.ШО.О.1.4. Класификую файти словох; розликую ґраматични катеґориї пременлївих файтох словох у типичних, школских прикладох.
+- РУС.ШО.О.1.5. Розликую кореньово слова од других словох и творя слова по задатим моделу.
+- РУС.ШО.О.1.6. Класификую основни члени виреченя; розликую нєзависни од зависних виреченьох; правилно складаю виреченє.
+- РУС.ШО.О.1.7. Розумя значеня словох, стаємних виразох и фразеолоґизмох зоз якима ше стретаю у каждодньовей комуникациї, у лектири и школских текстох зоз других предметох.
+- РУС.ШО.О.1.8. Розликую формалну од нєформалней лексики и хасную ю у складзе зоз нагоду; познаю лексични зявеня и лексични одношеня и применюю их у комуникативних ситуацийох.
+- РУС.ШО.О.1.9. Знаю и применюю правописни правила.
+- РУС.ШО.О.1.10. Познаю правила писаня розличних файтох текстох (напр. писма, мейлу, биоґрафиї, молби, жалби, звиту…); правилно пополнюю розлични формулари.
+- РУС.ШО.О.1.11. Повязую литературни дїла зоз їх авторами и литературнима периодами у хторих настали.
+- РУС.ШО.О.2.1. Применюю теорийни знаня зоз ґраматики у конкретней язичней ситуациї/тексту.
+- РУС.ШО.О.2.2. Пишу применююци правописни правила, уключуюци и основни типоґрафско-правописни ришеня у дурканим тексту хаснуюци одвитуюци правопис.
+- РУС.ШО.О.2.3. Читаю литературни и нєуметнїцки тексти (линеарни и нєлинеарни); з увагу и розуменьом слухаю єдноставнєйши викладаня и правя призначки, одредзую ключни слова.
+- РУС.ШО.О.2.4. Виражую субєктивне и естетичне дожице о бешедованим або писаним тексту; повезую змист литературного дїла з особним або цудзим искуством.
+- РУС.ШО.О.2.5. Обачую главни мотиви, тематику и виразни стилски прикмети литературних дїлох одредзеного литературного напряму, типични розлики и подобносци у одношеню на предходни литературни епохи.
+- РУС.ШО.О.2.6. Зжимаю, цитирую, преприповедую/парафразую текст видвоююци сущне; интерпретую текст; разликую информацию од интерпретациї.
+- РУС.ШО.О.2.7. Оформюю свою бешеду и писанє ґу комуникативней ситуациї (вибераю одвитуюци виразни средства - вербални и нєвербални, лексику и форми виражованя).
+- РУС.ШО.О.2.8. Пренаходза информациї у тексту (у линеарним и нєлинеарним) по задатим критериюме; находза способи за спознаванє информацийох хтори нє розумя; вибераю и роздзелюю жридла информацийох; препознаваю технїки манипулациї у тексту и бешеди.
+- РУС.ШО.О.2.9. Участвую у проєктней настави и у креативних драмских процесох; хасную библиотеков фонд, глєдаю театрални представи и филми, нащивюю вистави…
+- РУС.ШО.О.3.1. Хасную знаня з язика же би ше правилно и ясно виражавали писано и усно у образовним контексту, у приватном и явним живоце, у ситуацийох хтори важни за активну гражданску уключеносц.
+- РУС.ШО.О.3.2. Представяю информациї на розлични способи (усно, писано, визуално, диґитално).
+- РУС.ШО.О.3.3. Виражую арґументовано свойо думанє и вибераю язични вираз у складзе зоз контекстом, уключуюци и конструктивну комуникацию у сотруднїцтве зоз другима, у ґрупи, на дружтвених мрежох.
+- РУС.ШО.О.3.4. Препознаваю предрозсудки и стереотипи у литературних и нєуметнїцких текстох и усним викладаню, як и форми вербалней аґресиї (нєприкладне оздзиванє, нєпочитованє собешеднїка, увредзованє, бешеда нєнависци и под.) у каждодньових ситуацийох и у медийох як неґативне зявенє.
+- РУС.ШО.О.3.5. Хасную читательну писменосц як средство за ученє и лєпше розуменє других предметох.
+- РУС.ШО.О.3.6. Хасную розлични стратеґиї читаня и ученя у складзе зоз поставеним цильом.
+- РУС.ШО.О.3.7. Маю розвити читательни звикнуца и похопюю значносц читаня за розвой особней общей култури и знаня.
+- РУС.ШО.О.3.8. Препознаваю значносц литератури и култури у своїм живоце; вредную литературу як сущну часц националней култури и як средство за промоцию розличних културох.
+- РУС.ШО.О.3.9. Хасную знаня з язика и литератури за участвованє у розличних културних змистох.
+- РУС.ШО.О.1.12. Розликую литературни од нєуметнїцкого тексту; одредзую основни елементи структури литературноуметнїцкого дїла: тему, мотив, дїю, особи, час и место подїї.
+- РУС.ШО.О.1.13. Розликую характеристики народней и авторскей литератури; познаю основни прикмети литературних родох и файтох; обачую лирски, епски и драмски елементи у литературним дїлу.
+- РУС.ШО.О.1.14. Розликую преприповеданє од анализи дїла.
+- РУС.ШО.О.1.15. Повязую мотиви/теми зоз литератури и историї уметносци з основнима знанями зоз историї.
+- РУС.ШО.О.3.10. Хасную руску кирилку, у диґиталним окруженю предносц даваю кирилки; составяю бешедни або писани текст; одвичательно ше одноша ґу питаньом хтори вязани за интелектуалну власносц; знаю цитировац и/або парафразовац тексти.
+- РУС.ШО.О.3.11. Препознаваю значносц язика у пестованю културного и националного идентитету; розумя право на хаснованє власного язика и почитую язики националних маншинох у Сербиї.
+- РУС.ШО.О.3.12. Почитую людски права и привaтносц других; розумя значносц ровноправносци людзох.
+- РУС.ШО.О.3.13. Препознаваю улогу традиционалних и сучасних медийох у демократичним дружтве.
+- РУС.ШО.О.3.14. Препознаваю вязу медзи литературну, театралну и филмску уметносцу у интерпретациї истих темох.
+Штреднї уровень
+Специфична предметна компетенция 1 (СПК1)
+Школяре познаю основни язични ґрупи у Европи и знаю место руского язика у славянскей и европскей ґрупи язикох. Маю ширши знаня о гласох руского язика, знаю правила о акцентованю словох и розликую литературни од нєлитературного акценту. Маю ширши знаня о файтох и подфайтох словох, їх формох и способох їх твореня. Анализую виреченя правени по розличних моделох. Маю розвити словнїк у складзе зоз образованьом и знаю похасновац одвитуюце слово у складзе зоз нагоду; унапрямени су ґу дальшому збогацованю власного словнїка. Хасную читательни стратеґиї у складзе зоз цилями читаня и файту текста. Познаю и толкую найзначнєйши дїла руского, сербского и шветового литературного нашлїдства и локализую их до литературноисторийного контексту; розумя основни литературнотеорийни и литературноисторийни поняца. Познаю розлични форми медийного виражованя.
+Специфична предметна компетенция 2 (СПК2)
+Виглєдуюци руски язик и литературу, школяре язик поровную зоз другима язикама и розвиваю любопитлївосц и компетенцию за медзикултурну комуникацию. Поряднє читаю литературни дїла. Хасную розлични жридла информацийох, преценюю сиґурносц жридла, обрабяю информациї, вибераю их спрам релевантносци и арґументовано их представяю у складзе зоз комуникативну ситуацию, прилагодзуюци язик и форми виражованя ґу розличним цильним ґрупом.
+Специфична предметна компетенция 3 (СПК3)
+Школяре преценюю власни комуникацийни методи и схопносци интеракциї. Маю богати словнїк и видза у язику велї можлївосци за виражованє и творенє културних, дружтвених и материялних вредносцох. Креирую и вредную розлични културни змисти. Розумя мултикултурни димензиї литератури и способ на яки национална литература доприноши шветовому културному нашлїдству. Розвиваю схопносц критичого думаня и аналитични схопносци.
+Виходи образовного циклусу (РОЦ) за конєц штреднього образованя:
+Штреднї уровень
+СПК 1
+СПК 2
+СПК 3
+Школяре:
+Школяре:
+Школяре:
+- РУС.ШО.Ш.1.1. Розподзелюю язики до основней язичней ґрупи у Европи, знаю место руского язика у фамелиї славянских и индоевропских язикох и препознаваю вариянти у руским язику (керестурску и коцурску) на основи їх характеристикох.
+- РУС.ШО.Ш.1.2. Познаю специфични розвой литературного руского язика у дружтвеним, историйним и културним контексту.
+- РУС.ШО.Ш.1.3. Маю знаня о акценту у руским язику и маю основни знаня о гласох и знакох руского язика и розликую их од сербских.
+- РУС.ШО.Ш.1.4. У розличних прикладох обачую механїзми фонолоґийно условених гласових пременкох.
+- РУС.ШО.Ш.1.5. Одредзую файти и подфайти пременлївих словох и їх ґраматични катеґориї; одредзую шицки дїєсловни форми.
+- РУС.ШО.Ш.1.6. Познаю основни способи твореня словох.
+- РУС.ШО.Ш.1.7. Анализую синтаґми и виреченя вибудовани по основних моделох.
+- РУС.ШО.Ш.1.8. Познаю файти и функциї зависних виреченьох.
+- РУС.ШО.Ш.1.9. Знаю значеня словох и фразеолоґизмох хтори ше зявюю у литературних и медийних текстох, розликую файти лексемох з оглядом на походзенє и сферу хаснованя, розумя одношеня медзи лексемами.
+- РУС.ШО.Ш.1.10. Анализую характеристики функционалних стилох и розумя значносц їх хаснованя.
+- РУС.ШО.Ш.1.11. Повязую литературни дїла з историйним и дружтвеним контекстом; препознаваю основни характеристики литературних периодох и повязую их зозлитературним дїлом и автором.
+- РУС.ШО.Ш.1.12. Препознаваю характеристики литературнонаукових и гибридних файтох, як и характеристики рижних формох медийного виражованя.
+- РУС.ШО.Ш.1.13. Кед анализую литературне дїло, розликую автора литературноуметнїцкого дїла од наратора, драмскей особи або лирского субєкту.
+- РУС.ШО.Ш.1.14. Одредзую елементи литературней структури: ретроспективне и хронолоґийне приповеданє, фабулу и сиже; розликую файти приповеданя у литератури; обачую файти характеризациї спрам основних характеристикох особи (физична, психолоґийна, язична, дружтвена и етична).
+- РУС.ШО.Ш.1.15. Меную язично-стилски средства и розумя їх функцию у тексту.
+- РУС.ШО.Ш.2.1. Применюю теорийни знаня з ґраматики, обачую, илуструю и анализую язични зявеня у зложеншей язичней ситуациї.
+- РУС.ШО.Ш.2.2. Обачую и виправяю правописни гришки у своїм и цудзим тексту у складзе з правописну норму; препознаваю форми характеристични за каждодньову бешеду у одношеню на литературни язик.
+- РУС.ШО.Ш.2.3. Применюю розлични стратеґиї читаня и прилагодзую их ґу природи тексту и наменки читаня.
+- РУС.ШО.Ш.2.4. Поряднє читаю литературни дїла зоз програми и вибераю дїла по своїм шлєбодним виборе, розвиваюци читательни звикнуца, естетски критериюми и суди.
+- РУС.ШО.Ш.2.5. Всестрано доживюю литературноуметнїцке дїло висловююци особни упечатки; интерпретую розлични файти текстох; повязую; поровную и обгрунтовюю свойо заключеня зоз фактами з тексту.
+- РУС.ШО.Ш.2.6. Анализую видвоєни проблем; обачую и толкую тематски, идейни, поетични, стилски, язични, композицийни и жанрово характеристики литературного тексту.
+- РУС.ШО.Ш.2.7. Преценюю улогу яку форма, стил и тип приповеданя маю у формованю значеня и идеї литературного дїла.
+- РУС.ШО.Ш.2.8. Вредную поступки и характеристики особох формуюци морални становиска и зоз угла ровноправносци медзи людзми.
+- РУС.ШО.Ш.2.9. Утвердзую точки патреня, становиско и намиру автора, розликую субєктивносц од обєктивносци у виражованю, препознаваю фиґуративносц, гумор, иронию, сатиру.
+- РУС.ШО.Ш.2.10. Орґанизую зложенши бешедни або писани текст (ушорюю змист, повязую часци до єдноставно структурованей бешедованей або писаней цалосци).
+- РУС.ШО.Ш.2.11. Самостойно пренаходза и повязую информациї з текстох зоз розличних обласцох и хасную их у ученю и каждодньових животних ситуацийох.
+- РУС.ШО.Ш.2.12. Участвую у явних розгваркох; дебатую зоз формулованьом арґументох и контраарґументох, активним слуханьом и уважованьом позициї другого, контролу емоционалного змисту и препознаваньом арґументох хтори засновани на емоцийох.
+- РУС.ШО.Ш.3.1. Формулую свойо думанє и явно го виноша хаснуюци литературни язик зоз свидомосцу о социялних конвенцийох и културолоґийних розличносцох.
+- РУС.ШО.Ш.3.2. Обачую повязаносц способу виражованя з намиру и становиском автора; преценюю информациї хтори мож похасновац и довирлївосц жридла.
+- РУС.ШО.Ш.3.3. Хасную вибудовани схопносци сотруднїцтва, култури власного вербалного и нєвербалного виражованя, як и слуханя и почитованя цудзого думаня.
+- РУС.ШО.Ш.3.4. Уважую рижнородносц културних идентитетох у Европи и швеце.
+- РУС.ШО.Ш.3.5. Розвиваю писменосц у розличних сферох (уметнїцкей, диґиталней, информатичней, финансийней, здравственей, медийней, науковей, математичней...).
+- РУС.ШО.Ш.3.6. Прилагодзую стратеґиї читаня и ученя ґу самостойно поставеному цилю; способни су кориґовац свой приступ.
+- РУС.ШО.Ш.3.7. Преширюю интересованє за читанє - од розличних нєуметнїцких текстох по руску, сербску и шветову литературу.
+- РУС.ШО.Ш.3.8. Розумя медзисобни вязи литератури и култури; читаюци формую свойо естетични и етични становиска и арґументовано их обгрунтовюю.
+- РУС.ШО.Ш.3.9. Хасную знаня зоз язика и литератури за креированє и критичне превипитованє розличних културних змистох.
+- РУС.ШО.Ш.3.10. Составяю зложенши бешедни або писани тексти на основи особного искуства, основней и секундарней литератури.
+- РУС.ШО.Ш.3.11. Уважую културну рижнородносц Сербиї, почитую културни скарб свойого завичаю; маю вибудовани културни потреби и знаю як их витвориц.
+- РУС.ШО.Ш.3.12. Толкую чкодлїви уплїв предрозсудкох и стереотипох у образовним, приватним и явним контексту; промовую културу мира и нєнасилства, толеранцию.
+- РУС.ШО.Ш.3.13. Хасную стратеґиї критичного думаня за преверйованє информацийох у розличних текстох.
+- РУС.ШО.Ш.3.14. Поровную средства виражованя литературней, театралней и филмскей уметносци кед интерпретую исти або блїзки мотиви и теми.
+Напредни уровень
+Специфична предметна компетенция 1 (СПК1)
+Школяре розумя функцию и значносц язикох и вецейязичносци. Маю детальнєйши знаня о ґраматики руского язика (акценту, составе словох, значеню припадкох и дїєсловних формох, структури виреченя); познаю структуру одреднїци у словнїку. Владаю зоз уснима и писанима формами яки потребни за школованє, гражданску и социялну уключеносц. Преценюю стилски поступки у литературним и нєуметнїцким тексту и толкую їх улогу у витворйованю естетичних и характеристикох хтори означую значенє розличних файтох текстох. Розумя и запровадзую вязи медзи литературу и другима уметносцами, науку и технолоґию. Розвиваю особни, национални и културни идентитет, свидомосц о припадносци европскому и шветовому културному нашлїдству на основи дїлох рускей, сербскей и шветовей литератури, театралней и филмскей уметносци, наукового и уметнїцкого скарбу и розличних файтох медийней култури.
+Специфична предметна компетенция 2 (СПК2)
+Школяре бешедую явно и пред векшим авдиториюмом о темох зоз язика, литератури и култури. Обачую виглєдовацки и творчи можлївосци у процесу ученя язика и литератури и применюю здобути знаня и схопносци у каждодньовим живоце. Виглєдую характеристики реґистрох и стилох у вязи зоз словнїками и вибор одвитуюцих язичних виразох. Поровную информациї з розличних дисциплинох и медийних жридлох и критично ше одноша ґу нїм.
+Специфична предметна компетенция 3 (СПК3)
+Школяре маю звикнуце и потребу розвивац бешедну и читательну културу, як пре власне усовершованє, так и пре участвованє у гражданским и културним живоце. Провадза уплїв социоекономских рушаньох на язик, литературу, културу и науку; дзбаю о отримуюцим способе живота у заєднїци. Пестую гумане и критичне одношенє у диялоґу медзи културами. Порихтани су превжац одвичательносц за вибори и одлуки хтори уплївую на особни живот и живот заєднїци.
+Виходи образовного циклусу (РОЦ) за конєц штреднього образованя:
+Напредни уровень
+СПК 1
+СПК 2
+СПК 3
+Школяре:
+Школяре:
+Школяре:
+- РУС.ШО.Н.1.1. Розумя важни характеристики и функциї язика.
+- РУС.ШО.Н.1.2. Познаю поняца єдноязичносци и вецейязичносци и знаю одвитуюци язични обставини у Сербиї.
+- РУС.ШО.Н.1.3. Знаю одредзиц место акцента на прикладох єдноскладових словох.
+- РУС.ШО.Н.1.4. Розумя поняце фонеми; одредзую шицки гласово пременки.
+- РУС.ШО.Н.1.5. Розумя поняце морфеми.
+- РУС.ШО.Н.1.6. Одредзую модели твореня словох (творенє зоз суфиксом, префиксом, комбиноване або творенє зложених словох).
+- РУС.ШО.Н.1.7. Знаю значеня припадкох и особних дїєсловних формох.
+- РУС.ШО.Н.1.8. Анализую текст розликуюци специялни файти виреченьох, актив и пасив, нєзависно-зложени виреченя и одношеня медзи членами виреченя.
+- РУС.ШО.Н.1.9. Применюю основни правила конґруенциї.
+- РУС.ШО.Н.1.10. Препознаваю у тексту гиперонимию/гипонимию, паронимию, розликую лексични пасма; познаю метафору, метонимию и синеґдоху як лексични механїзми.
+- РУС.ШО.Н.1.11. Толкую язично-стилски, естетични и структурни характеристики литературноуметнїцких и литературнонаукових текстох, хаснуюци литературнотеорийну терминолоґию.
+- РУС.ШО.Н.1.12. Преценюю стилски поступки у литературним и нєуметнїцким тексту; поровную стилски поступки у двох (або вецей) зложених текстох; толкую їх улогу у витворйованю естетичних характеристикох хтори одредзую значенє наведзених файтох текстох.
+- РУС.ШО.Н.2.1. Поровную язични зявеня у своїм и других странских язикох, анализую их и приноша заключеня.
+- РУС.ШО.Н.2.2. Толкую литературне дїло зоз розуменьом його жанровских характеристикох и литературноисторийного контексту, операюци ше у анализи на структурни и стилистични елементи дїла и хаснуюци литературнотеорийну терминолоґию и секундарни жридла.
+- РУС.ШО.Н.2.3. Преценюю функцию похаснованих стилских средствох у тексту.
+- РУС.ШО.Н.2.4. Анализую проблем, идею або порученє у литературним и нєуметнїцким тексту спатраюци их зоз розличних перспективох; пренаходза и преценюю арґументи, ранґую и превипитую їх значносц и евентуално кориґую свойо становиска.
+- РУС.ШО.Н.2.5. Повязую историйни, релиґийни, политични теми у дїлох хтори обрабяю и на таки способ будую и превипитую власни идентитет; толкую и поровную як ше идеї креативно виражую у розличних културох.
+- РУС.ШО.Н.2.6. Ускладзую наменку, змист и способ викладаня зоз комуникативну ситуацию.
+- РУС.ШО.Н.2.7. Виглєдую одношеня медзи одредзенима теориями (еґзистенциялизем, теория рецепциї/отвореного дїла) и литературноуметнїцким текстом и одношеня медзи самима литературноуметнїцкима текстами (интертекстуалносц); преноша теорийни знаня до нового контексту.
+- РУС.ШО.Н.2.8. Составяю розлични типи текстох хаснуюци одвитуюци функционални стили и форми приповеданя.
+- РУС.ШО.Н.2.9. Виглєдую и поровную информациї з розличних дисциплинох и медийних жридлох, будуюци критичне одношенє ґу нїм.
+- РУС.ШО.Н.2.10. Бешедую явно и пред векшим авдиториюмом о темох зоз язика, литератури и култури.
+- РУС.ШО.Н.2.11. Активно участвую у явней дебати (пририхтую ше за ню, самостойно або у сотруднїцтве зоз тимом, арґументовано викладаю становиска, виводза заключеня и обдумую стратеґиї).
+- РУС.ШО.Н.3.1. Розумя моц язика як средства виражованя розличних димензийох людских искуствох (дружтвених, духовних, естетичних), уважуюци контекст и розлични перспективи.
+- РУС.ШО.Н.3.2. Критично виглєдую и вредную информациї з розличних медийох; знаю препознац розлични файти медийних манипулацийох и їх уплїв на формованє стварносци.
+- РУС.ШО.Н.3.3. Розвиваю особни стил у вербалним и нєвербалним виражованю и пестованю позитивней интеракциї и сотруднїцтва зоз другима; преценюю и розвиваю свойо комуникативни потенцияли зоз проактивним становиском и витирвалосцу у витворйованю цильох.
+- РУС.ШО.Н.3.4. Маю интерактивне одношенє зоз медиями и порихтани су участвовац у активносцох заєднїци и дружтва.
+- РУС.ШО.Н.3.5. Обачую и провадза розвой и уплїв уметносци, науки и технолоґиї на писменосц и язик; дзбаю о очуваню културно-историйних памятнїкох, о безпечносци и отримуюцосци животного штредку.
+- РУС.ШО.Н.3.6. Преглїбюю свойо розуменє и применьованє розличних стратеґийох и технїкох читаня и ученя зоз самосвидомосцу о своїх власних моцох и слабосцох.
+- РУС.ШО.Н.3.7. Зоз читаньом преширюю свойо видогляди и розвиваю свой думкови и емоционални швет и порихтани су превжац одвичательносц за вибори и одлуки хтори уплївую на особни живот и живот заєднїци.
+- РУС.ШО.Н.3.8. Упознаваю розлични култури през литературу реґиону, Европи и швета и пестую гумане и критичне одношенє у диялоґу медзи културами.
+- РУС.ШО.Н.3.9. Вредную розлични културни змисти препознаваюци и витворююци особну, дружтвену и комерциялну вредносц.
+- РУС.ШО.Н.3.10. Вредную язик як медий националней култури, национални културни скарб и културну рижнородносц свойого штредку, реґиону, Европи и швета.
+- РУС.ШО.Н.3.11. Виглєдую уплїв стереотипох и предрозсудкох на поєдинца и дружтво, закладаюци ше за витворйованє людских правох и мирне ришованє зраженьох.
+- РУС.ШО.Н.3.12. Критично вредную литературни, театрални и филмски витвореня.
+РУСИНСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општа предметна компетенција (ОПК)
+Ученици имају знања о функцији и значају језика и вишејезичности, познају граматику русинског језика и примењују је у свакодневном животу. Разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и социјалну укљученост. Негују и чувају русински језик уважавајући разлике у куцурском и крстурском говору, као и језике националних мањина и друге језике.
+Користе развијен и богат речник у усменој и писаној комуникацији: говоре и пишу поштујући књижевнојезичку и правописну норму, уобличавају логичан и стилски складан текст. Воде рачуна о култури дијалога, владају говорним вештинама и вештинама активног слушања. Формулишу и изражавају усмене и писане аргументе на уверљив начин који је примерен контексту. Комуницирају на конструктиван начин, сарађују у тимовима и преговарају, развијајући осећај за иницијативу и деловање у остваривању циљева, користећи и ИКТ средства.
+Имају развијену читалачку писменост. Разумеју, критички и креативно промишљају књижевни и неуметнички текст. Негују говорну и читалачку културу ради сопственог усавршавања и личног испуњења. Траже, прикупљају и критички обрађују информације из различитих врста извора и одговорно употребљавају и креирају мултимедијалне садржаје.
+Тумаче књижевна дела из русинске, српске и светске књижевности. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Уочавају и примерима аргументују основне поетичке, језичке, естетске и структурне особине књижевних дела. Поседују способност фигуративног и апстрактног изражавања идеја, искустава и емоција; испољавају стваралачке могућности. Користе читање и да би боље спознали себе, друге и свет око себе усвајајући и изграђујући етичке принципе. Читањем развијају емпатију и бригу за људе и свет. Негују хумани и критички однос у различитим културним формама. Успостављају везу између књижевности и других уметности, наука и технологије.
+Ефикасно користе разноврсне технике учења и свесни су значаја целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици знају основне одлике русинског књижевног језика. Познају књижевнојезичку и правописну норму, граматику и стилистику русинског језика. Усмерени су ка богаћењу свог речника, језичког и стилског израза. Говоре јасно и течно, разликују формално и неформално изражавање, вербалну и невербалну комуникацију. Познају правила писања различитих врста текстова. Читају и разумеју линеарне и нелинеарне текстове; разликују књижевни од неуметничког текста. Повезују књижевна дела са њиховим ауторима и књижевним периодима. Одређују основне елементе структуре књижевног и неуметничког текста.
+Специфична предметна компетенција 2 (СПК2)
+Ученици имају вештине слушања и говорења и примењују их у складу са комуникативном ситуацијом. Примењују теоријска знања из граматике у конкретној језичкој ситуацији и пишу примењујући правописна правила. Састављају логичан, добро структуриран и стилски складан говорени и писани текст. Изражавају се усмено и писано на уверљив начин који је примерен контексту уз поштовање расне, националне, културне, језичке, верске, полне, родне и узрасне равноправности. Уочавају намере аутора у тексту (информативност, манипулативност). Током читања и тумачења књижевног и неуметничког текста примењују различите методе. Усвајају читање као хоби и проширују своја интересовања од омладинске књижевности ка општој белетристици. Користе фондове библиотека и архива, посећују изложбе, гледају позоришне представе и филмове.
+Специфична предметна компетенција 3 (СПК3)
+Ученици негују и чувају русински језик уз уважавање разлика куцурског и крстурског говора; поштују језике националних мањина и друге стране језике. Оспособљени су за правилно, јасно, економично и уверљиво усмено и писано изражавање. Читањем и тумачењем књижевних дела из русинске, српске и светске књижевности формирају хуманистичке вредносне ставове и уверења. Успостављају везу између књижевне, позоришне и филмске уметности. Користе читалачку писменост и различите стратегије читања и учења. Препознају предрасуде, стереотипе и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) као негативне појаве. Користе знања из језика и књижевности у ситуацијама од значаја за активну грађанску укљученост. Етички и одговорно приступају интелектуалном и културном власништву.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- РСН.СО.O.1.1. Знају основне одлике русинског књижевног језика (писмо, изговор, друге варијанте русинског говора).
+- РСН.СО.О.1.2. Разликују правилан од неправилног изговора гласа и класификују гласове по задатим критеријумима.
+- РСН.СО.О.1.3. Разумеју појам слога, знају основна правила акценатске норме и уочавају некњижевни акценат у свакодневној комуникацији.
+- РСН.СО.О.1.4. Класификују врсте речи; разликују граматичке категорије променљивих врста речи у типичним, школским примерима.
+- РСН.СО.О.1.5. Разликују коренске речи од других речи и граде речи по задатом моделу.
+- РСН.СО.О.1.6. Класификују основне реченичне чланове; разликују независне од зависних реченица; исправно структурирају реченицу.
+- РСН.СО.О.1.7. Разумеју значења речи, устаљених израза и фразеологизама са којима се сусрећу у свакодневној комуникацији, у лектири и школским текстовима из других предмета.
+- РСН.СО.О.1.8. Разликују формалну од неформалне лексике и употребљавају је у складу са приликом; познају лексичке појаве и лексичке односе и примењују их у комуникативним ситуацијама.
+- РСН.СО.О.1.9. Знају и примењују правописна правила.
+- РСН.СО.О.1.10. Познају правила писања различитих врста текстова (нпр. писма, имејла, биографије, молбе, жалбе, извештаја…); правилно попуњавају различите обрасце.
+- РСН.СО.О.1.11. Повезују књижевна дела са њиховим ауторима и књижевним периодима у којима су настала.
+- РСН.СО.О.1.12. Разликују књижевни од неуметничког текста; одређују основне елементе структуре књижевноуметничког дела: тему, мотив, радњу, ликове, време и место радње.
+- РСН.СО.О.1.13. Разликују карактеристике народне и ауторске књижевности; познају основне одлике књижевних родова и врста; уочавају лирске, епске и драмске елементе у књижевном делу.
+- РСН.СО.О.1.14. Разликују препричавање од анализе дела.
+- РСН.СО.О.1.15. Повезују мотиве/теме из књижевности и историје уметности са основним знањима из историје.
+- РСН.СО.О.2.1. Примењују теоријска знања из граматике у конкретној језичкој ситуацији/тексту.
+- РСН.СО.О.2.2. Пишу примењујући правописна правила, укључујући и основна типографско-правописна решења у куцаном тексту користећи одговарајући правопис.
+- РСН.СО.О.2.3. Читају књижевне и неуметничке текстове (линеарне и нелинеарне); с пажњом и разумевањем слушају једноставније излагање и праве белешке, одређују кључне речи.
+- РСН.СО.О.2.4. Исказују субјективни и естетски доживљај о говореном или писаном тексту; повезују садржај књижевног дела са сопственим или туђим искуством.
+- РСН.СО.О.2.5. Уочавају главне мотиве, тематику и изразите стилске одлике књижевних дела одређеног књижевног правца, типичне разлике и сличности у односу на претходне књижевне епохе.
+- РСН.СО.О.2.6. Сажимају, цитирају, препричавају/парафразирају текст издвајајући битно; интерпретирају текст; разликују информацију од интерпретације.
+- РСН.СО.О.2.7. Обликују свој говор и писање према комуникативној ситуацији (бирају одговарајућа изражајна средства - вербална и невербална, лексику и облике казивања).
+- РСН.СО.О.2.8. Проналазе информације у тексту (у линеарном и нелинеарном) по задатом критеријуму; налазе начине за сазнавање информација које не разумеју; одабирају и разврставају изворе информација; препознају технике манипулације у тексту и говору.
+- РСН.СО.О.2.9. Учествују у пројектној настави и креативним драмским процесима; користе библиотечки фонд, гледају позоришне представе и филмове, посећују изложбе…
+- РСН.СО.О.3.1. Користе знања из језика како би се правилно и јасно изражавали писаним и усменим путем у образовном контексту, у приватном и јавном животу, у ситуацијама од значаја за активну грађанску укљученост.
+- РСН.СО.О.3.2. Представљају информације на различите начине (усмено, писмено, визуелно, дигитално).
+- РСН.СО.О.3.3. Изражавају аргументовано своје мишљење и бирају језички израз у складу са контекстом, укључујући и конструктивну комуникацију у сарадњи са другима, у групи, на друштвеним мрежама.
+- РСН.СО.О.3.4. Препознају предрасуде и стереотипе у књижевним и неуметничким текстовима и усменом излагању, као и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) у свакодневним ситуацијама и у медијима као негативну појаву.
+- РСН.СО.О.3.5. Користе читалачку писменост као средство за учење и боље разумевање других предмета.
+- РСН.СО.О.3.6. Користе различите стратегије читања и учења у складу са постављеним циљем.
+- РСН.СО.О.3.7. Имају развијене читалачке навике и схватају значај читања за развој сопствене опште културе и знања.
+- РСН.СО.О.3.8. Препознају значај књижевности и културе у свом животу; вреднују књижевност као суштински део националне културе и као средство за промоцију различитих култура.
+- РСН.СО.О.3.9. Користе знања из језика и књижевности за учествовање у различитим културним садржајима.
+- РСН.СО.О.3.10. Користе русинску ћирилицу, у дигиталном окружењу дају предност ћирилици; састављају говорени или писани текст; одговорно се односе према питањима везаним за интелектуалну својину; умеју да цитирају и/или парафразирају текстове.
+- РСН.СО.О.3.11. Препознају значај језика у неговању културног и националног идентитета; разумеју право на употребу сопственог језика и поштују језике националних мањина у Србији.
+- РСН.СО.О.3.12. Поштују људска права и привaтност других; разумеју значај равноправности људи.
+- РСН.СО.О.3.13. Препознају улогу традиционалних и савремених медија у демократском друштву.
+- РСН.СО.О.3.14. Препознају везу између књижевне, позоришне и филмске уметности у интерпретацији истих тема.
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне језичке групе у Европи и знају место русинског језика у словенској и европској групи језика. Имају шира знања о гласовима русинског језика, знају правила о наглашавању речи и разликују ултурну од некњижевног ултурн. Имају шира знања о врстама и подврстама речи, њиховим облицима и начинима њиховог грађења. Анализирају реченице грађене по различитим моделима. Имају развијен речник у складу са образовањем и умеју да употребе одговарајућу реч у складу са приликом; усмерени су ка даљем богаћењу сопственог речника. Користе читалачке стратегије у складу са циљевима читања и врстом текста. Познају и тумаче најзначајнија дела русинске, српске и светске књижевне баштине и локализују их у књижевноисторијски контекст; разумеју основне књижевнотеоријске и књижевноисторијске појмове. Познају различите облике медијског изражавања.
+Специфична предметна компетенција 2 (СПК2)
+Истражујући русински језик и књижевност, ученици га упоређују са другим језицима и развијају радозналост и компетенцију за међукултурну комуникацију. Редовно читају књижевна дела. Користе различите изворе информација, процењују поузданост извора, обрађују информације, бирају их према релевантности и аргументовано их представљају у складу са комуникативном ситуацијом, прилагођавајући језик и облике изражавања различитим циљним групама.
+Специфична предметна компетенција 3 (СПК3)
+Ученици процењују сопствене комуникационе методе и вештине интеракције. Имају богат речник и виде језик као низ могућности за изражавање и стварање културних, друштвених и материјалних вредности. Креирају и вреднују различите културне садржаје. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Развијају вештине критичког мишљења и аналитичке вештине.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- РСН.СО.С.1.1. Разврставају језике у основне језичке групе у Европи, знају место русинског језика у породици словенских и индоевропских језика и препознају дијалекте српског језика на основу њихових одлика.
+- РСН.СО.С.1.2. Познају основне етапе у развоју књижевног језика код Срба и најзначајније културноисторијске споменике.
+- РСН.СО.С.1.3. Познају књижевнојезичку норму у вези са акцентима; умеју да одреде дужину/ултурнуо акценатског слога и примене правила акцентуације у једноставним примерима (унутрашњи слогови и једносложне речи).
+- РСН.СО.С.1.4. Уочавају гласовне алтернације у различитим примерима и повезују их са књижевнојезичком нормом.
+- РСН.СО.С.1.5. Одређују подврсте променљивих речи и њихове граматичке категорије; одређују све глаголске облике.
+- РСН.СО.С.1.6. Разликују врсте твореница.
+- РСН.СО.С.1.7. Анализирају синтагме и реченице грађене по основним моделима.
+- РСН.СО.С.1.8. Познају врсте и функције зависних реченица.
+- РСН.СО.С.1.9. Знају значења речи и фразеологизама који се јављају у литерарним и медијским текстовима, разликују типове лексема с обзиром на порекло и сферу употребе, разумеју значењске односе међу лексемама.
+- РСН.СО.С.1.10. Анализирају обележја функционалних стилова и разумеју важност њихове употребе.
+- РСН.СО.С.1.11. Повезују књижевна дела са историјским и друштвеним контекстом; препознају основне карактеристике књижевних периода и повезују их са књижевним делом и аутором.
+- РСН.СО.С.1.12. Препознају одлике књижевнонаучних и хибридних врста као и карактеристике различитих облика медијског изражавања.
+- РСН.СО.С.1.13. Разликују аутора књижевноуметничког дела од наратора, драмског лица или лирског субјекта приликом анализе књижевног дела.
+- РСН.СО.С.1.14. Одређују елементе књижевне структуре: ретроспективно и хронолошко приповедање, фабулу и сиже; разликују врсте казивања у књижевности; уочавају врсте карактеризације према основним особинама лика (физичка, психолошка, језичка, друштвена и етичка).
+- РСН.СО.С.1.15. Именују језичко-стилска средства и разумеју њихову функцију у тексту.
+- РСН.СО.С.2.1. Примењују теоријска знања из граматике, уочавају, илуструју и анализирају језичке појаве у сложенијој језичкој ситуацији.
+- РСН.СО.С.2.2. Уочавају и исправљају правописне грешке у свом и туђем тексту у складу са правописном нормом; препознају некњижевне акценте и облике речи у свакодневној комуникацији.
+- РСН.СО.С.2.3. Примењују различите стратегије читања и прилагођавају их природи текста и сврси читања.
+- РСН.СО.С.2.4. Редовно читају књижевна дела из програма и бирају дела по свом слободном избору развијајући читалачке навике, естетске критеријуме и судове.
+- РСН.СО.С.2.5. Свестрано доживљавају књижевноуметничко дело исказујући личне утиске; интерпретирају различите врсте текстова; повезују, упоређују и образлажу своје закључке чињеницама из текста.
+- РСН.СО.С.2.6. Анализирају издвојен проблем; увиђају и тумаче тематске, идејне, поетичке, стилске, језичке, композиционе и жанровске особине књижевног текста.
+- РСН.СО.С.2.7. Процењују улогу коју форма, стил и тип приповедања имају у обликовању значења и идеје књижевног дела.
+- РСН.СО.С.2.8. Вреднују поступке и особине ликова формирајући моралне ставове и из угла равноправности људи.
+- РСН.СО.С.2.9. Утврђују тачке гледишта, став и намере аутора, разликују субјективност од објективности у изражавању, препознају фигуративност, хумор, иронију, сатиру.
+- РСН.СО.С.2.10. Организују сложенији говорени или писани текст (преуређују ултурну, повезују делове у једноставно структурирану говорену или писану целину).
+- РСН.СО.С.2.11. Самостално проналазе и повезују информације из текстова из различитих области и користе их у учењу и у свакодневним животним ситуацијама.
+- РСН.СО.С.2.12. Учествују у јавним разговорима; дебатују формулисањем аргумената и контрааргумената, активним слушањем и уважавањем позиције другог, контролом емоционалног садржаја и препознавањем аргумената заснованих на емоцијама.
+- РСН.СО.С.3.1. Формулишу своје мишљење и јавно га исказују служећи се књижевним језиком уз свест о социјалним конвенцијама и културолошким различитостима.
+- РСН.СО.С.3.2. Уочавају повезаност начина изражавања са намером и ставом аутора; процењују употребљивост информација и поузданост извора.
+- РСН.СО.С.3.3. Користе изграђене вештине сарадње, ултурну сопственог вербалног и невербалног изражавања, као слушања и поштовања туђег мишљења.
+- РСН.СО.С.3.4. Уважавају разноликост културних идентитета у Европи и свету.
+- РСН.СО.С.3.5. Развијају писменост у различитим сферама (уметничкој, дигиталној, информатичкој, финансијској, здравстеној, медијској, научној, математичкој…).
+- РСН.СО.С.3.6. Прилагођавају стратегије читања и учења ултурнуом постављеном циљу; ултурну су да коригују свој приступ.
+- РСН.СО.С.3.7. Проширују интересовање за читање - од различитих неуметничких текстова до националне и светске књижевности.
+- РСН.СО.С.3.8. Разумеју међусобне везе књижевности и културе; читајући обликују своје естетске и етичке ставове и аргументовано их образлажу.
+- РСН.СО.С.3.9. Користе знања из језика и књижевности за креирање и критичко преиспитивање различитих културних садржаја.
+- РСН.СО.С.3.10. Састављају сложеније говорене или писане текстове на основу личног искуства, основне и секундарне литературе.
+- РСН.СО.С.3.11. Уважавају културну разноликост Србије, цене културну баштину свог завичаја; имају изграђене културне потребе и знају како да их остваре.
+- РСН.СО.С.3.12. Објашњавају штетан утицај предрасуда и стереотипа у образовном, приватном и јавном контексту; промовишу ултурну мира и ненасиља, толеранцију.
+- РСН.СО.С.3.13. Користе стратегије критичког мишљења за проверу информација у различитим текстовима.
+- РСН.СО.С.3.14. Упоређују изражајна средства књижевне, позоришне и филмске уметности приликом интерпретације истих или блиских мотива и тема.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функције и значај језика и вишејезичности. Имају детаљнија знања о граматици српског језика (акцентима, саставу речи, значењу падежа и глаголских облика, структури реченице); познају структуру речничког чланка. Владају усменим и писаним облицима потребним за школовање, грађанску и социјалну укљученост. Процењују стилске поступке у књижевном и неуметничком тексту и тумаче њихову улогу у остваривању естетских и значењских одлика различитих врста текстова. Разумеју и успостављају везе између књижевности и других уметности, науке и технологије. Развијају лични, национални и културни идентитет, свест о припадности европском и светском културном наслеђу на основу дела српске и светске књижевности, позоришне и филмске уметности, научне и уметничке баштине и различитих облика медијске културе.
+Специфична предметна компетенција 2 (СПК2)
+Ученици говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе. Уочавају истраживачке и стваралачке могућности у процесу учења језика и књижевности и примењују стечена знања и вештине у свакодневном животу. Истражују карактеристике регистара и стилова везаних за речнике и избор одговарајућих језичких израза. Упоређују информације из различитих дисциплина и медијских извора и критички се односи према њима.
+Специфична предметна компетенција 3 (СПК3)
+Ученици имају навику и потребу да развијају говорну и читалачку културу, како ради сопственог усавршавања тако и ради учешћа у грађанском и друштвеном животу. Прате утицај социоекономских кретања на језик, књижевност, културу и науку; брину о одрживом начину живота у заједници. Негују хумани и критички однос у дијалогу међу културама. Спремни су да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- РСН.СО.Н.1.1. Разумеју битна својства и функције језика.
+- РСН.СО.Н.1.2. Познају појмове једнојезичности и вишејезичности и знају одговарајуће језичке прилике у Србији.
+- РСН.СО.Н.1.3. Умеју да одреде место и квантитет акцента у речи.
+- РСН.СО.Н.1.4. Разумеју појам фонеме; одређују све гласовне алтернације.
+- РСН.СО.Н.1.5. Разумеју појам морфеме.
+- РСН.СО.Н.1.6. Одређују творбене моделе (префиксација, извођење, слагање, комбинована творба и творба претварањем).
+- РСН.СО.Н.1.7. Знају значења падежа и личних глаголских облика.
+- РСН.СО.Н.1.8. Анализирају текст разликујући специјалне врсте реченица, актив и пасив, напоредне односе међу реченицама и реченичним члановима.
+- РСН.СО.Н.1.9. Примењују основна правила конгруенције.
+- РСН.СО.Н.1.10. Препознају у тексту хиперонимију/хипонимију, паронимију, разликују лексичке слојеве; познају метафору, метонимију и синегдоху као лексичке механизме.
+- РСН.СО.Н.1.11. Тумаче језичко-стилске, естетске и структурне особине књижевноуметничких и књижевнонаучних текстова, користећи књижевнотеоријску терминологију.
+- РСН.СО.Н.1.12. Процењују стилске поступке у књижевном и неуметничком тексту; пореде стилске поступке у два сложена текста (или више њих); тумаче њихову улогу у остваривању естетских и значењских одлика наведених врста текстова.
+- РСН.СО.Н.2.1. Упоређују језичке појаве у свом и другим страним језицима, анализирају их и изводе закључке.
+- РСН.СО.Н.2.2. Тумаче књижевно дело са разумевањем његових жанровских карактеристика и књижевноисторијског контекста, ослањајући се у анализи на структурне и стилистичке елементе дела и употребљавајући књижевнотеоријску терминологију и секундарне изворе.
+- РСН.СО.Н.2.3. Процењују функцију употребљених стилских средстава у тексту.
+- РСН.СО.Н.2.4. Анализирају проблем, идеју или поруку у књижевном и неуметничком тексту сагледавајући их из различитих перспектива; проналазе и процењују аргументе, рангирају и преиспитују њихову вредност и евентуално коригују своје ставове.
+- РСН.СО.Н.2.5. Повезују историјске, религијске, политичке теме у делима која обрађују и на тај начин граде и преиспитују сопствени идентитет; објашњавају и пореде како се идеје креативно изражавају у различитим културама.
+- РСН.СО.Н.2.6. Усклађују сврху, садржај и начин излагања са комуникативном ситуацијом.
+- РСН.СО.Н.2.7. Истражују односе између одређене теорије (егзистенцијализам, теорија рецепције/отвореног дела) и књижевноуметничког текста и односе између самих књижевноуметничких текстова (интертекстуалност); преносе теоријска знања у нови контекст.
+- РСН.СО.Н.2.8. Састављају различите типове текстова употребљавајући одговарајуће функционалне стилове и форме казивања.
+- РСН.СО.Н.2.9. Истражују и упоређују информације из различитих дисциплина и медијских извора, стварајући критички однос према њима.
+- РСН.СО.Н.2.10. Говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе.
+- РСН.СО.Н.2.11. Активно учествују у јавној дебати (припремају се за њу, самостално или у сарадњи са тимом, аргументовано излажу ставове, изводе закључке и осмишљавају стратегије).
+- РСН.СО.Н.3.1. Разумеју моћ језика као средства изражавања различитих димензија људских искустава (друштвених, културних, моралних, духовних и естетских), уважавајући контекст и различите перспективе.
+- РСН.СО.Н.3.2. Критички истражују и вреднују информације из различитих медија; умеју да препознају различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- РСН.СО.Н.3.3. Развијају лични стил у вербалном и невербалном изражавању уз неговање позитивне интеракције и сарадње са другима; процењују и развијају своје комуникативне потенцијале уз проактиван став и истрајност у остваривању циљева.
+- РСН.СО.Н.3.4. Имају интерактиван однос са медијима уз спремност да учествују у активностима заједнице и друштва.
+- РСН.СО.Н.3.5. Уочавају и прате развој и утицај уметности, науке и технологије на писменост и језик; брину о очувању културно-историјских споменика, о безбедности и одрживости животне средине.
+- РСН.СО.Н.3.6. Продубљују своје разумевање и примену различитих стратегија и техника читања и учења уз самосвест о својим властитим снагама и слабостима.
+- РСН.СО.Н.3.7. Читајући проширују своје видике и развијају свој мисаони и емоционални свет, уз спремност да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+- РСН.СО.Н.3.8. Упознају различите културе кроз књижевност региона, Европе и света и негују хумани и критички однос у дијалогу међу културама.
+- РСН.СО.Н.3.9. Вреднују различите културне садржаје препознајући и остварујући личну, друштвену и комерцијалну вредност.
+- РСН.СО.Н.3.10. Вреднују језик као медиј националне културе, националну културну баштину и културну разноликост своје средине, региона, Европе и света.
+- РСН.СО.Н.3.11. Истражују утицај стереотипа и предрасуда на појединца и друштво залажући се за остваривање људских права и мирно решавање сукоба.
+- РСН.СО.Н.3.12. Критички вреднују књижевна, позоришна и филмска остварења.
+LIMBA ȘI LITERATURA ROMÂNĂ
+Standardele de performanță educațională la finalul învățământului liceal
+Competența generală a disciplinei (CGD)
+Elevii dețin cunoștințe despre funcția și importanța limbii și multilingvismului, cunosc gramatica limbii române și o aplică în viața de zi cu zi. Înțeleg influența limbii și o folosesc într-un mod responsabil din punct de vedere social, dezvoltându-și responsabilitatea civică și incluziunea socială. Cultivă și protejează limba română, respectând diversitatea dialectelor sale, precum și limba poporului majoritar și alte limbi.
+Folosesc un vocabular dezvoltat și bogat în comunicarea orală și scrisă: vorbesc și scriu respectând norma literară și ortografică, formulând texte logice și stilistic armonioase. Acordă atenție culturii dialogului, stăpânesc abilități de vorbire și de ascultare activă. Formulează și exprimă argumente orale și scrise într-un mod convingător și adecvat contextului. Comunică în mod constructiv, colaborează în cadrul echipelor și negociază, dezvoltând inițiativa și capacitatea de acțiune pentru atingerea obiectivelor, utilizând și mijloace TIC (Tehnologii informaționale de comunicare).
+Au dobândit abilități de citire. Înțeleg, analizează critic și creativ texte literare și non-literare. Cultivă cultura exprimării orale și a lecturii pentru dezvoltarea și împlinirea proprie. Caută, colectează și analizează critic informații din diferite surse și utilizează și creează conținuturi multimedia în mod responsabil.
+Interpretează opere literare din literatura națională și universală. Înțeleg dimensiunile multiculturale ale literaturii și modul în care literatura națională contribuie la patrimoniul cultural mondial. Observă și argumentează cu exemple principalele trăsături poetice, lingvistice, estetice și structurale ale operelor literare. Dețin capacitatea de a exprima în mod figurativ și abstract idei, experiențe și emoții și manifestă creativitate. Folosesc lectura pentru a se înțelege mai bine pe ei înșiși, pe ceilalți și lumea din jur, adoptând și dezvoltând principii etice. Prin lectură, își dezvoltă empatia și grija față de oameni și lume. Cultivă o atitudine umană și critică față de diferite forme culturale. Stabilesc legături între literatură și alte arte, științe și tehnologie.
+Folosesc eficient diverse tehnici de învățare și sunt conștienți de importanța învățării pe tot parcursul vieții. Aplică cunoștințele și strategiile cognitive dobândite în diferite situații de viață. Abordează în mod etic și responsabil proprietatea intelectuală și culturală.
+Nivelul de bază
+Competența specifică a disciplinei 1 (CSD1)
+Elevii cunosc trăsăturile de bază ale limbii literare române. Cunosc norma literară și ortografică, gramatica și stilistica limbii române. Sunt orientați spre îmbogățirea vocabularului, a exprimării lingvistice și stilistice. Vorbesc clar și fluent, fac distincție între exprimarea formală (oficială) și informală (cotidiană), comunicarea verbală și nonverbală. Cunosc regulile de redactare a diferitelor tipuri de texte. Citesc și înțeleg texte liniare și neliniare1; disting textul literar de cel non-literar. Asociază operele literare cu autorii și perioadele literare. Identifică elementele de bază ale structurii textului literar și non-literar
+1 Textele liniare sunt toate scrierile, atât literare, cât și non-literare. Textele neliniare cuprind tabele, graficoane, scheme, etc.
+Competența specifică a disciplinei 2 (CSD2)
+Elevii posedă abilități de ascultare și exprimare orală, pe care le aplică în funcție de situația de comunicare. Aplică cunoștințele teoretice de gramatică în contexte lingvistice concrete și redactează texte respectând regulile ortografice. Compun texte orale și scrise logice, bine structurate și stilistic armonioase. Se exprimă oral și în scris într-un mod convingător, adecvat contextului, respectând egalitatea rasială, națională, culturală, lingvistică, religioasă, de gen, sex și vârstă. Observă intențiile autorului în text (informare, manipulare). În timpul lecturii și interpretării textelor literare și non-literare, aplică metode variate. Adoptă lectura ca un hobby și își extind interesele de la literatura pentru tineret spre literatura generală. Utilizează resursele bibliotecilor și arhivelor, vizitează expoziții, urmăresc spectacole de teatru și filme.
+Competența specifică a disciplinei 3 (CSD3)
+Elevii cultivă și păstrează limba română, respectând diversitatea dialectelor sale; respectă limba poporului majoritar și alte limbi străine. Sunt capabili să se exprime corect, clar, concis și convingător, atât oral cât și în scris. Prin lectura și interpretarea operelor literare din literatura națională și universală, formează atitudini și convingeri bazate pe valori umaniste. Stabilesc legături între arta literară, teatrală și cinematografică. Utilizează competențele de lectură și diverse strategii de citire și învățare. Recunosc prejudecățile, stereotipurile și formele de agresiune verbală (adresare nepoliticoasă, lipsă de respect față de interlocutor, insulte, discurs de ură etc.) ca fenomene negative. Aplică cunoștințele de limbă și literatură în contexte relevante pentru implicarea activă ca cetățeni. Abordează etic și responsabil proprietatea intelectuală și culturală.
+Finalitățile ciclului educațional (FCE) la finalul învățământului liceal:
+Nivelul de bază
+CSD 1
+CSD 2
+CSD 3
+Elevii:
+Elevii:
+Elevii:
+- LR.ÎL.B.1.1. Cunosc trăsăturile de bază ale limbii literare române (pronunția, atât în limba standard, cât și în dialecte).
+- LR.ÎL.B.1.2. Disting pronunția corectă de cea incorectă a sunetelor și clasifică sunetele conform unor criterii date.
+- LR.ÎL.B.1.3. Înțeleg noțiunea de silabă, cunosc regulile de bază ale accentuării, fac diferenţa dintre sunet, fonemă şi grafemă.
+- LR.ÎL.B.1.4. Clasifică părțile de vorbire; disting categoriile gramaticale ale cuvintelor flexibile în exemple tipice, școlare.
+- LR.ÎL.B.1.5. Disting cuvintele simple de cele derivate și formează cuvinte după modelul dat.
+- LR.ÎL.B..1.6. Clasifică elementele de bază ale propoziției; disting propozițiile principale de cele subordonate; structurează corect propoziția.
+- LR.ÎL.B.1.7. Înțeleg semnificația cuvintelor, expresiilor consacrate și frazeologismelor întâlnite în comunicarea zilnică, în lecturile obligatorii și în textele școlare de la alte discipline.
+- LR.ÎL.B.1.8. Disting lexicul formal de cel informal și îl folosesc în funcție de context; cunosc fenomenele lexicale și relațiile lexicale și le aplică în situații de comunicare.
+- LR.ÎL.B.1.9. Cunosc și aplică regulile ortografice.
+- LR.ÎL.B.1.10. Cunosc regulile de redactare a diferitelor tipuri de texte (de exemplu: scrisoare, e-mail, CV, cerere, plângere, raport...); completează corect diverse formulare.
+- LR.ÎL.B.1.11. Asociază operele literare cu autorii și perioadele literare în care au fost create.
+- LR.ÎL.B.1.12. Disting textul literar de cel non-literar; identifică elementele de bază ale structurii operei literare: tema, motivul, acțiunea, personajele, timpul și locul acțiunii.
+- LR.ÎL.B.1.13. Disting caracteristicile literaturii populare și ale celei culte; cunosc trăsăturile de bază ale genurilor și speciilor literare; identifică elemente lirice, epice și dramatice în opera literară.
+- LR.ÎL.B.1.14. Disting rezumatul de analiza operei.
+- LR.ÎL.B.1.15. Corelează motivele/temele din literatură și istoria artei cu cunoștințele de bază din istorie.
+- LR.ÎL.B.2.1. Aplică cunoștințele teoretice de gramatică în situații/texte lingvistice concrete.
+- LR.ÎL.B.2.2. Scriu respectând regulile ortografice, inclusiv soluțiile tipografico-ortografice de bază în textul dactilografiat, folosind ortografia adecvată.
+- LR.ÎL.B.2.3. Citesc texte literare și non-literare (liniare și neliniare); ascultă cu atenție și înțelegere expuneri mai simple și iau notițe, identifică cuvintele-cheie.
+- LR.ÎL.B.2.4. Exprimă trăirea subiectivă și estetică față de un text oral sau scris; corelează conținutul operei literare cu experiența proprie sau a altora.
+- LR.ÎL.B.2.5. Identifică temele principale, motivele și trăsăturile stilistice expresive ale operelor literare aparținând unui curent literar, diferențele și asemănările tipice în raport cu epocile literare anterioare.
+- LR.ÎL.B.2.6. Rezumă, citează, redau/reformulează un text evidențiind aspectele esențiale; interpretează textul; disting informația de interpretare.
+- LR.ÎL.B.2.7. Își adaptează discursul oral și scris în funcție de situația de comunicare (aleg mijloacele expresive - verbale și nonverbale, vocabularul și formele de exprimare adecvate).
+- LR.ÎL.B.2.8. Găsesc informații într-un text (linear sau neliniar) pe baza unui criteriu dat; găsesc modalități de a înțelege informațiile neclare; selectează și clasifică sursele de informații; recunosc tehnici de manipulare în text și discurs.
+- LR.ÎL.B.2.9. Participă la învățarea prin proiecte și procese dramatice creative; utilizează fondul bibliotecii, vizionează spectacole de teatru și filme, vizitează expoziții.
+- LR.ÎL.B.3.1. Utilizează cunoștințele lingvistice pentru a se exprima corect și clar în scris și oral în contexte educaționale, în viața privată și publică, în situații relevante pentru implicarea activă ca cetățeni.
+- LR.ÎL.B.3.2. Prezintă informațiile în moduri diferite (oral, scris, vizual, digital).
+- LR.ÎL.B.3.3. Își exprimă opiniile argumentat și aleg formele de exprimare adecvate contextului, inclusiv în comunicarea constructivă în colaborare cu ceilalți, în grup sau pe rețelele sociale.
+- LR.ÎL.B.3.4. Recunosc prejudecățile și stereotipurile în textele literare și non-literare și în expunerile orale, precum și formele de agresiune verbală (adresare nepoliticoasă, lipsă de respect față de interlocutor, insulte, discurs al urii etc.) în situații cotidiene și în mass-media, considerându-le fenomene negative.
+- LR.ÎL.B.3.5. Utilizează competențele de lectură ca instrument de învățare și pentru o mai bună înțelegere a altor discipline.
+- LR.ÎL.B.3.6. Aplică diferite strategii de lectură și învățare în funcție de obiectivul propus.
+- LR.ÎL.B.3.7. Au dezvoltat abilități de lectură și înțeleg importanța cititului pentru dezvoltarea propriei culturi generale și a cunoștințelor.
+- LR.ÎL.B.3.8. Recunosc importanța literaturii și culturii în viața lor; apreciază literatura ca parte esențială a culturii naționale și ca mijloc de promovare a diversității culturale.
+- LR.ÎL.B.3.9. Utilizează cunoștințele de limbă și literatură pentru a participa la diferite activități culturale.
+- LR.ÎL.B.3.10. Redactează texte orale sau scrise; adoptă o atitudine responsabilă față de problemele legate de proprietatea intelectuală; știu să citeze și/sau să parafrazeze textele.
+- LR.ÎL.B.3.11. Recunosc importanța limbii în cultivarea identității culturale și naționale; înțeleg dreptul de a folosi propria limbă și respectă limba poporului majoritar din Serbia.
+- LR.ÎL.B.3.12. Respectă drepturile omului și intimitatea celorlalți; înțeleg importanța egalității între oameni.
+- LR.ÎL.B.3.13. Recunosc rolul mass-mediei tradiționale și moderne într-o societate democratică.
+- LR.ÎL.B.3.14. Recunosc legătura dintre arta literară, teatrală și cinematografică în interpretarea acelorași teme.
+Nivelul mediu
+Competența specifică a disciplinei 1 (CSD1)
+Elevii cunosc principalele grupe lingvistice din Europa și știu locul limbii române în cadrul limbilor romanice și al grupelor lingvistice europene. Dețin cunoștințe extinse despre sunetele limbii române, cunosc regulile de accentuare a cuvintelor și disting accentul corect de cel incorect. Au cunoștințe aprofundate despre tipurile de cuvinte, formele acestora și modurile de formare.
+Analizează propoziții construite după modele diferite. Dispun de un vocabular dezvoltat, corespunzător nivelului de educație și știu să folosească cuvinte adecvate în funcție de context; sunt orientați către îmbogățirea continuă a propriului vocabular.
+Utilizează strategii de lectură în concordanță cu scopurile lecturii și tipul textului. Cunosc și interpretează cele mai importante opere din patrimoniul literar românesc și universal și le plasează în contextul istoriei literare; înțeleg conceptele fundamentale de teorie și istorie literară.
+Cunosc diferitele forme de exprimare media.
+Competența specific a disciplinei 2 (CSD2)
+Prin explorarea limbii și a literaturii române, elevii o compară cu alte limbi și își dezvoltă curiozitatea și competența pentru comunicarea interculturală. Citesc în mod regulat opere literare.
+Folosesc surse variate de informații, evaluează fiabilitatea acestora, prelucrează informațiile, le selectează în funcție de relevanță și le prezintă argumentat, în acord cu situația de comunicare, adaptând limbajul și formele de exprimare diferitelor grupuri-țintă.
+Competența specifică a disciplinei 3 (CSD3)
+Elevii evaluează propriile metode de comunicare și abilități de interacțiune. Au un vocabular bogat și percep limba ca pe un ansamblu de posibilități pentru exprimarea și crearea de valori culturale, sociale și materiale. Creează și apreciază diferite conținuturi culturale.
+Înțeleg dimensiunile multiculturale ale literaturii și modul în care literatura națională contribuie la patrimoniul cultural mondial. Își dezvoltă abilități de gândire critică și competențe analitice.
+Finalitățile ciclului educațional (FCE) la finalul învățământului liceal:
+Nivelul mediu
+СSD 1
+СSD 2
+СSD 3
+Elevii:
+Elevii:
+Elevii:
+-LR.ÎL.M.1.1. Clasifică limbile în principalele grupe lingvistice europene, cunosc locul limbii române în familia limbilor romanice și indo-europene și recunosc dialectele limbii române pe baza trăsăturilor acestora.
+- LR.ÎL.M.1.2. Cunosc principalele etape ale dezvoltării limbii române literare și cele mai importante monumente cultural-istorice.
+- LR.ÎL.M.1.3. Cunosc normele limbii literare privind accentuarea cuvintelor; știu să determine silabele accentuate și să aplice regulile accentuării în exemple simple (silabe din interiorul cuvintelor și cuvinte monosilabice).
+- LR.ÎL.M.1.4. Observă alternanțele fonetice în exemple variate și le corelează cu norma limbii literare.
+- LR.ÎL.M.1.5. Determină tipurile cuvintelor flexionare și categoriile lor gramaticale; identifică toate formele verbale.
+- LR.ÎL.M.1.6. Disting tipurile de derivare.
+- LR.ÎL.M.1.7. Analizează sintagmele și propozițiile construite după modele de bază.
+- LR.ÎL.M.1.8. Cunosc tipurile și funcțiile propozițiilor subordonate.
+- LR.ÎL.M.1.9. Cunosc sensurile cuvintelor și frazeologismelor din textele literare și nonliterare, disting tipurile de lexeme în funcție de origine și domeniul de utilizare, înțeleg relațiile semantice dintre lexeme.
+- LR.ÎL.M.1.10. Analizează trăsăturile stilurilor funcționale și înțeleg importanța folosirii lor.
+- LR.ÎL.M.1.11. Corelează operele literare cu contextul istoric și social; recunosc trăsăturile de bază ale epocilor literare și le corelează cu opera și autorul ei.
+- LR.ÎL.M.1.12. Recunosc trăsăturile textelor științifico-literare și ale speciilor hibride, precum și caracteristicile diferitelor forme de exprimare mediatică.
+- LR.ÎL.M.1.13. Disting autorul operei literar-artistice de narator, personajul dramatic sau vocea lirică în analiza operei literare.
+- LR.ÎL.M.1.14. Identifică elementele structurii literare: povestirea retrospectivă și cronologică, narațiunea și subiectul; disting tipurile de narațiune în literatură; observă tipurile de caracterizare în funcție de trăsăturile de bază ale personajului (fizice, psihologice, lingvistice, sociale și etice).
+- LR.ÎL.M.1.15. Denumesc mijloacele stilistico-lingvistice și înțeleg funcția acestora în text.
+- LR.ÎL.M.2.1. Aplică cunoștințele teoretice de gramatică, observă, ilustrează și analizează fenomenele lingvistice în situații lingvistice mai complexe.
+- LR.ÎL.M.2.2. Observă și corectează greșelile ortografice din propriile texte și din ale altora, în conformitate cu normele ortografice; recunosc accentele și formele incorecte (nonliterare) ale cuvintelor în comunicarea cotidiană.
+- LR.ÎL.M.2.3. Aplică strategii diferite de lectură și le adaptează în funcție de natura textului și scopul lecturii.
+- LR.ÎL.M.2.4. Citesc în mod regulat opere literare prevăzute de programa școlară citesc opere literare la libera alegere, dezvoltând obiceiuri de lectură, criterii estetice și capacitatea de a formula judecăți de valoare.
+- LR.ÎL.M.2.5. Trăiesc în mod complex opera literar-artistică, exprimând impresii personale; interpretează diferite tipuri de texte; corelează, compară și argumentează concluziile proprii pe baza faptelor din text.
+- LR.ÎL.M.2.6. Analizează o problemă specifică; identifică și interpretează trăsături tematice, ideatice, poetice, stilistice, lingvistice, compoziționale și de gen ale textului literar.
+- LR.ÎL.M.2.7. Evaluează rolul formei, stilului și tipului de narațiune în conturarea sensului și ideii operei literare.
+- LR.ÎL.M.2.8. Evaluează acțiunile și trăsăturile personajelor, formulând atitudini morale și din perspectiva egalității dintre oameni.
+- LR.ÎL.M.2.9. Identifică punctul de vedere, atitudinea și intenția autorului; disting subiectivitatea de obiectivitate în exprimare; recunosc figurativitatea, umorul, ironia și satira.
+- LR.ÎL.M.2.10. Organizează un text oral sau scris mai complex (restructurează conținutul, leagă părțile într-o unitate orală sau scrisă cu o structură clară).
+- LR.ÎL.M.2.11. Găsesc și corelează informații din texte aparținând diferitelor domenii și le utilizează în procesul de învățare și în situații cotidiene.
+- LR.ÎL.M.2.12. Participă la discuții publice; susțin dezbateri formulând argumente și contraargumente, ascultând activ și respectând opinia celuilalt, controlând conținutul emoțional și identificând argumentele bazate pe emoții.
+- LR.ÎL.M.3.1. Își formulează opinia și o exprimă public folosind limba literară, având conștiința convențiilor sociale și a diferențelor culturale.
+- LR.ÎL.M.3.2. Observă legătura dintre modul de exprimare și intenția ori atitudinea autorului; evaluează utilitatea informațiilor și fiabilitatea surselor.
+- LR.ÎL.M.3.3. Utilizează deprinderi de colaborare dezvoltate, o exprimare verbală și nonverbală civilizată, precum și capacitatea de a asculta și respecta opiniile altora.
+- LR.ÎL.M.3.4. Respectă diversitatea identităților culturale din Europa și din lume.
+- LR.ÎL.M.3.5. Dezvoltă abilitățile de alfabetizare în diferite domenii (artistic, digital, informatic, financiar, sanitar, mediatic, științific, matematic etc.).
+- LR.ÎL.M.3.6. Își adaptează strategiile de lectură și învățare în funcție de scopul stabilit individual; sunt capabili să-și corecteze propriul demers.
+- LR.ÎL.M.3.7. Își extind interesul pentru lectură - de la texte non-literare diverse până la literatură națională și universală.
+- LR.ÎL.M.3.8. Înțeleg interconexiunile dintre literatură și cultură; prin lectură își formează convingeri estetice și etice și le argumentează.
+- LR.ÎL.M.3.9. Utilizează cunoștințele de limbă și literatură pentru a crea și analiza critic diverse conținuturi culturale.
+- LR.ÎL.M.3.10. Elaborează texte vorbite sau scrise mai complexe, pe baza experienței personale a literaturii de bază și secundare.
+- LR.ÎL.M.3.11. Respectă diversitatea culturală a Serbiei, apreciază patrimoniul cultural al regiunii natale; au necesități culturale bine conturate și știu cum să le satisfacă.
+- LR.ÎL.M.3.12. Explică impactul negativ al prejudecăților și stereotipurilor în contexte educaționale, private și publice; promovează cultura păcii și non-violenței, toleranța.
+- LR.ÎL.M.3.13. Aplică strategii de gândire critică pentru a verifica informațiile din diverse texte.
+- LR.ÎL.M.3.14. Compară mijloacele de expresie ale artei literare, teatrale și cinematografice în interpretarea acelorași teme sau a unor teme și motive apropiate.
+Nivelul avansat
+Competența specifică a disciplinei 1 (CSD1)
+Elevii înțeleg funcțiile și importanța limbii și a multilingvismului. Dețin cunoștințe detaliate despre gramatica limbii române (structura cuvântului, semnificația cazurilor și a formelor verbale, structura propoziției); cunosc structura unui dicționar. Stăpânesc formele orale și scrise necesare pentru educație, incluziune civică și socială. Evaluează procedeele stilistice din textele literare și non-literare și interpretează rolul acestora în realizarea trăsăturilor estetice și semantice ale diferitelor tipuri de texte. Înțeleg și stabilesc legături între literatură și alte arte, știință și tehnologie. Își dezvoltă identitatea personală, națională și culturală, precum și conștiința apartenenței la patrimoniul cultural european și mondial, pe baza operelor din literatura română și universală, a artei teatrale și cinematografice, a patrimoniului științific și artistic, precum și a diverselor forme de cultură mediatică.
+Competența specifică a disciplinei 2 (CSD2)
+Elevii vorbesc în public și în fața unui auditoriu mai larg pe teme legate de limbă, literatură și cultură. Observă posibilitățile de cercetare și creație în procesul de învățare a limbii și literaturii și aplică cunoștințele și abilitățile dobândite în viața de zi cu zi. Cercetează caracteristicile registrelor și stilurilor legate de lexic și de alegerea expresiilor lingvistice adecvate. Compară informații provenite din diferite discipline și surse mass-media și adoptă o atitudine critică față de acestea.
+Competența specifică a disciplinei 3 (CSD3)
+Elevii au obișnuința și necesitatea de a-și dezvolta cultura vorbirii și lectura, atât pentru propria lor perfecționare, cât și pentru participarea la viața civică și socială. Urmăresc influența mișcărilor socioeconomice asupra limbii, literaturii, culturii și științei; promovează un mod de viață sustenabil în cadrul comunității. Promovează o atitudine umană și critică în dialogul dintre culturi. Sunt pregătiți să își asume responsabilitatea pentru alegerile și deciziile care influențează viața personală și viața comunității.
+Finalitățile ciclului educațional (FCE) la finalul învățământului liceal:
+Nivelul avansat
+CSD 1
+CSD 2
+CSD 3
+Elevii:
+Elevii:
+Elevii:
+- LR.ÎL.A.1.1. Înțeleg trăsăturile esențiale și funcțiile limbii.
+- LR.ÎL.A.1.2. Cunosc noțiunile de monolingvism și multilingvism și cunosc situațiile lingvistice corespunzătoare din România și Serbia.
+- LR.ÎL.A.1.3. Sunt capabili să determine poziția accentului într-un cuvânt.
+- LR.ÎL.A.1.4. Înțeleg noțiunea de fonem; identifică toate alternanțele fonetice.
+- LR.ÎL.A.1.5. Înțeleg noțiunea de morfem.
+- LR.ÎL.A.1.6. Determină modelele de derivare (prefixare, derivare, compunere, derivare combinată și conversiune).
+- LR.ÎL.A.1.7. Cunosc semnificațiile cazurilor gramaticale și ale formelor verbale personale.
+- LR.ÎL.A.1.8. Analizează textul, distingând tipuri speciale de propoziții, diateza activă și pasivă, raportul de coordonare între propoziții și între părțile propoziției.
+- LR.ÎL.A.1.9. Aplică regulile de bază ale acordului gramatical (concordanței).
+- LR.ÎL.A.1.10. Recunosc în text hiperonia/hiponimia, paronimia, disting straturile lexicale; cunosc metafora, metonimia și sinecdoca ca mecanisme lexicale.
+- LR.ÎL.A.1.11. Interpretează trăsături lingvistico-stilistice, estetice și structurale ale textelor literar-artistice și literar-științifice, utilizând terminologia teoriei literare.
+- LR.ÎL.A.1.12. Evaluează procedeele stilistice în texte literare și non-literare; compară procedeele stilistice în două sau mai multe texte complexe; interpretează rolul acestora în realizarea trăsăturilor estetice și semantice ale tipurilor de texte menționate.
+- LR.ÎL.A.2.1. Compară fenomenele lingvistice din propria limbă și din limbi străine, le analizează și formulează concluzii.
+- LR.ÎL.A.2.2. Interpretează opera literară înțelegând caracteristicile sale de gen și contextul istorico-literar, bazând analiza pe elemente structurale și stilistice ale operei, utilizând terminologia teoriei literare și surse secundare.
+- LR.ÎL.A.2.3. Evaluează funcția mijloacelor stilistice utilizate într-un text.
+- LR.ÎL.A.2.4. Analizează o problemă, idee sau un mesaj dintr-un text literar sau non-literar, privindu-le din perspective diferite; identifică și evaluează argumentele, le ierarhizează, le reanalizează valoarea și, eventual, își modifică punctele de vedere.
+- LR.ÎL.A.2.5. Asociază teme istorice, religioase și politice din operele studiate și, astfel, își construiesc și reexaminează propria identitate; explică și compară modul în care ideile sunt exprimate creativ în diferite culturi.
+- LR.ÎL.A.2.6. Corelează scopul, conținutul și modul de expunere cu situația de comunicare.
+- LR.ÎL.A.2.7. Explorează relațiile dintre anumite teorii (existențialism, teoria receptării/operei deschise) și textul literar-artistic, precum și relațiile dintre texte literare (intertextualitate); transferă cunoștințele teoretice în contexte noi.
+- LR.ÎL.A.2.8. Compun diverse tipuri de texte, utilizând stiluri funcționale și forme de exprimare adecvate.
+- LR.ÎL.A.2.9. Cercetează și compară informații din diverse discipline și surse mass-media, adoptând o atitudine critică față de acestea.
+- LR.ÎL.A.2.10. Vorbesc în public, în fața unui auditoriu larg, despre teme legate de limbă, literatură și cultură.
+- LR.ÎL.A.2.11. Participă activ la dezbateri publice (se pregătesc individual sau în echipă, își expun argumentele în mod rațional, formulează concluzii și dezvoltă strategii).
+- LR.ÎL.A.3.1. Înțeleg influența limbajului ca mijloc de exprimare a diverselor dimensiuni ale experienței umane (sociale, culturale, morale, spirituale și estetice), respectând contextul și perspectivele diferite.
+- LR.ÎL.A.3.2. Cercetează și evaluează critic informațiile din diverse medii; sunt capabili să recunoască diferite tipuri de manipulare mediatică și influența acestora asupra formării realității.
+- LR.ÎL.A.3.3. Își dezvoltă un stil personal de exprimare verbală și nonverbală, cultivând interacțiunea pozitivă și colaborarea cu ceilalți; analizează și îmbunătățește abilitățile de comunicare printr-o atitudine activă și perseverență în atingerea obiectivelor.
+- LR.ÎL.A.3.4. Au o relație interactivă cu mass-media și sunt dispuși să participe la activitățile comunității și ale societății.
+- LR.ÎL.A.3.5. Observă și monitorizează dezvoltarea și influența artei, științei și tehnologiei asupra alfabetizării și limbajului; sunt preocupați de conservarea monumentelor cultural-istorice, de siguranța și de sustenabilitatea mediului.
+- LR.ÎL.A.3.6. Își aprofundează înțelegerea și aplicarea diferitelor strategii și tehnici de lectură și învățare, fiind conștienți de propriile puncte forte și slăbiciuni.
+- LR.ÎL.A.3.7. Prin lectură, își extind orizonturile și își dezvoltă gândiriea și emoțiile, asumându-și responsabilitatea pentru alegerile și deciziile care le influențează viața personală și comunitară.
+- LR.ÎL.A.3.8. Cunosc culturi diferite prin intermediul literaturii regiunii, a Europei și a lumii și cultivă o atitudine umană și critică în dialogul intercultural.
+- LR.ÎL.A.3.9. Evaluează diverse conținuturi culturale, recunoscându-le și valorificându-le dimensiunea personală, socială și comercială.
+- LR.ÎL.A.3.10. Apreciază limba ca mediu al culturii naționale, ca patrimoniu cultural și ca expresie a diversității culturale din comunitatea, regiunea, continentul și lumea în care trăiesc.
+- LR.ÎL.A.3.11. Cercetează influența stereotipurilor și prejudecăților asupra individului și societății, susținând respectarea drepturilor omului și soluționarea pașnică a conflictelor.
+- LR.ÎL.A.3.12. Evaluează critic realizările literare, teatrale și cinematografice.
+РУМУНСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општа предметна компетенција (ОПК)
+Ученици имају знања о функцији и значају језика и вишејезичности, познају граматику румунског језика и примењују је у свакодневном животу. Разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и социјалну укљученост. Негују и чувају румунски језик уважавајући разноврсност његових дијалеката, као и језик већинског народа и друге језике.
+Користе развијен и богат речник у усменој и писаној комуникацији: говоре и пишу поштујући књижевнојезичку и правописну норму, уобличавају логичан и стилски складан текст. Воде рачуна о култури дијалога, владају говорним вештинама и вештинама активног слушања. Формулишу и изражавају усмене и писане аргументе на уверљив начин који је примерен контексту. Комуницирају на конструктиван начин, сарађују у тимовима и преговарају, развијајући осећај за иницијативу и деловање у остваривању циљева, користећи и ИКТ средства.
+Имају развијену читалачку писменост. Разумеју, критички и креативно промишљају књижевни и неуметнички текст. Негују говорну и читалачку културу ради сопственог усавршавања и личног испуњења. Траже, прикупљају и критички обрађују информације из различитих врста извора и одговорно употребљавају и креирају мултимедијалне садржаје.
+Тумаче књижевна дела из националне и светске књижевности. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Уочавају и примерима аргументују основне поетичке, језичке, естетске и структурне особине књижевних дела. Поседују способност фигуративног и апстрактног изражавања идеја, искустава и емоција; испољавају стваралачке могућности. Користе читање и да би боље спознали себе, друге и свет око себе усвајајући и изграђујући етичке принципе. Читањем развијају емпатију и бригу за људе и свет. Негују хумани и критички однос у различитим културним формама. Успостављају везу између књижевности и других уметности, наука и технологије.
+Ефикасно користе разноврсне технике учења и свесни су значаја целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици знају основне одлике румунског књижевног језика. Познају књижевнојезичку и правописну норму, граматику и стилистику румунског језика. Усмерени су ка богаћењу свог речника, језичког и стилског израза. Говоре јасно и течно, разликују формално и неформално изражавање, вербалну и невербалну комуникацију. Познају правила писања различитих врста текстова. Читају и разумеју линеарне и нелинеарне текстове; разликују књижевни од неуметничког текста. Повезују књижевна дела са њиховим ауторима и књижевним периодима. Одређују основне елементе структуре књижевног и неуметничког текста.
+Специфична предметна компетенција 2 (СПК2)
+Ученици имају вештине слушања и говорења и примењују их у складу са комуникативном ситуацијом. Примењују теоријска знања из граматике у конкретној језичкој ситуацији и пишу примењујући правописна правила. Састављају логичан, добро структуриран и стилски складан говорени и писани текст. Изражавају се усмено и писано на уверљив начин који је примерен контексту уз поштовање расне, националне, културне, језичке, верске, полне, родне и узрасне равноправности. Уочавају намере аутора у тексту (информативност, манипулативност). Током читања и тумачења књижевног и неуметничког текста примењују различите методе. Усвајају читање као хоби и проширују своја интересовања од књижевности за младе ка општој белетристици. Користе фондове библиотека и архива, посећују изложбе, гледају позоришне представе и филмове.
+Специфична предметна компетенција 3 (СПК3)
+Ученици негују и чувају румунски језик уз уважавање разноврсности његових дијалеката; поштују језике националних мањина и друге стране језике. Оспособљени су за правилно, јасно, економично и уверљиво усмено и писано изражавање. Читањем и тумачењем књижевних дела из националне и светске књижевности формирају хуманистичке вредносне ставове и уверења. Успостављају везу између књижевне, позоришне и филмске уметности. Користе читалачку писменост и различите стратегије читања и учења. Препознају предрасуде, стереотипе и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) као негативне појаве. Користе знања из језика и књижевности у ситуацијама од значаја за активну грађанску укљученост. Етички и одговорно приступају интелектуалном и културном власништву.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- РЈ.СО.О.1.1. Знају основне одлике румунског књижевног језика (писмo, изговор, дијалекти).
+- РЈ.СО.О.1.2. Разликују правилан од неправилног изговора гласа и класификују гласове по задатим критеријумима.
+- РЈ.СО.О.1.3. Разумеју појам слога, знају основна правила акценатске норме и уочавају некњижевне акценте у свакодневној комуникацији.
+- РЈ.СО.О.1.4. Класификују врсте речи; разликују граматичке категорије променљивих врста речи у типичним, школским примерима.
+- РЈ.СО.О.1.5. Разликују просте речи од твореница и граде речи по задатом моделу.
+- РЈ.СО.О.1.6. Класификују основне реченичне чланове; разликују независне од зависних реченица; исправно структурирају реченицу.
+- РЈ.СО.О.1.7. Разумеју значења речи, устаљених израза и фразеологизама са којима се сусрећу у свакодневној комуникацији, у лектири и школским текстовима из других предмета.
+- РЈ.СО.О.1.8. Разликују формалну од неформалне лексике и употребљавају је у складу са приликом; познају лексичке појаве и лексичке односе и примењују их у комуникативним ситуацијама.
+- РЈ.СО.О.1.9. Знају и примењују правописна правила.
+- РЈ.СО.О.1.10. Познају правила писања различитих врста текстова (нпр. писма, имејла, биографије, молбе, жалбе, извештаја…); правилно попуњавају различите обрасце.
+- РЈ.СО.О.1.11. Повезују књижевна дела са њиховим ауторима и књижевним периодима у којима су настала.
+- РЈ.СО.О.1.12. Разликују књижевни од неуметничког текста; одређују основне елементе структуре књижевноуметничког дела: тему, мотив, радњу, ликове, време и место радње.
+- РЈ.СО.О.1.13. Разликују карактеристике народне и ауторске књижевности; познају основне одлике књижевних родова и врста; уочавају лирске, епске и драмске елементе у књижевном делу.
+- РЈ.СО.О.1.14. Разликују препричавање од анализе дела.
+- РЈ.СО.О.1.15. Повезују мотиве/теме из књижевности и историје уметности са основним знањима из историје.
+- РЈ.СО.О.2.1. Примењују теоријска знања из граматике у конкретној језичкој ситуацији/тексту.
+- РЈ.СО.О.2.2. Пишу примењујући правописна правила, укључујући и основна типографско-правописна решења у куцаном тексту користећи одговарајући правопис.
+- РЈ.СО.О.2.3. Читају књижевне и неуметничке текстове (линеарне и нелинеарне); с пажњом и разумевањем слушају једноставније излагање и праве белешке, одређују кључне речи.
+- РЈ.СО.О.2.4. Исказују субјективни и естетски доживљај о говореном или писаном тексту; повезују садржај књижевног дела са сопственим или туђим искуством.
+- РЈ.СО.О.2.5. Уочавају главне мотиве, тематику и изразите стилске одлике књижевних дела одређеног књижевног правца, типичне разлике и сличности у односу на претходне књижевне епохе.
+- РЈ.СО.О.2.6. Сажимају, цитирају, препричавају/парафразирају текст издвајајући битно; интерпретирају текст; разликују информацију од интерпретације.
+- РЈ.СО.О.2.7. Обликују свој говор и писање према комуникативној ситуацији (бирају одговарајућа изражајна средства - вербална и невербална, лексику и облике казивања).
+- РЈ.СО.О.2.8. Проналазе информације у тексту (у линеарном и нелинеарном) по задатом критеријуму; налазе начине за сазнавање информација које не разумеју; одабирају и разврставају изворе информација; препознају технике манипулације у тексту и говору.
+- РЈ.СО.О.2.9. Учествују у пројектној настави и креативним драмским процесима; користе библиотечки фонд, гледају позоришне представе и филмове, посећују изложбе…
+- РЈ.СО.О.3.1. Користе знања из језика како би се правилно и јасно изражавали писаним и усменим путем у образовном контексту, у приватном и јавном животу, у ситуацијама од значаја за активну грађанску укљученост.
+- РЈ.СО.О.3.2. Представљају информације на различите начине (усмено, писмено, визуелно, дигитално).
+- РЈ.СО.О.3.3. Изражавају аргументовано своје мишљење и бирају језички израз у складу са контекстом, укључујући и конструктивну комуникацију у сарадњи са другима, у групи, на друштвеним мрежама.
+- РЈ.СО.О.3.4. Препознају предрасуде и стереотипе у књижевним и неуметничким текстовима и усменом излагању, као и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) у свакодневним ситуацијама и у медијима као негативну појаву.
+- РЈ.СО.О.3.5. Користе читалачку писменост као средство за учење и боље разумевање других предмета.
+- РЈ.СО.О.3.6. Користе различите стратегије читања и учења у складу са постављеним циљем.
+- РЈ.СО.О.3.7. Имају развијене читалачке навике и схватају значај читања за развој сопствене опште културе и знања.
+- РЈ.СО.О.3.8. Препознају значај књижевности и културе у свом животу; вреднују књижевност као суштински део националне културе и као средство за промоцију различитих култура.
+- РЈ.СО.О.3.9. Користе знања из језика и књижевности за учествовање у различитим културним садржајима.
+- РЈ.СО.О.3.10. Састављају говорени или писани текст; одговорно се односе према питањима везаним за интелектуалну својину; умеју да цитирају и/или парафразирају текстове.
+-РЈ.СО.О.3.11. Препознају значај језика у неговању културног и националног идентитета; разумеју право на употребу сопственог језика и поштују језик већинског народа у Србији.
+- РЈ.СО.О.3.12. Поштују људска права и привaтност других; разумеју значај равноправности људи.
+- РЈ.СО.О.3.13. Препознају улогу традиционалних и савремених медија у демократском друштву.
+- РЈ.СО.О.3.14. Препознају везу између књижевне, позоришне и филмске уметности у интерпретацији истих тема.
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне језичке групе у Европи и знају место румунског језика у романској и европској групи језика. Имају шира знања о гласовима румунског језика, знају правила о наглашавању речи и разликују књижевни од некњижевног акцента. Имају шира знања о врстама и подврстама речи, њиховим облицима и начинима њиховог грађења. Анализирају реченице грађене по различитим моделима. Имају развијен речник у складу са образовањем и умеју да употребе одговарајућу реч у складу са контекстом; усмерени су ка даљем богаћењу сопственог речника. Користе читалачке стратегије у складу са циљевима читања и врстом текста. Познају и тумаче најзначајнија дела румунске и светске књижевне баштине и локализују их у књижевноисторијски контекст; разумеју основне књижевнотеоријске и књижевноисторијске појмове. Познају различите облике медијског изражавања.
+Специфична предметна компетенција 2 (СПК2)
+Истражујући румунски језик и књижевност, ученици га упоређују са другим језицима и развијају радозналост и компетенцију за међукултурну комуникацију. Редовно читају књижевна дела. Користе различите изворе информација, процењују поузданост извора, обрађују информације, бирају их према релевантности и аргументовано их представљају у складу са комуникативном ситуацијом, прилагођавајући језик и облике изражавања различитим циљним групама.
+Специфична предметна компетенција 3 (СПК3)
+Ученици процењују сопствене комуникационе методе и вештине интеракције. Имају богат речник и виде језик као низ могућности за изражавање и стварање културних, друштвених и материјалних вредности. Креирају и вреднују различите културне садржаје. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Развијају вештине критичког мишљења и аналитичке вештине.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- РЈ.СО.С.1.1. Разврставају језике у основне језичке групе у Европи, знају место румунског језика у породици романских и индоевропских језика и препознају дијалекте румунског језика на основу њихових одлика.
+- РЈ.СО.С.1.2. Познају основне етапе у развоју румунског књижевног језика и најзначајније културноисторијске споменике.
+- РЈ.СО.С.1.3. Познају књижевнојезичку норму у вези са акцентима; умеју да одреде акцентоване слогове и примене правила акцентуације у једноставним примерима (унутрашњи слогови и једносложне речи).
+- РЈ.СО.С.1.4. Уочавају гласовне алтернације у различитим примерима и повезују их са књижевнојезичком нормом.
+-РЈ.СО.С.1.5. Одређују подврсте променљивих речи и њихове граматичке категорије; одређују све глаголске облике.
+- РЈ.СО.С.1.6. Разликују творбени начин којим се граде речи.
+- РЈ.СО.С.1.7. Анализирају синтагме и реченице грађене по основним моделима.
+- РЈ.СО.С.1.8. Познају врсте и функције зависних реченица.
+- РЈ.СО.С.1.9. Знају значења речи и фразеологизама који се јављају у литерарним и медијским текстовима, разликују типове лексема с обзиром на порекло и сферу употребе, разумеју значењске односе међу лексемама.
+- РЈ.СО.С.1.10. Анализирају обележја функционалних стилова и разумеју важност њихове употребе.
+- РЈ.СО.С.1.11. Повезују књижевна дела са историјским и друштвеним контекстом; препознају основне карактеристике књижевних периода и повезују их са књижевним делом и аутором.
+- РЈ.СО.С.1.12. Препознају одлике књижевнонаучних и хибридних врста као и карактеристике различитих облика медијског изражавања.
+- РЈ.СО.С.1.13. Разликују аутора књижевноуметничког дела од наратора, драмског лика или лирског субјекта приликом анализе књижевног дела.
+- РЈ.СО.С.1.14. Одређују елементе књижевне структуре: ретроспективно и хронолошко приповедање, фабулу и сиже; разликују врсте казивања у књижевности; уочавају врсте карактеризације према основним особинама лика (физичка, психолошка, језичка, друштвена и етичка).
+- РЈ.СО.С.1.15. Именују језичко-стилска средства и разумеју њихову функцију у тексту.
+- РЈ.СО.С.2.1. Примењују теоријска знања из граматике, уочавају, илуструју и анализирају језичке појаве у сложенијој језичкој ситуацији.
+- РЈ.СО.С.2.2. Уочавају и исправљају правописне грешке у свом и туђем тексту у складу са правописном нормом; препознају некњижевне акценте и облике речи у свакодневној комуникацији.
+- РЈ.СО.С.2.3. Примењују различите стратегије читања и прилагођавају их природи текста и сврси читања.
+- РЈ.СО.С.2.4. Редовно читају књижевна дела из програма и бирају дела по свом слободном избору развијајући читалачке навике, естетске критеријуме и судове.
+- РЈ.СО.С.2.5. Свестрано доживљавају књижевноуметничко дело исказујући личне утиске; интерпретирају различите врсте текстова; повезују, упоређују и образлажу своје закључке чињеницама из текста.
+- РЈ.СО.С.2.6. Анализирају издвојен проблем; увиђају и тумаче тематске, идејне, поетичке, стилске, језичке, композиционе и жанровске особине књижевног текста.
+- РЈ.СО.С.2.7. Процењују улогу коју форма, стил и тип приповедања имају у обликовању значења и идеје књижевног дела.
+- РЈ.СО.С.2.8. Вреднују поступке и особине ликова формирајући моралне ставове и из угла равноправности људи.
+- РЈ.СО.С.2.9. Утврђују тачке гледишта, став и намере аутора, разликују субјективност од објективности у изражавању, препознају фигуративност, хумор, иронију, сатиру.
+- РЈ.СО.С.2.10. Организују сложенији говорени или писани текст (преуређују садржај, повезују делове у једноставно структурирану говорену или писану целину).
+- РЈ.СО.С.2.11. Самостално проналазе и повезују информације из текстова из различитих области и користе их у учењу и у свакодневним животним ситуацијама.
+- РЈ.СО.С.2.12. Учествују у јавним разговорима; дебатују формулисањем аргумената и контрааргумената, активним слушањем и уважавањем позиције другог, контролом емоционалног садржаја и препознавањем аргумената заснованих на емоцијама.
+- РЈ.СО.С.3.1. Формулишу своје мишљење и јавно га исказују служећи се књижевним језиком уз свест о социјалним конвенцијама и културолошким различитостима.
+- РЈ.СО.С.3.2. Уочавају повезаност начина изражавања са намером и ставом аутора; процењују употребљивост информација и поузданост извора.
+- РЈ.СО.С.3.3. Користе изграђене вештине сарадње, културу сопственог вербалног и невербалног изражавања, као слушања и поштовања туђег мишљења.
+- РЈ.СО.С.3.4. Уважавају разноликост културних идентитета у Европи и свету.
+- РЈ.СО.С.3.5. Развијају писменост у различитим сферама (уметничкој, дигиталној, информатичкој, финансијској, здравстеној, медијској, научној, математичкој…).
+- РЈ.СО.С.3.6. Прилагођавају стратегије читања и учења самостално постављеном циљу; способни су да коригују свој приступ.
+- РЈ.СО.С.3.7. Проширују интересовање за читање - од различитих неуметничких текстова до националне и светске књижевности.
+- РЈ.СО.С.3.8. Разумеју међусобне везе књижевности и културе; читајући обликују своје естетске и етичке ставове и аргументовано их образлажу.
+- РЈ.СО.С.3.9. Користе знања из језика и књижевности за креирање и критичко преиспитивање различитих културних садржаја.
+- РЈ.СО.С.3.10. Састављају сложеније говорене или писане текстове на основу личног искуства, основне и секундарне литературе.
+- РЈ.СО.С.3.11. Уважавају културну разноликост Србије, цене културну баштину свог завичаја; имају изграђене културне потребе и знају како да их остваре.
+- РЈ.СО.С.3.12. Објашњавају штетан утицај предрасуда и стереотипа у образовном, приватном и јавном контексту; промовишу културу мира и ненасиља, толеранцију.
+- РЈ.СО.С.3.13. Користе стратегије критичког мишљења за проверу информација у различитим текстовима.
+- РЈ.СО.С.3.14. Упоређују изражајна средства књижевне, позоришне и филмске уметности приликом интерпретације истих или блиских мотива и тема.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функције и значај језика и вишејезичности. Имају детаљнија знања о граматици румунског језика (акцентима, саставу речи, значењу падежа и глаголских облика, структури реченице); познају структуру речничког чланка. Владају усменим и писаним облицима потребним за школовање, грађанску и социјалну укљученост. Процењују стилске поступке у књижевном и неуметничком тексту и тумаче њихову улогу у остваривању естетских и значењских одлика различитих врста текстова. Разумеју и успостављају везе између књижевности и других уметности, науке и технологије. Развијају лични, национални и културни идентитет, свест о припадности европском и светском културном наслеђу на основу дела румунске и светске књижевности, позоришне и филмске уметности, научне и уметничке баштине и различитих облика медијске културе.
+Специфична предметна компетенција 2 (СПК2)
+Ученици говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе. Уочавају истраживачке и стваралачке могућности у процесу учења језика и књижевности и примењују стечена знања и вештине у свакодневном животу. Истражују карактеристике регистара и стилова везаних за речнике и избор одговарајућих језичких израза. Упоређују информације из различитих дисциплина и медијских извора и критички се односи према њима.
+Специфична предметна компетенција 3 (СПК3)
+Ученици имају навику и потребу да развијају говорну и читалачку културу, како ради сопственог усавршавања тако и ради учешћа у грађанском и друштвеном животу. Прате утицај социоекономских кретања на језик, књижевност, културу и науку; брину о одрживом начину живота у заједници. Негују хумани и критички однос у дијалогу међу културама. Спремни су да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- РЈ.СО.Н.1.1. Разумеју битна својства и функције језика.
+- РЈ.СО.Н.1.2. Познају појмове једнојезичности и вишејезичности и знају одговарајуће језичке прилике у Србији.
+- РЈ.СО.Н.1.3. Умеју да одреде место и квантитет акцента у речи.
+- РЈ.СО.Н.1.4. Разумеју појам фонеме; одређују све гласовне алтернације.
+- РЈ.СО.Н.1.5. Разумеју појам морфеме.
+- РЈ.СО.Н.1.6. Одређују творбене моделе (префиксација, извођење, слагање, комбинована творба и творба претварањем).
+- РЈ.СО.Н.1.7. Знају значења падежа и личних глаголских облика.
+- РЈ.СО.Н.1.8. Анализирају текст разликујући специјалне врсте реченица, актив и пасив, напоредне односе међу реченицама и реченичним члановима.
+- РЈ.СО.Н.1.9. Примењују основна правила конгруенције.
+- РЈ.СО.Н.1.10. Препознају у тексту хиперонимију/хипонимију, паронимију, разликују лексичке слојеве; познају метафору, метонимију и синегдоху као лексичке механизме.
+- РЈ.СО.Н.1.11. Тумаче језичко-стилске, естетске и структурне особине књижевноуметничких и књижевнонаучних текстова, користећи књижевнотеоријску терминологију.
+- РЈ.СО.Н.1.12. Процењују стилске поступке у књижевном и неуметничком тексту; пореде стилске поступке у два сложена текста (или више њих); тумаче њихову улогу у остваривању естетских и значењских одлика наведених врста текстова.
+- РЈ.СО.Н.2.1. Упоређују језичке појаве у свом и другим страним језицима, анализирају их и изводе закључке.
+- РЈ.СО.Н.2.2. Тумаче књижевно дело са разумевањем његових жанровских карактеристика и књижевноисторијског контекста, ослањајући се у анализи на структурне и стилистичке елементе дела и употребљавајући књижевнотеоријску терминологију и секундарне изворе.
+- РЈ.СО.Н.2.3. Процењују функцију употребљених стилских средстава у тексту.
+- РЈ.СО.Н.2.4. Анализирају проблем, идеју или поруку у књижевном и неуметничком тексту сагледавајући их из различитих перспектива; проналазе и процењују аргументе, рангирају и преиспитују њихову вредност и евентуално коригују своје ставове.
+- РЈ.СО.Н.2.5. Повезују историјске, религијске, политичке теме у делима која обрађују и на тај начин граде и преиспитују сопствени идентитет; објашњавају и пореде како се идеје креативно изражавају у различитим културама.
+- РЈ.СО.Н.2.6. Усклађују сврху, садржај и начин излагања са комуникативном ситуацијом.
+- РЈ.СО.Н.2.7. Истражују односе између одређене теорије (егзистенцијализам, теорија рецепције/отвореног дела) и књижевноуметничког текста и односе између самих књижевноуметничких текстова (интертекстуалност); преносе теоријска знања у нови контекст.
+- РЈ.СО.Н.2.8. Састављају различите типове текстова употребљавајући одговарајуће функционалне стилове и форме казивања.
+- РЈ.СО.Н.2.9. Истражују и упоређују информације из различитих дисциплина и медијских извора, стварајући критички однос према њима.
+- РЈ.СО.Н.2.10. Говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе.
+- РЈ.СО.Н.2.11. Активно учествују у јавној дебати (припремају се за њу, самостално или у сарадњи са тимом, аргументовано излажу ставове, изводе закључке и осмишљавају стратегије).
+- РЈ.СО.Н.3.1. Разумеју моћ језика као средства изражавања различитих димензија људских искустава (друштвених, културних, моралних, духовних и естетских), уважавајући контекст и различите перспективе.
+- РЈ.СО.Н.3.2. Критички истражују и вреднују информације из различитих медија; умеју да препознају различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- РЈ.СО.Н.3.3. Развијају лични стил у вербалном и невербалном изражавању уз неговање позитивне интеракције и сарадње са другима; процењују и развијају своје комуникативне потенцијале уз проактиван став и истрајност у остваривању циљева.
+- РЈ.СО.Н.3.4. Имају интерактиван однос са медијима уз спремност да учествују у активностима заједнице и друштва.
+- РЈ.СО.Н.3.5. Уочавају и прате развој и утицај уметности, науке и технологије на писменост и језик; брину о очувању културно-историјских споменика, о безбедности и одрживости животне средине.
+- РЈ.СО.Н.3.6. Продубљују своје разумевање и примену различитих стратегија и техника читања и учења уз самосвест о својим властитим снагама и слабостима.
+- РЈ.СО.Н.3.7. Читајући проширују своје видике и развијају свој мисаони и емоционални свет, уз спремност да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+- РЈ.СО.Н.3.8. Упознају различите културе кроз књижевност региона, Европе и света и негују хумани и критички однос у дијалогу међу културама.
+- РЈ.СО.Н.3.9. Вреднују различите културне садржаје препознајући и остварујући личну, друштвену и комерцијалну вредност.
+- РЈ.СО.Н.3.10. Вреднују језик као медиј националне културе, националну културну баштину и културну разноликост своје средине, региона, Европе и света.
+- РЈ.СО.Н.3.11. Истражују утицај стереотипа и предрасуда на појединца и друштво залажући се за остваривање људских права и мирно решавање сукоба.
+- РЈ.СО.Н.3.12. Критички вреднују књижевна, позоришна и филмска остварења.
+GJUHË DHE LETËRSI SHQIPE
+Standardet e të arriturave arsimore për përfundimin e arsimit të mesëm
+Kompetenca e përgjithshme lëndore (KPL)
+Nxënësit kanë njohuri për funksionin dhe rëndësinë e gjuhës dhe shumëgjuhësisë, dinë gramatikën e gjuhës shqipe dhe e zbatojnë atë në jetën e përditshme. E kuptojnë ndikimin e gjuhës dhe e shfrytëzojnë në mënyrë të përgjegjshme shoqërore, duke zhvilluar përgjegjësinë e tyre qytetare dhe përfshirjen sociale. Kujdesen dhe e ruajnë gjuhën shqipe duke respektuar llojllojshmërinë e dialekteve të saj, sikur edhe gjuhën e shumicës dhe gjuhët e pakicave kombëtare dhe gjuhët tjera.
+Shfrytëzojnë fjalor të zhvilluar e të pasur në komunikimin me shkrim dhe me gojë: folin dhe shkruajnë duke respektuar normën letrare dhe drejtshkrimore, mishërojnë tekst të përshtatshëm logjik e stilor. Kujdesen për kulturën e dialogut, zotërojnë shkathtësi të të folurit dhe shkathtësitë e të dëgjuarit aktiv. Formulojnë dhe shprehin argumente shkrimore në mënyrë bindëse që i përgjigjet kontekstit. Komunikojnë në mënyrë konstruktive, bashkpunojnë në ekipe dhe bisedojnë, duke zvilluar ndieshmërinë për nisma dhe veprim në arritjen e caqeve duke shfrytëzuar mjetet e teknologjisë komunikuese - informative.
+Kanë të zhvilluar aftësinë e leximit. Kuptojnë, kritikisht e në mënyrë kreative e shohin tekstin letrar dhe joartistik (joletrar). Kujdesen për kulturën e të folurit dhe të lexuarit për tu ngritur e për ta përmbushur më shumë veten. Kërkojnë, mbledhin dhe kritikisht i përpunojnë informacionet e burimeve të llojeve të ndryshme dhe përgjegjshëm i shfrytëzojnë dhe krijojnë përmbajtje multimediale.
+Interpretojnë pjesë letrare nga lëtërsia nacionale, serbe dhe botërore. Kuptojnë dimensionin multikultural të letërsisë dhe mënyrën se si letarsia kombëtare i kontribuon trashëgimisë kulturore botërore. Vërejnë dhe me shembuj argumentojnë veçoritë themelorë poetike, gjuhësore, estetike e strukturore të pjesëve letrare. Posedojnë aftësinë e shprehshmërisë së ideve, përvojave dhe emocioneve në mënyrë figurative e abstrakte; manifestojnë aftësi krijuese. Shfrytëzojnë leximin që të njohin më mirë veten, të tjerët dhe botën rreth tyre duke adoptuar e ndërtuar parimet etike. Duke lexuar zhvillojnë empatinë dhe kujdesin për njerëzit dhe botën. Kujdesen për raporte humane e kritike në forma të ndryshme kulturore. Vendosin lidhje mes letërsisë dhe arteve tjera, shkencave dhe teknologjisë.
+Në mënyrë efikase shfrytëzojnë teknika të llojllojshme të mësimnxënies dhe janë të vetdijshëm për mësimin e përhershëm. Etikisht dhe përgjegjshëm i qasen pronësisë intelektuale e kulturore.
+Niveli fillestar
+Kompetenca specifike lëndore 1 (KSL1)
+Nxënësit dinë format themelore të gjuhës letrare shqipe. Njohin normën letrare e drejtshkrimore, gramatikën dhe stilistikën e gjuhës shqipe. Janë të orientuar nga pasurimi i fjalorit të tyre, shprehësisë gjuhësore e stilore. Flasin qartë dhe pastër, dallojnë shprehmërinë formale dhe joformale, komunikimin verbal dhe joverbal. Njohin rregullat e shkrimit të teksteve të llojeve të ndryshme. Lexojnë dhe kuptojnë tekste lineare dhe jolineare; dallojnë tekstin letrar nga teksti joletrar. Lidhin veprat letrare me autorët e tyre dhe periudhat letrare. Vendosin elementet themelore strukturore të tekstit letrar dhe joletrar.
+Kompetenca specifike lëndore 2 (KSL2)
+Nxënësit kanë shkathtësi të të dëgjuarit dhe të folurit dhe i zbatojnë në përputhje me ngjarjen komunikuese. Zbatojnë njohuri teorike nga gramatika në situatën konkrete gjuhësore dhe shkruajnë duke zbatuar rregullat drejtshkrimore. Ndërtojnë tekst të shkruar e të folur logjik, mirë të strukturuar dhe të përshtatshëm stilor. Shprehen me gojë e me shkrim në mënyrë bindëse që i përshtatet kontekstit duke respektuar barabrtësinë racore, kombëtare, kulturore, gjuhësore, fetare, gjinore, të afërsisë e rritshmërisë. Vërejnë qëllimet e autorit në tekst (informimin, manipulimin). Gjatë leximit dhe interpretimit të tekstit letrar dhe jolterar zbatojnë metoda të ndryshme. Leximin e marrin si hobi dhe zgjërojnë interesimet e tyre nga letërsia për të rinj kah trillimi i përgjithshëm. Shfrytëzojnë fondet e bibliotekave dhe arkivave, vizitojnë ekspozitat, shikojnë shfaqjet teatrale dhe filmat.
+Kompetenca specifike lëndore 3 (KSL3)
+Nxënësit kujdesen dhe ruajnë gjuhën shqipe duke respektuar barabartësinë e dialekteve të saj (vendimet e Kongresit të Drejtshkrimit, Tiranë, 1972); respektojnë gjuhët e të tjerëve dhe gjuhët e huaja. Janë të aftësuar që të shprehen me shkrim e me gojë në mënyrë të drejtë, qartë, ekonomikisht dhe bindshëm. Duke lexuar dhe interpretuar veprat letrare nga letërsia vendase dhe botërore, formojnë qëndrime dhe bindshmëri humanistike e pasurore. Vendosin lidhje mes artit letrar, teatral e filmik. Shfrytëzojnë aftësinë e të lexuarit dhe strategji të ndryshme të të lexuarit e të mësuarit. Paranjohin paragjykimet, stereotipet dhe format e agresionit verbal (sjellje jo e sjellshme, mosrespektim i bashkëbiseduesit, fyerje, gjuhë e urrejtjes dhe të ngjash.) si dukuri negative. Shfrytëzojnë njohuritë nga gjuha dhe letërsia në situatat e rëndësishme për kyçje aktive qytetare. Etikisht dhe përgjegjshëm i qasen pronësisë intelektuale dhe kulturore.
+Rezultatet e ciklit arsimor (RCA) për fund të arsimit të mesëm:
+Niveli fillestar
+KSL 1
+KSL 2
+KSL 3
+Nxënësit :
+Nxënësit :
+Nxënësit :
+- SHQI.SHM.F.1.1. Dinë format themelore të gjuhës letrare shqipe (shkrimi, shqiptimi, dialektet).
+- SHQI.SHM.F.1.2. Dallojnë shqiptimin e drejtë nga joidrejtë dhe klasifikojnë tingujt sipas kritereve të dhëna.
+- SHQI.SHM.F.1.3. Kuptojnë konceptin e rrokjes, njohin rregullat themelore të normës akcentuale dhe vërejnë akcentet joletrare në komunikimin e përditshëm.
+SHQI.SHM.F.1.4. Klasifikojnë llojet e fjalëve; dallojnë kategoritë gramatikore të llojeve të ndryshueshme të fjalës në shembuj tipik shkollor.
+SHQI.SHM.F.1.5. Dallojnë fjalët e thjeshta dhe fjalët e përbëra, sipas modelit të dhënë.
+SHQI.SHM.F.1.6. Klasifikojnë llojet themelore të fjalëve; dallojnë fjalitë e pavarura nga të varurat.
+SHQI.SHM.F.1.7. Kuptojnë domethënien e fjalës, shprehjeve të vendosura dhe frazeologjizmave me të cilat ndeshen në komunikimin e përditshëm, në lektyra dhe tekstet shkollore nga lëndët tjera.
+SHQI.SHM.F.1.8. Dallojnë leksikun formal nga leksiku joformaldhe e shfrytëzojnë në pajtushmëri me situatën; njohin dukuritë leksikore dhe raportet leksikore dhe i zbatojnë në situatat komunikative.
+SHQI.SHM.F.1.9. I dinë dhe i zbatojnë rregullat drejtshkrimore.
+SHQI.SHM.F.1.10. Dinë rregullat e të shkruarit të llojeve të ndryshme të teksteve (psh. letra, imejli, biografia, lutja, ankesa, raporti..); sipas normës plotësojnë modele të ndryshme.
+SHQI.SHM.F.1.11. Lidhin veprat letrare me autorët e tyre dhe periudhat kur janë shkruar.
+SHQI.SHM.F.1.12. Dallojnë tekstin letrar nga joletrar; vendosin për elementet themelore të strukturës së veprave letrare artistike; tema, motive, ngjarja, personazhet, koha dhe vendi i ngjarjes.
+SHQI.SHM.F.1.13. Dallojnë karakteristikat e letërsisë popullore nga karakteristikat e letërsisë së shkruar; njohin format themelore të llojeve e gjinive letrare; vërejnë elementet lirike, epike e dramatike në veprën letrare.
+SHQI.SHM.F.1.14. Dallojnë pararrëfimin nga analiza e veprës.
+SHQI.SHM.F.1.15. Lidhin motivet/temat nga letërsia dhe historia e artit me njohuritë themelore nga historia.
+SHQI.SHM.F.2.1. Zbatojnë njohuritë teorike nga gramatika në situatën (tekstin) konkrete gjuhësore.
+SHQI.SHM.F.2.2. Shkruajnë duke zbatuar rregullat drejtshkrimore, përfshi vendimet tipografike - drejtshkrimore në tekstin e shtypur duke shfrytëzuar drejtshkrimin përgjegjës.
+SHQI.SHM.F.2.3. Lexojnë tekste letrare dhe joletrare (lineare dhe jolineare); me kujdes dhe me kuptueshmëri dëgjojnë deklarimet e thjeshta dhe mbajnë shënime, përcaktojnë fjalët kyçe.
+SHQI.SHM.F.2.4. Shprehin përjetimin subjektiv e estetik për tekstin e folur ose të shkruar; lidhin përmbajtjen e veprës letrare me përvojën e tyre ose të huaj.
+SHQI.SHM.F.2.5. Vërejnë motivet kryesore, tematikën dhe tiparet e dallueshme stilistike të veprave letrare të drejtimit të caktuar letrar, dallimet tipike dhe ngjashmëritë në raport me epokat e kaluara letrare.
+SHQI.SHM.F.2.6. Përmbledhin, citojnë, pararrëfejnë/parafrazojnë tekstin duke ndarë të rëndësishmen; interpretojnë tekstin; dallojnë informacionin nga interpretimi.
+SHQI.SHM.F.2.7. Formësojnë të folurit e të shkruarit e tyre sipas situatës komunikative (zgjedhin mjete përgjegjëse të të shprehurit - verbale dhe joverbale, leksikun dhe format e të treguarit).
+SHQI.SHM.F.2.8. Gjejnë informacione në tekst (në linear dhe jolinear) sipas kriterit të dhënë; gjejnë mënyra për tu njohur me informatën të cilën nuk e kuptojnë; zgjedhin dhe klasifikojnë burimet e informacionit; njohin teknikën e manipulimit në tekst dhe në të folur.
+SHQI.SHM.F.2.9. Marrin pjesë në mësimin e projektuar dhe proceset kreative dramatike; shfrytëzojnë fondin e bibliotekës, shikojnë shfaqjet teatrale dhe filmat, vizitojnë ekspozitat …
+SHQI.SHM.F.3.1. Shfrytëzojnë njohuritë nga gjuha në mënyrë që të shprehen drejt me shkrim dhe me gojë në kontekstin arsimor, në jetën private dhe publike, në situatat e rëndësisë për kyçje aktive qytetare.
+SHQI.SHM.F.3.2. Paraqesin informacione në forma të ndryshme (me gojë, me shkrim, në mënyrë vizuele, dixhitale).
+SHQI.SHM.F.3.3. Shprehin mendimin e tyre në mënyrë argumentuese dhe zgjedhin shprehjen gjuhësore në pajtim me kontekstin, përfshi komunikimin konstruktiv në bashkpunim me të tjerët, në grupe, në rrjetet sociale.
+SHQI.SHM.F.3.4. Njohin dhe i vërejnë paragjykimet dhe stereotipet në tekstet letrare dhe joletrare dhe në deklarimin gojor, sikur edhe format e agresionit verbal (sjellje e papërshtatshme, mosrespektim i bashkëbiseduesit, fyerje, gjuhë e urrejtjes dhe të ngjash.) në situatat e përditshme dhe në media si shfaqje negative.
+SHQI.SHM.F.3.5. Shfrytëzojnë aftësitë e të lexuarit si mjet për mësim dhe kuptueshmëri më të mirë të lëndëve tjera.
+SHQI.SHM.F.3.6. Shfrytëzojnë strategji të ndryshme të të lexuarit dhe të mësuarit në pajtim me qëllimin e vendosur.
+SHQI.SHM.F.3.7. Kanë të zhvilluar pasionin për lexim dhe kuptojnë rëndësinë e leximit për zhvillim të përgjithshëm të kulturës dhe njohurive të tyre.
+SHQI.SHM.F.3.8. Njohin rëndësinë e letërsisë dhe kulturës në jetën e tyre; vlerësojnë letërsinë si pjesë e rëndësishme e kulturës kombëtare dhe si mjet për promovimin e kulturave të ndryshme.
+SHQI.SHM.F.3.9. Shfrytëzojnë njohuri nga gjuha dhe letërsia për të marrë pjesë në në manifetsime të ndryshme kulturore.
+SHQI.SHM.F.3.10. Shfrytëzojnë alfabetin e gjuhës shqipe, ndërtojnë tekst të shkruar dhe gojor; përgjegjshëm i qasen çështjeve që lidhen me pronësinë intelektuale; munden të citojnë dhe /ose parafrazojnë tekste.
+SHQI.SHM.F.3.11. Kuptojnë rëndësinë që ka gjuha në kujdesin për identitetin kulturor e kombëtar; kuptojnë të drejtën për shfrytëzim të gjuhës amtare dhe respektojnë gjuhët e të tjerëve në vend.
+SHQI.SHM.F.3.12. Respektojnë të drejtat e njeriut të të tjerëve; kuptojnë babartësinë mes njerëzve.
+SHQI.SHM.F.3.13. Kuptojnë rolin e mediave tradicionale dhe bashkëkohore në shoqërinë demokratike.
+SHQI.SHM.F.3.14. Njohin lidhjen mes artit letrar, teatral e filmik në interpretimin e temave të njëjta.
+Niveli i mesëm
+Kompetenca specifike lëndore 1 (KSL 1)
+Nxënësit njohin grupet themelore të gjuhëve në Europë dhe e dinë vendin e gjuhës shqipe në mesin e gjuhëve indoeuropiane. Kanë njohuri të gjëra për zërat e gjuhës shqipe, njohin rregullat duke theksuar fjalët dhe dallojnë akcentin letrar nag ai joletrar. Kanë njohuri të gjëra për llojet e nënllojet e fjalëve, format e tyre dhe mënyrave të ndërtimit të tyre. Analizojnë fjalitë e ndërtuara sipas modeleve të ndryshme. Kanë fjalor të zhvilluar në pajtim me arsimimin dhe munden ta shfrytëzojnë fjalën e kërkuar në pajtim me rastin e dhënë; janë të orientuar në pasurimin e mëtejshëm të fjalorit të tyre. Shfrytëzojnë strategji të të lexuarit në pajtim me qëllimet e leximit dhe llojet e tekstit. Njohin dhe interpretojnë veprat më të rëndësishme të letërsisë shqipe dhe botërore dhe i lokalizojnë në kontekstin historik letrar; kuptojnë konceptet themelore teorike letrare dhe historike letrare. Njohin forma të ndryshme të deklarimit mediatik.
+Kompetenca specifike lëndore 2 (KSL 2)
+Duke kërkuar për gjuhën dhe letërsinë shqipe, nxënësit e krahasojnë me gjuhën serbe gjuhët tjera dhe zhvillojnë kurreshtjen dhe kompetencën për komunikim ndërkultural. Me rregull lexojnë vepra letrare. Shfrytëzojnë burime të ndryshme të informacionit, vlerësojnë besushmërinë e burimit, përpunojnë informacionet, i zgjedhin sipas relevancës dhe në mënyrë të argumentuar i paraqesin në pajtim me situatën komunikative, duke përshtatur gjuhën dhe formën e shprehjes grupeve të ndryshme të caktuara.
+Kompetenca specifike lëndore 3 (KSL 3)
+Nxënësit vlerësojnë metodat e tyre komunikuese dhe aftësitë e interaksionit. Kanë fjalor të pasur dhe e shohin gjuhën si një nga mundësitë e shprehjes dhe krijimit të vlerave kulturore, shoqërore dhe materiale. Krijojnë dhe çmojnë përmbajtje të ndryshme kulturore. Kuptojnë dimensionin multikultural të letërsisë dhe mënyrën se si letërsia kombëtare i shërben kopshtit kulturor botëror. Zhvillojnë aftësi të të menduarit kritik dhe aftësi analitike.
+Rezultatet e ciklit arsimor (RCA) për përfundimin e arsimit të mesëm:
+Niveli i mesëm
+KSL 1
+KSL 2
+KSL 3
+Nxënësit:
+Nxënësit:
+NXënësit:
+- SHQI.AM.M.1.1. Klasifikojnë gjuhët në grupet kryesore të gjuhëve në Europë, e njohin vendin e gjuhës shqipe në familjen e gjuhëve indoeuropiane dhe i dallojnë dialektet e gjuhës shqipe bazuar në veçoritë e tyre.
+- SHQI.AM.M.1.2. Njohin etapat kryesore në zhvillimin e gjuhës letrare shqipe si dhe monumentet më të rëndësishme kulturo-historike.
+- SHQI.AM.M.1.3. Njohin normën e gjuhës standarde në lidhje me theksin; dinë të përcaktojnë gjatësinë dhe cilësinë e rrokjes dhe zbatojnë rregullat e theksit në shembuj të thjeshtë (theksi te fjalët njërrokëshe). Në fjali mund t’i dallojnë llojet e theksave (theksi i lirë, dinamik, ritmik, logjik dhe i fjalisë).
+- SHQI.AM.M.1.4. Vërejnë ndryshimin e fonemave në shembuj të ndryshëm dhe i lidhin ato sipas normës së gjuhës standarde.
+- SHQI.AM.M.1.5. Përcaktojnë klasën e fjalëve të ndryshueshme dhe veçoritë e tyre gramtikore; si dhe i përcaktojnë të gjitha format e foljeve. Shkruajnë fjali sipas rregullave gramatikore dhe i klasifikojnë në njësi sintaksore.
+- SHQI.AM.M.1.6. Dallojnë të gjitha llojet e fjalëformimeve.
+- SHQI.AM.M.1.7. Analizojnë sintagmat dhe fjalitë e ndërtuara sipas modeleve themelore.
+- SHQI.AM.M.1.8. Njohin llojet dhe funksionet e fjalive të varura.
+- SHQI.AM.M.1.9. Njohin kuptimin e fjalëve dhe të frazeologjizmave që paraqiten në tekstet letrare dhe mediatike, dallojnë llojet e leksemave në aspektin e prejardhjes dhe sferën e përdorimit, i kuptojnë marrëdhëniet kuptimore midis tyre.
+- SHQI.AM.M.1.10. Analizojnë veçoritë e stileve funksionale dhe e kuptojnë rëndësinë e përdorimit të tyre.
+- SHQI.AM.M.1.11. Lidhin veprat letrare me kontekstin historiko-shoqëror; i njohin karaktersitikat kryesore të periudhave letrare dhe i lidhin ato me veprat letrare dhe autorët.
+- SHQI.AM.M.1.12. Dallojnë veçoritë e llojeve letraro-shkencore si dhe karakteristikat e llojeve të ndryshme të të shprehurit mediatik.
+- SHQI.AM.M.1.13. Dallojnë autorin e veprës letrare nga narratori, personazhi dramatik apo subjekti lirik gjatë analizës së veprës letrare.
+- SHQI.AM.M.1.14. Përcaktojnë elementet letrare të strukturës në aspektin retrospektiv e kronologjik të tregimit, fabulën dhe syzheun; karakterizojnë llojet e karaktereve kryesore sipas cilësive (fizike, psikologjike, gjuhësore, shoqërore dhe etike).
+- SHQI.AM.M.1.15. Emërtojnë mjetet gjuhësore dhe stilistike dhe kuptojnë funksionin e tyre në tekst.
+- SHQI.AM.M.2.1. Zbatojnë njohuritë teorike nga gramatika, vërejnë, ilustrojnë dhe analizojnë dallimet gjuhësore në situata të ndërlikuara gjuhësore.
+- SHQI.AM.M.2.2. Vërejnë dhe i përmirësojnë gabimet drejtshkrimore në tekstet e tyre dhe te të tjerët në përputhje me normën drejtshkrimore; dallojnë theksin letrar dhe trajtat në komunikimin e përditshëm.
+- SHQI.AM.M.2.3. Zbatojnë teknika të ndryshme të të lexuarit dhe ia përshtatin natyrës së tekstit dhe qëllimit.
+- SHQI.AM.M.2.4. Rregullisht lexojnë vepra letrare nga programi dhe i zgjedhin veprat sipas zgjedhjes së tyre të lirë duke zhvilluar shprehitë e të lexuarit, kriteret estetike dhe gjykimet.
+- SHQI.AM.M.2.5. E përjetojnë veprën në çdo aspekt duke i shfaqur përjetimet e tyre, interpretojnë lloje të ndryshme të teksteve, i lidhin, i krahasojnë si dhe i arsyetojnë konkluzionet e tyre me faktet nga teksti.
+- SHQI.AM.M.2.6. Analizojnë problemin e ndarë; kuptojnë dhe i interpretojnë tekstet, idetë poetike, stilet gjuhësore, karakteristikat përbërëse të tekstit.
+- SHQI.AM.M.2.7. Vlerësojnë rolin që ka forma, stili dhe lloji i tregimit në formimin e kuptimit të veprës letrare.
+- SHQI.AM.M.2.8. Vlerësojnë veprimet dhe karakteristikat e personazheve duke formuar qëndrime morale nga këndvështrimi i barazisë së njerëzve.
+- SHQI.AM.M.2.9. Përcaktojnë këndvështrimet dhe qëndrimin e autorit, dallojnë të shprehurit subjektiv nga ai objektiv, dallojnë figuart stilistike, humorin, ironinë dhe satirën.
+- SHQI.AM.M.2.10. Formojnë tekst në të shkruar ose gojor (duke riorganizuar përmbajtjen, duke i lidhur pjesët dhe duke e strukturuar përmbajtjen në tërësi).
+- SHQI.AM.M.2.11. Në mënyrë të pavarur i gjejnë dhe i lidhin informacionet nga tekstet nga fusha të ndryshme dhe i përdorin ato për të mësuar si dhe në situate të caktuara në jetën e përditshme.
+- SHQI.AM.M.2.12. Marrin pjesë në diskutime publike; debatojnë me argumente dhe kundërargumente, të dëgjuarit aktiv dhe duke respektuar pozicionin e tjetrit, gjendjen emocionale dhe njohjen e argumenteve bazuar në emocione.
+- SHQI.AM.M.3.1. Formojnë dhe shprehin qartë mendimin e tyre duke përdorur e respektuar normën e gjuhës standade shqipe me konventat shoqërore dhe dallimet kulturologjike.
+- SHQI.AM.M.3.2. Vërejnë lidhjen midis mënyrës së të shprehurit dhe qëndrimin e autorit; vlerësojnë përdorimin e informatave dhe burimet e besueshme.
+- SHQI.AM.M.3.3. Përdorin aftësitë e bashkëpunimit, kulturën e tyre të të shprehurit verbal dhe jo verbal, si dhe të dëgjuarit dhe respektimin e mendimit të tjetrit.
+- SHQI.AM.M.3.4. Respektojnë shumëllojshmërinë e identiteteve kulturore në Europë dhe botë.
+- SHQI.AM.M.3.5. Zhvillojnë shkrim-leximin në sfera të ndryshme (artistike, dixhitale, informatike, financiare, shëndetësore, mediatike, shkencore, matematikore…).
+- SHQI.AM.M.3.6. Përshtasin strategjitë e të lexurit dhe të mësuarit në mënyrë individuale ndaj qëllimit; janë të aftë që ta korrigjojnë qasjen e tyre.
+- SHQI.AM.M.3.7. Zgjerojnë interesimin e tyre për të lexuar nga tekste të ndryshme joletrare në ato kombëtare dhe botërore.
+- SHQI.AM.M.3.8. Kuptojnë lidhjen ndërmjet letërsisë dhe kulturës; duke lexuar formojnë qëndrimet e tyre estetike dhe etike dhe i arsyetojnë ato me argumente.
+- SHQI.AM.M.3.9. Përdorin njohuritë nga gjuha dhe letërsia për të krijuar dhe për të bërë vlerësim kritik për përmabjtjet e ndryshme kulturore.
+- SHQI.AM.M.3.10. Hartojnë tekste të ndërlikuara me shkrim dhe me gojë duke u bazuar në përvoja personale, shfrytëzojnë literaturë themelore dhe sekondare.
+- SHQI.AM.M.3.11. Respektojnë ndryshimet kulturore në vend, vlerësojnë trashëgiminë kulturore, kanë nevoja kulturore dhe dinë se si t’i realizojnë.
+- SHQI.AM.M.3.12. Shpjegojnë ndikimin e dëmshëm të paragjykimeve dhe stereotipeve në arsim, në kontekstin privat e shoqëror; promovojnë kulturën e paqes dhe jo dhunës si dhe tolerancën.
+- SHQI.AM.M.3.13. Përdorin strategji të të menduarit kritik për të verifikuar informcionet në tekste të ndryshme.
+- SHQI.AM.M.3.14. Krahasojnë mjetet shprehëse letrare, teatrore dhe kinematografike gjatë interpretimit të motiveve me tema të ngjajshme.
+Niveli i përparuar
+Kompetenca specifike lëndore 1 (KSL1)
+Nxënësit kuptojnë funksionin e gjuhës dhe të letërsisë. Kanë njohuri të detajuara për gramatikën e gjuhës shqipe (theksin, përbërjen e fjalës, kuptimin e rasave dhe format foljore, strukturën e fjalisë); njohin strukturën e fjalorit. Përvetësojnë mënyrat me shkrim dhe me gojë gjatë shkollimit, pjesëmarrje qytetare dhe shoqërore. Vlerësojnë veprimet dhe stilet në tekstet joartistike dhe letrare dhe e interpretojnë rolin e tyre në lloje të ndryshme të teksteve. Kuptojnë dhe vendosin lidhjen midis letërsisë dhe arteve të tjera, shkencës dhe teknologjisë. Zhvillojnë aftësitë personale, kombëtare dhe identitetin kulturor, ndërgjegjësim për përktësinë në trashëgiminë kulturore europiane e botërore në bazë të veprave vendore dhe atyre botërore, artit teatral dhe kinematografik, trashëgimisë kulturore e shkencore dhe formave të ndryshme kulturo-meditike.
+Kompetenca specifike lëndore 2 (KSL 2)
+Nxënësit flasin hapur dhe lirshëm madje edhe para një auditoriumi më të madh për temat që kanë të bëjnë me gjuhën, letërsinë dhe kulturën. Dallojnë mundësitë kërkimore dhe të duhura gjatë procesit të të mësuarit të gjuhës dhe letërsisë si dhe i zbatojnë njohuritë e fituara si shkathtësi në jetën e përditshme. Hulumtojnë karakteristikat e regjistrit dhe stilet që lidhen me fjalorët dhe përzgjedhjen e shprehjeve të duhura gjuhësore. Krahasojnë informacionet nga disiplina të ndryshme dhe burime mediatike dhe kanë qasje kritike.
+Kompetenca specifike lëndore 3 (KSL 3)
+Nxënësit kanë shprehi dhe nevojë që ta zhvillojnë kulturën e të folurit dhe të të shprehurit, ashtu si për përsosje personale ashtu edhe për pjesëmarrje në jetën qytetare dhe shoqërore. Përcjellin ndikimin socioekonomik të ecurisë së gjuhës, letërsisë, kulturës dhe shkencës; kujdesen edhe për mënyrën e jetesës në bashkësi. Kultivojnë qasje humane dhe kritike në dialogjet ndërkulturore. Janë të gatshëm të ndërmarrin përgjegjësi për zgjedhjet dhe vendimet të cilat ndikojnë në jetën e tyre si dhe jetën e komunitetit.
+Rezultatet e ciklit arsimor (RCA) për përfundimin e arsmit të mesëm:
+Niveli i lartë
+KSL 1
+KSL 2
+KSL 3
+Nxënësit:
+Nxënësit:
+Nxënësit:
+- SHQI.AM.P.1.1. Kuptojnë njësitë dhe funksionet themelore të gjuhës.
+- SHQI.AM.P.1.2. Njohin koceptet e gjuhësisë (parimin fonetik, morfologjik dhe etimologjik) si dhe njohuritë përkatëse të gjuhës.
+- SHQI.AM.P.1.3. Përcaktojnë vendin e theksit në fjalën e dhënë.
+- SHQI.AM.P.1.4. Njohin termin fonemë; përcaktojnë të gjitha alternimet fonetike.
+- SHQI.AM.P.1.5. Njohin dhe kuptojnë termin morfemë.
+- SHQI.AM.P.1.6. Përcaktojnë format me parashtesa, prapashtesa, të përbëra me kompozim, përngjitje.
+- SHQI.AM.P.1.7. Njohin kuptimet e rasave si dhe trajtat e foljeve.
+- SHQI.AM.P.1.8. Analizojnë tekstin duke dalluar diatezën veprore dhe joveprore, marrëdhëniet bashkërenditëse dhe nënrenditëse të fjalive.
+- SHQI.AM.P.1.9. Zbatojnë rregullat kryesore të lakimit.
+- SHQI.AM.P.1.10. Dallojnë në tekst figurat stilistike, dallojnë shtresat leksikore, njohin metaforën, metoniminë, sinegdotën …, si figura leksikore.
+- SHQI.AM.P.1.11. Shpjegojnë karakteristikat gjuhësore, stilistike, estetike dhe strukturore të veprave letraro-artistike dhe teksteve letraro-artistike duke përdorur terminologjinë teoriko-letrare.
+- SHQI.AM.P.1.12. Vlerësojnë aspektet stilistike në tekstet letrare dhe ato joletrare si dhe bëjnë krahasime me dy tekste ose më shumë; shpjegojnë rolin e tyre në realizimin dhe rëndësinë e këtyre teksteve.
+- SHQI.AM.P.2.1. Krahasojnë veçoritë gjuhësore në gjuhën e tyre dhe në gjuhët tjera, analizojnë dhe nxjerrin konkluzione.
+- SHQI.AM.P.2.2. Interpretojnë veprën letrare duke kuptuar karakteristikat e tyre në kontekstin historiko-letrar, duke u bazuar në analizë strukturore dhe elementet stilistike të veprës duke përdorur terminologjinë historiko -letrare dhe burimet dytësore.
+- SHQI.AM.P.2.3. Vlerësojnë funksionin e mjeteve stilistike në tekst.
+- SHQI.AM.P.2.4. Analizojnë problemin, idenë dhe mesazhin në tekstin letrar dhe joletrar duke i shikuar nga perspektiva të ndryshme; gjejnë dhe vlerësojnë argumentet, i radhisin i rishikojnë dhe eventualisht i korrigjojnë qëndrimet e tyre.
+- SHQI.AM.P.2.5. Lidhin temat historike, fetare, politike në pjesët dhe në këtë mënyrë formojnë identitetin e tyre; shpjegojnë dhe krahasojnë mënyrat kreative gjatë paraqitjes së ideve në kultura të ndryshme.
+- SHQI.AM.P.2.6. Përshtatin qëllimin e përmbajtjes dhe mënyrën e të shprehurit me situatën përkatëse.
+- SHQI.AM.P.2.7. Përshtatin qëllimin, përmbajtjen dhe mënyrën e shprehjes në situatë komunikimi. Hulumtojnë marrëdhëniet midis teorive të caktuara. Paraqesin njohuri teorike në kontekst të ri.
+- SHQI.AM.P.2.8. Përpilojnë lloje të ndryshme të teksteve duke përdorë stile të duhura funksionale dhe format e të shprehurit.
+- SHQI.AM.P.2.9. Hulumtojnë dhe krahasojnë informacione nga disiplina të ndryshme dhe burime mediatike, duke krijuar qasje kritike ndaj tyre.
+- SHQI.AM.P.2.10. Flasin hapur para një auditoriumi të madh për tema nga gjuha, letërsia dhe kultura.
+- SHQI.AM.P.2.11. Në mënyrë aktive marrin pjesë në debate (parapërgatiten për të, në mënyrë të pavarur ose në bashkëpunim me grupin, me argumente shfaqin qëndrimin e tyre, paraqesin përfundime dhe krijojnë strategji).
+- SHQI.AM.P.3.1. Kuptojnë fuqinë e gjuhës si mjet shprehës në dimensione të ndryshme të përvojës njerëzore (shoqërore, kulturore, morale, shpirtërore dhe estetike).
+- SHQI.AM.P.3.2. Në mënyrë kritike hulumtojnë dhe vlerësojnë informacionet nga mediet e ndryshme; janë në gjendje të dallojnë llojet e ndryshme të manipulimeve mediatike dhe ndikimin e tyre në formimin e realitetit.
+- SHQI.AM.P.3.3. Zhvillojnë stilin e tyre personal për të shprehurit verbal dhe joverbal duke inkurajuar ndërveprim pozitiv dhe bashkëpunim me të tjerët. Vlerësojnë dhe zhvillojnë aftësitë e tyre komunikative me një qëndim për arritjen e qëllimeve.
+- SHQI.AM.P.3.4. Kanë marrëdhënie interaktive me mediet me gatishmërinë që të marrin pjesë në aktivietetet e bashkësisë dhe komunitetit.
+- SHQI.AM.P.3.5. Vërejnë dhe e përcjellin zhvillimin dhe ndikimin e artit, shkencës dhe teknologjisë në gjuhë; kujdesen për ruajtjen e monumenteve kulturoro-historike, për sigurinë dhe mirëmbajtjen e mjedisit jetësor.
+- SHQI.AM.P.3.6. Thellojnë kuptimin dhe përvetësimin e strategjive të ndryshme dhe teknikave të të lexuarit dhe të të mësuarit me vetëdije për forcat dhe mangësitë e tij.
+- SHQI.AM.P.3.7. Duke lexuar zgjerojnë horizontet e tyre dhe zhvillojnë botën e tyre meditative dhe emocionale, të gatshëm për përgjegjësi për zgjedhje e vendime të cilat ndikojnë në jetën e tyre dhe të shoqërisë.
+- SHQI.AM.P.3.8. Njohin kultura të ndryshme përmes letërsisë së rajonit, Europës dhe botës dhe kultivojnë lidhje humane e kritike midis kulturave.
+- SHQI.AM.P.3.9. Vlerësojnë përmbajtje të ndryshme kulturore duke njohur dhe realizuar vlerën perosnale, shoqërore dhe komerciale.
+- SHQI.AM.P.3.10. Vlerësojnë gjuhën si kulturë kombëtare, trashëgimi kombëtare si dhe llojllojshmërinë kulturore të vendit të tyre, rajonit, Europës dhe botës.
+- SHQI.AM.P.3.11. Hulumtojnë ndikimin e stereotipeve dhe paragjykimeve ndaj individit apo shoqërisë duke u angazhuar për të drejtat e njeriut dhe zgjidhjen e konfliktit në mënyrë paqësore.
+- SHQI.AM.P.3.12. Vlerësojnë në mënyrë kritike veprat letrare, teatrore dhe filmike.
+AЛБАНСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општа предметна компетенција (ОПК)
+Ученици имају знања о функцији и значају језика и вишејезичности, познају граматику албанског језика и примењују је у свакодневном животу. Они разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и друштвену укљученост. Негују и чувају албански језик уважавајући разноврсност његових дијалеката, као и већински језик и језике националних мањина и друге језике. У писаној и усменој комуникацији користе развијен и богат речник: говоре и пишу уз поштовање књижевних и правописних норми, оличавајући одговарајући логички и стилски текст. Брину се о култури дијалога, поседују говорне вештине и вештине активног слушања. Формулишу и изразе писмене аргументе на убедљив начин који одговара контексту. Они конструктивно комуницирају, сарађују у тимовима и разговарају, развијајући осетљивост за иницијативу и акцију у постизању циљева коришћењем алата информационе и комуникационе технологије.
+Развили су способност читања. Разумеју, критички и креативно сагледавају књижевне и неуметничке (некњижевне) текстове. Њима је стало до културе говора и читања како би се више уздигли и испунили. Они траже, прикупљају и критички обрађују информације из различитих врста извора и одговорно користе и креирају мултимедијални садржај.
+Интерпретирају књижевна дела из националне, српске и светске књижевности. Разумеју мултикултуралну димензију књижевности и како национална књижевност доприноси светској културној баштини. Они посматрају и аргументују примерима фундаменталне поетичке, језичке, естетске и структурне карактеристике књижевних дела. Поседују способност да изразе идеје, искуства и емоције на фигуративан и апстрактан начин; испољавају креативне способности. Они користе читање да боље разумеју себе, друге и свет око себе усвајањем и изградњом етичких принципа. Читањем развијају емпатију и бригу о људима и свету. Њима је стало до хуманих и критичких односа у различитим културним облицима. Они успостављају везе између књижевности и других уметности, науке и технологије.
+Ефикасно користе разноврсне технике учења и свесни су значаја целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне облике албанског књижевног језика. Познају књижевне и правописне норме, граматику и стилистику албанског језика. Оријентисани су на обогаћивање речника, језичку и стилску изражајност. Говоре јасно и разговетно, разликују формално и неформално изражавање, вербалну и невербалну комуникацију. Познају правила писања различитих врста текстова. Читају и разумеју линеарне и нелинеарне текстове; разликују књижевни текст од некњижевног текста. Они повезују књижевна дела са својим ауторима и књижевним периодима. Они успостављају основне структурне елементе књижевних и некњижевних текстова.
+Специфична предметна компетенција 2 (СПК2)
+Ученици поседују вештине слушања и говора и примењују их у складу са комуникативним догађајем. Примењују теоријска знања из граматике на конкретне језичке ситуације и пишу примењујући правописна правила. Они граде логичан, добро структуриран и стилски одговарајући писани и говорни текст. Они се изражавају усмено и писмено на убедљив начин који одговара контексту, поштујући расну, националну, културну, језичку, верску, родну, блискост и равноправност по зрелости. Уочавају ауторове намере у тексту (обавештавање, манипулисање). Примењују различите методе при читању и тумачењу књижевних и некњижевних текстова. Читање им је као хоби и проширују своја интересовања од књижевности за младе до опште белетристике. Користе фондове библиотека и архива, посећују изложбе, гледају позоришне представе и филмове.
+Специфична предметна компетенција 3 (СПК3)
+Ученици негују и чувају албански језик поштујући равноправност његових дијалеката (одлуке Правописног конгреса, Тирана, 1972); поштују туђе и стране језике. Они су у стању да се изражавају писмено и усмено на правичан, јасан, економичан и убедљив начин. Читањем и тумачењем књижевних дела из домаће и светске књижевности формирају хуманистичке и богате ставове и уверења. Успостављају везе између књижевне, позоришне и филмске уметности. Они користе вештине читања и различите стратегије читања и учења. Као негативне појаве препознају предрасуде, стереотипе и облике вербалне агресије (нељубазно понашање, непоштовање саговорника, увреде, говор мржње и сл.). Они користе знање језика и књижевности у важним ситуацијама за активно грађанско ангажовање. Етички и одговорно приступају интелектуалној и културној својини.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- АЛБ.СО.O.1.1. Знају основне одлике албанског књижевног језика (писма, изговори, дијалекти).
+- АЛБ.СО.О.1.2. Разликују правилан од неправилног изговора гласа и класификују гласове по задатим критеријумима.
+- АЛБ.СО.О.1.3. Разумеју појам слога, познају основна правила акценатских норми, уочавају некњижевне акценте у свакодневној комуникацији.
+- АЛБ.СО.О.1.4. Класификују врсте речи; разликују граматичке категорије променљивих врста речи у типичним, школским примерима.
+- АЛБ.СО.О.1.5. Разликују просте речи и сложенице, према датом моделу.
+- АЛБ.СО.О.1.6. Класификују основне реченичне чланове; разликују независне од зависних реченица; исправно структурирају реченицу.
+- АЛБ.СО.О.1.7. Разумеју значења речи, устаљених израза и фразеологизама са којима се сусрећу у свакодневној комуникацији, у лектири и школским текстовима из других предмета.
+- АЛБ.СО.О.1.8. Разликују формалну од неформалне лексике и употребљавају је у складу са приликом; познају лексичке појаве и лексичке односе и примењују их у комуникативним ситуацијама.
+- АЛБ.СО.О.1.9. Знају и примењују правописна правила.
+- АЛБ.СО.О.1.10. Познају правила писања различитих врста текстова (нпр. писма, имејла, биографије, молбе, жалбе, извештаја…); правилно попуњавају различите обрасце.
+- АЛБ.СО.О.1.11. Повезују књижевна дела са њиховим ауторима и књижевним периодима у којима су настала.
+- АЛБ.СО.О.1.12. Разликују књижевни од некњижевног текста; одлучују о основним елементима структуре литерарних и уметничких дела; тема, мотиви, догађај, ликови, време и место.
+- АЛБ.СО.О.1.13. Разликују карактеристике народне и писане књижевности; познају основне одлике књижевних родова и врста; уочавају лирске, епске и драмске елементе у књижевном делу.
+- АЛБ.СО.О.1.14. Разликују препричавање од анализе дела.
+- АЛБ.СО.О.1.15. Повезују мотиве/теме из књижевности и историје уметности са основним знањима из историје.
+- АЛБ.СО.О.2.1. Примењују теоријска знања из граматике у конкретној језичкој ситуацији/тексту.
+- АЛБ.СО.О.2.2. Пишу примењујући правописна правила, укључујући и основна типографско-правописна решења у куцаном тексту користећи одговарајући правопис.
+- АЛБ.СО.О.2.3. Читају књижевне и некњижевне текстове (линеарне и нелинеарне); с пажњом и разумевањем слушају једноставније излагање и праве белешке, одређују кључне речи.
+- АЛБ.СО.О.2.4. Исказују субјективни и естетски доживљај о говореном или писаном тексту; повезују садржај књижевног дела са сопственим или туђим искуством.
+- АЛБ.СО.О.2.5. Уочавају главне мотиве, тематику и изразите стилске одлике књижевних дела одређеног књижевног правца, типичне разлике и сличности у односу на претходне књижевне епохе.
+- АЛБ.СО.О.2.6. Сажимају, цитирају, препричавају/парафразирају текст издвајајући битно; интерпретирају текст; разликују информацију од интерпретације.
+- АЛБ.СО.О.2.7. Обликују свој говор и писање према комуникативној ситуацији (бирају одговарајућа изражајна средства - вербална и невербална, лексику и облике казивања).
+- АЛБ.СО.О.2.8. Проналазе информације у тексту (у линеарном и нелинеарном) по задатом критеријуму; налазе начине за сазнавање информација које не разумеју; одабирају и разврставају изворе информација; препознају технике манипулације у тексту и говору.
+- АЛБ.СО.О.2.9. Учествују у пројектној настави и креативним драмским процесима; користе библиотечки фонд, гледају позоришне представе и филмове, посећују изложбе…
+- АЛБ.СО.О.3.1. Користе знања из језика како би се правилно и јасно изражавали писаним и усменим путем у образовном контексту, у приватном и јавном животу, у ситуацијама од значаја за активну грађанску укљученост.
+- АЛБ.СО.О.3.2. Представљају информације на различите начине (усмено, писмено, визуелно, дигитално).
+- АЛБ.СО.О.3.3. Изражавају аргументовано своје мишљење и бирају језички израз у складу са контекстом, укључујући и конструктивну комуникацију у сарадњи са другима, у групи, на друштвеним мрежама.
+- АЛБ.СО.О.3.4. Препознају предрасуде и стереотипе у књижевним и неуметничким текстовима и усменом излагању, као и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) у свакодневним ситуацијама и у медијима као негативну појаву.
+- АЛБ.СО.О.3.5. Користе читалачку писменост као средство за учење и боље разумевање других предмета.
+- АЛБ.СО.О.3.6. Користе различите стратегије читања и учења у складу са постављеним циљем.
+- АЛБ.СО.О.3.7. Имају развијене читалачке навике и схватају значај читања за развој сопствене опште културе и знања.
+- АЛБ.СО.О.3.8. Препознају значај књижевности и културе у свом животу; вреднују књижевност као суштински део националне културе и као средство за промоцију различитих култура.
+- АЛБ.СО.О.3.9. Користе знања из језика и књижевности за учествовање у различитим културним садржајима.
+- АЛБ.СО.О.3.10. Користе албанско писмо, конструишу писане и усмене текстове; одговорно приступе питањима у вези са интелектуалном својином; могу да цитирају и/или парафразирају текстове.
+- АЛБ.СО.О.3.11. Препознају значај језика у неговању културног и националног идентитета; разумеју право на употребу сопственог језика и поштују језике других националности са којим заједно живе.
+- АЛБ.СО.О.3.12. Поштују људска права и привaтност других; разумеју значај равноправности људи.
+- АЛБ.СО.О.3.13. Препознају улогу традиционалних и савремених медија у демократском друштву.
+- АЛБ.СО.О.3.14. Препознају везу између књижевне, позоришне и филмске уметности у интерпретацији истих тема.
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици препознају основне језичке групе у Европи и познају место албанског језика међу индоевропским језицима. Они добро познају гласове албанског језика, знају правила за наглашавање речи и разликују књижевне и некњижевне акценте. Они имају опсежна знања о врстама и подтиповима речи, њиховим облицима и методама њихове грађења. Анализирају реченице изграђене по различитим обрасцима. Имају развијен речник у складу са својим образовањем и умеју да користе тражену реч у складу са датом приликом; оријентисани су на даље богаћење свог речника. Користе стратегије читања у складу са циљевима читања и типовима текста. Препознају и протумаче најважнија дела албанске и светске књижевности и лоцирају их у историјски књижевни контекст; разумеју основне књижевнотеоријске и књижевноисторијске појмове. Препознају различите облике медијског извештавања.
+Специфична предметна компетенција 2 (СПК2)
+Истражујући албански језик и књижевност, ученици га упоређују са српским и другим језицима и развијају радозналост и компетенцију за интеркултуралну комуникацију. Редовно читају књижевна дела. Користе различите изворе информација, процењују поузданост извора, обрађују информације, бирају их према релевантности и аргументовано представљају у складу са комуникативном ситуацијом, прилагођавајући језик и облик изражавања различитим специфичним групама.
+Специфична предметна компетенција 3 (СПК3)
+Ученици процењују сопствене комуникационе методе и вештине интеракције. Имају богат речник и виде језик као низ могућности за изражавање и стварање културних, друштвених и материјалних вредности. Креирају и вреднују различите културне садржаје. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Развијају вештине критичког мишљења и аналитичке вештине.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- АЛБ.СО.С.1.1. Разврставају језике у основне језичке групе у Европи, знају место албанског језика у породици индоевропских језика и препознају дијалекте албанског језика на основу њихових одлика.
+- АЛБ.СО.С.1.2. Познају основне етапе у развоју књижевног албанског језика и најзначајније културноисторијске споменике.
+- АЛБ.СО.С.1.3. Познају књижевнојезичку норму у вези са акцентима; умеју да одреде дужину/квантитет акценатског слога и примене правила акцентуације у једноставним примерима (унутрашњи слогови и једносложне речи).
+- АЛБ.СО.С.1.4. Уочавају гласовне алтернације у различитим примерима и повезују их са књижевнојезичком нормом.
+- АЛБ.СО.С.1.5. Одређују подврсте променљивих речи и њихове граматичке категорије; одређују све глаголске облике.
+- АЛБ.СО.С.1.6. Разликују врсте твореница.
+- АЛБ.СО.С.1.7. Анализирају синтагме и реченице грађене по основним моделима.
+- АЛБ.СО.С.1.8. Познају врсте и функције зависних реченица.
+- АЛБ.СО.С.1.9. Знају значења речи и фразеологизама који се јављају у литерарним и медијским текстовима, разликују типове лексема с обзиром на порекло и сферу употребе, разумеју значењске односе међу лексемама.
+- АЛБ.СО.С.1.10. Анализирају обележја функционалних стилова и разумеју важност њихове употребе.
+- АЛБ.СО.С.1.11. Повезују књижевна дела са историјским и друштвеним контекстом; препознају основне карактеристике књижевних периода и повезују их са књижевним делом и аутором.
+- АЛБ.СО.С.1.12. Препознају одлике књижевнонаучних и хибридних врста као и карактеристике различитих облика медијског изражавања.
+- АЛБ.СО.С.1.13. Разликују аутора књижевноуметничког дела од наратора, драмског лица или лирског субјекта приликом анализе књижевног дела.
+- АЛБ.СО.С.1.14. Одређују елементе књижевне структуре: ретроспективно и хронолошко приповедање, фабулу и сиже; разликују врсте казивања у књижевности; уочавају врсте карактеризације према основним особинама лика (физичка, психолошка, језичка, друштвена и етичка).
+- АЛБ.СО.С.1.15. Именују језичко-стилска средства и разумеју њихову функцију у тексту.
+- АЛБ.СО.С.2.1. Примењују теоријска знања из граматике, уочавају, илуструју и анализирају језичке појаве у сложенијој језичкој ситуацији.
+- АЛБ.СО.С.2.2. Уочавају и исправљају правописне грешке у свом и туђем тексту у складу са правописном нормом; препознају некњижевне акценте и облике речи у свакодневној комуникацији.
+- АЛБ.СО.С.2.3. Примењују различите стратегије читања и прилагођавају их природи текста и сврси читања.
+- АЛБ.СО.С.2.4. Редовно читају књижевна дела из програма и бирају дела по свом слободном избору развијајући читалачке навике, естетске критеријуме и судове.
+- АЛБ.СО.С.2.5. Свестрано доживљавају књижевноуметничко дело исказујући личне утиске; интерпретирају различите врсте текстова; повезују, упоређују и образлажу своје закључке чињеницама из текста.
+- АЛБ.СО.С.2.6. Анализирају издвојен проблем; увиђају и тумаче тематске, идејне, поетичке, стилске, језичке, композиционе и жанровске особине књижевног текста.
+- АЛБ.СО.С.2.7. Процењују улогу коју форма, стил и тип приповедања имају у обликовању значења и идеје књижевног дела.
+- АЛБ.СО.С.2.8. Вреднују поступке и особине ликова формирајући моралне ставове и из угла равноправности људи.
+- АЛБ.СО.С.2.9. Утврђују тачке гледишта, став и намере аутора, разликују субјективност од објективности у изражавању, препознају фигуративност, хумор, иронију, сатиру.
+- АЛБ.СО.С.2.10. Организују сложенији говорени или писани текст (преуређују садржај, повезују делове у једноставно структурирану говорену или писану целину).
+- АЛБ.СО.С.2.11. Самостално проналазе и повезују информације из текстова из различитих области и користе их у учењу и у свакодневним животним ситуацијама.
+- АЛБ.СО.С.2.12. Учествују у јавним разговорима; дебатују формулисањем аргумената и контрааргумената, активним слушањем и уважавањем позиције другог, контролом емоционалног садржаја и препознавањем аргумената заснованих на емоцијама.
+- АЛБ.СО.С.3.1. Формулишу своје мишљење и јавно га исказују служећи се књижевним језиком уз свест о социјалним конвенцијама и културолошким различитостима.
+- АЛБ.СО.С.3.2. Уочавају повезаност начина изражавања са намером и ставом аутора; процењују употребљивост информација и поузданост извора.
+- АЛБ.СО.С.3.3. Користе изграђене вештине сарадње, културу сопственог вербалног и невербалног изражавања, као слушања и поштовања туђег мишљења.
+- АЛБ.СО.С.3.4. Уважавају разноликост културних идентитета у Европи и свету.
+- АЛБ.СО.С.3.5. Развијају писменост у различитим сферама (уметничкој, дигиталној, информатичкој, финансијској, здравстеној, медијској, научној, математичкој…).
+- АЛБ.СО.С.3.6. Прилагођавају стратегије читања и учења самостално постављеном циљу; способни су да коригују свој приступ.
+- АЛБ.СО.С.3.7. Проширују интересовање за читање - од различитих неуметничких текстова до националне и светске књижевности.
+- АЛБ.СО.С.3.8. Разумеју међусобне везе књижевности и културе; читајући обликују своје естетске и етичке ставове и аргументовано их образлажу.
+- АЛБ.СО.С.3.9. Користе знања из језика и књижевности за креирање и критичко преиспитивање различитих културних садржаја.
+- АЛБ.СО.С.3.10. Састављају сложеније говорене или писане текстове на основу личног искуства, основне и секундарне литературе.
+- АЛБ.СО.С.3.11. Уважавају културну разноликост земље у којој живе, цене културну баштину свог завичаја; имају изграђене културне потребе и знају како да их остваре.
+- АЛБ.СО.С.3.12. Објашњавају штетан утицај предрасуда и стереотипа у образовном, приватном и јавном контексту; промовишу културу мира и ненасиља, толеранцију.
+- АЛБ.СО.С.3.13. Користе стратегије критичког мишљења за проверу информација у различитим текстовима.
+- АЛБ.СО.С.3.14. Упоређују изражајна средства књижевне, позоришне и филмске уметности приликом интерпретације истих или блиских мотива и тема.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функцију језика и књижевности. Поседују детаљно познавање граматике албанског језика (нагласак, састав речи, значење падежа и глаголских облика, структура реченице); познају структуру речника. Они владају писменим и усменим облицима потребним за школовање, грађанско и друштвено учешће. Они процењују поступке и стилове у публицистичким и књижевним текстовима и тумаче њихову улогу у различитим врстама текстова. Разумеју и успоставе везу између књижевности и других уметности, науке и технологије. Развијају вештине личног, националног и културног идентитета, свест о припадности европској и светској културној баштини заснованој на домаћим и светским делима, позоришној и кинематографској уметности, културном и научном наслеђу и различитим културним и медијским облицима.
+Специфична предметна компетенција 2 (СПК2)
+Ученици говоре отворено и слободно, чак и пред већом публиком, о темама које се односе на језик, књижевност и културу. Они препознају одговарајуће истраживачке могућности током процеса учења језика и књижевности и примењују стечена знања као вештине у свакодневном животу. Истражују карактеристике регистра и стилова везаних за речнике и избор одговарајућих језичких израза. Они упоређују информације из различитих дисциплина и медијских извора и имају критички приступ.
+Специфична предметна компетенција 3 (СПК3)
+Ученици имају навику и потребу да развијају говорну и читалачку културу, како ради сопственог усавршавања тако и ради учешћа у грађанском и друштвеном животу. Прате утицај социоекономских кретања на језик, књижевност, културу и науку; брину о одрживом начину живота у заједници. Негују хумани и критички однос у дијалогу међу културама. Спремни су да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- АЛБ.СО.Н.1.1. Разумеју битна својства и функције језика.
+- АЛБ.СО.Н.1.2. Познају појмове једнојезичности и вишејезичности и знају одговарајуће језичке прилике у земљи у којој живе.
+- АЛБ.СО.Н.1.3. Умеју да одреде место и квантитет акцента у речи.
+- АЛБ.СО.Н.1.4. Разумеју појам фонеме; одређују све гласовне алтернације.
+- АЛБ.СО.Н.1.5. Разумеју појам морфеме.
+- АЛБ.СО.Н.1.6. Дефинишу облике са префиксима, суфиксима, сложене облике са саставом, афиксацијом.
+- АЛБ.СО.Н.1.7. Знају значења падежа и личних глаголских облика.
+- АЛБ.СО.Н.1.8. Анализирају текст тако што разликују активну и пасивну дијатезу, координирајуће и подређене односе реченица.
+- АЛБ.СО.Н.1.9. Примењују главна правила закривљености.
+- АЛБ.СО.Н.1.10. Разликују стилске фигуре у тексту, разликују лексичке слојеве, препознају метафору, метонимију, синегдоту..., као лексичке фигуре.
+- АЛБ.СО.Н.1.11. Тумаче језичко-стилске, естетске и структурне особине књижевноуметничких и књижевнонаучних текстова, користећи књижевнотеоријску терминологију.
+- АЛБ.СО.Н.1.12. Процењују стилске поступке у књижевном и некњижевном тексту; пореде стилске поступке у два сложена текста (или више њих); тумаче њихову улогу у остваривању естетских и значењских одлика наведених врста текстова.
+- АЛБ.СО.Н.2.1. Упоређују језичке појаве у свом и другим страним језицима, анализирају их и изводе закључке.
+- АЛБ.СО.Н.2.2. Тумаче књижевно дело са разумевањем његових жанровских карактеристика и књижевноисторијског контекста, ослањајући се у анализи на структурне и стилистичке елементе дела и употребљавајући књижевнотеоријску терминологију и секундарне изворе.
+- АЛБ.СО.Н.2.3. Процењују функцију употребљених стилских средстава у тексту.
+- АЛБ.СО.Н.2.4. Анализирају проблем, идеју или поруку у књижевном и неуметничком тексту сагледавајући их из различитих перспектива; проналазе и процењују аргументе, рангирају и преиспитују њихову вредност и евентуално коригују своје ставове.
+- АЛБ.СО.Н.2.5. Повезују историјске, религијске, политичке теме у делима која обрађују и на тај начин граде и преиспитују сопствени идентитет; објашњавају и пореде како се идеје креативно изражавају у различитим културама.
+- АЛБ.СО.Н.2.6. Усклађују сврху, садржај и начин излагања са комуникативном ситуацијом.
+- АЛБ.СО.Н.2.7. Истражују односе између одређене теорије (егзистенцијализам, теорија рецепције/отвореног дела) и књижевноуметничког текста и односе између самих књижевноуметничких текстова (интертекстуалност); преносе теоријска знања у нови контекст.
+- АЛБ.СО.Н.2.8. Састављају различите типове текстова употребљавајући одговарајуће функционалне стилове и форме казивања.
+- АЛБ.СО.Н.2.9. Истражују и упоређују информације из различитих дисциплина и медијских извора, стварајући критички однос према њима.
+- АЛБ.СО.Н.2.10. Говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе.
+- АЛБ.СО.Н.2.11. Активно учествују у јавној дебати (припремају се за њу, самостално или у сарадњи са тимом, аргументовано излажу ставове, изводе закључке и осмишљавају стратегије).
+- АЛБ.СО.Н.3.1. Разумеју моћ језика као средства изражавања различитих димензија људских искустава (друштвених, културних, моралних, духовних и естетских), уважавајући контекст и различите перспективе.
+- АЛБ.СО.Н.3.2. Критички истражују и вреднују информације из различитих медија; умеју да препознају различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- АЛБ.СО.Н.3.3. Развијају лични стил у вербалном и невербалном изражавању уз неговање позитивне интеракције и сарадње са другима; процењују и развијају своје комуникативне потенцијале уз проактиван став и истрајност у остваривању циљева.
+- АЛБ.СО.Н.3.4. Имају интерактиван однос са медијима уз спремност да учествују у активностима заједнице и друштва.
+- АЛБ.СО.Н.3.5. Уочавају и прате развој и утицај уметности, науке и технологије на писменост и језик; брину о очувању културно-историјских споменика, о безбедности и одрживости животне средине.
+- АЛБ.СО.Н.3.6. Продубљују своје разумевање и примену различитих стратегија и техника читања и учења уз самосвест о својим властитим снагама и слабостима.
+- АЛБ.СО.Н.3.7. Читајући проширују своје видике и развијају свој мисаони и емоционални свет, уз спремност да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+- АЛБ.СО.Н.3.8. Упознају различите културе кроз књижевност региона, Европе и света и негују хумани и критички однос у дијалогу међу културама.
+- АЛБ.СО.Н.3.9. Вреднују различите културне садржаје препознајући и остварујући личну, друштвену и комерцијалну вредност.
+- АЛБ.СО.Н.3.10. Вреднују језик као медиј националне културе, националну културну баштину и културну разноликост своје средине, региона, Европе и света.
+- АЛБ.СО.Н.3.11. Истражују утицај стереотипа и предрасуда на појединца и друштво залажући се за остваривање људских права и мирно решавање сукоба.
+- АЛБ.СО.Н.3.12. Критички вреднују књижевна, позоришна и филмска остварења.
+BOSANSKI JEZIK I KNJIŽEVNOST
+Standardi obrazovnih postignuća za kraj srednjeg obrazovanja
+Opća predmetna kompetencija (OPK)
+Učenici imaju znanja o funkciji i značaju jezika i višejezičnosti, poznaju gramatiku bosanskoga jezika i primjenjuju je u svakodnevnom životu. Razumiju utjecaj jezika i koriste ga na društveno odgovoran način, razvijajući svoju građansku odgovornost i socijalnu uključenost. Njeguju i čuvaju bosanski jezik, uvažavajući raznolikost njegovih dijalekata, kao i druge jezike.
+Stečeno znanje o bosanskome jeziku, bošnjačkoj književnosti i njezinom historijskom kontinuitetu jasno uobličavaju i izražavaju. Značajno im je poznavanje pojavno-činjeničkog kontinuiteta pisaca i njihovih djela; razumiju uzročno-posljedični odnos u smjeni razdoblja u razvoju historije bošnjačke književnosti; razumiju važnost književnih ideja i motiva, kao unutarnje geneze i prisnog, neprekidnog refleksiranja i obnavljanja u vlastitom iskustvu i kolektivnoj svijesti. Prate i razumiju sinhronijske komparativne odnose s književnostima regije, posebno sa srpskom književnošću, te prepoznaju dodire na zajedničkim osnovama bosanskoga i srpskoga jezika i značenja stilskih formacija, naročito onih iz doba preporoda, koje se pokazuju kao snažan katalizator kasnijeg književnog razvoja bošnjačke književnosti.
+Koriste razvijen i bogat rječnik u usmenoj i pisanoj komunikaciji: govore i pišu poštujući standardnojezičnu i pravopisnu normu bosanskoga jezika, oblikuju logičan i stilski skladan tekst. Vode računa o kulturi dijaloga, vladaju govornim vještinama i vještinama aktivnog slušanja. Formuliraju i izražavaju usmene i pisane argumente na uvjerljiv način koji je primjeren kontekstu. Komuniciraju na konstruktivan način, sarađuju u timovima i pregovaraju, razvijajući osjećaj za inicijativu i djelovanje u ostvarivanju ciljeva, koristeći i IKT sredstva.
+Imaju razvijenu čitalačku pismenost. Razumiju, kritički i kreativno promišljaju književni i neumjetnički tekst. Njeguju govornu i čitalačku kulturu radi sopstvenog usavršavanja i ličnog ispunjenja. Traže, prikupljaju i kritički obrađuju informacije iz različitih izvora i odgovorno upotrebljavaju i kreiraju multimedijalne sadržaje.
+Tumače književna djela iz bošnjačke i svjetske književnosti. Razumiju multikulturne dimenzije književnosti i način na koji nacionalna književnost doprinosi svjetskoj kulturnoj baštini. Uočavaju i primjerima argumentiraju osnovne poetičke, jezičke, estetske i strukturalne osobine književnih djela. Posjeduju sposobnost figurativnog i apstraktnog izražavanja ideja, iskustava i emocija; ispoljavaju stvaralačke mogućnosti. Koriste čitanje da bi bolje spoznali sebe, druge i svijet oko sebe, usvajajući i izgrađujući etičke principe. Čitanjem razvijaju empatiju i brigu za ljude i svijet. Njeguju humani i kritički odnos u različitim kulturnim formama. Uspostavljaju vezu između književnosti i drugih umjetnosti, nauka i tehnologije.
+Efikasno koriste raznovrsne tehnike učenja i svjesni su značaja cjeloživotnog učenja. U različitim životnim situacijama primjenjuju stečena znanja i kognitivne strategije. Etički i odgovorno pristupaju intelektualnom i kulturnom vlasništvu.
+Osnovni nivo
+Specifična predmetna kompetencija 1 (SPK1)
+Učenici poznaju osnovne osobenosti bosanskoga književnoga jezika, uključujući književnojezičku normu, gramatiku, pravopis i stilistiku. Usvajaju i primjenjuju jezička pravila u govoru i pisanju, razlikuju formalno i neformalno izražavanje te verbalnu od neverbalne komunikacije. Čitaju i razumiju linearne i nelinearne tekstove, razlikuju književne od neumjetničkih tekstova i povezuju književna djela s njihovim autorima i književnim periodima. Razumiju osnovne elemente strukture književnog i neumjetničkog teksta.
+Specifična predmetna kompetencija 2 (SPK2)
+Učenici primjenjuju vještine slušanja i govora u skladu s komunikativnim situacijama. Koriste teorijska gramatička znanja u konkretnim jezičkim situacijama i primjenjuju pravopisna pravila u pisanju. Sastavljaju logične i stilistički usklađene usmene i pisane tekstove prilagođene kontekstu, uz poštivanje različitosti (rase, nacije, kulture, jezika, vjere, spola, roda i uzrasta). Tokom čitanja i tumačenja književnih i neumjetničkih tekstova razvijaju čitalačke navike i sposobnost razumijevanja, a istovremeno oblikuju potrebu za čitanjem kao trajnim izvorom znanja, ličnog razvoja i estetskog doživljaja. Aktivno koriste fondove biblioteka i učestvuju u kulturnim i umjetničkim sadržajima koji podstiču čitalačku kulturu.
+Specifična predmetna kompetencija 3 (SPK3)
+Učenici njeguju i čuvaju bosanski jezik, uvažavajući raznovrsnost njegovih dijalekata, kao i druge jezike. Osposobljeni su za jasno, ekonomično i uvjerljivo usmeno i pismeno izražavanje. Čitanjem i tumačenjem književnih djela iz nacionalne i svjetske baštine formiraju humanističke vrijednosne stavove. Uspostavljaju veze između književne, pozorišne i filmske umjetnosti i koriste različite strategije čitanja i učenja. Prepoznaju predrasude, stereotipe i oblike verbalne agresije kao negativne pojave. Znanja iz jezika i književnosti primjenjuju u situacijama značajnim za aktivno građansko uključivanje. Etički i odgovorno pristupaju intelektualnom i kulturnom vlasništvu.
+Ishodi obrazovnog ciklusa (IOC) za kraj srednjeg obrazovanja:
+Osnovni nivo
+SPK 1
+SPK 2
+SPK 3
+Učenici:
+Učenici:
+Učenici:
+- BOS.SО.O.1.1. Imaju osnovna znanja o bosanskom književnom jeziku i njegovim normama.
+- BOS.SО.О.1.2. Razlikuju pravilan i nepravilan izgovor glasova u bosanskom jeziku, klasificiraju ih prema fonetskim osobinama (mjesto i način izgovora, zvučnost), te ih pravilno izgovaraju u govoru i čitanju, naročito u formalnim situacijama; poznaju osnovnu podjelu glasova i prepoznaju fonetske i fonološke jedinice bosanskog standardnog jezika, uključujući njihova artikulaciona i akustička obilježja; pravilno upotrebljavaju glas h u skladu s etimologijom i normom, razumiju osnovni značaj jata za građenje ijekavskog izgovora u bosanskom jeziku.
+- BOS.SО.О.1.3. Razumiju pojam sloga i osnovna pravila akcenatske norme bosanskog jezika; primjenjuju ta znanja u jasnom i pravilnom izražavanju u različitim obrazovnim i životnim situacijama, razvijajući pritom dikcijsku preciznost i izražajnost; prepoznaju odstupanja od standardnog izgovora u svakodnevnom govoru, uz naglasak na primjenu pravila izgovora u formalnim situacijama.
+- BOS.SО.О.1.4. Klasificiraju vrste riječi, te prepoznaju i razlikuju gramatičke kategorije promjenjivih vrsta riječi; primjenjuju ova znanja u analizi rečenica u tipičnim školskim tekstovima, a također ih koriste u vlastitoj komunikaciji (pisanje, govor) kako bi poboljšali pravilnost i jasnoću izraza.
+- BOS.SО.О.1.5. Razlikuju proste riječi od tvorbenih; prepoznaju osnovne tvorbene procese; konstruiraju nove riječi prema zadatim tvorbenim modelima, primjenjujući odgovarajuća gramatička pravila i norme.
+- BOS.SО.О.1.6. Prepoznaju i klasificiraju osnovne rečenične članove; razlikuju nezavisne i zavisne rečenice; pravilno oblikuju proste i složene rečenice u skladu s gramatičkim i pravopisnim normama, s ciljem jasne, tačne i svrsishodne komunikacije u različitim kontekstima.
+- BOS.SО.О.1.7. Prepoznaju frazeme i ustaljene izraze u svakodnevnom govoru i književnim tekstovima; razlikuju ih od doslovnih izraza.
+- BOS.SО.О.1.8. Razlikuju formalnu i neformalnu leksiku i stil izražavanja; primjenjuju ih u skladu sa situacijom i namjerom govora. Imaju leksički fond primjeren dobi, interesima i potrebama, kojim se služe u skladu s jezičkom normom. Razlikuju posuđenice od domaćih riječi i razumiju razloge jezičkog posuđivanja, s posebnim uvažavanjem orijentalizama koji su dio jezičke i kulturne baštine bosanskog jezika.
+- BOS.SО.О.1.9. Pišu pravilno uz primjenu osnovnih pravopisnih pravila bosanskog jezika; koriste pravopisni priručnik kada je potrebno; prepoznaju i ispravljaju česte pravopisne greške u svakodnevnom pisanju; razumiju zašto je važno pisati pravilno u školi i van nje.
+- BOS.SО.О.1.10. Poznaju obilježja i pravila pisanja funkcionalnih i administrativnih tekstova (pisma, e-maila, molbe, žalbe, biografije, izvještaja) i opisuju njihovu osnovnu namjenu, strukturu i jezička obilježja; razlikuju osnovne vrste obrazaca i znaju čemu služe.
+- BOS.SО.О.1.11. Prepoznaju književna djela, njihove autore i književnohistorijske periode; povezuju djelo s osnovnim obilježjima epohe u kojoj je nastalo.
+- BOS.SO.О.1.12. Razlikuju književni od neknjiževnog teksta, razumiju njegovu svrhu i strukturu (tema, motiv, radnja, likovi, vrijeme i mjesto radnje); koriste književnoteorijsku terminologiju (rod, žanr, interpretacija, autorska i narodna književnost, književnoumjetnički i književnonaučni tekst) u analizi tekstova. Poznaju odlike bošnjačke i svjetske književnosti, uključujući poetičke i formalne osobenosti srednjovjekovne književnosti Bošnjaka (povelja, aleksandrida, epigrafski natpisi) i književnosti na orijentalnim jezicima (mevlud, kasida, gazel, mesnevija, rubaija).
+- BOS.SО.О.1.13. Razlikuju osnovne karakteristike narodne i autorske književnosti, prepoznaju i opisuju obilježja književnih rodova i vrsta, te uočavaju lirske, epske i dramske elemente u književnom djelu; povezuju književne osobenosti s kulturnim i društvenim kontekstom u kojem su tekstovi nastali - razlikuju usmenu epiku kao kolektivni izraz zajednice od autorske književnosti kao individualnog stvaralaštva.
+- BOS.SO.O.2.1. Primenjuju teoretska gramatička znanja u analizi i stvaranju tekstova, pravilno koristeći osnovne sintaksičke strukture i morfološke oblike; prepoznaju i ispravljaju gramatičke greške.
+- BOS.SO.O.2.2. Primjenjuju pravopisna pravila u rukopisnom i digitalnom tekstu, vodeći računa o pravilnoj upotrebi velikih slova, interpunkcije, razmaka i poravnanja teksta; koriste osnovna pravila digitalnog oblikovanja teksta (font, veličina slova, isticanje, pasusi), čime razvijaju pisanu i digitalnu pismenost u skladu sa zahtjevima savremene komunikacije.
+- BOS.SO.O.2.3. S razumijevanjem čitaju književne i neknjiževne tekstove, linearne i nelinearne; pažljivo slušaju jednostavnije izlaganje; izdvajaju ključne informacije i zapisuju bilješke uz primjenu osnovnih strategija aktivnog slušanja i čitanja.
+- BOS.SO.O.2.4. Izražavaju lični i estetski doživljaj pročitanog ili odslušanog teksta usmeno ili pisano; obrazlažu svoj stav; povezuju sadržaj književnog djela sa ličnim ili tuđim iskustvom i prepoznaju univerzalne teme, vrijednosti i emocije značajne za lični razvoj i razumijevanje drugih.
+- BOS.SО.О.2.5. Prepoznaju temu i glavne motive djela, stilske odlike epoha i pravaca, uspoređujući njihove sličnosti i razlike.
+- BOS.SО.О.2.6. Citiraju čvrste i valjane dokaze iz teksta; daju objektivan sažetak teksta; razlikuju činjenice naspram interpretacije.
+- BOS.SО.О.2.7. Kreiraju svoj govor i pisanje, prilagođavajući ga prilikama, situacijama, govorniku i temi; koriste verbalna i neverbalna sredstva izražavanja.
+- BOS.SО.О.2.8. Otkrivaju relevantne informacije u tekstu, crpu informacije za zadane kriterije na različite načine i iz više izvora; provode istraživačke postupke kako bi odgovorili na pitanje; vrše odabir izvora informacija; uočavaju manipulacije u tekstu i govoru.
+- BOS.SО.О.2.9. Rade samostalno i u timu; istražuju; razmjenjuju informacije u projektnoj nastavi; dramatiziraju odlomke dramskih djela iz svjetske i bošnjačke književnosti; koriste bibliotečki fond; posjećuju kulturne i umjetničke institucije (pozorište, galerija, bioskop, muzej).
+- BOS.SО.О.3.1. Služe se znanjem iz jezika, iskazujući pravilno u usmenoj i pisanoj komunikaciji vlastite ideje u obrazovnom kontekstu, na promociji građanskih i demokratskih razgovora.
+- BOS.SО.О.3.2. Prikazuju relevantne informacije kroz različite načine (npr. tekstualne, grafičke, audio, vizualne i interaktivne elemente).
+- BOS.SО.О.3.3. Komuniciraju konstruktivno i s poštovanjem u društvenim situacijama i na društvenim mrežama, pokazujući razumijevanje različitih gledišta i poznavanje općeprihvaćene norme, uz primjenu jezičkog bontona.
+- BOS.SО.О.3.4. Prepoznaju stereotipe, predrasude i verbalnu agresiju u tekstovima i svakodnevnoj komunikaciji; pokazuju negativan stav prema netoleranciji i diskriminaciji.
+- BOS.SО.О.3.5. Pronalaze odgovarajuće informacije u različitim izvorima u cilju razvijanja novih znanja, vještina i razumijevanja drugih predmeta.
+- BOS.SО.О.3.6. Primjenjuju različite strategije čitanja i u različite svrhe (informiranje, učenje, lični razvoj, estetski doživljaj, zabava...).
+- BOS.SО.О.3.7. Razvijaju vještine učenja putem čitanja, što doprinosi osjećanju lične kompetentnosti (interes za knjigu).
+- BOS.SО.О.3.8. Razvijaju svijest o kulturnoj raznolikosti kroz analizu književnih djela evropskih i svjetskih autora, uz podsticanje humanog i kritičkog dijaloga među kulturama.
+- BOS.SО.О.3.9. Primjenjuju znanja iz književnosti i jezika kako bi učestvovali u različitim edukativnim i kulturnim aktivnostima.
+- BOS.SО.О.3.10. Kreiraju govoreni ili pisani tekst primjenjujući osnovna pravopisna pravila; koriste oba pisma dajući prednost latinici; pridržavaju se standardnog formata za citiranje.
+- BOS.SО.О.3.11. Uočavaju značaj jezika u očuvanju sopstvenog i kulturološkog identiteta u interakciji s kulturološkim identitetom drugih naroda i etničkih zajednica u Srbiji; uvažavaju zavičajne govore.
+- BOS.SО.О.3.12. Uvažavaju privatnost i ljudska prava, dijeleći zajedničke vrijednosti sa članovima demokratskih društava.
+- BOS.SО.О.3.13. Razlikuju ulogu savremenih medija (digitalne platforme i društvene mreže) od tradicionalnih (štampa, radio, televizija), te razumiju njihovu osnovnu ulogu u informiranju i oblikovanju javnog mnijenja u savremenom društvu.
+- BOS.SО.О.3.14. Identificiraju sadržaje iz književnosti predstavljene u različitim medijima i formatima (televizija, film, pozorište, kompjuterske igre, strip…).
+- BOS.SO.O.1.14. Prepoznaju razliku između prepričavanja i analize književnog teksta; opisuju osnovne karakteristike oba pristupa i koriste ih u jednostavnim primjerima teksta, čime razvijaju sposobnost razumijevanja i izražavanja.
+- BOS.SO.O.1.15. Uočavaju i prepoznaju motive i teme usmene poezije Bošnjaka (epska pjesma, balada i sevdalinka) u pisanim književnim tekstovima različitih perioda, posebno u tekstovima preporodnog perioda; razumiju njihovu ulogu u prenošenju kulturnog naslijeđa.
+Srednji nivo
+Specifična predmetna kompetencija 1 (SPK1)
+Učenici poznaju osnovne jezičke grupe u Evropi i razumiju mjesto bosanskoga jezika u indoevropskoj i slavenskoj porodici jezika. Imaju proširena znanja o prozodijskom sistemu standardnoga jezika, vrstama riječi, tvorbenim procesima i gramatičkim kategorijama. Poznaju dijalekte bosanskoga jezika i njihove osobitosti, te poznaju glavne faze razvoja bosanskoga jezika kroz historiju. Razlikuju i analiziraju složene rečenice, razumiju pravopisna pravila i primjenjuju ih u pisanju različitih tipova tekstova. Razumiju osnovne pojmove književnosti, književnohistorijske epohe i stilove te povezuju književna djela s njihovim društvenim i kulturnim kontekstom. Prepoznaju osnovne književne figure, motive i teme, kao i različite vrste tekstova, uključujući i medijske forme.
+Specifična predmetna kompetencija 2 (SPK2)
+Učenici razvijaju istraživački pristup prema bosanskome jeziku i književnosti kroz uspoređivanje s drugim jezicima i kulturama, te kroz redovno čitanje i analizu književnih i neknjiževnih tekstova. Koriste različite izvore informacija, kritički procjenjuju njihovu vjerodostojnost i relevantnost, te oblikuju izraze i stil u skladu sa komunikacijskom situacijom i ciljnom publikom. Primjenjuju čitalačke strategije prilagođene svrsi čitanja, kao i jezičke norme u govoru i pisanju.
+Specifična predmetna kompetencija 3 (SPK3)
+Učenici vrednuju i unapređuju vlastite komunikacijske vještine, razvijajući bogat i funkcionalan rječnik i sposobnost izražavanja u različitim društvenim i kulturnim kontekstima. Kritički tumače književne i medijske sadržaje, prepoznajući predrasude, netoleranciju i manipulacije. Razumiju višedimenzionalni značaj književnosti u multikulturnom društvu i njenu ulogu u očuvanju kulturnog identiteta. Razvijaju sposobnosti saradnje, argumentacije i aktivnog učešća u kulturnim i društvenim aktivnostima, te njeguju svijest o ljudskim pravima, demokratiji i poštovanju različitosti.
+Ishodi obrazovnog ciklusa (IOC) za kraj srednjeg obrazovanja:
+Srednji nivo
+SPK 1
+SPK 2
+SPK 3
+Učenici:
+Učenici:
+Učenici:
+- BOS.SО.S.1.1. Klasificiraju osnovne grupe evropskih jezika; znaju mjesto bosanskoga jezika u porodici indoevropskih i slavenskih jezika; razlikuju dijalekte i poddijalekte bosanskoga jezika i njihove glavne osobine.
+- BOS.SО.S.1.2. Poznaju glavne faze razvoja bosanskoga jezika kroz stoljeća i spomenike materijalne i duhovne kulture Bošnjaka.
+- BOS.SО.S.1.3. Poznaju prozodijski sistem standardnog jezika (akcenat i dužinu kao jedinice prozodijskog sistema i njihova obilježja, karakteristike akcenta); bilježe akcenat u jednostavnim primjerima (jednosložne riječi i unutarnji slog).
+- BOS.SО.S.1.4. Prepoznaju oblike riječi sa izvršenim glasovnim promjenama i povezuju ih sa normom standardnog jezika.
+- BOS.SО.S.1.5. Prepoznaju tvorbene procese (izvođenje, slaganje, kombiniranje) u postojećim riječima i povezuju ih s gramatičkim kategorijama.
+- BOS.SО.S.1.6. Prepoznaju funkciju rečeničnih članova u proširenim prostim i složenim rečenicama; određuju vrstu sintagme u rečenici; razlikuju vrste zavisnih rečenica i uočavaju logičke odnose među njima.
+- BOS.SО.S.1.7. Prepoznaju i razlikuju značenje frazeoloških jedinica u literarnim tekstovima i svakodnevnoj upotrebi; koriste frazeološki rječnik kao pomoć u razumijevanju. Razlikuju riječi i izraze prema porijeklu i sferi upotrebe.
+- BOS.SО.S.1.8. Prepoznaju formalni i neformalni stil u različitim komunikacijskim kontekstima i prilagođavaju svoj izbor riječi u skladu s jezičkom normom i namjerom govora; razlikuju domaće riječi i posuđenice u svakodnevnoj upotrebi.
+- BOS.SО.S.1.9. Prepoznaju i primjenjuju pravopisna pravila u pisanju različitih tipova tekstova; koriste pravopisne priručnike; uočavaju i ispravljaju češće pravopisne greške.
+- BOS.SО.S.1.10. Primjenjuju pravila za pisanje funkcionalnih i administrativnih tekstova (pismo, e-mail, molba, biografija, CV); samostalno oblikuju tekstove uz poštovanje forme i norme bosanskoga jezika; tačno i jasno popunjavaju različite obrasce i formulare u skladu s konkretnim komunikacijskim kontekstom.
+- BOS.SО.S.1.11. Spajaju književni tekst sa utjecajem društvenohistorijskog i kulturnog konteksta; prepoznaju osnovna obilježja književnohistorijskih i stilskih epoha, pravaca: povezuju ih sa književnim djelima i piscima.
+- BOS.SО.S.1.12. Prepoznaju i razlikuju osnovne karakteristike različitih književnih i neknjiževnih tekstova, uključujući hibridne i književnonaučne forme; koriste osnovne termine za opisivanje medijskih formi i žanrova.
+- BOS.SO.S.2.1. Upotrebljavaju teorijska i praktična znanja iz gramatike bosanskoga jezika, uočavaju i analiziraju raznovrsne jezičke pojave.
+- BOS.SО.S.2.2. Poštujući pravopisnu normu bosanskoga jezika uočavaju i ispravljaju pravopisne greške u svojim i tuđim tekstovima; identificiraju riječi i njihove oblike sa nestandardnim akcentom u procesu komunikacije.
+- BOS.SО.S.2.3. Koriste različite strategije čitanja tekstova u različitim kontekstima, prilagođavajući ih čitalačkim potrebama (istraživanje, doživljaj, stvaralaštvo).
+- BOS.SО.S.2.4. Redovno čitaju književna djela iz obaveznog školskog programa, kao i iz zadovoljstva, i uočavaju estetske vrijednosti djela.
+- BOS.SО.S.2.5. Sagledavaju sve aspekte književnoumjetničkog djela iskazujući lični doživljaj; svoja mišljenja i ideje uspoređuju, povezuju i potkrepljuju činjenicama iz teksta.
+- BOS.SО.S.2.6. Sagledavaju izdvojeni problem; uočavaju i objašnjavaju unutrašnji i spoljašnji pristup (tematska, idejna, poetička, jezička i stilska obilježja, žanr i kompoziciju) književnom tekstu.
+- BOS.SO.S.2.7. Procjenjuju kako književna forma, stil i način pripovijedanja utiču na značenje djela; prepoznaju međusobne veze književnih tekstova i jednostavne književnoteorijske pojmove u funkciji tumačenja.
+- BOS.SО.S.2.8. Analiziraju i uspoređuju informacije iz tekstova različitih funkcionalnih stilova i izvora (štampanih i digitalnih); razlikuju vrste manipulativnog jezika; biraju i primjenjuju prikladne stilove i izraze, u zavisnosti od teme i namjere komunikacije.
+- BOS.SО.S.2.9. Utvrđuju stavove i namjere autora; razlikuju subjektivnost od objektivnosti u izražavanju; prepoznaju stilske izražajne figure, te ih tumače u različitim književnim djelima.
+- BOS.SО.S.2.10. Organiziraju govorne ili pisane tekstove složenije strukture tako što logički povezuju dijelove; uređuju sadržaj u skladu s temom i ciljem izlaganja, vodeći računa o jasnoći i izražajnosti.
+- BOS.SО.S.2.11. Samostalno pronalaze i povezuju informacije iz tekstova različitih oblasti, koriste ih u učenju i svakodnevnim situacijama, te prepoznaju njihovu praktičnu vrijednost.
+- BOS.SO.S.2.12. Učestvuju u razgovorima i debatama; iznose mišljenje uz obrazloženje; pažljivo slušaju sugovornike i uvažavaju njihovo mišljenje; razlikuju racionalne i emocionalne argumente u komunikaciji.
+- BOS.SO.S.3.1. Izražavaju svoje mišljenje o temama društva i kulture, koristeći književni jezik i uvažavajući kulturološke razlike i pravila komunikacije.
+- BOS.SО.S.3.2. Tumače kako izbor riječi, stil i način izražavanja odražavaju autorovu namjeru i stav; prepoznaju subjektivne i manipulativne elemente u tekstu i procjenjuju vjerodostojnost i relevantnost informacija.
+- BOS.SО.S.3.3. Razvijaju i koriste vještine saradnje u komunikaciji, pažljivo upravljajući verbalnim i neverbalnim izražavanjem; aktivno slušaju i poštuju različita mišljenja, prepoznajući značaj kulturne i konstruktivne interakcije.
+- BOS.SO.S.3.4. Objašnjavaju kako se u tekstovima i medijima izražavaju predrasude i netolerancija; pokazuju razumijevanje i poštovanje različitih kultura, jezika i stavova.
+- BOS.SО.S.3.5. Razvijaju funkcionalnu pismenost u različitim oblastima (umjetničkoj, digitalnoj, informatičkoj, medijskoj, naučnoj, matematičkoj i dr.) kroz pretraživanje, razumijevanje i upotrebu informacija iz različitih izvora, u cilju povezivanja znanja iz bosanskog jezika sa sadržajima drugih nastavnih predmeta.
+- BOS.SО.S.3.6. Svoj način čitanja i učenja usklađuju sa svrhom i zadatkom, samostalno prepoznajući kada treba prilagoditi strategiju radi boljeg razumijevanja i usvajanja.
+- BOS.SО.S.3.7. Njeguju znatiželju kroz čitanje raznovrsnih tekstova, uključujući neumjetničke i književne, oblikujući svoj čitalački ukus i širinu vidika.
+- BOS.SО.S.3.8. Povezuju književna djela sa kulturološkim, etičkim i identitetskim vrijednostima svoje zajednice i šireg društva, te razvijaju estetski ukus i stav prema međukulturnom dijalogu.
+- BOS.SО.S.3.9. Koriste stečena znanja iz jezika i književnosti za kreiranje i kritičko preispitivanje kulturnih sadržaja, aktivno učestvujući u školskim i zajedničkim kulturnim aktivnostima.
+- BOS.SO.S.3.10. Kreiraju složeniji govoreni ili pisani tekst, povezujući lično iskustvo s osnovnim i dodatnim izvorima; koriste citate i parafraze uz jasno navođenje izvora; koriste digitalne baze podataka (npr. Google Scholar, COBISS, Google books…) za pronalaženje provjerenih i pouzdanih informacija.
+- BOS.SO.S.3.11. Razvijaju osjećaj pripadnosti jeziku i kulturi svoje zajednice; cijene kulturne razlike među narodima i etničkim grupama; uključuju se u aktivnosti koje promoviraju lokalnu kulturu.
+- BOS.SO.S.3.12. Razlikuju temeljna ljudska prava i prepoznaju njihove povrede u svakodnevnim situacijama i medijskom prostoru; zagovaraju jednakost, dostojanstvo i poštovanje kao temeljne principe demokratskog društva.
+- BOS.SО.S.1.13. Prepoznaju i razlikuju osnovne književne figure i pojmove (autor, narator, lirski subjekt, dramsko lice); objašnjavaju njihovu ulogu u različitim književnim rodovima i vrstama.
+- BOS.SО.S.1.14. Utvrđuju (elemente) strukturu književnog djela (građu, fabulu, siže, temu i kompoziciju); razlikuju oblike pripovijedanja (hronološko i retrospektivno); prepoznaju vrste kazivanja u književnosti; uočavaju fizičke, psihološke, moralne, socijalne i jezične karakteristike lika.
+- BOS.SO.S.1.15. Identifikuju osnovne motive i teme bošnjačke balade, sevdalinke i epske pjesme; uspoređuju ih sa motivima i temama unutar pisanih tekstova iz različitih književnohistorijskih perioda; prepoznaju osnovne jezično-stilske postupke i njihovu funkciju.
+- BOS.SO.S.3.13. Objašnjavaju načine na koje savremeni i tradicionalni mediji oblikuju stavove, emocije i ponašanje publike; prepoznaju propagandu, senzacionalizam i manipulaciju informacijama u različitim medijskim sadržajima.
+- BOS.SO.S.3.14. Tumače razlike između književnog i medijskog izraza analizirajući kako različiti formati (film, pozorište, igra, strip) prenose književne motive i poruke.
+Napredni nivo
+Specifična predmetna kompetencija 1 (SPK1)
+Učenici razumiju funkciju jezika kao složenog sistema znakova i sredstva društvene komunikacije. Posjeduju znanja iz gramatike bosanskoga jezika (fonologija, morfologija, sintaksa, leksikologija) i koriste ih u analizi i izražavanju. Vrednuju maternji jezik i višejezičnost kao osnovu jezičkog i kulturnog identiteta. Interpretiraju književna djela kroz estetske, idejne i kulturološke aspekte, povezujući ih s drugim umjetnostima, naukom i medijima. Razvijaju svijest o pripadnosti lokalnoj, nacionalnoj i svjetskoj kulturnoj zajednici.
+Specifična predmetna kompetencija 2 (SPK2)
+Učenici razvijaju sposobnosti javnog govora i argumentirane komunikacije o temama iz jezika, književnosti i kulture. Prepoznaju istraživačke i kreativne potencijale jezika i književnosti, te povezuju znanja iz različitih izvora i disciplina. Prilagođavaju stil i jezik komunikacijskoj situaciji i vrsti teksta. Kritički analiziraju i interpretiraju informacije iz medija i literature, izražavajući lične stavove potkrijepljene argumentima i otvorene za dijalog.
+Specifična predmetna kompetencija 3 (SPK3)
+Učenici razvijaju navike čitanja i govorne kulture kao temelje ličnog i društvenog razvoja. Kritički analiziraju tekstove i medijske sadržaje, uočavajući skrivene poruke i ideološke utjecaje. Poštuju kulturne razlike i učestvuju u interkulturnom dijalogu. Samostalno oblikuju sadržaje u skladu s etičkim normama i komunikacijskim kontekstom. Razvijaju građansku svijest, odgovornost i inicijativu u zajednici, prepoznajući vrijednosti umjetnosti, nauke i jezika za održiv razvoj i kulturno naslijeđe.
+Ishodi obrazovnog ciklusa (IOC) za kraj srednjeg obrazovanja:
+Napredni nivo
+SPK 1
+SPK 2
+SPK 3
+Učenici:
+Učenici:
+Učenici:
+- BOS.SO.N.1.1. Analiziraju jezik kao složen sistem znakova i sredstvo društvene komunikacije.
+- BOS.SO.N.1.2. Raspoznaju jezičku raznolikost i značaj višejezičnosti u svojoj sredini kao osnovu za međukulturno razumijevanje; njeguju i vrednuju maternji jezik, razvijajući osjećaj pripadnosti i poštovanja prema vlastitom jezičkom identitetu.
+- BOS.SO.N.1.3. Razumiju ulogu akcenta i dužine u izgovoru; prepoznaju osnovne obrasce akcenata u složenijim riječima i rečenicama; primjenjuju ta znanja kako bi poboljšali jasnoću, pravilnost i izražajnost u govoru i pisanju.
+- BOS.SO.N.1.4. Razumiju pojam fonema kao najmanje jedinice jezika; prepoznaju i objašnjavaju glasovne promjene (alternacije) u riječima; analiziraju oblike riječi koje sadrže izvršene glasovne promjene i razumiju njihov značaj za pravilnu upotrebu jezika.
+- BOS.SO.N.1.5. Razlikuju vrste morfema i njihovu ulogu u tvorbi riječi; objašnjavaju tvorbene modele kroz jednostavne primjere iz svakodnevnog jezika.
+- BOS.SO.N.1.6. Objašnjavaju kako raspored rečeničnih članova i tip rečenice utiču na jasnoću i stil izražavanja; prepoznaju funkcionalnu upotrebu različitih rečeničnih struktura u tekstu.
+- BOS.SO.N.1.7. Posjeduju znanja o značenju riječi i frazeoloških jedinica koje se javljaju u literarnim i medijskim tekstovima; razlikuju jedinice leksičkog sistema s obzirom na porijeklo i sferu upotrebe; razumiju podjelu riječi po vremenskoj raslojenosti, po porijeklu i prostiranju; po potrebi koriste frazeologizme u govornim ili izvođačkim situacijama.
+- BOS.SO.N.1.8. Samostalno biraju odgovarajući stil izražavanja i koriste raznovrstan leksički fond u skladu s kontekstom; razlikuju i tumače značenje posuđenica.
+- BOS.SO.N.1.9. Pišu pravilno u skladu s pravopisom sve vrste tektova; koriste pravopisne priručnike kada je potrebno; znaju važnost tačnog pisanja u školskoj i javnoj komunikaciji.
+- BOS.SO.N.1.10. Kreiraju kompleksnije funkcionalne i administrativne tekstove u skladu sa zahtjevima formalne komunikacije (projektna prijava, zvanični dopis, izvještaj o radu); prilagođavaju jezički stil ciljanoj publici i kontekstu; samostalno procjenjuju i revidiraju tekstove prema komunikacijskoj svrsi.
+- BOS.SO.N.1.11. Analiziraju i interpretiraju književno djelo u svjetlu estetskih i idejnih osobina književnohistorijske epohe; kritički vrednuju utjecaj epohe na oblikovanje književnog izraza i promišljaju njegov značaj u savremenom kontekstu.
+- BOS.SO.N.2.1. Porede gramatičke i jezičke pojave u maternjem jeziku sa sličnim pojavama u drugim stranim jezicima, analiziraju ih i zaključuju o njihovim sličnostima i razlikama
+- BOS.SO.N.2.2. Analiziraju književno djelo; razumiju kom žanru pripada i kada je djelo nastalo; vrše analizu stilskih i strukturalnih komponenti, koristeći paletu usvojenih književnoteorijskih termina i sekundarne literature.
+- BOS.SO.N.2.3. Preispituju svrhu, učinak i doprinos upotrijebljenih stilskih postupaka značenju teksta.
+- BOS.SO.N.2.4. Uočavaju i tumače problem, ideju ili poruku u književnom i neumjetničkom tekstu, razmatrajući ih iz više uglova; traže dokaze i razloge koje autor navodi kako bi podržali svoje mišljenje; procjenjuju koliko su ti razlozi uvjerljivi i tačni, te mijenjaju svoje mišljenje na osnovu novih saznanja.
+- BOS.SO.N.2.5. Spajaju historijske, religijske i političke teme u djelima, bošnjačke i svjetske književnosti, koja obrađuju i procjenjuju svoj jezički, literarni, estetski, kulturni i sopstveni identitet; tumače i uspoređuju kreativno izražene univerzalne ideje u različitim kulturnim kontekstima.
+- BOS.SО.N.2.6. Prilagođavaju cilj, sadržaj i način izlaganja specifičnostima komunikacijske situacije.
+- BOS.SО.N.2.7. Preispituju odnose između književnoteorijskih koncepata (egzistencijalizam, teorija recepcije ili teorija otvorenog djela) i književnoumjetničkog teksta, kao i odnose među književnoumjetničkim tekstovima kroz prizmu intertekstualnosti; koriste stečena znanja za dublju interpretaciju.
+- BOS.SО.N.2.8. Sastavljaju kompleksne tekstove različitih funkcionalnih stilova (anketa, vijest, izvještaj, saopćenje, esej), usklađujući ih s komunikacijskim kontekstom i namjerom; analiziraju jezične i stilske osobine takvih tekstova i prepoznaju njihov utjecaj na primatelja.
+- BOS.SО.N.2.9. Prepoznaju i uspoređuju kako se određeni pojam, tema ili problem tretira u različitim književnim djelima i medijima, analizirajući autorove stavove i izražajne tehnike, te primjenjujući kritički pristup u tumačenju složenih književnoteorijskih pojmova.
+- BOS.SO.N.2.10. Izlažu javno i pred većim auditorijem o temama iz oblasti jezika, književnosti i kulture.
+- BOS.SО.N.2.11. Aktivno učestvuju u argumentiranoj javnoj raspravi - samostalno ili timski se pripremaju, iznose stavove potkrijepljene dokazima; donose zaključke i planiraju strategije za djelovanje.
+- BOS.SO.N.3.1. Samostalno i argumentirano iznose i brane svoje stavove o složenim društvenim i kulturološkim pitanjima, koristeći književni jezik u skladu s komunikacijskim normama i interkulturalnom etikom; doprinose demokratskom dijalogu aktivnim, odgovornim i tolerantnim učešćem u javnim raspravama.
+- BOS.SO.N.3.2. Analiziraju i interpretiraju različite komunikacijske forme (tekstualne, audiovizualne, digitalne), kritički ocjenjuju njihove jezičke i stilske strategije, otkrivaju skrivene i ideološke poruke, te samostalno izrađuje pouzdane i etički oblikovane sadržaje prilagođene kontekstu i publici.
+- BOS.SO.N.3.3. Samostalno razvijaju i primjenjuju sofisticirane vještine saradnje i komunikacije u različitim društvenim i profesionalnim kontekstima; kritički analiziraju verbalne i neverbalne izraze, vode konstruktivne dijaloge uz poštivanje kulturnih razlika i etičkih normi; doprinose stvaranju inkluzivnog i odgovornog komunikacijskog okruženja.
+- BOS.SO.N.3.4. Analiziraju kako se kulturne razlike, predrasude i diskriminacija prikazuju u književnim i javnim diskursima; zagovaraju tolerantnu, inkluzivnu i interkulturnu komunikaciju u različitim društvenim kontekstima.
+- BOS.SO.N.3.5. Uočavaju i analiziraju utjecaj umjetnosti, nauke i tehnologije na razvoj jezika i pismenosti; koriste informacije iz različitih izvora za promišljanje o očuvanju kulturne baštine, sigurnosti i održivosti životne sredine.
+- BOS.SO.N.3.6. Svjesno i kritički usvajaju i usavršavaju različite strategije čitanja i učenja, promišljajući o vlastitim snagama i slabostima, te samostalno mijenjaju pristup kako bi postigli dublje razumijevanje i bolje rezultate.
+- BOS.SO.N.3.7. Razvijaju sposobnost promišljanja o sebi i svijetu, koristeći čitanje kao alat za razumijevanje i odgovorno djelovanje u zajednici.
+- BOS.SO.N.3.8. Kroz čitanje književnosti različitih kultura (epoha) razvijaju razumijevanje i poštovanje kulturnih razlika, te sposobnost da o njima razmišljaju i razgovaraju odgovorno i s empatijom.
+- BOS.SO.N.3.9. Procjenjuju različite kulturne sadržaje kroz prizmu književnih i jezičkih znanja, prepoznajući i ostvarujući njihovu ličnu, društvenu i komercijalnu vrijednost; oblikuju vlastite kulturne inicijative.
+- BOS.SO.N.3.10. Oblikuju govoreni ili pisani tekst u kojem odgovorno koriste informacije iz različitih izvora; koriste alate zasnovane na vještačkoj inteligenciji kao podršku u istraživanju; razlikuju pouzdane od nepouzdanih informacija koje AI može ponuditi; vode računa o etici, jeziku kao dijelu identiteta i kulturnim vrijednostima.
+- BOS.SO.N.1.12. Analiziraju i kritički vrednuju književne, neknjiževne i intermedijalne tekstove, prepoznajući žanrovsku hibridnost i specifičnosti književnonaučnog diskursa; tumače utjecaj društvenih, kulturnih i medijskih faktora na oblikovanje i recepciju tekstova.
+- BOS.SO.N.3.11. Prepoznaju ulogu jezika u oblikovanju identiteta pojedinca i zajednice; istražuju načine na koje stereotipi i predrasude utiču na komunikaciju i društvene odnose; učestvuju u aktivnostima koje promoviraju interkulturno razumijevanje, poštovanje ljudskih prava i nenasilno rješavanje sukoba, razvijajući time građansku svijest i kulturu dijaloga.
+- BOS.SO.N.3.12. Procjenjuju i izražavaju mišljenje o književnim, pozorišnim i filmskim djelima, povezujući estetske, kulturne i društvene poruke koje ova ostvarenja prenose; razvijaju sposobnost razlikovanja ličnog ukusa od argumentirane kritike i prepoznaju vrijednosti umjetnosti za svoj lični razvoj.
+БОСАНСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општа предметна компетенција (ОПК)
+Ученици имају знања о функцији и значају језика и вишејезичности, познају граматику босанскога језика и примењују је у свакодневном животу. Разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и социјалну укљученост. Негују и чувају босански језик, уважавајући разноликост његових дијалеката, као и друге језике.
+Стечено знање о босанскоме језику, бошњачкој књижевности и њеном историјском континуитету јасно уобличавају и изражавају. Значајно им је познавање појавно-чињеничког континуитета писаца и њихових дела; разумеју узрочно-последични однос у смени раздобља у развоју историје бошњачке књижевности; разумеју важност књижевних идеја и мотива, као унутарње генезе и присног, непрекидног рефлектовања и обнављања у властитом искуству и колективној свести. Прате и разумеју синхронијске компаративне односе с књижевностима регије, посебно са српском књижевношћу, те препознају додире на заједничким основама босанскога и српскога језика и значења стилских формација, нарочито оних из доба препорода, које се показују као снажан катализатор каснијег књижевног развоја бошњачке књижевности.
+Користе развијен и богат речник у усменој и писаној комуникацији: говоре и пишу поштујући стандарднојезичну и правописну норму босанскога језика, обликују логичан и стилски складан текст. Воде рачуна о култури дијалога, владају говорним вештинама и вештинама активног слушања. Формулишу и изражавају усмене и писане аргументе на уверљив начин који је примерен контексту. Комуницирају на конструктиван начин, сарађују у тимовима и преговарају, развијајући осећај за иницијативу и деловање у остваривању циљева, користећи и ИКТ средства.
+Имају развијену читалачку писменост. Разумеју, критички и креативно промишљају књижевни и неуметнички текст. Негују говорну и читалачку културу ради сопственог усавршавања и личног испуњења. Траже, прикупљају и критички обрађују информације из различитих извора и одговорно употребљавају и креирају мултимедијалне садржаје.
+Тумаче књижевна дела из бошњачке и светске књижевности. Разумеју мултикултурне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Уочавају и примерима аргументују основне поетичке, језичке, естетске и структуралне особине књижевних дела. Поседују способност фигуративног и апстрактног изражавања идеја, искустава и емоција; испољавају стваралачке могућности. Користе читање да би боље спознали себе, друге и свет око себе, усвајајући и изграђујући етичке принципе. Читањем развијају емпатију и бригу за људе и свет. Негују хумани и критички однос у различитим културним формама. Успостављају везу између књижевности и других уметности, наука и технологије.
+Ефикасно користе разноврсне технике учења и свесни су значаја целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне специфичности босанскога књижевнога језика, укључујући књижевнојезичку норму, граматику, правопис и стилистику. Усвајају и примењују језичка правила у говору и писању, разликују формално и неформално изражавање те вербалну од невербалне комуникације. Читају и разумеју линеарне и нелинеарне текстове, разликују књижевне од неуметничких текстова и повезују књижевна дела с њиховим ауторима и књижевним периодима. Разумеју основне елементе структуре књижевног и неуметничког текста.
+Специфична предметна компетенција 2 (СПК2)
+Ученици примењују вештине слушања и говора у складу с комуникативним ситуацијама. Користе теоријска граматичка знања у конкретним језичким ситуацијама и примењују правописна правила у писању. Састављају логичне и стилистички усклађене усмене и писане текстове прилагођене контексту, уз поштивање различитости (расе, нације, културе, језика, вере, пола, рода и узраста). Током читања и тумачења књижевних и неуметничких текстова развијају читалачке навике и способност разумевања, а истовремено обликују потребу за читањем као трајним извором знања, личног развоја и естетског доживљаја. Активно користе фондове библиотека и учествују у културним и уметничким садржајима који подстичу читалачку културу.
+Специфична предметна компетенција 3 (СПК3)
+Ученици негују и чувају босански језик, уважавајући разноврсност његових дијалеката, као и друге језике. Оспособљени су за јасно, економично и уверљиво усмено и писмено изражавање. Читањем и тумачењем књижевних дела из националне и светске баштине формирају хуманистичке вредносне ставове. Успостављају везе између књижевне, позоришне и филмске уметности и користе различите стратегије читања и учења. Препознају предрасуде, стереотипе и облике вербалне агресије као негативне појаве. Знања из језика и књижевности примењују у ситуацијама значајним за активно грађанско укључивање. Етички и одговорно приступају интелектуалном и културном власништву.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Oсновни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- БОС.СО.O.1.1. Имају основна знања о босанском књижевном језику и његовим нормама.
+- БОС.СО.О.1.2. Разликују правилан и неправилан изговор гласова у босанском језику, класификују их према фонетским особинама (место и начин изговора, звучност), те их правилно изговарају у говору и читању, нарочито у формалним ситуацијама; познају основну поделу гласова и препознају фонетске и фонолошке јединице босанског стандардног језика, укључујући њихова артикулациона и акустичка обележја; правилно употребљавају глас х у складу с етимологијом и нормом, разумеју основни значај јата за грађење ијекавског изговора у босанском језику.
+- БОС.СО.О.2.1. Примењују теоретска граматичка знања у анализи и стварању текстова, правилно користећи основне синтаксичке структуре и морфолошке облике; препознају и исправљају граматичке грешке.
+- БОС.СО.О.2.2. Примењују правописна правила у рукописном и дигиталном тексту, водећи рачуна о правилној употреби великих слова, интерпункције, размака и поравнања текста; користе основна правила дигиталног обликовања текста (фонт, величина слова, истицање, пасуси), чиме развијају писану и дигиталну писменост у складу са захтевима савремене комуникације.
+- БОС.СО.О.3.1. Служе се знањем из језика, исказујући правилно у усменој и писаној комуникацији властите идеје у образовном контексту, на промоцији грађанских и демократских разговора.
+- БОС.СО.О.3.2. Приказују релевантне информације кроз различите начине (нпр. текстуалне, графичке, аудио, визуалне и интерактивне елементе).
+- БОС.СО.О.3.3. Комуницирају конструктивно и с поштовањем у друштвеним ситуацијама и на друштвеним мрежама, показујући разумевање различитих гледишта и познавање општеприхваћене норме, уз примену језичког бонтона.
+- БОС.СО.О.1.3. Разумеју појам слога и основна правила акценатске норме босанског језика; примењују та знања у јасном и правилном изражавању у различитим образовним и животним ситуацијама, развијајући притом дикцијску прецизност и изражајност; препознају одступања од стандардног изговора у свакодневном говору, уз нагласак на примену правила изговора у формалним ситуацијама.
+- БОС.СО.О.1.4. Класификују врсте речи, те препознају и разликују граматичке категорије промењивих врста речи; примењују ова знања у анализи реченица у типичним школским текстовима, а такође их користе у властитој комуникацији (писање, говор) како би побољшали правилност и јасноћу израза.
+- БОС.СО.О.1.5. Разликују просте речи од творбених; препознају основне творбене процесе; конструишу нове речи према задатим творбеним моделима, примењујући одговарајућа граматичка правила и норме.
+- БОС.СО.О.1. 6. Препознају и класификују основне реченичне чланове; разликују независне и зависне реченице; правилно обликују просте и сложене реченице у складу с граматичким и правописним нормама, с циљем јасне, тачне и сврсисходне комуникације у различитим контекстима.
+- БОС.СО.О.1.7. Препознају фраземе и устаљене изразе у свакодневном говору и књижевним текстовима; разликују их од дословних израза.
+- БОС.СО.О.1.8. Разликују формалну и неформалну лексику и стил изражавања; примењују их у складу са ситуацијом и намером говора. Имају лексички фонд примерен доби, интересима и потребама, којим се служе у складу с језичком нормом. Разликују посуђенице од домаћих речи и разумеју разлоге језичког посуђивања, с посебним уважавањем оријентализама који су део језичке и културне баштине босанског језика.
+- БОС.СО.О.1.9. Пишу правилно уз примену основних правописних правила босанског језика; користе правописни приручник када је потребно; препознају и исправљају честе правописне грешке у свакодневном писању; разумеју зашто је важно писати правилно у школи и ван ње.
+- БОС.СО.О.1.10. Познају обележја и правила писања функционалних и административних текстова (писма, електронске поште, молбе, жалбе, биографије, извештаја) и описују њихову основну намену, структуру и језичка обележја; разликују основне врсте образаца и знају чему служе.
+- БОС.СО.О.1.11. Препознају књижевна дела, њихове ауторе и књижевноисторијске периоде; повезују дело с основним обележјима епохе у којој је настало.
+- БОС.СО.О.1.12. Разликују књижевни од некњижевног текста, разумеју његову сврху и структуру (тема, мотив, радња, ликови, време и место радње); користе књижевнотеоријску терминологију (род, жанр, интерпретација, ауторска и народна књижевност, књижевноуметнички и књижевнонаучни текст) у анализи текстова. Познају одлике бошњачке и светске књижевности, укључујући поетичке и формалне особености средњовековне књижевности Бошњака (повеља, александрида, епиграфски натписи) и књижевности на оријенталним језицима (мевлуд, касида, газел, месневија, рубаија).
+- БОС.СО.О.1.13. Разликују основне карактеристике народне и ауторске књижевности, препознају и описују обележја књижевних родова и врста, те уочавају лирске, епске и драмске елементе у књижевном делу; повезују књижевне специфичности с културним и друштвеним контекстом у којем су текстови настали - разликују усмену епику као колективни израз заједнице од ауторске књижевности као индивидуалног стваралаштва.
+БОС.СО.О.1.14. Препознају разлику између препричавања и анализе књижевног текста; описују основне карактеристике оба приступа и користе их у једноставним примерима текста, чиме развијају способност разумевања и изражавања.
+БОС.СО.О.1.15. Уочавају и препознају мотиве и теме усмене поезије Бошњака (епска песма, балада и севдалинка) у писаним књижевним текстовима различитих периода, посебно у текстовима препородног периода; разумеју њихову улогу у преношењу културног наслеђа.
+- БОС.СО.О.2.3. С разумевањем читају књижевне и некњижевне текстове, линеарне и нелинеарне; пажљиво слушају једноставније излагање; издвајају кључне информације и записују белешке уз примену основних стратегија активног слушања и читања.
+- БОС.СО.О.2.4. Изражавају лични и естетски доживљај прочитаног или одслушаног текста усмено или писано; образлажу свој став; повезују садржај књижевног дела са личним или туђим искуством и препознају универзалне теме, вредности и емоције значајне за лични развој и разумевање других.
+- БОС.СО.О.2.5. Препознају тему и главне мотиве дела, стилске одлике епоха и праваца, упоређујући њихове сличности и разлике.
+- БОС.СО.О.2.6. Цитирају чврсте и ваљане доказе из текста; дају објективан сажетак текста; разликују чињенице наспрам интерпретације.
+- БОС.СО.О.2.7. Креирају свој говор и писање, прилагођавајући га приликама, ситуацијама, говорнику и теми; користе вербална и невербална средства изражавања.
+- БОС.СО.О.2.8. Откривају релевантне информације у тексту, црпе информације за задане критеријуме на различите начине и из више извора; проводе истраживачке поступке како би одговорили на питање; врше одабир извора информација; уочавају манипулације у тексту и говору.
+- БОС.СО.О.2.9. Раде самостално и у тиму; истражују; размењују информације у пројектној настави; драматизују одломке драмских дела из светске и бошњачке књижевности; користе библиотечки фонд; посећују културне и уметничке институције (позориште, галерија, биоскоп, музеј).
+- БОС.СО.О.3.4. Препознају стереотипе, предрасуде и вербалну агресију у текстовима и свакодневној комуникацији; показују негативан став према нетолеранцији и дискриминацији.
+- БОС.СО.О.3.5. Проналазе одговарајуће информације у различитим изворима у циљу развијања нових знања, вештина и разумевања других предмета.
+- БОС.СО.О.3.6. Примењују различите стратегије читања и у различите сврхе (информисање, учење, лични развој, естетски доживљај, забава...).
+- БОС.СО.О.3.7. Развијају вештине учења путем читања, што доприноси осећању личне компетентности (интерес за књигу).
+- БОС.СО.О.3.8. Развијају свест о културној разноликости кроз анализу књижевних дела европских и светских аутора, уз подстицање хуманог и критичког дијалога међу културама.
+- БОС.СО.О.3.9. Примењују знања из књижевности и језика како би учествовали у различитим едукативним и културним активностима.
+- БОС.СО.О.3.10. Креирају говорени или писани текст примењујући основна правописна правила; користе оба писма дајући предност латиници; придржавају се стандардног формата за цитирање.
+- БОС.СО.О.3.11. Уочавају значај језика у очувању сопственог и културолошког идентитета у интеракцији с културолошким идентитетом других народа и етничких заједница у Србији; уважавају завичајне говоре.
+- БОС.СО.О.3.12. Уважавају приватност и људска права, делећи заједничке вредности са члановима демократских друштава.
+- БОС.СО.О.3.13. Разликују улогу савремених медија (дигиталне платформе и друштвене мреже) од традиционалних (штампа, радио, телевизија), те разумеју њихову основну улогу у информисању и обликовању јавног мњења у савременом друштву.
+- БОС.СО.О.3.14. Идентификују садржаје из књижевности представљене у различитим медијима и форматима (телевизија, филм, позориште, компјутерске игре, стрип…).
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне језичке групе у Европи и разумеју место босанскога језика у индоевропској и славенској породици језика. Имају проширена знања о прозодијском систему стандарднога језика, врстама речи, творбеним процесима и граматичким категоријама. Познају дијалекте босанскога језика и њихове особитости, те познају главне фазе развоја босанскога језика кроз историју. Разликују и анализирају сложене реченице, разумеју правописна правила и примењују их у писању различитих типова текстова. Разумеју основне појмове књижевности, књижевноисторијске епохе и стилове те повезују књижевна дела с њиховим друштвеним и културним контекстом. Препознају основне књижевне фигуре, мотиве и теме, као и различите врсте текстова, укључујући и медијске форме.
+Специфична предметна компетенција 2 (СПК2)
+Ученици развијају истраживачки приступ према босанскоме језику и књижевности кроз упоређивање с другим језицима и културама, те кроз редовно читање и анализу књижевних и некњижевних текстова. Користе различите изворе информација, критички процењују њихову веродостојност и релевантност, те обликују изразе и стил у складу са комуникацијском ситуацијом и циљном публиком. Примењују читалачке стратегије прилагођене сврси читања, као и језичке норме у говору и писању.
+Специфична предметна компетенција 3 (СПК3)
+Ученици вреднују и унапређују властите комуникацијске вештине, развијајући богат и функционалан речник и способност изражавања у различитим друштвеним и културним контекстима. Критички тумаче књижевне и медијске садржаје, препознајући предрасуде, нетолеранцију и манипулације. Разумеју вишедимензионални значај књижевности у мултикултурном друштву и њену улогу у очувању културног идентитета. Развијају способности сарадње, аргументације и активног учешћа у културним и друштвеним активностима, те негују свест о људским правима, демократији и поштовању различитости.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- БОС.СО.С.1.1. Класификују основне групе европских језика; знају место босанскога језика у породици индоевропских и славенских језика; разликују дијалекте и поддијалекте босанскога језика и њихове главне особине.
+- БОС.СО.С.1.2. Познају главне фазе развоја босанскога језика кроз векове и споменике материјалне и духовне културе Бошњака.
+- БОС.СО.С.1.3. Познају прозодијски систем стандардног језика (акценат и дужину као јединице прозодијског система и њихова обележја, карактеристике акцента); бележе акценат у једноставним примерима (једносложне речи и унутрашњи слог).
+- БОС.СО.С.1.4. Препознају облике речи са извршеним гласовним променама и повезују их са нормом стандардног језика.
+- БОС.СО.С.1.5. Препознају творбене процесе (извођење, слагање, комбиновање) у постојећим речима и повезују их с граматичким категоријама.
+- БОС.СО.С.1.6. Препознају функцију реченичних чланова у проширеним простим и сложеним реченицама; одређују врсту синтагме у реченици; разликују врсте зависних реченица и уочавају логичке односе међу њима.
+- БОС.СО.С.1.7. Препознају и разликују значење фразеолошких јединица у литерарним текстовима и свакодневној употреби; користе фразеолошки речник као помоћ у разумевању. Разликују речи и изразе према пореклу и сфери употребе.
+- БОС.СО.С.1.8. Препознају формални и неформални стил у различитим комуникацијским контекстима и прилагођавају свој избор речи у складу с језичком нормом и намером говора; разликују домаће речи и позајмљенице у свакодневној употреби.
+- БОС.СО.С.1.9. Препознају и примењују правописна правила у писању различитих типова текстова; користе правописне приручнике; уочавају и исправљају чешће правописне грешке.
+- БОС.СО.С.1.10. Примењују правила за писање функционалних и административних текстова (писмо, e-mail, молба, биографија, ЦВ); самостално обликују текстове уз поштовање форме и норме босанскога језика; тачно и јасно попуњавају различите обрасце и формуларе у складу с конкретним комуникацијским контекстом.
+- БОС.СО.С.1.11. Спајају књижевни текст са утицајем друштвеноисторијског и културног контекста; препознају основна обележја књижевноисторијских епоха, праваца: повезују их са књижевним делима и писцима.
+- БОС.СО.С.1.12. Препознају и разликују основне карактеристике различитих књижевних и некњижевних текстова, укључујући хибридне и књижевнонаучне форме; користе основне термине за описивање медијских форми и жанрова.
+- БОС.СО.С.1.13. Препознају и разликују основне књижевне фигуре и појмове (аутор, наратор, лирски субјект, драмско лице); објашњавају њихову улогу у различитим књижевним родовима и врстама.
+- БОС.СО.С.2.1. Употребљавају теоријска и практична знања из граматике босанскога језика, уочавају и анализирају разноврсне језичке појаве, стручне и научне природе.
+- БОС.СО.С.2.2. Поштујући правописну норму босанскога језика уочавају и исправљају правописне грешке у својим и туђим текстовима; идентификују речи и њихове облике са нестандардним акцентом у процесу комуникације.
+- БОС.СО.С.2.3. Користе различите стратегије читања текстова у различитим контекстима, прилагођавајући их читалачким потребама (истраживање, доживљај, стваралаштво).
+- БОС.СО.С.2.4. Редовно читају књижевна дела из обавезног школског програма, као и из задовољства, развијајући читалачке навике за проширивање својих видика и уочавају естетске вредности дела.
+- БОС.СО.С.2.5. Сагледавају све аспекте књижевноуметничког дела исказујући лични доживљај; своја мишљења и идеје упоређују, повезују и поткрепљују чињеницама из текста.
+- БОС.СО.С.2.6. Сагледавају издвојени проблем; уочавају и објашњавају унутрашњи и спољашњи приступ (тематска, идејна, поетичка, језичка и стилска обележја, жанр и композицију) књижевном тексту.
+- БОС.СО.С.2.7. Процењују како књижевна форма, стил и начин приповедања утичу на значење дела; препознају међусобне везе књижевних текстова и једноставне књижевнотеоријске појмове у функцији тумачења.
+- БОС.СО.С.2.8. Анализирају и упоређују информације из текстова различитих функционалних стилова и извора (штампаних и дигиталних); разликују врсте манипулативног језика; бирају и примењују прикладне стилове и изразе, у зависности од теме и намере комуникације.
+- БОС.СО.С.2.9. Утврђују ставове и намере аутора; разликују субјективност од објективности у изражавању; препознају стилске изражајне фигуре, те их тумаче у различитим књижевним делима.
+- БОС.СО.С.2.10. Организују говорне или писане текстове сложеније структуре тако што логички повезују делове; уређују садржај у складу с темом и циљем излагања, водећи рачуна о јасноћи и изражајности.
+- БОС.СО.С.2.11. Самостално проналазе и повезују информације из текстова различитих области, користе их у учењу и свакодневним ситуацијама, те препознају њихову практичну вредност.
+- БОС.СО.С.2.12. Учествују у разговорима и дебатама; износе мишљење уз образложење; пажљиво слушају суговорнике и уважавају њихово мишљење; разликују рационалне и емоционалне аргументе у комуникацији.
+- БОС.СО.С.3.1. Изражавају своје мишљење о темама друштва и културе, користећи књижевни језик и уважавајући културне разлике и правила комуникације.
+- БОС.СО.С.3.2. Тумаче како избор речи, стил и начин изражавања одражавају ауторову намеру и став; препознају субјективне и манипулативне елементе у тексту и процењују веродостојност и релевантност информација.
+- БОС.СО.С.3.3. Развијају и користе вештине сарадње у комуникацији, пажљиво управљајући вербалним и невербалним изражавањем; активно слушају и поштују различита мишљења, препознајући значај културне и конструктивне интеракције.
+- БОС.СО.С.3.4. Објашњавају како се у текстовима и медијима изражавају предрасуде и нетолеранција; показују разумевање и поштовање различитих култура, језика и ставова.
+- БОС.СО.С.3.5. Развијају функционалну писменост у различитим областима (уметничкој, дигиталној, информатичкој, медијској, научној, математичкој и др.) кроз претраживање, разумевање и употребу информација из различитих извора, у циљу повезивања знања из босанског језика са садржајима других наставних предмета.
+- БОС.СО.С.3.6. Свој начин читања и учења усклађују са сврхом и задатком, самостално препознајући када треба прилагодити стратегију ради бољег разумевања и усвајања.
+- БОС.СО.С.3.7. Негују знатижељу кроз читање разноврсних текстова, укључујући неуметничке и књижевне, обликујући свој читалачки укус и ширину видика.
+- БОС.СО.С.3.8. Повезују књижевна дела са културним, етичким и идентитетским вредностима своје заједнице и ширег друштва, те развијају естетски укус и став према међукултурном дијалогу.
+- БОС.СО.С.3.9. Користе стечена знања из језика и књижевности за креирање и критичко преиспитивање културних садржаја, активно учествујући у школским и заједничким културним активностима.
+- БОС.СО.С.3.10. Креирају сложенији говорени или писани текст, повезујући лично искуство с основним и додатним изворима; користе цитате и парафразе уз јасно навођење извора; користе дигиталне базе података (нпр. Google Scholar, COBISS, Google books…) за проналажење проверених и поузданих информација.
+- БОС.СО.С.3.11. Развијају осећај припадности језику и култури своје заједнице; цене културне разлике међу народима и етничким групама; укључују се у активности које промовишу локалну културу.
+- БОС.СО.С.3.12. Разликују темељна људска права и препознају њихове повреде у свакодневним ситуацијама и медијском простору; заговарају једнакост, достојанство и поштовање као темељне принципе демократског друштва.
+- БОС.СО.С.3.13. Објашњавају начине на које савремени и традиционални медији обликују ставове, емоције и понашање публике; препознају пропаганду, сензационализам и манипулацију информацијама у различитим медијским садржајима.
+- БОС.СО.С.3.14. Тумаче разлике између књижевног и медијског израза анализирајући како различити формати (филм, позориште, игра, стрип) преносе књижевне мотиве и поруке.
+- БОС.СО.С.1.14. Утврђују (елементе) структуру књижевног дела (грађу, фабулу, сиже, тему и композицију); разликују облике приповедања (хронолошко и ретроспективно); препознају врсте казивања у књижевности; уочавају физичке, психолошке, моралне, социјалне и језичне карактеристике лика.
+- БОС.СО.С.1.15. Идентификују основне мотиве и теме бошњачке баладе, севдалинке и епске песме; упоређују их са мотивима и темама унутар писаних текстова из различитих књижевноисторијских периода; препознају основне језично-стилске поступке и њихову функцију.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функцију језика као сложеног система знакова и средства друштвене комуникације. Поседују знања из граматике босанскога језика (фонологија, морфологија, синтакса, лексикологија) и користе их у анализи и изражавању. Вреднују матерњи језик и вишејезичност као основу језичког и културног идентитета. Интерпретирају књижевна дела кроз естетске, идејне и културолошке аспекте, повезујући их с другим уметностима, науком и медијима. Развијају свест о припадности локалној, националној и светској културној заједници.
+Специфична предметна компетенција 2 (СПК2)
+Ученици развијају способности јавног говора и аргументацијске комуникације о темама из језика, књижевности и културе. Препознају истраживачке и креативне потенцијале језика и књижевности, те повезују знања из различитих извора и дисциплина. Прилагођавају стил и језик комуникацијској ситуацији и врсти текста. Критички анализирају и интерпретирају информације из медија и литературе, изражавајући личне ставове поткрепљене аргументима и отворене за дијалог.
+Специфична предметна компетенција 3 (СПК3)
+Ученици развијају навике читања и говорне културе као темеље личног и друштвеног развоја. Критички анализирају текстове и медијске садржаје, уочавајући скривене поруке и идеолошке утицаје. Поштују културне разлике и учествују у интеркултурном дијалогу. Самостално обликују садржаје у складу с етичким нормама и комуникацијским контекстом. Развијају грађанску свест, одговорност и иницијативу у заједници, препознајући вредности уметности, науке и језика за одржив развој и културно наслеђе.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- БОС.СО.Н.1.1. Анализирају језик као сложен систем знакова и средство друштвене комуникације.
+- БОС.СО.Н.1.2. Распознају језичку разноликост и значај вишејезичности у својој средини као основу за међукултурно разумевање; негују и вреднују матерњи језик, развијајући осећај припадности и поштовања према властитом језичком идентитету.
+- БОС.СО.Н.1.3. Разумеју улогу акцента и дужине у изговору; препознају основне обрасце акцената у сложенијим речима и реченицама; примењују та знања како би побољшали јасноћу, правилност и изражајност у говору и писању.
+- БОС.СО.Н.1.4. Разумеју појам фонема као најмање јединице језика; препознају и објашњавају гласовне промене (алтернације) у речима; анализирају облике речи које садрже извршене гласовне промене и разумеју њихов значај за правилну употребу језика.
+- БОС.СО.Н.1.5. Разликују врсте морфема и њихову улогу у творби речи; објашњавају творбене моделе кроз једноставне примере из свакодневног језика.
+- БОС.СО.Н.1.6. Објашњавају како распоред реченичних чланова и тип реченице утичу на јасноћу и стил изражавања; препознају функционалну употребу различитих реченичних структура у тексту.
+- БОС.СО.Н.1.7. Поседују знања о значењу речи и фразеолошких јединица које се јављају у литерарним и медијским текстовима; разликују јединице лексичког система с обзиром на порекло и сферу употребе; разумеју поделу речи по временској раслојености, по пореклу и простирању; по потреби користе фразеологизме у говорним или извођачким ситуацијама.
+- БОС.СО.Н.1.8. Самостално бирају одговарајући стил изражавања и користе разноврстан лексички фонд у складу с контекстом; разликују и тумаче значење позајмљеница.
+- БОС.СО.Н.1.9. Пишу правилно у складу с правописом све врсте текстова; користе правописне приручнике када је потребно; знају важност тачног писања у школској и јавној комуникацији.
+- БОС.СО.Н.1.10. Креирају комплексније функционалне и административне текстове у складу са захтевима формалне комуникације (пројектна пријава, званични допис, извештај о раду); прилагођавају језички стил циљаној публици и контексту; самостално процењују и ревидирају текстове према комуникацијској сврси.
+- БОС.СО.Н.2.1. Пореде граматичке и језичке појаве у матерњем језику са сличним појавама у другим страним језицима, анализирају их и закључују о њиховим сличностима и разликама.
+- БОС.СО.Н.2.2. Анализирају књижевно дело; разумеју ком жанру припада и када је дело настало; врше анализу стилских и структуралних компоненти, користећи палету усвојених књижевнотеоријских термина и секундарне литературе.
+- БОС.СО.Н.2.3. Преиспитују сврху, учинак и допринос употребљених стилских поступака значењу текста.
+- БОС.СО.Н.2.4. Уочавају и тумаче проблем, идеју или поруку у књижевном и неуметничком тексту, разматрајући их из више углова; траже доказе и разлоге које аутор наводи како би подржали своје мишљење; процењују колико су ти разлози уверљиви и тачни, те мењају своје мишљење на основу нових сазнања.
+- БОС.СО.Н.2.5. Спајају историјске, религијске и политичке теме у делима бошњачке и светске књижевности, која обрађују и процењују свој језички, литерарни, естетски, културни и сопствени идентитет; тумаче и упоређују креативно изражене универзалне идеје у различитим културним контекстима.
+- БОС.СО.Н.2.6. Прилагођавају циљ, садржај и начин излагања специфичностима комуникацијске ситуације.
+- БОС.СО.Н.2.7. Преиспитују односе између књижевнотеоријских концепата (егзистенцијализам, теорија рецепције или теорија отвореног дела) и књижевноуметничког текста, као и односе међу књижевноуметничким текстовима кроз призму интертекстуалности; користе стечена знања за дубљу интерпретацију.
+- БОС.СО.Н.2.8. Састављају комплексне текстове различитих функционалних стилова (анкета, вест, извештај, саопштење, есеј), усклађујући их с комуникацијским контекстом и намером; анализирају језичне и стилске особине таквих текстова и препознају њихов утицај на примаоца.
+- БОС.СО.Н.2.9. Препознају и упоређују како се одређени појам, тема или проблем третира у различитим књижевним делима и медијима, анализирајући ауторове ставове и изражајне технике, те примењујући критички приступ у тумачењу сложених књижевнотеоријских појмова.
+- БОС.СО.Н.2.10. Излажу јавно и пред већим аудиторијем о темама из области језика, књижевности и културе.
+- БОС.СО.Н.2.11. Активно учествују у аргументованој јавној расправи - самостално или тимски се припремају, износе ставове поткрепљене доказима; доносе закључке и планирају стратегије за деловање.
+- БОС.СО.Н.3.1. Самостално и аргументовано износе и бране своје ставове о сложеним друштвеним и културним питањима, користећи књижевни језик у складу с комуникацијским нормама и интеркултуралном етиком; доприносе демократском дијалогу активним, одговорним и толерантним учешћем у јавним расправама.
+- БОС.СО.Н.3.2. Анализирају и интерпретирају различите комуникацијске форме (текстуалне, аудиовизуалне, дигиталне), критички оцењују њихове језичке и стилске стратегије, откривају скривене и идеолошке поруке, те самостално израђују поуздане и етички обликоване садржаје прилагођене контексту и публици.
+- БОС.СО.Н.3.3. Самостално развијају и примењују софистициране вештине сарадње и комуникације у различитим друштвеним и професионалним контекстима; критички анализирају вербалне и невербалне изразе, воде конструктивне дијалоге уз поштовање културних разлика и етичких норми; доприносе стварању инклузивног и одговорног комуникацијског окружења.
+- БОС.СО.Н.3.4. Анализирају како се културне разлике, предрасуде и дискриминација приказују у књижевним и јавним дискурсима; заговарају толерантну, инклузивну и интеркултурну комуникацију у различитим друштвеним контекстима.
+- БОС.СО.Н.3.5. Уочавају и анализирају утицај уметности, науке и технологије на развој језика и писмености; користе информације из различитих извора за промишљање о очувању културне баштине, сигурности и одрживости животне средине.
+- БОС.СО.Н.3.6. Свесно и критички усвајају и усавршавају различите стратегије читања и учења, промишљајући о властитим снагама и слабостима, те самостално мењају приступ како би постигли дубље разумевање и боље резултате.
+- БОС.СО.Н.3.7. Развијају способност промишљања о себи и свету, користећи читање као алат за разумевање и одговорно деловање у заједници.
+- БОС.СО.Н.3.8. Кроз читање књижевности различитих култура (епоха) развијају разумевање и поштовање културних разлика, те способност да о њима размишљају и разговарају одговорно и с емпатијом.
+- БОС.СО.Н.3.9. Процењују различите културне садржаје кроз призму књижевних и језичких знања, препознајући и остварујући њихову личну, друштвену и комерцијалну вредност; обликују властите културне иницијативе.
+- БОС.СО.Н.1.11. Анализирају и интерпретирају књижевно дело у светлу естетских и идејних особина књижевноисторијске епохе; критички вреднују утицај епохе на обликовање књижевног израза и промишљају његов значај у савременом контексту.
+- БОС.СО.Н.1.12. Анализирају и критички вреднују књижевне, некњижевне и интермедијалне текстове, препознајући жанровску хибридност и специфичности књижевнонаучног дискурса; тумаче утицај друштвених, културних и медијских фактора на обликовање и рецепцију текстова.
+- БОС.СО.Н.3.10. Обликују говорени или писани текст у којем одговорно користе информације из различитих извора; користе алате засноване на вештачкој интелигенцији као подршку у истраживању; разликују поуздане од непоузданих информација које АИ може понудити; воде рачуна о етици, језику као делу идентитета и културним вредностима.
+- БОС.СО.Н.3.11. Препознају улогу језика у обликовању идентитета појединца и заједнице; истражују начине на које стереотипи и предрасуде утичу на комуникацију и друштвене односе; учествују у активностима које промовишу интеркултурно разумевање, поштовање људских права и ненасилно решавање сукоба, развијајући тиме грађанску свест и културу дијалога.
+- БОС.СО.Н.3.12. Процењују и изражавају мишљење о књижевним, позоришним и филмским делима, повезујући естетске, културне и друштвене поруке које ова остварења преносе; развијају способност разликовања личног укуса од аргументоване критике и препознају вредности уметности за свој лични развој.
+БЪЛГАРСКИ ЕЗИК И ЛИТЕРАТУРА
+Стандарти на образователните постижения за края на средното образование
+Обща предметна компетенция (ОПК)
+Учениците имат знания за функцията и значението на езика и многоезичието, познават граматиката на българския език и я прилагат в ежедневието. Те разбират въздействието на езика и го използват по социално отговорен начин, развивайки своята гражданска отговорност и социално приобщаване. Те подхранват и съхраняват българския език, уважавайки многообразието на неговите диалекти, както и другите езици.
+Учениците използват развит и богат речник в устната и писмената комуникация: говорят и пишат, спазвайки книжовния език и правописните норми, и оформят логичен и стилистично хармоничен текст. Те се грижат за културата на диалога, владеят говорни умения и умения за активно слушане. Те формулират и използват устни и писмени аргументи по убедителен начин, подходящ за контекста. Те общуват по конструктивен начин, сътрудничат си в екипи и преговарят, развивайки чувство за инициативност и действие за постигане на целите, използвайки и ИКТ инструменти.
+Имат развита четивна грамотност. Те разбират, критично и творчески мислят върху литературни и нехудожествени текстове. Култивират култура на говорене и четене в името на собственото си усъвършенстване и лична реализация, търсят, събират и критично обработват информация от различни видове източници и отговорно използват и създават мултимедийно съдържание.
+Интерпретират литературни произведения от националната и световната литература. Те разбират мултикултурните измерения на литературата и начина, по който националната литература допринася за световното културно наследство. Те наблюдават и аргументират с примери основните поетични, езикови, естетически и структурни характеристики на литературните произведения. Те притежават способността да изразяват образно и абстрактно идеи, преживявания и емоции; изразяват творчески възможности. Те също така използват четенето, за да разберат по-добре себе си, другите и света около тях, като възприемат и изграждат етични принципи. Чрез четенето те развиват емпатия и грижа за хората и света. Те насърчават хуманно и критично отношение в различни културни форми. Установяват връзка между литературата и други изкуства, науки и технологии.
+Те ефективно използват разнообразни техники на обучение и са осъзнати за важността на ученето през целия живот. Прилагат придобитите знания и когнитивни стратегии в различни житейски ситуации. Те подхождат към интелектуалната и културната собственост етично и отговорно.
+Основно ниво
+Специфична предметна компетенция 1 (СПК1)
+Учениците познават основните характеристики на българския книжовен език. Те познават книжовните и правописни норми, граматиката и стилистиката на българския език. Съсредоточени са върху обогатяване на речника, езиковото и стилистичното си изразяване. Говорят ясно и плавно, разграничават формалното и неформалното изразяване, вербалната и невербалната комуникация. Познават правилата за писане на различни видове текстове. Четат и разбират линейни и нелинейни текстове; разграничаване на литературен от нехудожествен текст. Свързват литературните произведения с техните автори и литературни периоди. Определят основните елементи на структурата на литературните и нехудожествените текстове.
+Специфична предметна компетенция 2 (СПК2)
+Учениците притежават умения за слушане и говорене и ги прилагат в съответствие с комуникативната ситуация. Те прилагат теоретичните знания по граматика в конкретна езикова ситуация и пишат, съобразявайки се с правописните правила. Те съставят логичен, добре структуриран и стилистично съгласуван говорим и писмен текст. Те се изразяват устно и писмено по убедителен начин, подходящ за контекста, като същевременно зачитат расовото, националното, културното, езиковото, религиозното, полово и възрастово равенство. Забелязват намеренията на автора в текста (информативност, манипулативност). Прилагат различни методи при четене и интерпретиране на литературни и нехудожествени текстове. Те възприемат четенето като хоби и разширяват интересите си от младежка литература до обща художествена литература. Те използват библиотечни и архивни колекции, посещават изложби и гледат театрални представления и филми.
+Специфична предметна компетенция 3 (СПК3)
+Учениците подхранват и съхраняват българския език, като същевременно зачитат многообразието на неговите диалекти; уважават езиците на националните малцинства и други езици. Те са обучени да се изразяват правилно, ясно и убедително, както устно, така и писмено. Чрез четене и интерпретиране на литературни произведения от националната и световната литература, те формират хуманистични ценности и вярвания. Те установяват връзка между литературното, театралното и кинематографичното изкуство. Използват четивна грамотност и различни стратегии за четене и учене. Те разпознават предразсъдъците, стереотипите и формите на вербална агресия (неучтив език, неуважение към събеседника, обиди, реч на омразата и др.) като негативни явления. Използват знанията си по език и литература в ситуации, свързани с активна гражданска ангажираност. Подхождат към интелектуалната и културната собственост етично и отговорно.
+Изходи от образователния цикъл (ИОЦ) за края на средното образование:
+Основно ниво
+СПК 1
+СПК 2
+СПК 3
+Учениците:
+Учениците:
+Учениците:
+- БЕ.СО.O.1.1. Познават основните характеристики на българския книжовен език (писменост, произношение, диалекти).
+- БЕ.СО.О.1.2. Разграничават правилното и неправилното произношение на звуковете и класифицират звуковете според дадени критерии.
+- БЕ.СО.О.1.3. Разбират понятието сричка, познават основните правила за поставяне на ударението и забелязват нелитературни ударения в ежедневната комуникация.
+- БЕ.СО.О.1.4. Класифицират видовете думи; разграничават граматическите категории на изменяемите части на речта в типични, училищни примери.
+- БЕ.СО.О.1.5. Разграничават прости от сложни думи и изграждат думи по даден модел.
+- БЕ.СО.О.1.6. Класифицират основните елементи на изречението; разграничават съчинените от съставните изречения; структурират правилно изречението.
+- БЕ.СО.О.1.7. Разбират значенията на думите, утвърдените изрази и фразеологизмите, с които се сблъскват в ежедневната комуникация, при четене на литературни произведения и училищни текстове от други предмети.
+- БЕ.СО.О.1.8. Разграничават официалната и неофициалната лексика и я използват според случая; Познават лексикалните явления и лексикалните отношения и ги прилагат в комуникативни ситуации.
+- БЕ.СО.О.1.9. Познават и прилагат правописните правила.
+- БЕ.СО.О.1.10. Познават правилата за писане на различни видове текстове (напр. писма, имейли, биографии, молби, оплаквания, доклади и др.); правилно попълват различни формуляри.
+- БЕ.СО.О.1.11. Свързват литературните произведения с техните автори и литературните периоди, в които са създадени.
+- БЕ.СО.О.1.12. Различават художествен и нехудожествен текст; определят основните елементи на структурата на литературното произведение: тема, мотив, сюжет, герои, време и място на действието.
+- БЕ.СО.О.1.13. Различават характеристиките на народната и авторската литература; познават основните характеристики на литературните жанрове и видове; Забелязват лирически, епични и драматични елементи в литературно произведение.
+- БЕ.СО.О.1.14. Разграничават преразказването от анализа на произведението.
+- БЕ.СО.О.1.15. Свързват мотиви/теми от литературата и историята на изкуството с основни знания по история.
+- БЕ.СО.О.2.1. Прилагат теоретичните знания по граматика в конкретна езикова ситуация/текст.
+- БЕ.СО.О.2.2. Пишат прилагайки правописни правила, включително основни типографски и ортографски решения в печатен текст, използвайки подходящ правопис.
+- БЕ.СО.О.2.3. Четат литературни и нехудожествени текстове (линейни и нелинейни); Слушат по-прости презентации с внимание и разбиране, водят си бележки и определят ключови думи.
+- БЕ.СО.О.2.4. Изразяват субективно и естетическо преживяване върху говорен или писан текст; свързват съдържанието на литературно произведение със собствения си или чужд опит.
+- БЕ.СО.О.2.5. Забелязват основни мотиви, теми и отличителни стилистични особености на литературни произведения от определено литературно направление, както и типични разлики и прилики в сравнение с предишни литературни епохи.
+- БЕ.СО.О.2.6. Обобщават, цитират, преразказват/перифразират текст, като подчертават важните моменти; интерпретират текста; разграничават информация от интерпретация.
+- БЕ.СО.О.2.7. Оформят речта и писането си според комуникативната ситуация (избират подходящи изразни средства - вербални и невербални, лексика и форми на разказване).
+- БЕ.СО.О.2.8. Намират информация в текста (линейна и нелинейна) според даден критерий; намират начини да научат информация, която не разбират; подбират и класифицират източници на информация; разпознават техники за манипулация в текста и речта.
+- БЕ.СО.О.2.9. Участват в училищни проекти и в създаване на постановки; използват библиотечната колекция, гледат театрални представления и филми, посещават изложби...
+- БЕ.СО.О.3.1. Използват езиковите си знания, за да се изразяват правилно и ясно писмено и устно в образователен контекст, в личния и обществения живот, както и в ситуации, свързани с активна гражданска ангажираност.
+- БЕ.СО.О.3.2. Представят информацията по различни начини (устно, писмено, визуално, дигитално).
+- БЕ.СО.О.3.3. Изразяват мнението си по добре аргументиран начин и избират език, подходящ за контекста, включително конструктивна комуникация в сътрудничество с други хора, в група, в социалните мрежи.
+- БЕ.СО.О.3.4. Разпознават предразсъдъците и стереотипите в литературните и нехудожествените текстове и устните презентации, както и формите на вербална агресия (неучтиво обръщение, неуважение към събеседника, обиди, реч на омразата и др.) в ежедневни ситуации и в медиите като негативно явление.
+- БЕ.СО.О.3.5. Използват четивната си грамотност като инструмент за учене и по-добро разбиране на други предмети в училище.
+- БЕ.СО.О.3.6. Използват различни стратегии за четене и учене в съответствие с поставената цел.
+- БЕ.СО.О.3.7. Имат развити навици за четене и разбират значението на четенето за развитието на собствената си обща култура и знания.
+- БЕ.СО.О.3.8. Те осъзнават значението на литературата и културата в живота си; Те ценят литературата като съществена част от националната култура и като средство за популяризиране на различни култури.
+- БЕ.СО.О.3.9. Използват знанията си по език и литература, за да участват в различни културни дейности.
+- БЕ.СО.О.3.10. Съставят говорим или писмен текст; отговорно подхождат към въпроси, свързани с интелектуалната собственост; Способни са да цитират и/или перифразират текстове.
+- БЕ.СО.О.3.11. Признават значението на езика за насърчаване на културната и националната идентичност; разбират правото да използват собствения си език и да уважават другите езици, които се използват в Сърбия.
+- БЕ.СО.О.3.12. Уважават човешките права и неприкосновеността на личния живот на другите; разбират важността на човешкото равенство.
+- БЕ.СО.О.3.13. Признават ролята на традиционните и модерните медии в едно демократично общество.
+- БЕ.СО.О.3.14. Разпознават връзката между литературните, театралните и кинематографичните изкуства в интерпретацията на едни и същи теми.
+Средно ниво
+Специфична предметна компетенция 1 (СПК1)
+Учениците познават основните езикови групи в Европа и знаят мястото на българския език в славянската и европейската езикова група. Владеят добре звуковата система на българския език, познават правописните правила, различават книжовните от диалектните думи и ударения. Притежават обширни знания за частите на речта, формите и образуването им. Анализират изречения образувани по различни модели. Имат сравнително богат речник и схващат езика като комплекс от възможности, които им помагат да се изразяват правилно спрямо определена ситуация. Имат напътствия за по-нататъшното обогатяване на собствения им речник. Познават и анализират най-значителните литературни текстове в българската и световна художествена литература. Откриват тематични, идейни, поетични, стилови, езикови, композиционни и жанрови особености на дадена литературна творба. Запознати са със смисъла на литературните термини и ги използват правилно при анализ на предназначени в програмата литературни произведения. Самостоятелно откриват и анализират проблемите в литературното произведение и умеят да аргументират становищата си въз основа на дадения текст. Разбират основните литературнотеоретични и литературноисторически концепции. Познават различни форми на медийното изразяване.
+Специфична предметна компетенция 2 (СПК2)
+Изследвайки българския език и литература, учениците го сравняват с други езици и развиват любопитство и компетентност за междукултурна комуникация. Редовно четат литературни произведения. Използват различни източници на информация, оценяват достоверността на източниците, обработват информацията, подбират я според уместността и я представят аргументирано в съответствие с комуникативната ситуация, адаптирайки езика и формите на изразяване към различни целеви групи.
+Специфична предметна компетенция 3 (СПК3)
+Учениците оценяват собствените си комуникационни методи и умения за взаимодействие. Имат богат речник и виждат езика като набор от възможности за изразяване и създаване на културни, социални и материални ценности. Създават и ценят различни културни съдържания. Разбират мултикултурните измерения на литературата и начина, по който националната литература допринася за световното културно наследство. Развиват умения за критично мислене и аналитични умения.
+Изходи от образователния цикъл (ИОЦ) за края на средното образование:
+Средно ниво
+СПК 1
+СПК 2
+СПК 3
+Учениците:
+Учениците:
+Учениците:
+- БЕ.СО.С.1.1. Класифицират езиците в основни езикови групи в Европа, знаят мястото на българския език в славянското и индоевропейското езиково семейство и разпознават диалектите на българския език въз основа на техните характеристики.
+- БЕ.СО.С.1.2. Познават основните етапи в развитието на българския книжовен език и най-значимите културно-исторически паметници.
+- БЕ.СО.С.1.3. Познават правилата на ударението в българския език, могат да определят мястото му в думите.
+- БЕ.СО.С.1.4. Забелязват звукови промени в различни примери и ги свързват с книжовната норма.
+- БЕ.СО.С.1.5. Определят видовете изменяеми части на речта и техните граматически категории; определят всички глаголни форми.
+- БЕ.СО.С.1.6. Знаят правилата за образуване на думите.
+- БЕ.СО.С.1.7. Анализират фрази и изречения, изградени по основни модели.
+- БЕ.СО.С.1.8. Познават видовете и функциите на подчинените изречения.
+- БЕ.СО.С.1.9. Познават значенията на думите и фразеологизмите, които се срещат в литературните и медийните текстове, разграничават видовете лексеми по произход и сфера на употреба и разбират семантичните отношения между лексемите.
+- БЕ.СО.С.1.10. Познават характеристиките на функционалните стилове и разбират значението на употребата им.
+- БЕ.СО.С.1.11. Свързват литературните произведения с историческия и социалния контекст; разпознават основните характеристики на литературните периоди и ги свързват с литературното произведение и автора.
+- БЕ.СО.С.1.12. Разпознават различните форми и характеристики на медийното изразяване.
+- БЕ.СО.С.1.13. Разграничават автора на литературно произведение от разказвача, драматичен герой или лирически субект, когато анализират литературно произведение.
+- БЕ.СО.С.1.14. Определят елементите на литературната структура: ретроспективно и хронологично повествование и сюжет; разграничават видовете разказване в литературата; Откриват видовете характеристики според основните качесва на образите (физически, психологически, езикови, социални и етични).
+- БЕ.СО.С.1.15. Назовават езикови и стилистични средства и разбират функцията им в текста.
+- БЕ.СО.С.2.1. Прилагат теоретични знания по граматика, откриват, илюстрират и анализират езикови явления в по-сложна езикова ситуация.
+- БЕ.СО.С.2.2. Забелязват и коригират правописни грешки в свои и чужди текстове в съответствие с правописните норми; разпознават некнижовните акценти и форми на думите в ежедневната комуникация.
+- БЕ.СО.С.2.3. Прилагат различни стратегии за четене и ги адаптират към естеството на текста и целта на четенето.
+- БЕ.СО.С.2.4. Редовно четат литературни произведения от програмата и избират произведения по собствен избор, като развиват читателски навици, естетически критерии и преценки.
+- БЕ.СО.С.2.5. Преживяват цялостно литературното произведение, като изразяват лични впечатления; интерпретират различни видове текстове; свързват, съпоставят и обосновават изводите си с факти от текста.
+- БЕ.СО.С.2.6. Анализират конкретен проблем; разпознават и тълкуват тематичните, идейните, поетическите, стилистичните, езиковите, композиционните и жанровите особености на литературен текст
+- БЕ.СО.С.2.7. Оценяват ролята, която формата, стилът и типът на разказването играят при оформянето на смисъла и идеята на литературно произведение.
+- БЕ.СО.С.2.8. Оценяват постъпките и чертите на характерите, формиращи морални нагласи и от гледна точка на човешкото равенство.
+- БЕ.СО.С.2.9. Определят гледната точка, отношението и намеренията на автора, разграничават субективността от обективността в изказа, разпознават образността, хумора, иронията и сатирата.
+- БЕ.СО.С.2.10. Организират по-сложен устен или писмен текст (пренареждат съдържанието, свързват части в просто структурирано устно или писмено цяло).
+- БЕ.СО.С.2.11. Самостоятелно окриват и свързват информация от текстове от различни области и я използват в обучението и в ежедневни ситуации.
+- БЕ.СО.С.2.12. Участват в обществени дискусии; дебатират, като формулират аргументи и контрааргументи, активно изслушват и зачитат позицията на другия, контролират емоционалното съдържание и разпознават аргументи, основани на емоции.
+- БЕ.СО.С.3.1. Формулират мненията си и ги изказват публично, използвайки книжовен език със съзнание за социалните условности и културни различия.
+- БЕ.СО.С.3.2. Забелязват връзката между начина на изразяване и авторовия замисъл и отношение; оценяват използваемостта на информацията и достоверността на източниците.
+- БЕ.СО.С.3.3. Използват развитите умения за сътрудничество, културата на собственото вербално и невербално изразяване, както и изслушване и уважаване на мнението на другите.
+- БЕ.СО.С.3.4. Уважават разнообразието от културни идентичности в Европа и света.
+- БЕ.СО.С.3.5. Развиват грамотност в различни сфери (артистична, дигитална, ИТ, финансова, здравна, медийна, научна, математическа...).
+- БЕ.СО.С.3.6. Адаптират стратегиите за четене и учене на самостоятелно поставените си цели; могат да коригират своя подход
+- БЕ.СО.С.3.7. Разширяват интереса си към четенето - от различни нехудожествени текстове до национална и световна литература.
+- БЕ.СО.С.3.8. Разбират взаимовръзките между литература и култура; чрез четенето те формират своите естетически и етични възгледи и ги обясняват аргументирано.
+- БЕ.СО.С.3.9. Използват познания по език и литература, за да създават и критично да изследват различни културни съдържания.
+- БЕ.СО.С.3.10. Съставят по-сложни устни или писмени текстове въз основа на личен опит, основна и допълнителна литература.
+- БЕ.СО.С.3.11. Уважават културното многообразие, ценят културното наследство на своята родина; имат развити културни потребности и знаят как да ги задоволят.
+- БЕ.СО.С.3.12. Обясняват вредното въздействие на предразсъдъците и стереотипите в образователен, личен и обществен контекст; насърчаване на култура, на мир, ненасилие и толерантност.
+- БЕ.СО.С.3.13. Използват стратегии за критично мислене, за проверяване на информация в различни текстове.
+- БЕ.СО.С.3.14. Съпоставят изразните средства на литературното, театралното и кинематографичното изкуство при интерпретиране на едни и същи или сходни мотиви и теми.
+Напреднало ниво
+Специфична предметна компетенция 1 (СПК1)
+Учениците разбират функциите и значението на езика и многоезичието. Те имат по-подробни познания за граматиката на българския език (мястото на ударението, звуковите промени, строежа на думите, частите на речта, глаголните форми, частите на изреченията, видовете изречения); познават структурата на речникова статия. Владеят устните и писмените форми, необходими за училищно обучение, гражданско и социално включване. Те оценяват стилистични похвати в литературни и нехудожествени текстове и интерпретират тяхната роля за постигане на естетическите и семантични характеристики на различните видове текстове. Те разбират и правят връзки между литературата и други изкуства, наука и технологии. Развиват лична, национална и културна идентичност, осъзнаване на принадлежност към европейското и световното културно наследство, основано на произведения на българската и световната литератури, театралното и филмово изкуство, научното и художествено наследство и различни форми на медийна култура.
+Специфична предметна компетенция 2 (СПК2)
+Учениците говорят публично и пред по-широка аудитория по теми от езика, литература и култура. Те възприемат изследователски и творчески възможности в процеса на изучаване на езика и литературата и прилагат придобитите знания и умения в ежедневието. Изследват характеристиките на стиловете и избора на подходящи езикови изрази. Сравняват информация от различни медийни източници и са критични към тях.
+Специфична предметна компетенция 3 (СПК3)
+Учениците имат навик и нужда да развиват културата на говорене и четене, както за собственото си усъвършенстване, така и за участие в гражданския и социалния живот. Те наблюдават въздействието на социално-икономическите условия върху езика, литературата, културата и науката; грижат се за устойчивия начин на живот в общността. Те насърчават хуманно и критично отношение в диалога между културите. Те са готови да поемат отговорност за избори и решения, които засягат личния им живот и живота на общността.
+Изходи от образователния цикъл (ИОЦ) за края на средното образование:
+Напреднало ниво
+СПК 1
+СПК 2
+СПК 3
+Учениците:
+Учениците:
+Учениците:
+- БЕ.СО.Н.1.1. Разбират важни свойства и функции на езика.
+- БЕ.СО.Н.1.2. Разбират, че съществува тясна връзка между езика и мисленето. Познават понятията за монолингвизъм и многоезичие и знаят подходящите езикови условия.
+- БЕ.СО.Н.1.3. Разделят думата на срички и поставят правилно главното и второстепенното ударение в някои сложни думи.
+- БЕ.СО.Н.1.4. Разбират понятието фонема; определят всички звукови промени.
+- БЕ.СО.Н.1.5. Разбират понятието морфема.
+- БЕ.СО.Н.1.6. Притежават подробни знания за морфологията в тесния смисъл на думата, както и за словообразуването в българския език (може да раздели думата на словообразователни морфеми в по-сложни случаи и да определят названията им).
+- БЕ.СО.Н.1.7. Имат подробни знания за глаголните форми и техните граматични характеристики.
+- БЕ.СО.Н.1.8. Умеят да направят синтактичен анализ на сложни изречения, съставени по определени модели.
+- БЕ.СО.Н.1.9. Прилагат правилата за съгласуване на прилагателните имена със съществителните, както и съгласуването на други части на речта със съществителното.
+- БЕ.СО.Н.1.10. Разпознават хиперонимията/хипонимията, паронимията в текста и разграничават лексикалните слоеве; познават метафората, метонимията и синекдохата като лексикални механизми.
+- БЕ.СО.Н.1.11. Разбират значението на литературните термини и притежават теоретични знания, които прилагат правилно, когато анализират художествени и научно-художествени текстове, предвидени в учебната програма, както и други текстове от различен жанр извън учебната програма.
+- БЕ.СО.Н.1.12. Откриват и анализират поетическите, езиковите и естетическите особености на литературен или литературноисторически текст в рамките на задължителната и допълнителната литература; правят преценка и сравняват стила в посочените текстове.
+- БЕ.СО.Н.2.1. Сравняват езиковите явления на своя и чужди езици, анализират ги и правят изводи.
+- БЕ.СО.Н.2.2. Откриват и анализират поетическите, езиковите и естетическите особености на литературен или литературноисторически текст в рамките на задължителната и допълнителната литература; правят преценка и сравняват стила в посочените текстове.
+- БЕ.СО.Н.2.3. Оценяват функцията на стилистичните средства, използвани в текста.
+- БЕ.СО.Н.2.4. Самостоятелно откриват и анализират проблемите и идеите в литературното произведение, като аргументират своите становища въз основа на основния текст и литературния контекст.
+- БЕ.СО.Н.2.5. Свързват исторически, религиозни и политически теми в творбите, които обработват, като по този начин изграждат и поставят под въпрос собствената си идентичност; обясняват и сравняват как идеите се изразяват в различни култури.
+- БЕ.СО.Н.2.6. Съобразяват целта, съдържанието и начина на представяне с комуникативната ситуация.
+- БЕ.СО.Н.2.7. Изследват връзките между определена теория (екзистенциализъм, рецепционна теория/отворена работа) и литературен текст и връзките между самите литературни текстове (интертекстуалност); предават теоретични знания в нов контекст.
+- БЕ.СО.Н.2.8. Умеят да напишат текст с добра композиция и логически редослед на тема от областта на литературата и езика.
+- БЕ.СО.Н.2.9. Изследват и сравняват информация от различни дисциплини и медийни източници, създавайки критично отношение към тях.
+- БЕ.СО.Н.2.10. Говорят публично и пред по-голяма аудитория по теми, свързани с езика, литературата и културата. Имат развити ораторски умения.
+- БЕ.СО.Н.2.11. Участват в дискусии на сложни теми от областта на езика, литературата и културата; дискутират за смисъла и ценностите на художествените текстове, както и замисъла и стойността на нехудожествените текстове, като използват специализирана терминология.
+- БЕ.СО.Н.3.1. Разбират силата на езика като средство за изразяване на различни измерения на човешките преживявания (социални, културни, морални, духовни и естетически), зачитайки контекста и различните гледни точки.
+- БЕ.СО.Н.3.2. Критически изследват и оценяват информация от различни медии; умеят да разпознават различните видове медийни манипулации и тяхното влияние върху оформянето на реалността.
+- БЕ.СО.Н.3.3. Развиват личен стил на вербално и невербално изследване, като същевременно насърчават положително взаимодействие и сътрудничество с другите; оценяват и развиват своя комуникационен потенциал с проактивно отношение и постоянство в постигането на целите.
+- БЕ.СО.Н.3.4. Те имат интерактивно отношение с медиите и имат желание да участват в обществени и социални дейности.
+- БЕ.СО.Н.3.5. Забелязват и наблюдават развитието и въздействието на изкуството, науката и технологиите върху грамотността и езика; Те се грижат за опазването на културно-историческите паметници, безопасността и устойчивостта на околната среда.
+- БЕ.СО.Н.3.6. Задълбочават своето разбиране и прилагане на различни стратегии и техники за четене и учене със самоосъзнаване на собствените си силни и слаби страни.
+- БЕ.СО.Н.3.7. Четат и разширяват кръгозора си и развиват своя интелектуален и емоционален свят, с готовността да поемат отговорност за избори и решения, които засягат личния им живот и живота на общността.
+- БЕ.СО.Н.3.8. Научават за различни култури чрез регионалната, европейската и световната литература и изграждат хуманно и критично отношение в диалога между културите.
+- БЕ.СО.Н.3.9. Ценят разнообразното културно съдържание, като разпознават и осъзнават лична, социална и обществена стойност
+- БЕ.СО.Н.3.10. Ценят езика като средство за национална култура, национално културно наследство и културното разнообразие на своята среда, региона, Европа и света.
+- БЕ.СО.Н.3.11. Изследват въздействието на стереотипите и предразсъдъците върху индивидите и обществото, като се застъпват за реализацията на човешките права и мирното разрешаване на конфликти.
+- БЕ.СО.Н.3.12. Оценяват критично литературни, театрални и филмови произведения.
+БУГАРСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за крај средњег образовања
+Општа предметна компетенција (ОПК)
+Ученици имају знање о функцији и значају језика и вишејезичности, познају граматику бугарског језика и примењују је у свакодневном животу. Разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и друштвену инклузију. Негују и чувају бугарски језик, поштујући разноликост његових дијалеката, као и других језика.
+Ученици користе развијен и богат речник у усменој и писаној комуникацији: говоре и пишу, поштујући књижевни језик и правописне норме, и формирају логичан и стилски складан текст. Брину о култури дијалога, поседују говорне вештине и вештине активног слушања. Формулишу и користе усмене и писане аргументе на убедљив начин, примерен контексту. Комуницирају на конструктиван начин, сарађују у тимовима и преговарају, развијајући смисао за иницијативу и акцију ради постизања циљева, такође користећи ИКТ алате.
+Имају развијену читалачку писменост. Разумеју, критички и креативно промишљају књижевни и неуметнички текст. Негују говорну и читалачку културу ради сопственог усавршавања и личног испуњења. Траже, прикупљају и критички обрађују информације из различитих врста извора и одговорно употребљавају и креирају мултимедијалне садржаје.
+Тумаче књижевна дела из националне и светске књижевности. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Уочавају и примерима аргументују основне поетичке, језичке, естетске и структурне особине књижевних дела. Поседују способност фигуративног и апстрактног изражавања идеја, искустава и емоција; испољавају стваралачке могућности. Користе читање и да би боље спознали себе, друге и свет око себе усвајајући и изграђујући етичке принципе. Читањем развијају емпатију и бригу за људе и свет. Негују хумани и критички однос у различитим културним формама. Успостављају везу између књижевности и других уметности, наука и технологије.
+Ефикасно користе разноврсне технике учења и свесни су значаја целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+Основни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици знају основне одлике бугарског књижевног језика. Познају књижевнојезичку и правописну норму, граматику и стилистику бугарског језика. Усмерени су ка богаћењу свог речника, језичког и стилског израза. Говоре јасно и течно, разликују формално и неформално изражавање, вербалну и невербалну комуникацију. Познају правила писања различитих врста текстова. Читају и разумеју линеарне и нелинеарне текстове; разликују књижевни од неуметничког текста. Повезују књижевна дела са њиховим ауторима и књижевним периодима. Одређују основне елементе структуре књижевног и неуметничког текста.
+Специфична предметна компетенција 2 (СПК2)
+Ученици имају вештине слушања и говорења и примењују их у складу са комуникативном ситуацијом. Примењују теоријска знања из граматике у конкретној језичкој ситуацији и пишу примењујући правописна правила. Састављају логичан, добро структуриран и стилски складан говорени и писани текст. Изражавају се усмено и писано на уверљив начин који је примерен контексту уз поштовање расне, националне, културне, језичке, верске, полне, родне и узрасне равноправности. Уочавају намере аутора у тексту (информативност, манипулативност). Током читања и тумачења књижевног и неуметничког текста примењују различите методе. Усвајају читање као хоби и проширују своја интересовања од омладинске књижевности ка општој белетристици. Користе фондове библиотека и архива, посећују изложбе, гледају позоришне представе и филмове.
+Специфична предметна компетентенција 3 (СПК3)
+Ученици негују и чувају бугарски језик уз уважавање разноврсности његових дијалеката; поштују језике националних мањина и друге језике. Оспособљени су за правилно, јасно, економично и уверљиво усмено и писано изражавање. Читањем и тумачењем књижевних дела из националне и светске књижевности формирају хуманистичке вредносне ставове и уверења. Успостављају везу између књижевне, позоришне и филмске уметности. Користе читалачку писменост и различите стратегије читања и учења. Препознају предрасуде, стереотипе и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) као негативне појаве. Користе знања из језика и књижевности у ситуацијама од значаја за активну грађанску укљученост. Етички и одговорно приступају интелектуалном и културном власништву.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Основни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- БЈ.СО.O.1.1. Знају основне одлике бугарског књижевног језика (писма, изговори, дијалекти).
+- БЈ.СО.О.1.2. Разликују правилан од неправилног изговора гласова и класификују гласове по задатим критеријумима.
+- БЈ.СО.О.1.3. Разумеју појам слога, знају основна правила акценатске норме и уочавају некњижевне акценте у свакодневној комуникацији.
+- БЈ.СО.О.1.4. Класификују врсте речи; разликују граматичке категорије променљивих врста речи у типичним, школским примерима.
+- БЈ.СО.О.1.5. Разликују просте речи од твореница и граде речи по задатом моделу.
+- БЈ.СО.О.1.6. Класификују основне реченичне чланове; разликују независне од зависних реченица; исправно структурирају реченицу.
+- БЈ.СО.О.1.7. Разумеју значења речи, устаљених израза и фразеологизама са којима се сусрећу у свакодневној комуникацији, у лектири и школским текстовима из других предмета.
+- БЈ.СО.О.1.8. Разликују формалну од неформалне лексике и употребљавају је у складу са приликом; познају лексичке појаве и лексичке односе и примењују их у комуникативним ситуацијама.
+- БЈ.СО.О.1.9. Знају и примењују правописна правила.
+- БЈ.СО.О.1.10. Познају правила писања различитих врста текстова (нпр. писма, имејла, биографије, молбе, жалбе, извештаја…); правилно попуњавају различите обрасце.
+- БЈ.СО.О.1.11. Повезују књижевна дела са њиховим ауторима и књижевним периодима у којима су настала.
+- БЈ.СО.О.1.12. Разликују књижевни од неуметничког текста; одређују основне елементе структуре књижевноуметничког дела: тему, мотив, радњу, ликове, време и место радње.
+- БЈ.СО.О.1.13. Разликују карактеристике народне и ауторске књижевности; познају основне одлике књижевних родова и врста; уочавају лирске, епске и драмске елементе у књижевном делу.
+- БЈ.СО.О.1.14. Разликују препричавање од анализе дела.
+- БЈ.СО.О.1.15. Повезују мотиве/теме из књижевности и историје уметности са основним знањима из историје.
+- БЈ.СО.О.2.1. Примењују теоријска знања из граматике у конкретној језичкој ситуацији/тексту.
+- БЈ.СО.О.2.2. Пишу примењујући правописна правила, укључујући и основна типографско-правописна решења у куцаном тексту користећи одговарајући правопис.
+- БЈ.СО.О.2.3. Читају књижевне и неуметничке текстове (линеарне и нелинеарне); с пажњом и разумевањем слушају једноставније излагање и праве белешке, одређују кључне речи.
+- БЈ.СО.О.2.4. Исказују субјективни и естетски доживљај о говореном или писаном тексту; повезују садржај књижевног дела са сопственим или туђим искуством.
+- БЈ.СО.О.2.5. Уочавају главне мотиве, тематику и изразите стилске одлике књижевних дела одређеног књижевног правца, типичне разлике и сличности у односу на претходне књижевне епохе.
+- БЈ.СО.О.2.6. Сажимају, цитирају, препричавају/парафразирају текст издвајајући битно; интерпретирају текст; разликују информацију од интерпретације.
+- БЈ.СО.О.2.7. Обликују свој говор и писање према комуникативној ситуацији (бирају одговарајућа изражајна средства - вербална и невербална, лексику и облике казивања).
+- БЈ.СО.О.2.8. Проналазе информације у тексту (у линеарном и нелинеарном) по задатом критеријуму; налазе начине за сазнавање информација које не разумеју; одабирају и разврставају изворе информација; препознају технике манипулације у тексту и говору.
+- БЈ.СО.О.2.9. Учествују у пројектној настави и креативним драмским процесима; користе библиотечки фонд, гледају позоришне представе и филмове, посећују изложбе…
+- БЈ.СО.О.3.1. Користе знања из језика како би се правилно и јасно изражавали писаним и усменим путем у образовном контексту, у приватном и јавном животу, у ситуацијама од значаја за активну грађанску укљученост.
+- БЈ.СО.О.3.2. Представљају информације на различите начине (усмено, писмено, визуелно, дигитално).
+- БЈ.СО.О.3.3. Изражавају аргументовано своје мишљење и бирају језички израз у складу са контекстом, укључујући и конструктивну комуникацију у сарадњи са другима, у групи, на друштвеним мрежама.
+- БЈ.СО.О.3.4. Препознају предрасуде и стереотипе у књижевним и неуметничким текстовима и усменом излагању, као и облике вербалне агресије (неучтиво обраћање, непоштовање саговорника, вређање, говор мржње и сл.) у свакодневним ситуацијама и у медијима као негативну појаву.
+- БЈ.СО.О.3.5. Користе читалачку писменост као средство за учење и боље разумевање других предмета у школи.
+- БЈ.СО.О.3.6. Користе различите стратегије читања и учења у складу са постављеним циљем.
+- БЈ.СО.О.3.7. Имају развијене читалачке навике и схватају значај читања за развој сопствене опште културе и знања.
+- БЈ.СО.О.3.8. Препознају значај књижевности и културе у свом животу; вреднују књижевност као суштински део националне културе и као средство за промоцију различитих култура.
+- БЈ.СО.О.3.9. Користе знања из језика и књижевности за учествовање у различитим културним садржајима.
+- БЈ.СО.О.3.10. Састављају говорени или писани текст; одговорно се односе према питањима везаним за интелектуалну својину; умеју да цитирају и/или парафразирају текстове
+- БЈ.СО.О.3.11. Препознају значај језика у неговању културног и националног идентитета; разумеју право на употребу сопственог језика и поштовање других језика који су у употреби у Србији.
+- БЈ.СО.О.3.12. Поштују људска права и привaтност других; разумеју значај равноправности људи.
+- БЈ.СО.О.3.13. Препознају улогу традиционалних и савремених медија у демократском друштву.
+- БЈ.СО.О.3.14. Препознају везу између књижевне, позоришне и филмске уметности у интерпретацији истих тема.
+Средњи ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају главне језичке групе у Европи и знају место бугарског језика у словенским и европским језичким групама. Добро владају звучним системом бугарског језика, познају правописна правила, разликују књижевне од дијалекатских речи и акценте. Они имају опсежно знање о врстама речи, њиховим облицима и грађењу. Анализирају реченице формиране према различитим моделима. Имају релативно богат речник и језик доживљавају као комплекс могућности које им помажу да се правилно изразе у датој ситуацији. Имају смернице за даље обогаћивање сопственог речника. Познају и анализирају најзначајније књижевне текстове у бугарској и светској књижевности. Откривају тематске, идеолошке, поетске, стилске, језичке, композиционе и жанровске карактеристике датог књижевног дела. Упознати су са значењем књижевних појмова и правилно их користе приликом анализе књижевних дела укључених у програм. Самостално откривају и анализирају проблеме у књижевном делу и умеју да аргументују своје мишљење на основу датог текста. Разумеју основне књижевнотеоријске и књижевноисторијске концепте. Познају различите облике медијског изражавања.
+Специфична предметна компетенција 2 (СПК2)
+Истражујући српски језик и књижевност, ученици га упоређују са другим језицима и развијају радозналост и компетенцију за међукултурну комуникацију. Редовно читају књижевна дела. Користе различите изворе информација, процењују поузданост извора, обрађују информације, бирају их према релевантности и аргументовано их представљају у складу са комуникативном ситуацијом, прилагођавајући језик и облике изражавања различитим циљним групама.
+Специфична предметна компетенција 3 (СПК3)
+Ученици процењују сопствене методе комуникације и вештине интеракције. Имају богат речник и језик виде као скуп могућности за изражавање и стварање културних, друштвених и материјалних вредности. Стварају и цене различите културне садржаје. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Развијају критичко размишљање и аналитичке вештине.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Средњи ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- БЈ.СО.С.1.1. Класификују језике у главне језичке групе у Европи, знају место бугарског језика у словенским и индоевропским језичким породицама и препознају дијалекте бугарског језика на основу њихових карактеристика.
+- БЈ.СО.С.1.2. Познају главне фазе у развоју бугарског књижевног језика и најзначајније културно-историјске споменике.
+- БЈ.СО.С.1.3. Познају правила акцента у бугарском језику, могу да одреде његово место у речима и познају врсте акцента.
+- БЈ.СО.С.1.4. Уочавају гласовне промене у различитим примерима и повезују их са књижевном нормом.
+- БЈ.СО.С.1.5. Одређују врсте променљивих речи и њихове граматичке категорије; одређују све глаголске облике.
+- БЈ.СО.С.1.6. Знају правила творбе речи.
+- БЈ.СО.С.1.7. Анализирају фразе и реченице изграђене на основним обрасцима.
+- БЈ.СО.С.1.8. Знају врсте и функције зависних реченица.
+- БЈ.СО.С.1.9. Познају значења речи и фразеолошких јединица које се јављају у књижевним и медијским текстовима, разликују врсте лексема по пореклу и сфери употребе и разумеју семантичке односе између лексема.
+- БЈ.СО.С.1.10. Познају карактеристике функционалних стилова и разумеју важност њихове употребе.
+- БЈ.СО.С.1.11. Повезују књижевна дела са историјским и друштвеним контекстом; препознају главне карактеристике књижевних периода и повезују их са књижевним делом и аутором.
+- БЈ.СО.С.1.12. Препознају различите облике и карактеристике медијског изражавања.
+- БЈ.СО.С.1.13. Разликују аутора књижевног дела од наратора, драмског лика или лирског субјекта приликом анализе књижевног дела.
+- БЈ.СО.С.1.14. Дефинишу елементе књижевне структуре: ретроспективну и хронолошку нарацију и заплет; разликују врсте приповедања у књижевности; Откривају типове карактеристика према главним квалитетима слика (физичким, психолошким, језичким, друштвеним и етичким).
+- БЈ.СО.С.1.15. Именују језичке и стилске елементе и разумеју њихову функцију у тексту.
+- БЈ.СО.С.2.1. Примењују теоријска знања из граматике, откривају, илуструју и анализирају језичке појаве у сложенијој језичкој ситуацији.
+- БЈ.СО.С.2.2. Уочавају и исправљају правописне грешке у својим и туђим текстовима у складу са правописним нормама; препознају некњижевне акценте и облике речи у свакодневној комуникацији.
+- БЈ.СО.С.2.3. Примењују различите стратегије читања и прилагођавају их природи текста и сврси читања.
+- БЈ.СО.С.2.4. Редовно читају књижевна дела из програма и бирају дела по сопственом избору, развијајући читалачке навике, естетске критеријуме и процене.
+- БЈ.СО.С.2.5. Доживљавају књижевно дело као целину, изражавајући личне утиске; тумачити различите врсте текстова; повезују, упоређују и образлажу своје закључке чињеницама из текста.
+- БЈ.СО.С.2.6. Анализирају одређени проблем; препознају и тумаче тематске, идеолошке, поетске, стилске, језичке, композиционе и жанровске карактеристике књижевног текста
+- БЈ.СО.С.2.7. Цене улогу коју форма, стил и врста приповедања играју у обликовању значења и идеје књижевног дела.
+- БЈ.СО.С.2.8. Процењују поступке и особине карактера које формирају моралне ставове и из перспективе људске једнакости.
+- БЈ.СО.С.2.9. Одређују ауторово гледиште, став и намере, разликују субјективност од објективности у говору и препознају сликовитост, хумор, иронију и сатиру.
+- БЈ.СО.С.2.10. Организују сложенији усмени или писани текст (преуређују садржај, повезају делове у једноставну структурирану усмену или писану целину).
+- БЈ.СО.С.2.11. Самостално откривају и повезују информације из текстова из различитих области и користе их у учењу и у свакодневним ситуацијама.
+- БЈ.СО.С.2.12. Учествују у јавним расправама; расправљају формулисањем аргумената и контрааргумената, активно слушају и поштују став другог, контролишу емоционални садржај и препознају аргументе засноване на емоцијама.
+- БЈ.СО.С.3.1. Формулишу своје мишљење и јавно га исказују служећи се књижевним језиком уз свест о социјалним конвенцијама и културолошким различитостима.
+- БЈ.СО.С.3.2. Уочавају везу између начина изражавања и ауторове намере и става; процењују употребљивост информација и кредибилитет извора.
+- БЈ.СО.С.3.3. Користе развијене вештине сарадње, културу сопственог вербалног и невербалног изражавања, као и слушање и поштовање мишљења других.
+- БЈ.СО.С.3.4. Поштују разноликост културних идентитета у Европи и свету.
+- БЈ.СО.С.3.5. Развијају писменост у различитим областима (уметничкој, дигиталној, ИТ, финансијској, здравственој, медијској, научној, математичкој...).
+- БЈ.СО.С.3.6. Прилагођавају стратегије читања и учења својим самопостављеним циљевима; могу да прилагоде свој приступ
+- БЈ.СО.С.3.7. Проширују своје интересовање за читање - од разних нефикцијских текстова до националне и светске књижевности.
+- БЈ.СО.С.3.8. Разумеју међусобне односе између књижевности и културе; Кроз читање формирају своје естетске и етичке ставове и образлажу их аргументима.
+- БЈ.СО.С.3.9. Користе знање језика и књижевности да би креирали и критички истражили разноврстан културни садржај.
+- БЈ.СО.С.3.10. Састављају сложеније усмене или писане текстове на основу личног искуства, примарне и секундарне литературе.
+- БЈ.СО.С.3.11. Поштују културну разноликост, цене културно наслеђе своје домовине; имају развијене културне потребе и знају како да их задовоље.
+- БЈ.СО.С.3.12. Објашњавају штетан утицај предрасуда и стереотипа у образовном, приватном и јавном контексту; промовишу културу мира и ненасиља, толеранцију.
+- БЈ.СО.С.3.13. Користе стратегије критичког мишљења како би проверили информације у различитим текстовима.
+- БЈ.СО.С.3.14. Упоређују изражајна средства књижевне, позоришне и филмске уметности приликом тумачења истих или сличних мотива и тема.
+Напредни ниво
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функције и значај језика и вишејезичности. Имају детаљнија знања о граматици бугарског језика (акценту, гласовним променама, творби речи, врстама речи, глаголским облицима, служби речи у реченици, врстама реченица); познају структуру речничког чланка. Владају усменим и писаним облицима потребним за школовање, грађанску и социјалну укљученост. Процењују стилске поступке у књижевном и неуметничком тексту и тумаче њихову улогу у остваривању естетских и значењских одлика различитих врста текстова. Разумеју и успостављају везе између књижевности и других уметности, науке и технологије. Развијају лични, национални и културни идентитет, свест о припадности европском и светском културном наслеђу на основу дела бугарске и светске књижевности, позоришне и филмске уметности, научне и уметничке баштине и различитих облика медијске културе.
+Специфична предметна компетенција 2 (СПК2)
+Ученици говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе. Уочавају истраживачке и стваралачке могућности у процесу учења језика и књижевности и примењују стечена знања и вештине у свакодневном животу. Истражују карактеристике регистара и стилова везаних за речнике и избор одговарајућих језичких израза. Упоређују информације из различитих дисциплина и медијских извора и критички се односи према њима.
+Специфична предметна компетенција 3 (СПК3)
+Ученици имају навику и потребу да развијају говорну и читалачку културу, како ради сопственог усавршавања тако и ради учешћа у грађанском и друштвеном животу. Прате утицај социоекономских кретања на језик, књижевност, културу и науку; брину о одрживом начину живота у заједници. Негују хумани и критички однос у дијалогу међу културама. Спремни су да преузму одговорност за изборе и одлуке који утичу на лични живот и живот заједнице.
+Исходи образовног циклуса (ИОЦ) за крај средњег образовања:
+Напредни ниво
+СПК 1
+СПК 2
+СПК 3
+Ученици:
+Ученици:
+Ученици:
+- БЈ.СО.Н.1.1. Разумеју важна својства и функције језика.
+- БЈ.СО.Н.1.2. Разумеју да постоји блиска веза између језика и размишљања. Познају концепте једнојезичности и вишејезичности и познају одговарајуће језичке услове.
+- БЈ.СО.Н.1.3. Деле реч на слогове и правилно поставља главни и споредни акценат у неким сложеним речима.
+- БЈ.СО.Н.1.4. Разумеју концепт фонеме; одредђују све звучне промене.
+- БЈ.СО.Н.1.5. Разумеју концепт морфема.
+- БЈ.СО.Н.1.6. Поседују детаљно знање морфологије у ужем смислу речи, као и творбе речи у бугарском језику (могу да поделе реч на словотворне морфеме у сложенијим случајевима и да одреди њихове називе).
+- БЈ.СО.Н.1.7. Имају детаљно знање о глаголским облицима и њиховим граматичким карактеристикама.
+- БЈ.СО.Н.1.8. Могу да изврше синтаксичку анализу сложених реченица састављених према одређеним обрасцима.
+- БЈ.СО.Н.1.9. Примењују правила за слагање придева са именицама, као и слагање осталих делова речи са именицом.
+- БЈ.СО.Н.1.10. Препознају хиперонимију/хипонимију, паронимију у тексту и разликују лексичке слојеве; познају метафору, метонимију и синекдоху као лексичке механизме.
+- БЈ.СО.Н.1.11. Разуме значење књижевних појмова и поседује теоријска знања која правилно примењује приликом анализе уметничких и научно-уметничких текстова предвиђених наставним планом и програмом, као и других текстова различитог жанра ван наставног плана и програма.
+- БЈ.СО.Н.1.12. Открива и анализира поетске, језичке и естетске особине књижевног или књижевноисторијског текста у оквиру обавезне и додатне литературе; врши процену и упоређује стил у назначеним текстовима.
+- БЈ.СО.Н.2.1. Упоређују језичке појаве у свом и страном језику, анализирају их и изводе закључке.
+- БЈ.СО.Н.2.2. Открива и анализира поетске, језичке и естетске особине књижевног или књижевноисторијског текста у оквиру обавезне и додатне литературе; врши процену и упоређује стил у назначеним текстовима.
+- БЈ.СО.Н.2.3. Процењују функцију стилских средстава коришћених у тексту
+- БЈ.СО.Н.2.4. Самостално открива и анализира проблеме и идеје у књижевном делу, аргументујући своја мишљења на основу главног текста и књижевног контекста.
+- БЈ.СО.Н.2.5. Повезују историјске, верске и политичке теме у делима која обрађују, чиме конструишу и доводе у питање сопствени идентитет; објашњавају и упоређују како се идеје изражавају у различитим културама.
+- БЈ.СО.Н.2.6. Прилагођавају сврху, садржај и начин презентације комуникативној ситуацији.
+- БЈ.СО.Н.2.7. Истражују везе између одређене теорије (егзистенцијализам, теорија рецепције/отворено дело) и књижевног текста и везе између самих књижевних текстова (интертекстуалност); пренети теоријско знање у новом контексту.
+- БЈ.СО.Н.2.8. Способни су да напишу текст са добром композицијом и логичким редом на тему из области књижевности и језика.
+- БЈ.СО.Н.2.9. Истражују и упоређују информације из различитих дисциплина и медијских извора, развијајући критички став према њима.
+- БЈ.СО.Н.2.10. Говоре јавно и пред већом публиком о темама везаним за језик, књижевност и културу. Развијају ораторске вештине.
+- БЈ.СО.Н.2.11. Учествују у дискусијама о сложеним темама из области језика, књижевности и културе; разматрају значење и вредности књижевних текстова, као и сврху и значај нефикцијских текстова, користећи специјализовану терминологију.
+- БЈ.СО.Н.3.1. Разумеју моћ језика као средства изражавања различитих димензија људских искустава (друштвених, културних, моралних, духовних и естетских), поштујући контекст и различите перспективе.
+- БЈ.СО.Н.3.2. Критички истражују и процењују информације из различитих медија; способни су да препознају различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- БЈ.СО.Н.3.3. Развијају лични стил вербалног и невербалног истраживања уз подстицање позитивне интеракције и сарадње са другима; процењују и развијају свој комуникацијски потенцијал проактивним ставом и истрајношћу у остваривању циљева.
+- БЈ.СО.Н.3.4. Имају интерактиван однос са медијима и спремни су да учествују у јавним и друштвеним активностима.
+- БЈ.СО.Н.3.5. Примећују и посматрају развој и утицај уметности, науке и технологије на писменост и језик; Брину се о очувању културних и историјских споменика, безбедности и одрживости животне средине.
+- БЈ.СО.Н.3.6. Продубљују своје разумевање и примену различитих стратегија и техника за читање и учење уз самосвест о сопственим снагама и слабостима.
+- БЈ.СО.Н.3.7. Уче и проширују своје видике и развијају свој интелектуални и емоционални свет, са спремношћу да преузму одговорност за изборе и одлуке које утичу на њихов лични живот и живот заједнице.
+- БЈ.СО.Н.3.8. Уче о различитим културама кроз регионалну, европску и светску књижевност и граде хуман и критички став у дијалогу између култура.
+- БЈ.СО.Н.3.9. Цене разноврстан културни садржај, препознајући и схватајући личне, друштвене и комерцијалне вредности.
+- БЈ.СО.Н.3.10. Цене језик као средство националне културе, националног културног наслеђа и културне разноликости свог окружења, региона, Европе и света.
+- БЈ.СО.Н.3.11. Проучавају утицај стереотипа и предрасуда на појединце и друштво, залажући се за остваривање људских права и мирно решавање сукоба.
+- БЈ.СО.Н.3.12. Критички процењују књижевна, позоришна и филмска дела.
+HRVATSKI JEZIK I KNJIŽEVNOST
+Standardi obrazovnih postignuća za završetak srednjoškolskoga obrazovanja
+Opća predmetna kompetencija (OPK)
+Učenici posjeduju znanja o funkciji i važnosti jezika i višejezičnosti, poznaju gramatiku hrvatskoga standardnog jezika i primjenjuju je u svakodnevnome životu. Razumiju utjecaj jezika i njime se koriste na društveno odgovoran način, razvijajući svoju građansku odgovornost i socijalnu uključenost. Njeguju i čuvaju hrvatski jezik poštujući raznovrsnost njegovih narječja, kao i jezike nacionalnih manjina i druge jezike.
+Koriste se razvijenim i bogatim rječnikom u usmenoj i pisanoj komunikaciji: govore i pišu poštujući pravogovornu i pravopisnu normu, uobličavaju logičan i stilski skladan tekst. Vode računa o kulturi dijaloga, vladaju govornim vještinama i vještinama aktivnoga slušanja. Formuliraju i izražavaju usmene i pisane argumente na uvjerljiv način koji je primjeren kontekstu. Komuniciraju na konstruktivan način, surađuju u timovima i pregovaraju, preuzimaju inicijativu i djeluju radi ostvarivanja postavljenih ciljeva, koriste se informativno-komunikacijskim tehnološkim mogućnostima.
+Imaju razvijenu čitateljsku pismenost. Razumiju, kritički i kreativno promišljaju o književnome i neknjiževnome tekstu. Njeguju govornu i čitateljsku kulturu radi vlastitoga usavršavanja i vlastitoga zadovoljstva. Traže, prikupljaju i kritički obrađuju informacije iz raznih vrsta izvora i odgovorno se koriste multimedijskim sadržajima te ih stvaraju.
+Tumače književna djela iz nacionalne i svjetske književnosti. Razumiju multikulturne dimenzije književnosti i način na koji nacionalna književnost doprinosi svjetskoj kulturnoj baštini. Uočavaju i primjerima argumentiraju osnovne poetičke, jezične, estetske i strukturne osobine književnih djela. Posjeduju sposobnost figurativnoga i apstraktnoga izražavanja ideja, iskustava i osjećaja; razvijaju stvaralačke mogućnosti. Koriste se čitanjem da bi bolje spoznali sebe, druge i svijet oko sebe usvajajući i izgrađujući etička načela. Čitanjem razvijaju empatiju i brigu za ljude i svijet. Iskazuju humani i kritički stav u raznim umjetnostima. Uspostavljaju vezu između književnosti i drugih umjetnosti, znanosti i tehnologije.
+Učinkovito se koriste raznovrsnim tehnikama učenja i svjesni su važnosti cjeloživotnoga učenja. U raznim životnim situacijama primjenjuju stečena znanja i kognitivne strategije. Etički i odgovorno pristupaju intelektualnomu i kulturnomu vlasništvu.
+OSNOVNA RAZINA
+Specifična predmetna kompetencija 1 (SPK1)
+Učenici navode osnovna obilježja hrvatskoga standardnog jezika. Poznaju pravogovornu i pravopisnu normu, gramatiku i stilistiku hrvatskoga jezika. Usmjereni su na bogaćenje svojega rječnika, jezičnog i stilskog izraza. Govore jasno i tečno, razlikuju službenu i neslužbenu komunikaciju, verbalnu i neverbalnu komunikaciju. Poznaju pravila pisanja raznih vrsta tekstova. Čitaju i razumiju linearne i nelinearne tekstove; razlikuju književni od neknjiževnoga teksta. Povezuju književna djela s njihovim autorima i književnopovijesnim epohama. Određuju osnovne elemente strukture književnoga i neknjiževnoga teksta.
+Specifična predmetna kompetencija 2 (SPK2)
+Učenici posjeduju vještine slušanja i govorenja i primjenjuju ih u skladu s komunikacijskom situacijom. Primjenjuju teorijska znanja iz gramatike u konkretnoj jezičnoj situaciji i pišu primjenjujući pravopisna pravila. Sastavljaju logičan, dobro strukturiran i stilski skladan govorni i pisani tekst. Izražavaju se usmeno i pisano na uvjerljiv način koji je primjeren kontekstu, uz poštovanje rasne, nacionalne, kulturne, jezične, vjerske, spolne, rodne i dobne ravnopravnosti. Uočavaju namjere autora u tekstu (informativnost i manipulativnost). Tijekom čitanja i tumačenja književnoga i neknjiževnoga teksta primjenjuju razne metode. Usvajaju čitanje kao hobi i proširuju svoje interese od književnosti za mlade prema klasičnoj književnosti. Koriste se knjižničnom građom i arhivom, posjećuju izložbe, gledaju kazališne predstave i filmove. Prepoznaju utjecaj raznih medija i kultura na svakodnevni život pojedinca i zajednice.
+Specifična predmetna kompetencija 3 (SPK3)
+Učenici njeguju i čuvaju hrvatski jezik uz poštovanje raznovrsnosti njegovih narječja; poštuju jezike nacionalnih manjina i druge strane jezike. Osposobljeni su za pravilno, jasno, ekonomično i uvjerljivo usmeno i pisano izražavanje. Čitanjem i tumačenjem književnih djela iz nacionalne i svjetske književnosti formiraju humanističke vrijednosne stavove i uvjerenja. Uspostavljaju vezu između književne, kazališne i filmske umjetnosti. Koriste se čitateljskom pismenošću i razim strategijama čitanja i učenja. Prepoznaju predrasude, stereotipe i oblike verbalne agresije (neprimjereno obraćanje, nepoštovanje sugovornika, vrijeđanje, govor mržnje i sl.) kao negativne pojave. Koriste se znanjem iz jezika i književnosti u situacijama važnim za aktivnu građansku uključenost. Etički i odgovorno pristupaju intelektualnomu i kulturnomu vlasništvu.
+Ishodi obrazovnoga ciklusa (IOC) za završetak srednjoškolskoga obrazovanja:
+Osnovna razina:
+SPK1
+SPK2
+SPK3
+Učenici:
+Učenici:
+Učenici:
+- HJ.SO.O.1.1. Znaju osnovna obilježja hrvatskoga standardnog jezika (autonomiju, normiranost, polifunkcionalnost, elastičnu stabilnost u vremenu i stabilnost u prostoru).
+- HJ.SO.O.2.1. Primjenjuju teorijska znanja iz gramatike u konkretnoj jezičnoj situaciji/tekstu.
+- HJ.SO.O.3.1. Koriste se znanjima o jeziku kako bi se pravilno i jasno izražavali pisanim i usmenim putem u obrazovnome kontekstu, u privatnome i javnome životu, u situacijama važnim za aktivnu građansku uključenost.
+- HJ.SO.O.1.2. Razlikuju pravilan od nepravilnoga izgovora glasa i klasificiraju glasove po zadanim kriterijima.
+- HJ.SO.O.2.2. Pišu primjenjujući pravopisna pravila, uključujući i osnovna tipografsko-pravopisna rješenja u otipkanome tekstu, koristeći se odgovarajućim pravopisom hrvatskoga standardnog jezika.
+- HJ.SO.O.3.2. Prikazuju informacije na razne načine (usmeno, pisano, vizualno i/ili digitalno).
+- HJ.SO.O.1.3. Razumiju pojam sloga, znaju osnovna pravila naglašavanja riječi i uočavaju razlike između standardnoga i nestandardnih naglasaka u svakodnevnoj komunikaciji.
+- HJ.SO.O.2.3. Čitaju književne i neknjiževne tekstove (linearne i nelinearne); s pozornošću i razumijevanjem slušaju jednostavnije izlaganje i vode bilješke, određuju ključne riječi.
+- HJ.SO.O.3.3. Izražavaju argumentirano svoje mišljenje i biraju jezični izraz u skladu s kontekstom, uključujući i konstruktivnu komunikaciju u suradnji s drugima, u skupini i medijskome prostoru.
+- HJ.SO.O.1.4. Klasificiraju vrste riječi; razlikuju gramatičke kategorije promjenljivih vrsta riječi u tipičnim školskim primjerima.
+- HJ.SO.O.2.4. Iskazuju subjektivni i estetski doživljaj o govorenome ili pisanome tekstu; povezuju sadržaj književnoumjetničkoga djela s vlastitim ili tuđim iskustvom.
+- HJ.SO.O.3.4. Prepoznaju predrasude i stereotipe u književnim i neknjiževnim tekstovima i usmenome izlaganju, kao i oblike verbalne agresije (neprimjereno obraćanje, nepoštovanje sugovornika, vrijeđanje, govor mržnje i sl.) u svakodnevnim situacijama i u medijima kao negativnu pojavu.
+- HJ.SO.O.1.5. Razlikuju jednostavne riječi od tvorenica i tvore riječi po zadanome modelu.
+- HJ.SO.O.2.5. Uočavaju glavne motive, tematiku i istaknuta stilska obilježja književnoumjetničkih djela određenoga književnog pravca, tipične razlike i sličnosti u odnosu na prethodne književnopovijesne epohe.
+- HJ.SO.O.3.5. Koriste se čitateljskom pismenošću kao sredstvom za učenje i bolje razumijevanje drugih predmeta.
+- HJ.SO.O.1.6. Klasificiraju osnovne rečenične dijelove; razlikuju nezavisnosložene od zavisnosloženih rečenica; ispravno strukturiraju rečenicu.
+- HJ.SO.O.2.6. Sažimaju, citiraju, prepričavaju/parafraziraju tekst izdvajajući važno; interpretiraju tekst; razlikuju informaciju od interpretacije.
+- HJ.SO.O.3.6. Koriste se raznim strategijama čitanja i učenja u skladu s postavljenim ciljem.
+- HJ.SO.O.1.7. Razumiju značenja riječi, ustaljenih izraza i frazema s kojima se susreću u svakodnevnoj komunikaciji, u lektiri i školskim tekstovima iz drugih predmeta.
+- HJ.SO.O.2.7. Oblikuju svoj govor i pisanje prema komunikacijskoj situaciji (biraju odgovarajuća izražajna sredstva - verbalna i neverbalna, leksik i oblike kazivanja).
+- HJ.SO.O.3.7. Imaju razvijene čitateljske navike i shvaćaju važnost čitanja za razvoj vlastite opće kulture i znanja.
+- HJ.SO.O.1.8. Razlikuju leksik službene od leksika neslužbene komunikacije i upotrebljavaju ih u skladu s prilikom; poznaju leksičke pojave i leksičke odnose i primjenjuju ih u raznim komunikacijskim situacijama.
+- HJ.SO.O.2.8. Pronalaze informacije u tekstu (u linearnome i nelinearnome) po zadanome kriteriju; nalaze načine za saznavanje informacija koje ne razumiju; odabiru i razvrstavaju izvore informacija; prepoznaju tehnike manipulacije u tekstu i u govoru.
+- HJ.SO.O.3.8. Prepoznaju važnost književnosti i kulture u svojemu životu; vrednuju književnost kao dio nacionalne kulture i kao sredstvo za promicanje raznih kultura.
+- HJ.SO.O.1.9. Znaju i primjenjuju pravopisna pravila hrvatskoga standardnog jezika.
+- HJ.SO.O.2.9. Sudjeluju u projektnoj nastavi i kreativnim dramskim procesima; koriste se knjižničnom građom, gledaju kazališne predstave i filmove, posjećuju izložbe…
+- HJ.SO.O.3.9. Koriste se znanjima o jeziku i književnosti za sudjelovanje na raznim kulturnim manifestacijama.
+- HJ.SO.O.1.10. Poznaju pravila pisanja raznih vrsta tekstova (npr. pisma, e-pošte, biografije, molbe, žalbe, izvješća…); pravilno popunjavaju razne obrasce (npr. životopis, uplatnicu…).
+- HJ.SO.O.2.10. Objašnjavaju razliku između popularne i visoke kulture na primjerima iz medija; prepoznaju i navode obilježja kozmopolitske kulture, šunda, trenda i kiča u medijima i umjetnosti.
+- HJ.SO.O.3.10. Koriste se pisanim i tiskanim slovima latiničnoga pisma; sastavljaju govoreni ili pisani tekst; odgovorno se odnose prema pitanjima vezanim za intelektualno vlasništvo; citiraju i/ili parafraziraju tekstove.
+- HJ.SO.O.1.11. Povezuju književnoumjetnička djela s njihovim autorima i književnopovijesnim epohama u kojima su nastala.
+- HJ.SO.O.2.11. Prepoznaju utjecaj javnih, komercijalnih i neprofitnih medija na svakodnevni život čovjeka; prepoznaje svrhu (osobnu, obrazovnu i javnu) medijskoga teksta.
+- HJ.SO.O.3.11. Prepoznaju ulogu jezika u njegovanju kulturnoga i nacionalnoga identiteta; razumiju pravo na upotrebu vlastitoga jezika i koriste se srpskim jezikom kao službenim jezikom u Republici Srbiji, poštuju jezike ostalih nacionalnih manjina u Republici Srbiji.
+- HJ.SO.O.1.12. Razlikuju književni od neknjiževnoga teksta; određuju osnovne elemente strukture književnoumjetničkoga djela: temu, motiv, radnju, likove, vrijeme i mjesto radnje.
+- HJ.SO.O.3.12. Poštuju ljudska prava i privatnost drugih; razumiju važnost ravnopravnosti ljudi, uključujući i pravo na vlastiti jezik.
+- HJ.SO.O.1.13. Razlikuju obilježja usmene i umjetničke književnosti; poznaju osnovna obilježja književnih rodova i vrsta; uočavaju lirske, epske i dramske elemente u književnoumjetničkome djelu; poznaju obilježja diskurzivnih književnih oblika.
+- HJ.SO.O.3.13. Objašnjavaju odnos između medijskih sadržaja i stvarnosti; interpretiraju medijsku poruku i zaključuje komu je ona namijenjena
+- HJ.SO.O.1.14. Razlikuju prepričavanje od analize djela.
+- HJ.SO.O.3.14. Prepoznaju vezu između književne, kazališne i filmske umjetnosti u interpretaciji istih tema.
+- HJ.SO.O.1.15. Povezuju motive/teme iz književnosti i povijesti umjetnosti s osnovnim znanjima iz povijesti.
+SREDNJA RAZINA
+Specifična predmetna kompetencija 1 (SPK1)
+Učenici poznaju osnovne jezične skupine u Europi i znaju mjesto hrvatskoga jezika u slavenskoj i europskoj skupini jezika. Imaju šira znanja o glasovima hrvatskoga jezika, znaju pravila o naglašavanju riječi i razlikuju jezik kao standard i jezik kao sustav. Imaju šira znanja o vrstama riječi, njihovim oblicima i načinima njihove tvorbe. Analiziraju rečenice sastavljene po različitim modelima. Imaju razvijen rječnik u skladu sa svojom dobi i upotrebljavaju odgovarajuće riječi u skladu s prilikama; usmjereni su daljnjemu bogaćenju vlastitoga rječnika. Koriste se čitateljskim strategijama u skladu s ciljevima čitanja i vrstom teksta. Poznaju i tumače najvažnija djela hrvatske i svjetske književne baštine i smještaju ih u književnopovijesni kontekst; razumiju osnovne književnoteorijske i književnopovijesne pojmove. Poznaju razne oblike medijskoga izražavanja.
+Specifična predmetna kompetencija 2 (SPK2)
+Učeći hrvatski jezik i književnost učenici ga i uspoređuju s drugim jezicima i tako razvijaju interes i kompetencije za međukulturni dijalog. Redovito čitaju izabrane odlomke i cjelovita književna djela. Koriste se raznim izvorima informacija, procjenjuju pouzdanost izvora, obrađuju informacije, biraju ih prema relevantnosti i argumentirano ih prikazuju u skladu s komunikacijskom situacijom, prilagođavajući jezik i oblike izražavanja raznim ciljnim grupama.
+Specifična predmetna kompetencija 3 (SPK3)
+Učenici procjenjuju uspješnost vlastite komunikacije i interakcije s drugima. Imaju bogat rječnik i doživljavaju jezik kao niz mogućnosti za izražavanje i stvaranje. Kreiraju i vrednuju razne kulturne sadržaje. Razumiju multikulturne dimenzije književnosti i način na koji nacionalna književnost doprinosi svjetskoj kulturnoj baštini. Razvijaju vještine kritičkoga mišljenja i analitičke vještine.
+Ishodi obrazovnoga ciklusa (IOC) za završetak srednjoškolskoga obrazovanja:
+Srednja razina:
+SPK1
+SPK2
+SPK3
+Učenici:
+Učenici:
+Učenici:
+- HJ.SO.S.1.1. Razvrstavaju jezike u osnovne jezične skupine u Europi, znaju mjesto hrvatskoga jezika u porodici slavenskih i indoeuropskih jezika i prepoznaju narječja hrvatskoga jezika, kao i njihove govore na temelju njihovih obilježja.
+- HJ.SO.S.2.1. Primjenjuju teorijska znanja iz gramatike, uočavaju, prikazuju i analiziraju jezične pojave u složenijoj jezičnoj situaciji.
+- HJ.SO.S.3.1. Oblikuju svoje mišljenje i javno ga iskazuju služeći se standardnim jezikom.
+- HJ.SO.S.1.2. Poznaju osnovne etape u razvoju hrvatskoga jezika i najvažnije kulturnopovijesne spomenike.
+- HJ.SO.S.2.2. Uočavaju i ispravljaju pravopisne pogreške u svojemu i tuđemu tekstu u skladu s pravopisnom normom hrvatskoga standardnog jezika, prepoznaju obilježja jezika kao sustava u svakodnevnoj situaciji.
+- HJ.SO.S.3.2. Uočavaju povezanost načina izražavanja s namjerom i stavom autora; procjenjuju upotrebljivost informacija i pouzdanost izvora.
+- HJ.SO.S.1.3. Poznaju književnojezičnu normu za naglasak; određuju dužinu/kvantitetu naglašenoga sloga i primjenjuju pravila naglašavanja u jednostavnim primjerima (riječi s naglašenim unutarnjim slogom i jednosložne riječi).
+- HJ.SO.S.2.3. Primjenjuju razne strategije čitanja i prilagođavaju ih vrsti teksta i svrsi čitanja.
+- HJ.SO.S.3.3. Koriste se usvojenim vještinama suradnje, kulturom vlastitoga verbalnog i neverbalnog izražavanja, slušanja i poštovanja tuđega mišljenja.
+- HJ.SO.S.1.4. Uočavaju glasovne promjene/alternacije u raznim primjerima i povezuju ih s pravogovornom normom.
+- HJ.SO.S.2.4. Redovito čitaju književna djela predviđena školskim programom i biraju djela po svojemu slobodnom izboru razvijajući čitateljske navike i estetske kriterije.
+- HJ.SO.S.3.4. Poznaju vlastiti identitet, dovode ga u vezu s kulturnopovijesnim nasljeđem i uvažavaju tuđe identitete.
+- HJ.SO.S.1.5. Određuju vrste promjenljivih riječi i njihove gramatičke kategorije; određuju sve glagolske oblike.
+- HJ.SO.S.2.5. Iskazuju osobne dojmove o književnoumjetničkome djelu; interpretiraju razne vrste tekstova; povezuju, uspoređuju i obrazlažu svoje zaključke činjenicama sadržanima u tekstu.
+- HJ.SO.S.3.5. Razvijaju pismenost u raznim područjima (umjetničkome, digitalnome, informatičkome, financijskome, zdravstvenome, medijskome, znanstvenome, matematičkome…).
+- HJ.SO.S.1.6. Razlikuju vrste tvorenica.
+- HJ.SO.S.2.6. Analiziraju izdvojen problem; uviđaju i tumače tematska, idejna, poetska, stilska, jezična, kompozicijska i žanrovska obilježja književnoga teksta.
+- HJ.SO.S.3.6. Prilagođavaju strategije čitanja i učenja samostalno postavljenomu cilju; sposobni su korigirati svoj pristup.
+- HJ.SO.S.1.7. Analiziraju sintagme i rečenice tvorene po osnovnim modelima.
+- HJ.SO.S.2.7. Procjenjuju ulogu vrste pripovijedanja u oblikovanju značenja i ideje književnoga djela.
+- HJ.SO.S.3.7. Proširuju interese za čitanje - od raznih neknjiževnih tekstova do tekstova nacionalne i svjetske književnosti.
+- HJ.SO.S.1.8. Poznaju vrste i funkcije zavisnosloženih rečenica.
+- HJ.SO.S.2.8. Vrednuju postupke i osobine likova formirajući vlastite moralne stavove.
+- HJ.SO.S.3.8. Razumiju međusobne veze književnosti i kulture; čitajući oblikuju svoje estetske i etičke stavove i argumentirano ih obrazlažu.
+- HJ.SO.S.1.9. Znaju značenja riječi i frazeama koji se javljaju u literarnim i medijskim tekstovima, razlikuju vrste leksema s obzirom na podrijetlo i područje uporabe, razumiju značenjske odnose među leksemima.
+- HJ.SO.S.2.9. Utvrđuju točke gledišta, stav i namjere autora, razlikuju subjektivnost od objektivnosti u izražavanju, prepoznaju preneseno značenje, humor, ironiju i satiru.
+- HJ.SO.S.3.9. Koriste se znanjima o jeziku i književnosti za kreiranje i kritičko propitivanje raznih kulturnih sadržaja.
+- HJ.SO.S.1.10. Analiziraju obilježja funkcionalnih stilova i razumiju važnost njihove uporabe.
+- HJ.SO.S.2.10. Organiziraju složeniji govoreni ili pisani tekst (preuređuju sadržaj, povezuju dijelove u jednostavno strukturiranu govorenu ili pisanu cjelinu).
+- HJ.SO.S.3.10. Sastavljaju složenije govorene ili pisane tekstove na temelju osobnoga iskustva, obvezne i izborne literature.
+- HJ.SO.S.1.11. Povezuju književna djela s povijesnim i društvenim kontekstom; prepoznaju osnovna obilježja književnopovijesnih epoha i povezuju ih s književnim djelom i autorom.
+- HJ.SO.S.2.11. Samostalno pronalaze i povezuju informacije iz tekstova iz raznih područja i koriste se njima u učenju i u svakodnevnim životnim situacijama.
+- HJ.SO.S.3.11. Uvažavaju kulturnu raznolikost Republike Srbije, cijene kulturnu baštinu svojega zavičaja; imaju izgrađene kulturne potrebe i znaju kako ih ostvariti.
+- HJ.SO.S.1.12. Prepoznaju obilježja književnoznanstvenih i prijelaznih književnih vrsta, kao i obilježja raznih oblika medijskoga izražavanja.
+- HJ.SO.S.2.12. Sudjeluju u javnim razgovorima; debatiraju formuliranjem argumenata i kontraargumenata, aktivnim slušanjem i uvažavanjem pozicije drugoga, kontrolom osjećaja i prepoznavanjem argumenata utemeljenih na osjećajima.
+- HJ.SO.S.3.12. Objašnjavaju štetan utjecaj predrasuda i stereotipa u obrazovnome, privatnome i javnome kontekstu; promoviraju kulturu mira, nenasilja i toleranciju.
+- HJ.SO.S.1.13. Razlikuju autora književnoumjetničkoga djela od pripovjedača, dramskoga lica ili lirskoga subjekta pri analizi književnoga djela.
+- HJ.SO.S.2.13. Uočavaju i procjenjuju trivijalne medijske poruke, predrasude, stereotipe i manipulaciju u medijskim porukama; prepoznaju razna stilska izražajna sredstva u medijskim tekstovima.
+- HJ.SO.S.3.13. Koriste se strategijama kritičkoga mišljenja za provjeru informacija u raznim tekstovima.
+- HJ.SO.S.1.14. Određuju elemente književne strukture: retrospektivno i kronološko pripovijedanje, fabulu i siže; razlikuju vrste kazivanja u književnosti; uočavaju vrste karakterizacije prema osnovnim osobinama lika (fizičku, psihološku, govornu, društvenu i moralnu karakterizaciju).
+- HJ.SO.S.2.14. Uspoređuju razne medijske tekstove i analiziraju kako su u njima prikazane informacije, ideje, stavovi i mišljenja i kako oni utječu na oblikovanje stavova i vrijednosti primatelja s obzirom na dob, spol i kulturni kontekst.
+- HJ.SO.S.3.14. Uspoređuju izražajna sredstva književne, kazališne i filmske umjetnosti pri interpretacije istih ili bliskih motiva i tema.
+- HJ.SO.S.1.15. Imenuju stilska izražajna sredstva i razumiju njihovu funkciju u tekstu.
+- HJ.SO.S.1.16. Prepoznaju razna djelovanja javnih, komercijalnih i neprofitnih medija na oblikovanje vlastitih stavova i vrijednosti; uočavaju skrivene stavove i mišljenja u medijskim porukama.
+NAPREDNA RAZINA
+Specifična predmetna kompetencija 1 (SPK1)
+Učenici razumiju funkcije i važnost jezika i višejezičnosti. Imaju detaljnija znanja o gramatici hrvatskoga standardnog jezika (naglascima, sastavu riječi, značenju padeža i glagolskih oblika, strukturi rečenice); poznaju strukturu rječničkoga članka. Vladaju usmenim i pisanim oblicima potrebnim za školovanje, građansku i društvenu uključenost. Procjenjuju stilske postupke u književnome i neknjiževnome tekstu i tumače njihovu ulogu u ostvarivanju estetskih i značenjskih obilježja raznih vrsta tekstova. Razumiju i uspostavljaju veze između književnosti i drugih umjetnosti, znanosti i tehnologije. Razvijaju osobni, nacionalni i kulturni identitet, svijest o pripadnosti europskomu i svjetskomu kulturnom nasljeđu na temelju djela hrvatske i svjetske književnosti, kazališne i filmske umjetnosti, znanstvene i kulturne baštine i raznih oblika medijske kulture.
+Specifična predmetna kompetencija 2 (SPK2)
+Učenici govore javno i pred većim slušateljstvom o temama iz jezika, književnosti i kulture. Uočavaju istraživačke i stvaralačke mogućnosti u procesu učenja jezika i književnosti i primjenjuju stečena znanja i vještine u svakodnevnome životu. Istražuju značajke registara i stilova vezanih za rječnike i izbor odgovarajućih jezičnih izraza. Uspoređuju informacije iz raznih disciplina i medijskih izvora i kritički se odnose prema njima.
+Specifična predmetna kompetencija 3 (SPK3)
+Učenici imaju naviku i potrebu razvijati govornu i čitateljsku kulturu, kako radi vlastitoga usavršavanja tako i radi sudjelovanja u društvenome životu. Prate utjecaj socioekonomskih kretanja na jezik, književnost, kulturu i znanost; brinu o održivome načinu života u zajednici. Njeguju humani i kritički odnos u dijalogu među kulturama. Spremni su preuzeti odgovornost za izbore i odluke koje utječu na osobni život i život zajednice.
+Ishodi obrazovnoga ciklusa (IOC) za završetak srednjoškolskoga obrazovanja:
+Napredna razina:
+SPK1
+SPK2
+SPK3
+Učenici:
+Učenici:
+Učenici:
+- HJ.SO.N.1.1. Razumiju obilježja i funkcije jezika.
+- HJ.SO.N.2.1. Uspoređuju jezične pojave u svojemu i drugim jezicima koje izučavaju, analiziraju ih i izvode zaključke.
+- HJ.SO.N.3.1. Razumiju moć jezika kao sredstva izražavanja raznih dimenzija ljudskih iskustava (društvenih, kulturnih, moralnih, duhovnih i estetskih), uvažavajući kontekst i različite perspektive.
+- HJ.SO.N.1.2. Poznaju pojmove jednojezičnosti i višejezičnosti i znaju odgovarajuće jezične prilike u Republici Srbiji.
+- HJ.SO.N.2.2. Tumače književno djelo s razumijevanjem njegovih žanrovskih obilježja i književnopovijesnoga konteksta, oslanjajući se u analizi na strukturne i stilističke elemente djela i koristeći se književnoteorijskom terminologijom i izbornom literaturom.
+- HJ.SO.N.3.2. Kritički istražuju i vrednuju informacije iz raznih medija; prepoznaju razne vrste medijskih manipulacija i njihov utjecaj na oblikovanje stvarnosti.
+- HJ.SO.N.1.3. Određuju mjesto i kvantitetu naglaska u riječi.
+- HJ.SO.N.2.3. Procjenjuju funkciju upotrebljenih stilskih izražajnih sredstava u tekstu.
+- HJ.SO.N.3.3. Razvijaju vlastiti stil u verbalnome i neverbalnome izražavanju uz njegovanje pozitivne interakcije i suradnje s drugima; procjenjuju i razvijaju svoje komunikativne potencijale uz proaktivan stav i ustrajnost u ostvarivanju ciljeva.
+- HJ.SO.N.1.4. Razumiju pojam fonema; određuju sve glasovne promjene/alternacije.
+- HJ.SO.N.2.4. Analiziraju problem, ideju ili poruku u književnome i neknjiževnome tekstu sagledavajući ih iz različitih perspektiva; pronalaze i procjenjuju argumente, rangiraju i preispituju njihovu vrijednost i eventualno mijenjaju svoje stavove.
+- HJ.SO.N.3.4. Ostvaruju konstruktivan interaktivan odnos s medijima uz spremnost da sudjeluju u aktivnostima zajednice i društva.
+- HJ.SO.N.1.5. Razumiju pojam morfema.
+- HJ.SO.N.2.5. Povezuju povijesne, religijske, političke teme u djelima koja obrađuju i na taj način grade i preispituju vlastiti identitet; objašnjavaju i uspoređuju kako se ideje kreativno izražavaju u raznim kulturama.
+- HJ.SO.N.3.5. Uočavaju i prate razvoj i utjecaj umjetnosti, znanosti i tehnologije na pismenost i jezik; brinu o očuvanju kulturno-povijesnih spomenika, o sigurnosti i održivosti životne sredine.
+- HJ.SO.N.1.6. Određuju tvorbene modele (prefiksalnu tvorbu, izvođenje, slaganje, prefiksalno-sufiksalnu i složeno-sufiksalnu tvorbu, preobrazbu i srastanje).
+- HJ.SO.N.2.6. Usklađuju svrhu, sadržaj i način izlaganja s komunikacijskom situacijom.
+- HJ.SO.N.3.6. Produbljuju svoje razumijevanje i primjenu raznih strategija i tehnika čitanja i učenja uz samosvijest o vlastitim snagama i slabostima.
+- HJ.SO.N.1.7. Znaju značenja padeža i glagolskih oblika.
+- HJ.SO.N.2.7. Istražuju odnose između određene teorije (egzistencijalizma, teorije recepcije/otvorenoga djela) i književnoumjetničkoga teksta i odnose između samih književnoumjetničkih tekstova (intertekstualnost); prenose teorijska znanja u novi kontekst.
+- HJ.SO.N.3.7. Čitajući proširuju svoje vidike i razvijaju svoj misaoni i emocionalni svijet, uz spremnost na preuzimanje odgovornosti za izbore i odluke koje utječu na osobni život i život zajednice.
+- HJ.SO.N.1.8. Analiziraju tekst razlikujući sve vrste rečenica, usporedne odnose među rečenicama i rečeničnim dijelovima.
+- HJ.SO.N.2.8. Sastavljaju razne vrste tekstova upotrebljavajući odgovarajuće funkcionalne stilove i forme kazivanja.
+- HJ.SO.N.3.8. Upoznaju razne kulture kroz regionalnu, europsku i svjetsku književnost i njeguju humani i kritički odnos u dijalogu među kulturama.
+- HJ.SO.N.1.9. Primjenjuju osnovna pravila kongruencije (sročnost, rekciju i pridruživanje).
+- HJ.SO.N.2.9. Istražuju i uspoređuju informacije iz raznih disciplina i medijskih izvora stvarajući kritički odnos prema njima.
+- HJ.SO.N.3.9. Vrednuju razne kulturne sadržaje prepoznajući i ostvarujući osobnu, društvenu i komercijalnu vrijednost.
+- HJ.SO.N.1.10. Prepoznaju u tekstu hiperonimiju/hiponimiju i paronimiju, razlikuju leksičke slojeve; poznaju metaforu, metonimiju i sinegdohu kao leksičke mehanizme.
+- HJ.SO.N.2.10. Govore javno i pred većim slušateljstvom o temama iz jezika, književnosti i kulture.
+- HJ.SO.N.3.10. Vrednuju jezik kao medij nacionalne kulture, nacionalnu kulturnu baštinu i kulturnu raznolikost svoje sredine, regije, Europe i svijeta.
+- HJ.SO.N.1.11. Tumače jezično-stilska, estetska i strukturna obilježja književnoumjetničkih i književnoznanstvenih tekstova, koristeći se književnoteorijskom terminologijom.
+- HJ.SO.N.2.11. Aktivno sudjeluju u javnoj debati (pripremaju se za nju, samostalno ili u suradnji s timom, argumentirano izlažu stavove, izvode zaključke i osmišljavaju strategije raspravljanja).
+- HJ.SO.N.3.11. Istražuju utjecaj stereotipa i predrasuda na pojedinca i društvo zalažući se za ostvarivanje ljudskih prava i mirno rješavanje sukoba.
+- HJ.SO.N.1.12. Procjenjuju stilske postupke u književnome i neknjiževnome tekstu; uspoređuju stilske postupke u dvama složenim tekstovima (ili u više njih); tumače njihovu ulogu u ostvarivanju estetskih i značenjskih obilježja navedenih vrsta tekstova.
+- HJ.SO.N.3.12. Kritički vrednuju književna, kazališna i filmska ostvarenja.
+ХРВАТСКИ ЈЕЗИК И КЊИЖЕВНОСТ
+Стандарди образовних постигнућа за завршетак средњошколског образовања
+Општа предметна компетенција (ОПК)
+Ученици поседују знања о функцији и важности језика и вишејезичности, познају граматику хрватског језика и примењују је у свакодневном животу. Разумеју утицај језика и користе га на друштвено одговоран начин, развијајући своју грађанску одговорност и социјалну укљученост. Негују и чувају хрватски језик поштујући разноврсност његових наречја, као и језике националних мањина и друге језике.
+Користе развијен и богат речник у усменој и писаној комуникацији: говоре и пишу поштујући правоговорну и правописну норму, уобличавају логичан и стилски складан текст. Воде рачуна о култури дијалога, владају говорним вештинама и вештинама активног слушања. Формулишу и изражавају усмене и писане аргументе на уверљив начин који је примерен контексту. Комуницирају на конструктиван начин, сарађују у тимовима и преговарају, преузимају иницијативу и делују ради остваривања постављених циљева, користе информационо-комуникационе технологије.
+Имају развијену читалачку писменост. Разумеју, критички и креативно размишљају о књижевном и некњижевном тексту. Негују говорну и читалачку културу ради личног усавршавања и личног задовољства. Траже, прикупљају и критички обрађују информације из различитих врста извора и одговорно користе и стварају мултимедијалне садржаје.
+Тумаче књижевна дела из националне и светске књижевности. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Уочавају и примерима аргументују основне поетичне, језичке, естетске и структурне особине књижевних дела. Поседују способност фигуративног и апстрактног изражавања идеја, искустава и емоција; развијају стваралачке могућности. Користе читање да би боље спознали себе, друге и свет око себе усвајајући и изграђујући етичке принципе. Читањем развијају емпатију и бригу за људе и свет. Исказују хумани и критички став у разним уметностима. Успостављају везу између књижевности и других уметности, науке и технологије.
+Учинковито користе разноврсне технике учења и свесни су важности целоживотног учења. У различитим животним ситуацијама примењују стечена знања и когнитивне стратегије. Етички и одговорно приступају интелектуалном и културном власништву.
+ОСНОВНИ НИВО
+Специфична предметна компетенција 1 (СПК1)
+Ученици наводе основна обележја хрватског стандардног језика. Познају правоговорну и правописну норму, граматику и стилистику хрватског језика. Усмерени су на богаћење свог речника, језичког и стилског израза. Говоре јасно и течно, разликују службену и неслужбену комуникацију, вербалну и невербалну комуникацију. Познају правила писања различитих врста текстова. Читају и разумеју линеарне и нелинеарне текстове; разликују књижевни од некњижевног текста. Повезују књижевна дела с њиховим ауторима и књижевно-историјским епохама. Одређују основне елементе структуре књижевног и некњижевног текста.
+Специфична предметна компетенција 2 (СПК2)
+Ученици поседују вештине слушања и говорења и примењују их у складу с комуникацијском ситуацијом. Примењују теоријска знања из граматике у конкретној језичкој ситуацији и пишу примењујући правописна правила. Састављају логичан, добро структуриран и стилски складан говорни и писани текст. Изражавају се усмено и писано на уверљив начин који је примерен контексту, уз поштовање расне, националне, културне, језичке, верске, полне, родне и узрасне равноправности. Уочавају намере аутора у тексту (информативност, манипулативност). Током читања и тумачења књижевног и некњижевног текста примењују различите методе. Усвајају читање као хоби и проширују своје интересе од књижевности за младе према класичној књижевности. Користе библиотечку грађу и архиве, посећују изложбе, гледају казалишне представе и филмове. Препознају утицај различитих медија и култура на свакодневни живот појединца и заједнице.
+Специфична предметна компетенција 3 (СПК3)
+Ученици негују и чувају хрватски језик уз поштовање разноврсности његових наречја; поштују језике националних мањина и друге стране језике. Оспособљени су за правилно, јасно, економично и уверљиво усмено и писано изражавање. Читањем и тумачењем књижевних дела из националне и светске књижевности формирају хуманистичке вредносне ставове и уверења. Успостављају везу између књижевне, позоришне и филмске уметности. Користе читалачку писменост и различите стратегије читања и учења. Препознају предрасуде, стереотипе и облике вербалне агресије (непримерено обраћање, непоштовање саговорника, вређање, говор мржње и сл.) као негативне појаве. Користе знања из језика и књижевности у ситуацијама од важности за активну грађанску укљученост. Етички и одговорно приступају интелектуалном и културном власништву.
+Исходи образовнога циклуса (ИОЦ-а) за завршетак средњошколскога образовања:
+Основни ниво:
+СПК1
+СПК2
+СПК3
+Ученици:
+Ученици:
+Ученици:
+- ХЈ.СО.О.1.1. Знају основна обележја хрватског стандардног језика (аутономија, нормираност, полифункционалност, еластична стабилност у времену и стабилност у простору).
+- ХЈ.СО.О.2.1. Примењују теоријска знања из граматике у конкретној језичкој ситуацији/тексту.
+- ХЈ.СО.О.3.1. Користе знања из језика како би се правилно и јасно изражавали писаним и усменим путем у образовном контексту, у приватном и јавном животу, у ситуацијама важним за активну грађанску укљученост.
+- ХЈ.СО.О.1.2. Разликују правилан од неправилног изговора гласа и класификују гласове по заданим критеријима.
+- ХЈ.СО.О.2.2. Пишу примењујући правописна правила, укључујући и основна типографско-правописна решења у куцаном тексту, користећи одговарајући правопис.
+- ХЈ.СО.О.3.2. Представљају информације на различите начине (усмено, писано, визуелно, дигитално).
+- ХЈ.СО.О.1.3. Разумеју појам слога, знају основна правила наглашавања речи и уочавају разлике између стандардног и нестандардних нагласака у свакодневној комуникацији.
+- ХЈ.СО.О.2.3. Читају књижевне и некњижевне текстове (линеарне и нелинеарне); с пажњом и разумевањем слушају једноставније излагање и воде белешке, одређују кључне речи.
+- ХЈ.СО.О.3.3. Изражавају аргументовано своје мишљење и бирају језички израз у складу са контекстом, укључујући и конструктивну комуникацију у сарадњи са другима, у групи и медијском простору.
+- ХЈ.СО.О.1.4. Класифицирају врсте речи; разликују граматичке категорије променљивих врста речи у типичним школским примерима.
+- ХЈ.СО.О.2.4. Исказују субјективни и естетски доживљај о говореном или писаном тексту; повезују садржај књижевно-уметничког дела са својим или туђим искуством.
+- ХЈ.СО.О.3.4. Препознају предрасуде и стереотипе у књижевним и некњижевним текстовима и усменом излагању, као и облике вербалне агресије (непримерено обраћање, непоштовање саговорника, вређање, говор мржње и сл.) у свакодневним ситуацијама и у медијима као негативну појаву.
+- ХЈ.СО.О.1.5. Разликују једноставне речи од твореница и граде речи по заданом моделу.
+- ХЈ.СО.О.2.5. Уочавају главне мотиве, тематику и истакнута стилска обележја књижевно-уметничких дела одређеног књижевног правца, типичне разлике и сличности у односу на претходне књижевно-историјске епохе.
+- ХЈ.СО.О.3.5. Користе читалачку писменост као средство за учење и боље разумевање других предмета.
+- ХЈ.СО.О.1.6. Класификују основне реченичне делове; разликују независне од зависних реченица; исправно структурирају реченицу.
+- ХЈ.СО.О.2.6. Сажимају, цитирају, препричавају/парафразирају текст издвајајући важно; интерпретирају текст; разликују информацију од интерпретације.
+- ХЈ.СО.О.3.6. Користе различите стратегије читања и учења у складу са постављеним циљем.
+- ХЈ.СО.О.1.7. Разумеју значења речи, устаљених израза и фразеологизама с којима се сусрећу у свакодневној комуникацији, у лектири и школским текстовима из других предмета.
+- ХЈ.СО.О.2.7. Обликују свој говор и писање према комуникацијској ситуацији (бирају одговарајућа изражајна средства - вербална и невербална, лексик и облике казивања).
+- ХЈ.СО.О.3.7. Имају развијене читалачке навике и схватају важност читања за развој личне опште културе и знања.
+- ХЈ.СО.О.1.8. Разликују лексик службене од лексика неслужбене комуникације и употребљавају их у складу с приликом; познају лексичке појаве и лексичке односе и примењују их у различитим комуникацијским ситуацијама.
+- ХЈ.СО.О.2.8. Проналазе информације у тексту (у линеарном и нелинеарном) по задатом критеријуму; налазе начине за сазнавање информација које не разумеју; бирају и разврставају изворе информација; препознају технике манипулације у тексту и говору.
+- ХЈ.СО.О.3.8. Препознају важност књижевности и културе у свом животу; вреднују књижевност као део националне културе и као средство за промоцију различитих култура.
+- ХЈ.СО.О.1.9. Знају и примењују правописна правила.
+- ХЈ.СО.О.2.9. Учествују у пројектној настави и креативним драмским процесима; користе библиотечку грађу, гледају позоришне представе и филмове, посећују изложбе…
+- ХЈ.СО.О.3.9. Користе знања из језика и књижевности за учествованје у различитим културним садржајима.
+- ХЈ.СО.О.1.10. Познају правила писања различитих врста текстова (нпр. писма, е-поште, биографије, молбе, жалбе, извештаја…); правилно попуњавају различите обрасце (нпр. биографију, уплатнице…).
+- ХЈ.СО.О.2.10. Описују разлику између популарне и високе културе на примерима из медија; препознају и наводе обележја космополитске културе, шунда, тренда и кича у медијима и уметности.
+- ХЈ.СО.О.3.10. Користе писана и штампана слова латиничног писма; састављају говорени или писани текст; одговорно се односе према питањима везаним за интелектуално власништво; цитирају и/или парафразирају текстове.
+- ХЈ.СО.О.1.11. Повезују књижевно-уметничка дела с њиховим ауторима и књижевно-историјским епохама у којима су настала.
+- ХЈ.СО.О.2.11. Препознају утицај јавних, комерцијалних и непрофитних медија на свакодневни живот човека; препознаје сврху (личну, образовну, јавну) медијскога текста.
+- ХЈ.СО.О.3.11. Препознају улогу језика у неговању културног и националног идентитета; разумеју право на употребу свог језика и користе српски језик као службени језик у Републици Србији, поштују језике осталих националних мањина у Републици Србији.
+- ХЈ.СО.О.1.12. Разликују књижевни од некњижевног текста; одређују основне елементе структуре књижевно-уметничког дела: тему, мотив, радњу, ликове, време и место радње.
+- ХЈ.СО.О.3.12. Поштују људска права и приватност других; разумеју важност равноправности људи, укључујући и право на свој језик.
+- ХЈ.СО.О.1.13. Разликују карактеристике народне и ауторске књижевности; познају основна обележја књижевних родова и врста; уочавају лирске, епске и драмске елементе у књижевно-уметничком делу; познају обележја дискурзивних књижевних облика.
+- ХЈ.СО.О.3.13. Објашњавају однос између медијских садржаја и стварности; интерпретирају медијску поруку и закључује коме је она намењена.
+- ХЈ.СО.О.1.14. Разликују препричавање од анализе дела.
+- ХЈ.СО.О.3.14. Препознају везу између књижевне, позоришне и филмске уметности у интерпретацији истих тема.
+- ХЈ.СО.О.1.15. Повезују мотиве/теме из књижевности и историје уметности са основним знањима из историје.
+СРЕДЊИ НИВО
+Специфична предметна компетенција 1 (СПК1)
+Ученици познају основне језичке групе у Европи и знају место хрватског језика у словенској и европској групи језика. Имају шира знања о гласовима хрватског језика, знају правила о наглашавању речи и разликују језик као стандард и језик као систем. Имају шира знања о врстама речи, њиховим облицима и начинима њихове творбе. Анализирају реченице састављене по различитим моделима. Имају развијен речник у складу са узрастом и употребљавају одговарајуће речи у складу са приликама; усмерени су ка даљем богаћењу свог речника. Користе читалачке стратегије у складу са циљевима читања и врстом текста. Познају и тумаче најзначајнија дела хрватске и светске књижевне баштине и смештају их у књижевно-историјски контекст; разумеју основне књижевнотеоријске и књижевноисторијске појмове. Познају различите облике медијског изражавања.
+Специфична предметна компетенција 2 (СПК2)
+Учећи хрватски језик и књижевност, ученици га и упоређују са другим језицима и тако развијају интересовање и компетенције за мултикултурални дијалог. Редовно читају изабране одломке и књижевна дела у целости. Користе различите изворе информација, процењују поузданост извора, обрађују информације, бирају их према релевантности и аргументовано их представљају у складу са комуникацијском ситуацијом, прилагођавајући језик и облике изражавања различитим циљним групама.
+Специфична предметна компетенција 3 (СПК3)
+Ученици процењују успешност властите комуникације и интеракције са другима. Имају богат речник и доживљавају језик као низ могућности за изражавање и стварање. Креирају и вреднују различите културне садржаје. Разумеју мултикултуралне димензије књижевности и начин на који национална књижевност доприноси светској културној баштини. Развијају вештине критичког мишљења и аналитичке вештине.
+Исходи образовнога циклуса (ИОЦ-а) за завршетак средњошколскога образовања:
+Средњи ниво:
+СПК1
+СПК2
+СПК3
+Ученици:
+Ученици:
+Ученици:
+- ХЈ.СО.С.1.1. Разврставају језике у основне језичне групе у Европи, знају место хрватског језика у породици славенских и индоевропских језика и препознају наречја хрватског језика, као и њихове говоре на основу њихових обележја.
+- ХЈ.СО.С.2.1. Примењују теоријска знања из граматике, уочавају, приказују и анализирају језичке појаве у сложенијој језичкој ситуацији.
+- ХЈ.СО.С.3.1. Обликују своје мишљење и јавно га исказују служећи се стандардним језиком.
+- ХЈ.СО.С.1.2. Познају основне етапе у развоју хрватскога језика и најзначајније културноисторијске споменике.
+- ХЈ.СО.С.2.2. Уочавају и исправљају правописне погрешке у свом и туђем тексту у складу са правописном нормом, препознају обележја језика као система у свакодневној ситуацији.
+- ХЈ.СО.С.3.2. Уочавају повезаност начина изражавања с намером и ставом аутора; процењују употребљивост информација и поузданост извора.
+- ХЈ.СО.С.1.3. Познају књижевнојезичку норму нагласака; одређују дужину/квантитету наглашеног слога и примењују правила наглашавања у једноставним примерима (унутрашњи слогови и једносложне речи).
+- ХЈ.СО.С.2.3. Примењују различите стратегије читања и прилагођавају их врсти текста и сврси читања.
+- ХЈ.СО.С.3.3. Користе усвојене вештине сурадње, културу личног вербалног и невербалног изражавања, слушања и поштовања туђег мишљења.
+- ХЈ.СО.С.1.4. Уочавају гласовне промене/алтернације у различитим примерима и повезују их са правоговорном нормом.
+- ХЈ.СО.С.2.4. Редовито читају књижевна дела из програма и бирају дела по свом слободном избору развијајући читалачке навике и естетске критеријуме.
+- ХЈ.СО.С.3.4. Познају свој идентитет, доводе га у везу са културноисторијским насљеђем и уважавају туђе идентитете.
+- ХЈ.СО.С.1.5. Одређују врсте промењљивих речи и њихове граматичке категорије; одређују све глаголске облике.
+- ХЈ.СО.С.2.5. Исказују своје дојмове о књижевноуметничком делу; интерпретирају различите врсте текстова; повезују, упоређују и образлажу своје закључке чињеницама из текста.
+- ХЈ.СО.С.3.5. Развијају писменост у различитим подручјима (уметничкој, дигиталној, информатичкој, финансијској, здравственој, медијској, научној, математичкој…).
+- ХЈ.СО.С.1.6. Разликују врсте твореница.
+- ХЈ.СО.С.2.6. Анализирају издвојен проблем; увиђају и тумаче тематска, идејна, поетска, стилска, језичка, композицијска и жанровска обележја књижевног текста.
+- ХЈ.СО.С.3.6. Прилагођавају стратегије читања и учења самостално постављеном циљу; способни су кориговати свој приступ.
+- ХЈ.СО.С.1.7. Анализирају синтагме и реченице творене по основним моделима.
+- ХЈ.СО.С.2.7. Процењују улогу врсте приповедања у обликовању значења и идеје књижевног дела.
+- ХЈ.СО.С.3.7. Проширују интересе за читање - од различитих некњижевних текстова до текстова националне и светске књижевности.
+- ХЈ.СО.С.1.8. Познају врсте и функције зависних реченица.
+- ХЈ.СО.С.2.8. Вреднују поступке и особине ликова формирајући моралне ставове.
+- ХЈ.СО.С.3.8. Разумеју међусобне везе књижевности и културе; читајући обликују своје естетске и етичке ставове и аргументовано их образлажу.
+- ХЈ.СО.С.1.9. Знају значења речи и фразеологизама који се јављају у литерарним и медијским текстовима, разликују типове лексема с обзиром на поријекло и подручје употребе, разумеју значењске односе међу лексемима.
+- ХЈ.СО.С.2.9. Утврђују тачке гледишта, став и намере аутора, разликују субјективност од објективности у изражавању, препознају пренесено значење, хумор, иронију, сатиру.
+- ХЈ.СО.С.3.9. Користе знања из језика и књижевности за креирање и критичко преиспитивање различитих културних садржаја.
+- ХЈ.СО.С.1.10. Анализирају обележја функционалних стилова и разумеју важност њихове употребе.
+- ХЈ.СО.С.2.10. Организирају сложенији говорени или писани текст (преуређују садржај, повезују делове у једноставно структурисану говорену или писану целину).
+- ХЈ.СО.С.3.10. Састављају сложеније говорене или писане текстове на темељу свог искуства, обавезне и изборне литературе.
+- ХЈ.СО.С.1.11. Повезују књижевна дела са историјским и друштвеним контекстом; препознају основна обележја књижевноисторијских епоха и повезују их с књижевним делом и аутором.
+- ХЈ.СО.С.2.11. Самостално проналазе и повезују информације из текстова из различитих подручја и користе их у учењу и у свакодневним животним ситуацијама.
+- ХЈ.СО.С.3.11. Уважавају културну разноликост Републике Србије, цене културну баштину свог завичаја; имају изграђене културне потребе и знају како их остварити.
+- ХЈ.СО.С.1.12. Препознају обележја књижевнонаучних и прелазних књижевних врста, као и карактеристике различитих облика медијског изражавања.
+- ХЈ.СО.С.2.12. Учествују у јавним разговорима; дебатују формулисањем аргумената и контрааргумената, активним слушањем и уважавањем позиције другог, контролом емоција и препознавањем аргумената заснованих на емоцијама.
+- ХЈ.СО.С.3.12. Објашњавају штетан утицај предрасуда и стереотипа у образовном, приватном и јавном контексту; промовишу културу мира, ненасиља и толеранцију.
+- ХЈ.СО.С.1.13. Разликују аутора књижевноуметничког дела од приповедача, драмског лица или лирског субјекта приликом анализе књижевног дела.
+- ХЈ.СО.С.2.13. Уочавају и процењују тривијалне медијске поруке, предрасуде, стереотипе и манипулацију у медијским порукама; препознају различита стилска изражајна средства у медијским текстовима.
+- ХЈ.СО.С.3.13. Користе стратегије критичког мишљења за проверу информација у различитим текстовима.
+- ХЈ.СО.С.1.14. Одређују елементе књижевне структуре: ретроспективно и хронолошко приповедање, фабулу и сиже; разликују врсте казивања у књижевности; уочавају врсте карактеризације према основним особинама лика (физичка, психолошка, говорна, друштвена и морална).
+- ХЈ.СО.С.2.14. Упоређују различите медијске текстове и анализирају како су у њима приказане информације, идеје, ставови и мишљења и како они утичу на обликовање ставова и вредности човека с обзиром на узраст, пол и културни контекст.
+- ХЈ.СО.С.3.14. Упоређују изражајна средства књижевне, позоришне и филмске уметности приликом интерпретације истих или блиских мотива и тема.
+- ХЈ.СО.С.1.15. Именују стилска изражајна средства и разумеју њихову функцију у тексту.
+- ХЈ.СО.С.1.16. Препознају различита деловања јавних, комерцијалних и непрофитних медија на обликовање властитих ставова и вредности; уочавају скривене ставове и мишљења у медијским порукама.
+НАПРЕДНИ НИВО
+Специфична предметна компетенција 1 (СПК1)
+Ученици разумеју функције и важност језика и вишејезичности. Имају детаљнија знања о граматици хрватског језика (нагласцима, саставу речи, значењу падежа и глаголских облика, структури реченице); познају структуру речничког чланка. Владају усменим и писаним облицима потребним за школовање, грађанску и социјалну укљученост. Процењују стилске поступке у књижевном и некњижевном тексту и тумаче њихову улогу у остваривању естетских и значењских обележја различитих врста текстова. Разумеју и успостављају везе између књижевности и других уметности, знаности и технологије. Развијају особни, национални и културни идентитет, свест о припадности европском и светском културном насљеђу на основу дела хрватске и светске књижевности, позоришне и филмске уметности, научне и културне баштине и различитих облика медијске културе.
+Специфична предметна компетенција 2 (СПК2)
+Ученици говоре јавно и пред већим аудиторијумом о темама из језика, књижевности и културе. Уочавају истраживачке и стваралачке могућности у процесу учења језика и књижевности и примењују стечена знања и вештине у свакодневном животу. Истражују карактеристике регистара и стилова везаних за речнике и избор одговарајућих језичких израза. Упоређују информације из различитих дисциплина и медијских извора и критички се односе према њима.
+Специфична предметна компетенција 3 (СПК3)
+Ученици имају навику и потребу развијати говорну и читалачку културу, како ради личног усавршавања тако и ради учествовања у друштвеном животу. Прате утицај социоекономских кретања на језик, књижевност, културу и науку; брину о одрживом начину живота у заједници. Негују хумани и критички однос у дијалогу међу културама. Спремни су преузети одговорност за изборе и одлуке које утичу на лични живот и живот заједнице.
+Исходи образовнога циклуса (ИОЦ-а) за завршетак средњошколскога образовања:
+Напредни ниво:
+СПК1
+СПК2
+СПК3
+Ученици:
+Ученици:
+Ученици:
+- ХЈ.СО.Н.1.1. Разумеју обележја и функције језика.
+- ХЈ.СО.Н.2.1. Упоређују језичне појаве у својем и другим језицима које изучавају, анализирају их и изводе закључке.
+- ХЈ.СО.Н.3.1. Разумеју моћ језика као средства изражавања различитих димензија људских искустава (друштвених, културних, моралних, духовних и естетских), уважавајући контекст и различите перспективе.
+- ХЈ.СО.Н.1.2. Познају појмове једнојезичности и вишејезичности и знају одговарајуће језичке прилике у Републици Србији.
+- ХЈ.СО.Н.2.2. Тумаче књижевно дело с разумевањем његових жанровских карактеристика и књижевноисторијског контекста, ослањајући се у анализи на структурне и стилистичке елементе дела и користећи књижевнотеоријску терминологију и изборну литературу.
+- ХЈ.СО.Н.3.2. Критички истражују и вреднују информације из различитих медија; препознају различите врсте медијских манипулација и њихов утицај на обликовање стварности.
+- ХЈ.СО.Н.1.3. Одређују место и квантитету нагласка у речи.
+- ХЈ.СО.Н.2.3. Процењују функцију употребљених стилских изражајних средстава у тексту.
+- ХЈ.СО.Н.3.3. Развијају лични стил у вербалном и невербалном изражавању уз неговање позитивне интеракције и сарадње са другима; процењују и развијају своје комуникативне потенцијале уз проактиван став и истрајност у остваривању циљева.
+- ХЈ.СО.Н.1.4. Разумеју појам фонема; одређују све гласовне промене/алтернације.
+- ХЈ.СО.Н.2.4. Анализирају проблем, идеју или поруку у књижевном и некњижевном тексту сагледавајући их из различитих перспектива; проналазе и процењују аргументе, рангирају и преиспитују њихову вредност и евентуално мењају своје ставове.
+- ХЈ.СО.Н.3.4. Остварују конструктиван интерактиван однос с медијима уз спремност да учествују у активностима заједнице и друштва.
+- ХЈ.СО.Н.1.5. Разумеју појам морфема.
+- ХЈ.СО.Н.2.5. Повезују историјске, религијске, политичке теме у делима која обрађују и на тај начин граде и преиспитују властити идентитет; објашњавају и упоређују како се идеје креативно изражавају у различитим културама.
+- ХЈ.СО.Н.3.5. Уочавају и прате развој и утицај уметности, знаности и технологије на писменост и језик; брину о очувању културно-историјских споменика, о безбедности и одрживости животне средине.
+- ХЈ.СО.Н.1.6. Одређују творбене моделе (префиксална творба, извођење, слагање, префиксално-суфиксална сложено-суфиксална творба, преобразба и срастање).
+- ХЈ.СО.Н.2.6. Усклађују сврху, садржај и начин излагања са комуникацијском ситуацијом.
+- ХЈ.СО.Н.3.6. Продубљују своје разумевање и примену различитих стратегија и техника читања и учења уз самосвест о својим снагама и слабостима.
+- ХЈ.СО.Н.1.7. Знају значења падежа и глаголских облика.
+- ХЈ.СО.Н.2.7. Истражују односе између одређене теорије (егзистенцијализам, теорија рецепције/отвореног дела) и књижевноуметничког текста и односе између самих књижевноуметничких текстова (интертекстуалност); преносе теоријска знања у нови контекст.
+- ХЈ.СО.Н.3.7. Читајући проширују своје видике и развијају свој мисаони и емоционални свет, уз спремност да преузму одговорност за изборе и одлуке који утичу на њихов живот и живот заједнице.
+- ХЈ.СО.Н.1.8. Анализирају текст разликујући све врсте реченица, упоредне односе међу реченицама и реченичним деловима.
+- ХЈ.СО.Н.2.8. Састављају различите типове текстова употребљавајући одговарајуће функционалне стилове и форме казивања.
+- ХЈ.СО.Н.3.8. Упознају различите културе кроз регионалну, европску и светску књижевност и негују хумани и критички однос у дијалогу међу културама.
+- ХЈ.СО.Н.1.9. Примењују основна правила конгруенције (срочност, рекција, придруживање).
+- ХЈ.СО.Н.2.9. Истражују и упоређују информације из различитих дисциплина и медијских извора, стварајући критички однос према њима.
+- ХЈ.СО.Н.3.9. Вреднују различите културне садржаје препознајући и остварујући особну, друштвену и комерцијалну вриједност.
+- ХЈ.СО.Н.1.10. Препознају у тексту хиперонимију/хипонимију, паронимију, разликују лексичке слојеве; познају метафору, метонимију и синегдоху као лексичке механизме.
+- ХЈ.СО.Н.2.10. Говоре јавно и пред већим слушатељством о темама из језика, књижевности и културе.
+- ХЈ.СО.Н.3.10. Вреднују језик као медиј националне културе, националну културну баштину и културну разноликост своје средине, регије, Европе и света.
+- ХЈ.СО.Н.1.11. Тумаче језично-стилске, естетске и структурне особине књижевноуметничких и књижевнонаучних текстова, користећи књижевнотеоријску терминологију.
+- ХЈ.СО.Н.2.11. Активно учествују у јавној дебати (припремају се за њу, самостално или у сарадњи са тимом, аргументовано излажу ставове, изводе закључке и осмишљавају стратегије расправљања).
+- ХЈ.СО.Н.3.11. Истражују утицај стереотипа и предрасуда на појединца и друштво залажући се за остваривање људских права и мирно решавање сукоба.
+- ХЈ.СО.Н.1.12. Процењују стилске поступке у књижевном и некњижевном тексту; упоређују стилске поступке у два сложенија текста (или више њих); тумаче њихову улогу у остваривању естетских и значењских обележја наведених врста текстова.
+- ХЈ.СО.Н.3.12. Критички вреднују књижевна, позоришна и филмска остварења.
