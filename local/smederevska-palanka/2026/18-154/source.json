@@ -1,0 +1,64 @@
+{
+  "url": "https://www.smederevskapalanka.rs/wp-content/uploads/2026/10/slsp2026-18.pdf",
+  "municipality": "smederevska-palanka",
+  "year": "2026",
+  "issue": "18",
+  "number": 154,
+  "title": "Одлука о приступању реализацији пројекта “Израда пројектно-техничке документације, изградња недостајуће инфраструктуре и извођење радова на изградњи Рециклажног дворишта на кп.бр. 2769 Ко Смедеревска Паланка 1 по принципу „кључ у руке“ и пратеће израде Локалног плана управљања отпадом за период од 10 година, као и покретању поступка јавне набавке",
+  "printed_page": 981,
+  "folder": "local/smederevska-palanka/2026/18-154",
+  "published": "2026-08-17",
+  "in_force": "2026-08-17",
+  "basis": "danom donošenja",
+  "commencement_quote": "Ова Одлука ступа на снагу даном доношења и биће објављена у „Службеном листу Општине Смедеревска Паланка“.",
+  "sha256": "a6b14319a49c9b25aafc83ef00bdf67d6ab2f8c9c39fa2be1f113c5fcdff662d",
+  "page": 1,
+  "text_status": "as-enacted; amendments not applied",
+  "images": {
+    "source": 0,
+    "referenced": 0,
+    "omitted": 0
+  },
+  "page_furniture_excluded": [
+    {
+      "page": 1,
+      "line": "бр. 18, 17.8.2026. год."
+    },
+    {
+      "page": 1,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 1,
+      "line": "981. страна"
+    },
+    {
+      "page": 2,
+      "line": "982. страна"
+    },
+    {
+      "page": 2,
+      "line": "СЛУЖБЕНИ ЛИСТ"
+    },
+    {
+      "page": 2,
+      "line": "бр. 18, 17.8.2026. год."
+    }
+  ],
+  "source_comparison": "MuPDF official act span exactly; pypdf every non-whitespace character equal",
+  "image_audit": [
+    {
+      "page": 1,
+      "xref": 17,
+      "rects": [
+        [
+          56.62799835205078,
+          71.34803771972656,
+          485.531982421875,
+          184.77203369140625
+        ]
+      ],
+      "outside_act_header": true
+    }
+  ]
+}
