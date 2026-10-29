@@ -1,0 +1,25 @@
+{
+ "country": "RS",
+ "acts": [
+  {
+   "slug": "ustav",
+   "short": "Устав",
+   "title": "Устав Републике Србије",
+   "url": "https://pravno-informacioni-sistem.rs/eli/rep/sgrs/skupstina/ustav/2006/98/1/reg",
+   "versions": [
+    {
+     "from": "2006-11-08",
+     "units": 207,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f0d72ce3-dad2-4395-a2c1-c3d3226f22c2?lawActId=408046",
+     "sha256": "663424dce5172d60b5ac5e7d1cf72ddd87775b38263f20a658aa689e1d553b60"
+    },
+    {
+     "from": "2022-02-09",
+     "units": 207,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f0d72ce3-dad2-4395-a2c1-c3d3226f22c2?lawActId=433539",
+     "sha256": "26c030d66927925f2dc07cb980068b5ab663729043c792da22820a5bdb5bc6d1"
+    }
+   ]
+  }
+ ]
+}

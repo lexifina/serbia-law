@@ -1,0 +1,20 @@
+The legal text is the Constitution of the Republic of Serbia (Устав Републике Србије), as published in the
+free official register of the Pravno-informacioni sistem of the Republic of Serbia (Службени гласник РС):
+
+  Source: https://pravno-informacioni-sistem.rs, retrieved 29 October 2026.
+
+Serbia's Law on Copyright and Related Rights (Закон о ауторском и сродним правима, "Службени гласник РС",
+бр. 104/2009 and later amendments) does not treat laws, by-laws and other regulations as protected works.
+This is a summary, not a quotation: the article number and exact wording were not checked against the
+current official text when this repository was built.
+
+Changes made by Lexifina: each version was converted to one Markdown file per article, one paragraph per
+line; the text of articles is as the register prints it. The register's article captions, the headings of
+parts and sections, the title block and the amendment notes ("*Службени гласник РС, број 115/2021 (Амандман I)")
+were left out of the article files. The versions were arranged as git commits credited to the act that made
+each change. The wording of the law was not changed.
+The register does not endorse this repository.
+
+Lexifina's own contributions (the arrangement of the history, the commit messages, the tables and the
+tools) are dedicated to the public domain under CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/legalcode

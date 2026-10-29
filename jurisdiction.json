@@ -1,0 +1,9 @@
+{
+  "path": "rs",
+  "code": "RS",
+  "name": "Serbia",
+  "level": "country",
+  "repo": "https://github.com/lexifina/serbia-law",
+  "build": "built: Устав Републике Србије (Constitution of the Republic of Serbia), 2 versions: as promulgated 2006-11-08 and with Amendments I-XXIX from 2022-02-09",
+  "register_date": "2026-10-29"
+}
