@@ -401,6 +401,21 @@
    ]
   },
   {
+   "slug": "uredba-1981-sfrj62-1582",
+   "path": "uredba/1981/sfrj62-1582",
+   "short": "Уредба о условима и начину прибављања, коришћења, одржавања, чувања и заштите предмета уметничке и културне вредности које користе савезни органи",
+   "title": "Уредба о условима и начину прибављања, коришћења, одржавања, чувања и заштите предмета уметничке и културне вредности које користе савезни органи",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/aae49f69-c9de-44ab-9413-00dbf0ed66d2",
+   "versions": [
+    {
+     "from": "1981-12-28",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/aae49f69-c9de-44ab-9413-00dbf0ed66d2?lawActId=421769",
+     "sha256": "ada37eaf6157471a75fd007cd08465c06320a7fdee80a3a2845704555f5b7492"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1983-sfrj17-374",
    "path": "uredba/1983/sfrj17-374",
    "short": "Уредба о условима и начину закључивања уговора о извођењу инвестиционих радова у иностранству који се односе на изградњу капацитета за производњу наоружања и војне опреме и других војних објеката",
@@ -431,6 +446,21 @@
    ]
   },
   {
+   "slug": "uredba-1983-sfrj43-1257",
+   "path": "uredba/1983/sfrj43-1257",
+   "short": "Уредба о висини вредности ствари и материјалних права као и о другим случајевима прибављања и отуђења ствари у друштвеној својини за потребе савезних органа у којима се не мора прибављати мишљење Савезног јавног правобранилаштва",
+   "title": "Уредба о висини вредности ствари и материјалних права као и о другим случајевима прибављања и отуђења ствари у друштвеној својини за потребе савезних органа у којима се не мора прибављати мишљење Савезног јавног правобранилаштва",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/345bdd62-4bbd-44a0-bfb1-05cf38a44557",
+   "versions": [
+    {
+     "from": "1983-08-20",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/345bdd62-4bbd-44a0-bfb1-05cf38a44557?lawActId=421768",
+     "sha256": "85cea57a6d01e502fedd11e32f82803d151c12d61de44bd61d65258acacd66dc"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1984-sfrj4-129",
    "path": "uredba/1984/sfrj4-129",
    "short": "Уредба о основним елементима система веза за потребе руковођења у друштвено-политичким заједницама у рату",
@@ -457,6 +487,36 @@
      "units": 11,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c1de2b24-6d24-4347-bc57-920bc0bf0bfb?lawActId=425077",
      "sha256": "8f1c1b3b1f19dfe9eebbaa6d924130e01e7da9750b078b6c94bbc1d175f67861"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1990-srs41-1520",
+   "path": "uredba/1990/srs41-1520",
+   "short": "Уредба о обезбеђивању и заштити информационих система државних органа",
+   "title": "Уредба о обезбеђивању и заштити информационих система државних органа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d6d3c2a0-aabd-46a7-a707-3d9844cb911c",
+   "versions": [
+    {
+     "from": "1990-08-04",
+     "units": 53,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d6d3c2a0-aabd-46a7-a707-3d9844cb911c?lawActId=418776",
+     "sha256": "15c6c679c53fc02c5625604379bb47f5e81b9642c49bc38275ced865a66c7068"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1991-41-1616",
+   "path": "uredba/1991/41-1616",
+   "short": "Уредба за спровођење Закона о начину и условима признавања права и враћању земљишта које је прешло у друштвену својину по основу пољопривредног земљишног фонда и конфискацијом због неизвршених обавеза из обавезног откупа пољопривредних производа",
+   "title": "Уредба за спровођење Закона о начину и условима признавања права и враћању земљишта које је прешло у друштвену својину по основу пољопривредног земљишног фонда и конфискацијом због неизвршених обавеза из обавезног откупа пољопривредних производа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8fbd38de-a032-4a79-856b-d3a8d94fada9",
+   "versions": [
+    {
+     "from": "2003-10-24",
+     "units": 24,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8fbd38de-a032-4a79-856b-d3a8d94fada9?lawActId=387484",
+     "sha256": "7acaad191c12aa4d4bdd97b238f74cb13cb7f4e8c75009c847af16fdd0685d8d"
     }
    ]
   },
@@ -581,6 +641,21 @@
    ]
   },
   {
+   "slug": "uredba-1992-47-1576",
+   "path": "uredba/1992/47-1576",
+   "short": "Уредба о методологији и начину праћења пословања предузећа у којима је Фонд за развој Републике Србије деоничар",
+   "title": "Уредба о методологији и начину праћења пословања предузећа у којима је Фонд за развој Републике Србије деоничар",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/00b7944c-80c2-447d-ab04-29b93be20a60",
+   "versions": [
+    {
+     "from": "1992-07-19",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/00b7944c-80c2-447d-ab04-29b93be20a60?lawActId=418569",
+     "sha256": "34fb96f302bd26cc42ccd62a4a05df7870e574d07cbc5286d5659b56e492803a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1992-srj2-25",
    "path": "uredba/1992/srj2-25",
    "short": "Уредба о одређивању граничних прелаза и контроли прелажења државне границе",
@@ -626,6 +701,21 @@
    ]
   },
   {
+   "slug": "uredba-1994-21-469",
+   "path": "uredba/1994/21-469",
+   "short": "Уредба о прикупљању статистичких података о социјално-економском статусу и потребама војних инвалида и цивилних инвалида рата и чланова њихових породица",
+   "title": "Уредба о прикупљању статистичких података о социјално-економском статусу и потребама војних инвалида и цивилних инвалида рата и чланова њихових породица",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c89dc988-913f-40a6-81b2-92346c82eaaa",
+   "versions": [
+    {
+     "from": "1994-03-10",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c89dc988-913f-40a6-81b2-92346c82eaaa?lawActId=416476",
+     "sha256": "b44f7d7a245afa7c3f385bdb0beb607c1466c05eb1c3fa5fc9ed0c949a66aa99"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1994-54-1793",
    "path": "uredba/1994/54-1793",
    "short": "Уредба о одређивању репрезентативних катастарских срезова",
@@ -637,6 +727,21 @@
      "units": 2,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8255f881-cdfc-44a9-b7e9-6445325234ab?lawActId=217983",
      "sha256": "7c658f5ae9e43db4ffe379a30b4908918ae92728d1a162c5beb311f5eb006b5e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1994-srj23-237",
+   "path": "uredba/1994/srj23-237",
+   "short": "Уредба о евиденцији имовине Савезне Републике Југославије",
+   "title": "Уредба о евиденцији имовине Савезне Републике Југославије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/45b959e9-e401-427f-a257-8382f2f2daa5",
+   "versions": [
+    {
+     "from": "1994-03-25",
+     "units": 21,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/45b959e9-e401-427f-a257-8382f2f2daa5?lawActId=421766",
+     "sha256": "acf2bf73b443bddc96411eb17db21337654c241b0bcf1b5d50bd7977e9162228"
     }
    ]
   },
@@ -701,6 +806,21 @@
    ]
   },
   {
+   "slug": "uredba-1995-srj39-1",
+   "path": "uredba/1995/srj39-1",
+   "short": "Уредба о упису у регистар заступника који води Савезни завод за интелектуалну својину",
+   "title": "Уредба о упису у регистар заступника који води Савезни завод за интелектуалну својину",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f28c25fb-221f-4f5f-8a69-33b0b5e2aac3",
+   "versions": [
+    {
+     "from": "1995-09-02",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f28c25fb-221f-4f5f-8a69-33b0b5e2aac3?lawActId=424555",
+     "sha256": "49667815c5e88cc925697a5f18cde1a749d008ce49a803faec54c1365a74ebc3"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1996-29-883",
    "path": "uredba/1996/29-883",
    "short": "Уредба о забрани употребе семенске пшенице за људску и сточну исхрану",
@@ -761,6 +881,36 @@
    ]
   },
   {
+   "slug": "uredba-1997-25-489",
+   "path": "uredba/1997/25-489",
+   "short": "Уредба о минимуму процеса рада за време штрајка у здравственим установама",
+   "title": "Уредба о минимуму процеса рада за време штрајка у здравственим установама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/99bdc12c-765b-4197-be7f-1d5a3b2da930",
+   "versions": [
+    {
+     "from": "1997-06-17",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/99bdc12c-765b-4197-be7f-1d5a3b2da930?lawActId=218449",
+     "sha256": "5705165798b157dfa0b7bb48c0d42d2febca6a72cba35ede2032edb58d951530"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1997-53-1163",
+   "path": "uredba/1997/53-1163",
+   "short": "Уредба о признањима за обављање послова у државним органима",
+   "title": "Уредба о признањима за обављање послова у државним органима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e5754eab-661e-49be-b815-192337e0557f",
+   "versions": [
+    {
+     "from": "2011-09-27",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e5754eab-661e-49be-b815-192337e0557f?lawActId=418780",
+     "sha256": "72ef335e0e2a09784a57f02f66ccd9e99129095a0e02566efd9449ddc4d4d71c"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1997-srj1-1",
    "path": "uredba/1997/srj1-1",
    "short": "Уредба о упису у судски регистар",
@@ -772,6 +922,51 @@
      "units": 118,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/43c6fe53-59c9-4f7e-b998-83cae3ea99c9?lawActId=382426",
      "sha256": "2039f683d981df9b04aeeebdb5bec5e41c16bee848b9e863f3ed48068a66de6b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1997-srj10-1",
+   "path": "uredba/1997/srj10-1",
+   "short": "Уредба о одређивању поверљивих проналазака који су значајни за одбрану и безбедност Савезне Републике Југославије",
+   "title": "Уредба о одређивању поверљивих проналазака који су значајни за одбрану и безбедност Савезне Републике Југославије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4633a1c0-6d85-48fa-8eb2-d6790fdadd23",
+   "versions": [
+    {
+     "from": "1997-03-15",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4633a1c0-6d85-48fa-8eb2-d6790fdadd23?lawActId=424554",
+     "sha256": "314587ad0fdce7db47ae99074ce41f303954ffb00a4c5afe60086dd34028e946"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1997-srj20-1",
+   "path": "uredba/1997/srj20-1",
+   "short": "Уредба о премијским стопама у осигурању од аутоодговорности",
+   "title": "Уредба о премијским стопама у осигурању од аутоодговорности",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/dc806749-b7a0-4ab6-949b-12322d5bae12",
+   "versions": [
+    {
+     "from": "2005-04-30",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dc806749-b7a0-4ab6-949b-12322d5bae12?lawActId=423880",
+     "sha256": "f44e67dd1f2ed4bb8f6b22c895deb7c61c5bd54e70c491730751aedb7bdbc7ad"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1997-srj4-1",
+   "path": "uredba/1997/srj4-1",
+   "short": "Уредба о начину израде, утврђивања и доношења југословенских стандарда",
+   "title": "Уредба о начину израде, утврђивања и доношења југословенских стандарда",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/35d6bacf-b6da-496d-a308-cac479a9d53f",
+   "versions": [
+    {
+     "from": "1997-02-01",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/35d6bacf-b6da-496d-a308-cac479a9d53f?lawActId=421320",
+     "sha256": "8de81a53a88e0d1afeb90ad0a0341df4b732225258878770e0c26d0e2a5add30"
     }
    ]
   },
@@ -806,6 +1001,36 @@
    ]
   },
   {
+   "slug": "uredba-1998-srj63-1",
+   "path": "uredba/1998/srj63-1",
+   "short": "Уредба о начину, критеријумима и мерилима за давање станова у закуп и додељивање стамбених зајмова за решавање стамбених питања запослених у савезним органима",
+   "title": "Уредба о начину, критеријумима и мерилима за давање станова у закуп и додељивање стамбених зајмова за решавање стамбених питања запослених у савезним органима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/03738ca9-da9d-4871-93e9-3d2c4249598c",
+   "versions": [
+    {
+     "from": "2001-03-27",
+     "units": 32,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/03738ca9-da9d-4871-93e9-3d2c4249598c?lawActId=421764",
+     "sha256": "941eacac3e96dfcf563879298340f620cb600a86431fb186c36ba8e35a96b38e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1999-31-510",
+   "path": "uredba/1999/31-510",
+   "short": "Уредба о прикупљању статистичких података и социјално-економском статусу и потребама војних инвалида и цивилних инвалида рата и чланова њихових породица из рата у Савезној Републици Југославији од 24. марта 1999. године",
+   "title": "Уредба о прикупљању статистичких података и социјално-економском статусу и потребама војних инвалида и цивилних инвалида рата и чланова њихових породица из рата у Савезној Републици Југославији од 24. марта 1999. године",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4241952b-5831-473b-a941-10b4d9b55374",
+   "versions": [
+    {
+     "from": "1999-07-10",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4241952b-5831-473b-a941-10b4d9b55374?lawActId=416475",
+     "sha256": "5d59ab606fe68adb009814075a7883d902f0a5b8fb291edf418b2ec0eab1e61e"
+    }
+   ]
+  },
+  {
    "slug": "uredba-1999-54-1059",
    "path": "uredba/1999/54-1059",
    "short": "Уредба о одређивању назива новообразованог насељеног места Стари Лединци у граду Новом Саду",
@@ -817,6 +1042,21 @@
      "units": 2,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7a8043df-d3f9-4e20-baf0-fc5659a813e6?lawActId=421671",
      "sha256": "c32e1ec1ecaf698ff7bd01578ef306be536d08e7ba9b78e8e72bbb5c52e0a2d9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-1999-srj19-1",
+   "path": "uredba/1999/srj19-1",
+   "short": "Уредба о утврђивању ратне штете проузроковане агресијом снага НАТО на Савезну Републику Југославију",
+   "title": "Уредба о утврђивању ратне штете проузроковане агресијом снага НАТО на Савезну Републику Југославију",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f9fd6745-08c5-4735-87be-68bc00215bfb",
+   "versions": [
+    {
+     "from": "1999-04-01",
+     "units": 13,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f9fd6745-08c5-4735-87be-68bc00215bfb?lawActId=221831",
+     "sha256": "1918e6a91c1ca05a721799866bf65238137bb835e13b8cd52beb74577f5163cf"
     }
    ]
   },
@@ -848,6 +1088,21 @@
    ]
   },
   {
+   "slug": "uredba-2000-37-914",
+   "path": "uredba/2000/37-914",
+   "short": "Уредба о начину давања сагласности за извођење радова у зградама у својини Републике Србије",
+   "title": "Уредба о начину давања сагласности за извођење радова у зградама у својини Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/39883086-ee28-4fda-8972-c8d06929c754",
+   "versions": [
+    {
+     "from": "2000-10-26",
+     "units": 9,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/39883086-ee28-4fda-8972-c8d06929c754?lawActId=421761",
+     "sha256": "df5bfb989ac12af7d5e24439664885e1c2ed276cba9affbac8e0fe41ff959912"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2000-srj23-1",
    "path": "uredba/2000/srj23-1",
    "short": "Уредба о оснивању Војне академије",
@@ -859,6 +1114,21 @@
      "units": 13,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/36fc6e43-7193-4558-abd6-9ef9cf0bd730?lawActId=425845",
      "sha256": "4b5c9bae22ef0f72fb6a7ba5a5b0434ed8af7ba7432cacd7a0ca825cfa32a22d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2000-srj70-1",
+   "path": "uredba/2000/srj70-1",
+   "short": "Уредба о престанку важења Уредбе о новом динару",
+   "title": "Уредба о престанку важења Уредбе о новом динару",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2a409df1-0251-49c9-8ded-add9e7dc5440",
+   "versions": [
+    {
+     "from": "2000-12-15",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2a409df1-0251-49c9-8ded-add9e7dc5440?lawActId=420274",
+     "sha256": "eb2d94f759744701957cbab9954e527f38b419577acde7d3280741b96ddc87d0"
     }
    ]
   },
@@ -878,6 +1148,102 @@
    ]
   },
   {
+   "slug": "uredba-2001-44-3",
+   "path": "uredba/2001/44-3",
+   "short": "Уредба о коефицијентима за обрачун и исплату плата запослених у јавним службама",
+   "title": "Уредба о коефицијентима за обрачун и исплату плата запослених у јавним службама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22",
+   "versions": [
+    {
+     "from": "2019-01-01",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=424520",
+     "sha256": "d1f85eaf949d32b8470019d9ad72c6740c65fa9b622919146748c68734af610d"
+    },
+    {
+     "from": "2021-03-01",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=431814",
+     "sha256": "abf1ac97041027329a18f3d6a4a2d8106dc1db7058af1304cdb2be14079d7c76"
+    },
+    {
+     "from": "2021-05-21",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=432173",
+     "sha256": "62483546a9504731b7241216c07bda8aa8b2710973af575dc2a008f3d5916b36"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=437966",
+     "sha256": "cf6a09632ea5765458cadba4a795fa061ec565042db8187a53062553c27545c2"
+    },
+    {
+     "from": "2025-01-25",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=438128",
+     "sha256": "944232a374ab2c100d06f51821b936b18968765e5ac62d363e7b4a7df81241ad"
+    },
+    {
+     "from": "2025-02-15",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=438189",
+     "sha256": "131178afe9f30a539c7219b39f70cf3ae4c30f5a4ec8c7a3dfebdcd8f42e160d"
+    },
+    {
+     "from": "2025-02-22",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=438209",
+     "sha256": "8839302c27aed1f1f55707ddb85b61159aa399c25bdb9152c03a01dccb5381af"
+    },
+    {
+     "from": "2025-03-08",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=438269",
+     "sha256": "d5be42715943b90b285debe3b4e94a2d20a7119f3b0499b9dc6ea6683f31b855"
+    },
+    {
+     "from": "2025-10-04",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=439044",
+     "sha256": "36a6e10e4b2221fa9638d4c1861e6b58a1756419e686441b843b3c129f6883c9"
+    },
+    {
+     "from": "2025-10-18",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=439084",
+     "sha256": "fe15ad98246a0c6117bfa4fde155a43fd02bdbd067533a603062d3798296ad88"
+    },
+    {
+     "from": "2025-11-01",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=439131",
+     "sha256": "faa21f837a94a7539dea30b31cf550ddf7fd7c514e921a2d4e053fcc7428c350"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93f7acb4-d7e4-4723-ba13-19f44edb7c22?lawActId=439574",
+     "sha256": "0afc28bc7357f1890766a03f262c4bd325ca9701e62df43c07175eabb4fdac3f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2001-60-17",
+   "path": "uredba/2001/60-17",
+   "short": "Уредба о минимуму процеса рада за време штрајка у Јавном предузећу ПТТ саобраћаја \"Србија\"",
+   "title": "Уредба о минимуму процеса рада за време штрајка у Јавном предузећу ПТТ саобраћаја \"Србија\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/029171a9-0193-45f7-98d3-630f373ed80c",
+   "versions": [
+    {
+     "from": "2001-10-27",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/029171a9-0193-45f7-98d3-630f373ed80c?lawActId=218500",
+     "sha256": "9ec909e38e6a60f409be70114b0d2e3b0235ed2bdbcd064542bf7bd5f42a13ee"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2002-15-8",
    "path": "uredba/2002/15-8",
    "short": "Уредба о промени назива насељеног места Партизани у Даросава",
@@ -893,6 +1259,21 @@
    ]
   },
   {
+   "slug": "uredba-2002-50-2",
+   "path": "uredba/2002/50-2",
+   "short": "Уредба о минимуму процеса рада за време штрајка у Јавном железничко транспортном предузећу \"Београд\"",
+   "title": "Уредба о минимуму процеса рада за време штрајка у Јавном железничко транспортном предузећу \"Београд\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ee05afe9-d19b-4dc5-ab0d-16c9252c3336",
+   "versions": [
+    {
+     "from": "2004-03-26",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ee05afe9-d19b-4dc5-ab0d-16c9252c3336?lawActId=225284",
+     "sha256": "4e21f882601740bf63598734cad6171cd9ce2a2e7d805ff3d700a4d84dd19a34"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2002-68-4",
    "path": "uredba/2002/68-4",
    "short": "Уредба о начину евидентирања, обраде, чувања, коришћења, заштите и достављања другим надлежним државним органима информација и докумената о пословма из надлежности Безбедносно-информативне агенције",
@@ -904,6 +1285,21 @@
      "units": 10,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/56c7579e-47d5-4b07-abda-f7bfe3c2563d?lawActId=294903",
      "sha256": "a925546487d126366051816fc41e525b0b4830296106b1b01d2a3f99f2cb1d20"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2003-119-1",
+   "path": "uredba/2003/119-1",
+   "short": "Уредба о минимуму процеса рада за време штрајка у Јавном предузећу \"Jat Airways\"",
+   "title": "Уредба о минимуму процеса рада за време штрајка у Јавном предузећу \"Jat Airways\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/045a6481-5593-4e70-8884-b80a6a5352ec",
+   "versions": [
+    {
+     "from": "2003-12-12",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/045a6481-5593-4e70-8884-b80a6a5352ec?lawActId=218444",
+     "sha256": "2e3244bec5a1c563c1c1fa3135f5a08e1f9dab54ffb061283ba3d9d3ac5c37f0"
     }
    ]
   },
@@ -950,6 +1346,21 @@
    ]
   },
   {
+   "slug": "uredba-2003-4-2",
+   "path": "uredba/2003/4-2",
+   "short": "Уредба о минимуму процеса рада у Јавном предузећу \"Радио-телевизија Србије\"",
+   "title": "Уредба о минимуму процеса рада у Јавном предузећу \"Радио-телевизија Србије\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4e12b90f-f07e-4848-83d6-50ad6a5f8892",
+   "versions": [
+    {
+     "from": "2003-01-24",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4e12b90f-f07e-4848-83d6-50ad6a5f8892?lawActId=221837",
+     "sha256": "6c534f2feb77939ad3ef6477462b784cecfed2fa183eaf38c683641b8da00c0b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2003-45-1",
    "path": "uredba/2003/45-1",
    "short": "Уредба о начину обрачунавања и плаћања акцизе у промету производа са Републиком Црном Гором",
@@ -976,6 +1387,21 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ae9c4490-3f90-446f-bc57-240a813e529f?lawActId=421669",
      "sha256": "885812d662e8d55aad98cf12f62f30ffcf434c7ca49749db2ed3d891d51c9a12"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2003-65-1",
+   "path": "uredba/2003/65-1",
+   "short": "Уредба о минимуму процеса рада факултета и универзитета чији је оснивач Република Србија",
+   "title": "Уредба о минимуму процеса рада факултета и универзитета чији је оснивач Република Србија",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/992eca5c-b51e-4102-b828-791cf504ac88",
+   "versions": [
+    {
+     "from": "2003-06-28",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/992eca5c-b51e-4102-b828-791cf504ac88?lawActId=279422",
+     "sha256": "4ac7a16e63ae858239b39fd5e35ed424e27633735e3c7434445247cacf6e7583"
     }
    ]
   },
@@ -1148,6 +1574,21 @@
    ]
   },
   {
+   "slug": "uredba-2005-11-1",
+   "path": "uredba/2005/11-1",
+   "short": "Уредба о висини награде и накнаде трошкова миритеља и арбитара за мирно решавање радних спорова",
+   "title": "Уредба о висини награде и накнаде трошкова миритеља и арбитара за мирно решавање радних спорова",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9a58f93f-8577-4108-8f6c-f73bdff2568a",
+   "versions": [
+    {
+     "from": "2005-10-08",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9a58f93f-8577-4108-8f6c-f73bdff2568a?lawActId=410299",
+     "sha256": "35a3551cf1fa00f137e7538aaddbb154741dc343e5856a44b115a2334f56d01c"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2005-117-3",
    "path": "uredba/2005/117-3",
    "short": "Уредба о разврставању радних места и мерилима за опис радних места државних службеника",
@@ -1222,6 +1663,21 @@
      "units": 5,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a51d26ab-9caf-43ce-b818-977611c2e7cf?lawActId=220186",
      "sha256": "85ea2440e251aea76a4d4eb6de1d6a87029c6881017aacb889089cecc7663349"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2005-52-3",
+   "path": "uredba/2005/52-3",
+   "short": "Уредба о поступку и начину реструктурирања субјеката приватизације",
+   "title": "Уредба о поступку и начину реструктурирања субјеката приватизације",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a95d3549-3298-4945-9842-6da8ed2c018d",
+   "versions": [
+    {
+     "from": "2014-08-13",
+     "units": 2,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a95d3549-3298-4945-9842-6da8ed2c018d?lawActId=418348",
+     "sha256": "d256ae3f67139dd40fef8a993808cb4e1a0c7bb9dabc50041c5ffd78b5d42d23"
     }
    ]
   },
@@ -1322,6 +1778,36 @@
    ]
   },
   {
+   "slug": "uredba-2006-116-3",
+   "path": "uredba/2006/116-3",
+   "short": "Уредба о минимуму процеса рада у Јавном предузећу \"Електропривреда Србије\"",
+   "title": "Уредба о минимуму процеса рада у Јавном предузећу \"Електропривреда Србије\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/afd9ccea-e91d-4b35-917f-6e35141b1e39",
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/afd9ccea-e91d-4b35-917f-6e35141b1e39?lawActId=225282",
+     "sha256": "96abe13995f08b4ab07517ef6799d4ce378be4e988ea2a83581fc1c40c35518e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2006-116-4",
+   "path": "uredba/2006/116-4",
+   "short": "Уредба о минимуму процеса рада у Јавном предузећу \"Електромрежа Србије\"",
+   "title": "Уредба о минимуму процеса рада у Јавном предузећу \"Електромрежа Србије\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/1a3db5c0-72fc-4a2e-b9ec-7bbaf4855246",
+   "versions": [
+    {
+     "from": "2006-12-30",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/1a3db5c0-72fc-4a2e-b9ec-7bbaf4855246?lawActId=218442",
+     "sha256": "be59390beabc205888bf2d7472eede8dc0cbb649d6781f940b31bf57c920e493"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2006-15-3",
    "path": "uredba/2006/15-3",
    "short": "Уредба о управним окрузима",
@@ -1381,6 +1867,21 @@
      "units": 23,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b3cd2a45-299a-4fcf-9c39-5d4108c0c0fe?lawActId=439833",
      "sha256": "7705cb480f18fc3fc54b1c35c4c9ad956ab556a8436df42ab87d36da22b003e1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2006-42-3",
+   "path": "uredba/2006/42-3",
+   "short": "Уредба о поступку продаје капитала друштава за осигурање јавним тендером",
+   "title": "Уредба о поступку продаје капитала друштава за осигурање јавним тендером",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/56f410d6-cdce-4f0b-9d03-b88611362e30",
+   "versions": [
+    {
+     "from": "2006-10-07",
+     "units": 61,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/56f410d6-cdce-4f0b-9d03-b88611362e30?lawActId=423876",
+     "sha256": "3e4efe1dd909e36d43da968f5a6ee1b0c69d6d37d73aca28022db79f69441fd9"
     }
    ]
   },
@@ -1526,6 +2027,21 @@
    ]
   },
   {
+   "slug": "uredba-2006-scg17-1",
+   "path": "uredba/2006/scg17-1",
+   "short": "Уредба о начину израде и доношењу техничких прописа и регистру тих прописа",
+   "title": "Уредба о начину израде и доношењу техничких прописа и регистру тих прописа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/638ac87a-b7a3-4df9-8dad-d7c38a1662e0",
+   "versions": [
+    {
+     "from": "2006-04-22",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/638ac87a-b7a3-4df9-8dad-d7c38a1662e0?lawActId=419098",
+     "sha256": "5b34502003e4cafc0a2a5b5b5c2cf1a3900572909988ade946fe7ed18ffff48a"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2007-110-3",
    "path": "uredba/2007/110-3",
    "short": "Уредба о посебни условима за транзит одређених деривата нафте",
@@ -1562,6 +2078,21 @@
    ]
   },
   {
+   "slug": "uredba-2007-19-3",
+   "path": "uredba/2007/19-3",
+   "short": "Уредба о начину и ближим критеријумима за утврђивање статуса професионалних инвеститора за одређена правна лица",
+   "title": "Уредба о начину и ближим критеријумима за утврђивање статуса професионалних инвеститора за одређена правна лица",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f94cb6ba-ff83-40e5-8b37-f9556ea426b2",
+   "versions": [
+    {
+     "from": "2007-02-27",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f94cb6ba-ff83-40e5-8b37-f9556ea426b2?lawActId=421866",
+     "sha256": "cb73e417e75a7f9b4806fc97d0ef3a71460812906740289d882dd73774b0d817"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2007-81-3",
    "path": "uredba/2007/81-3",
    "short": "Уредба о начелима за унутрашње уређење и систематизацију радних места у министарствима, посебним организацијама и службама Владе",
@@ -1585,6 +2116,33 @@
      "units": 38,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/1cab83f2-542e-46fe-b1de-0cc9d1cc1c07?lawActId=431882",
      "sha256": "b64bb64f94eecaa347a15ef736e99abe983309b313426c31e796de035d3097a0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2007-98-4",
+   "path": "uredba/2007/98-4",
+   "short": "Уредба о накнади трошкова и отпремнини државних службеника и намештеника",
+   "title": "Уредба о накнади трошкова и отпремнини државних службеника и намештеника",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/bc5765c5-c3cd-4fcd-a468-79d507b28c5d",
+   "versions": [
+    {
+     "from": "2015-10-14",
+     "units": 51,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bc5765c5-c3cd-4fcd-a468-79d507b28c5d?lawActId=422230",
+     "sha256": "0f974b0cd0aca5bcbe10751f04ffdee5e655b3c8e343318a4f2a9ea7896b1240"
+    },
+    {
+     "from": "2021-07-31",
+     "units": 51,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bc5765c5-c3cd-4fcd-a468-79d507b28c5d?lawActId=432550",
+     "sha256": "71e9fa6b8bd06569d15e7212dda26ddd38448299a5f1bd8525f436c97ad30451"
+    },
+    {
+     "from": "2024-01-06",
+     "units": 51,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bc5765c5-c3cd-4fcd-a468-79d507b28c5d?lawActId=436701",
+     "sha256": "55524ce0ecd55e70baab05fc5206e17cb84f83ee4f7a29352b2c8ee69db665a6"
     }
    ]
   },
@@ -1621,6 +2179,48 @@
      "units": 2,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ef595ab6-6645-462b-8407-f89173fc584d?lawActId=420314",
      "sha256": "ee290587a58e3639933361d3a337a2bcecb17c11c8fa04ef2053a0c125c5f93a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2008-44-12",
+   "path": "uredba/2008/44-12",
+   "short": "Уредба о коефицијентима за обрачун и исплату плата именованих и постављених лица и запослених у државним органима",
+   "title": "Уредба о коефицијентима за обрачун и исплату плата именованих и постављених лица и запослених у државним органима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/634f048c-cd7c-4d43-8963-e206bf1bd5a1",
+   "versions": [
+    {
+     "from": "2018-08-01",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/634f048c-cd7c-4d43-8963-e206bf1bd5a1?lawActId=425038",
+     "sha256": "3e9e90cd6031ce62d2dc0e2298aa08d85b280346a9c7e7df604f3bcf25d88403"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/634f048c-cd7c-4d43-8963-e206bf1bd5a1?lawActId=424534",
+     "sha256": "9b46698f4402c46c61e7ffc6470601ed72ef90402053f0bfcadb65887da8d02e"
+    },
+    {
+     "from": "2025-05-08",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/634f048c-cd7c-4d43-8963-e206bf1bd5a1?lawActId=438578",
+     "sha256": "3a4de0eeb93548cedf3b0e4fd309ec5ef135e0228aad6e987e1b10edb2924ea1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2008-44-13",
+   "path": "uredba/2008/44-13",
+   "short": "Уредба о накнадама и другим примањима изабраних и постављених лица у државним органима",
+   "title": "Уредба о накнадама и другим примањима изабраних и постављених лица у државним органима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9d135ff6-72c9-465c-b2fe-b6359d666ccd",
+   "versions": [
+    {
+     "from": "2012-08-11",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9d135ff6-72c9-465c-b2fe-b6359d666ccd?lawActId=424533",
+     "sha256": "6a8e88c4491d1426cf1660f6f076e3d154fe66cb0cb75b27d9c038bf4f6bbaec"
     }
    ]
   },
@@ -1691,6 +2291,21 @@
    ]
   },
   {
+   "slug": "uredba-2009-111-83",
+   "path": "uredba/2009/111-83",
+   "short": "Уредба о одређивању Министарства унутрашњих послова за издавање квалификованих електронских сертификата",
+   "title": "Уредба о одређивању Министарства унутрашњих послова за издавање квалификованих електронских сертификата",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/230aa970-b4ef-4da5-a9cc-a22d468e8359",
+   "versions": [
+    {
+     "from": "2010-01-06",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/230aa970-b4ef-4da5-a9cc-a22d468e8359?lawActId=418775",
+     "sha256": "5901b283dc3eb5f3c475fdf26dcd6258b030fe7f2c921f0d353131999b69758c"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2009-12-3",
    "path": "uredba/2009/12-3",
    "short": "Уредба о оснивању Канцеларије Савета за националну безбедност",
@@ -1702,6 +2317,39 @@
      "units": 7,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a85ad937-f9f4-42d0-ab1a-a9b049bc8515?lawActId=355686",
      "sha256": "c2ebdd70cafb48f720f964f8c48e8280cb7c0b42a7f937fade9a983e57387b4f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2009-14-48",
+   "path": "uredba/2009/14-48",
+   "short": "Уредба о безбедности и здрављу на раду на привременим или покретним градилиштима",
+   "title": "Уредба о безбедности и здрављу на раду на привременим или покретним градилиштима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/28c56b38-013a-418d-8aac-08736610616d",
+   "versions": [
+    {
+     "from": "2010-12-25",
+     "units": 28,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/28c56b38-013a-418d-8aac-08736610616d?lawActId=410246",
+     "sha256": "449f2bb5faaa00a2a41b22c806995306761eff7ad7009c6be1f7c9fabcc7ada1"
+    },
+    {
+     "from": "2018-12-22",
+     "units": 28,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/28c56b38-013a-418d-8aac-08736610616d?lawActId=427386",
+     "sha256": "be32612104a208813fedf5451b643ff06c65e0e1747e4e80c4e776651140c450"
+    },
+    {
+     "from": "2023-05-07",
+     "units": 27,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/28c56b38-013a-418d-8aac-08736610616d?lawActId=435443",
+     "sha256": "b25bf7dc73ac84e2e077982180e783994ff23206fb7ae7c76948398af9fad6b9"
+    },
+    {
+     "from": "2024-09-21",
+     "units": 26,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/28c56b38-013a-418d-8aac-08736610616d?lawActId=437551",
+     "sha256": "f1958274ec0ef70783b31fe914e72e8773baf990e28055735d762cd5324b5863"
     }
    ]
   },
@@ -1874,6 +2522,57 @@
    ]
   },
   {
+   "slug": "uredba-2009-89-3",
+   "path": "uredba/2009/89-3",
+   "short": "Уредба о начину успостављања и рада система брзе размене информација о опасним производима",
+   "title": "Уредба о начину успостављања и рада система брзе размене информација о опасним производима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/410dc494-e258-4835-b17e-fe531ab98a86",
+   "versions": [
+    {
+     "from": "2009-11-10",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/410dc494-e258-4835-b17e-fe531ab98a86?lawActId=421984",
+     "sha256": "10d353e2f4e6b1e059f59bac54b0efb680d55055d82db604678d3d7bcf630938"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2009-89-5",
+   "path": "uredba/2009/89-5",
+   "short": "Уредба о утврђивању најниже осигуране суме, односно суме осигурања на коју може бити уговорено обавезно осигурање у саобраћају",
+   "title": "Уредба о утврђивању најниже осигуране суме, односно суме осигурања на коју може бити уговорено обавезно осигурање у саобраћају",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/7c39ad38-b9cd-4dbc-aa69-c8e8fc0c9a0f",
+   "versions": [
+    {
+     "from": "2009-11-03",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7c39ad38-b9cd-4dbc-aa69-c8e8fc0c9a0f?lawActId=423879",
+     "sha256": "e28efee4cc80ea92f5b48778d93d41dd829857fa963c852e0a02c31b24d35a44"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-102-4",
+   "path": "uredba/2010/102-4",
+   "short": "Уредба о решавању стамбених потреба изабраних, постављених и запослених лица код корисника средстава у државној својини",
+   "title": "Уредба о решавању стамбених потреба изабраних, постављених и запослених лица код корисника средстава у државној својини",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/bb1bfe2c-48d2-4e21-b413-073951383e1c",
+   "versions": [
+    {
+     "from": "2012-12-12",
+     "units": 56,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bb1bfe2c-48d2-4e21-b413-073951383e1c?lawActId=419737",
+     "sha256": "0f97f90d509638ad5c323993fcc794c8125bffe77aeef827ebb40e979f5d6d3e"
+    },
+    {
+     "from": "2016-12-31",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bb1bfe2c-48d2-4e21-b413-073951383e1c?lawActId=419738",
+     "sha256": "22cbbc39693ce9523f5575e3625883f9de61bba9e3c90a3d0c71409f3dcb7ebe"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2010-102-45",
    "path": "uredba/2010/102-45",
    "short": "Уредба о репрограмирању дугорочних кредита датих за финансирање регистрованих пољопривредних газдинстава у циљу подстицања развоја пољопривредне производње",
@@ -1915,6 +2614,180 @@
      "units": 5,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/816c8795-ac30-4751-bc01-028be5f06937?lawActId=294918",
      "sha256": "788b41f058a45dac53b7b1fdec6358e18a47779c4288d5138e46c181806ab7cf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-43-11",
+   "path": "uredba/2010/43-11",
+   "short": "Уредба о садржини Регистра пријава и Регистра жигова, садржини захтева и предлога који се подносе у поступку за признање и заштиту жига и подацима који се објављују у службеном гласилу надлежног органа",
+   "title": "Уредба о садржини Регистра пријава и Регистра жигова, садржини захтева и предлога који се подносе у поступку за признање и заштиту жига и подацима који се објављују у службеном гласилу надлежног органа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ed25ea4d-ee12-41c4-b42d-d949a63b6e39",
+   "versions": [
+    {
+     "from": "2010-07-03",
+     "units": 33,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ed25ea4d-ee12-41c4-b42d-d949a63b6e39?lawActId=423580",
+     "sha256": "69360413194df4d0a425f0be435bc240d8e977f115fd7d610e80017c34cbf5a6"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 33,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ed25ea4d-ee12-41c4-b42d-d949a63b6e39?lawActId=426128",
+     "sha256": "ef65c72df9b674b625c072d69ad29c284d02b6c90506b935d181c77535aad5dc"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-43-17",
+   "path": "uredba/2010/43-17",
+   "short": "Уредба о садржини Регистра пријава и Регистра индустријског дизајна, садржини захтева који се подносе у поступку за признање и заштиту права на индустријски дизајн и подацима који се објављују у службеном гласилу надлежног органа",
+   "title": "Уредба о садржини Регистра пријава и Регистра индустријског дизајна, садржини захтева који се подносе у поступку за признање и заштиту права на индустријски дизајн и подацима који се објављују у службеном гласилу надлежног органа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/93af49e2-6277-4cf0-9f03-f1e244553974",
+   "versions": [
+    {
+     "from": "2010-07-03",
+     "units": 30,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93af49e2-6277-4cf0-9f03-f1e244553974?lawActId=423579",
+     "sha256": "9403469a9a557705dd810fbdc0d19a1983ff205d571c2066669ce1bc5bafc97a"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 30,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93af49e2-6277-4cf0-9f03-f1e244553974?lawActId=426127",
+     "sha256": "238fc8052f4f08a4e80a8f51f6b59067f7327c8aaa3b79e7a5044e397c064ed8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-43-6",
+   "path": "uredba/2010/43-6",
+   "short": "Уредба о поступку и начину на који законити ималац акција Акционарског фонда даје налог брокеру за прву продају акција",
+   "title": "Уредба о поступку и начину на који законити ималац акција Акционарског фонда даје налог брокеру за прву продају акција",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b",
+   "versions": [
+    {
+     "from": "2014-12-30",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=418422",
+     "sha256": "aa202eee6412593adbe927c2828ead0fb5423a11ccabfa6c6823311aefe31e9c"
+    },
+    {
+     "from": "2016-11-18",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=418424",
+     "sha256": "f00902e0cb9834249842ddd5148c8e0a2d1af6af0229597dceac6c8c42022c3f"
+    },
+    {
+     "from": "2018-10-20",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=426776",
+     "sha256": "1561218b033d0e11c7038e9ed6d5c83a7596d7871ac67ce77095ea0629e311bc"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=431458",
+     "sha256": "2d92c1356711b0d523f85076a434b2443ef40bc94579a0cbe56d990a85c8a309"
+    },
+    {
+     "from": "2022-12-31",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=434920",
+     "sha256": "d20d259e57018f4b9a28cd94ba4520219b52c64e1bca0f8df96a871a785793e3"
+    },
+    {
+     "from": "2024-12-28",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=437970",
+     "sha256": "79c0d83c0406825371e167fb7154237d3649400ce45846ba3781666f710f475e"
+    },
+    {
+     "from": "2026-09-12",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1444829-9510-4f6c-afa8-9b14240cad2b?lawActId=440576",
+     "sha256": "34573268d961d6fbfa7400c8b3ecd81aae94082752b26b3183fe2c0b2d9cb4f8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-45-12",
+   "path": "uredba/2010/45-12",
+   "short": "Уредба о условима које треба да испуњавају примерци ауторских дела и предмета сродних права који се депонују, уношењу у евиденцију и депоновању ауторских дела и предмета сродних права и садржају евиденције депонованих ауторских дела и предмета сродних права, код надлежног органа",
+   "title": "Уредба о условима које треба да испуњавају примерци ауторских дела и предмета сродних права који се депонују, уношењу у евиденцију и депоновању ауторских дела и предмета сродних права и садржају евиденције депонованих ауторских дела и предмета сродних права, код надлежног органа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/5028742c-1470-48e5-bf25-91d8001d2ed1",
+   "versions": [
+    {
+     "from": "2010-07-11",
+     "units": 24,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5028742c-1470-48e5-bf25-91d8001d2ed1?lawActId=324752",
+     "sha256": "92dab62c0ca1d74c1d8f052d5c30c0b09450ca7a9de166fa29cbfda82c845c10"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-45-4",
+   "path": "uredba/2010/45-4",
+   "short": "Уредба о утврђивању Листе техничких уређаја и предмета за које постоји обавеза плаћања посебне накнаде носиоцима ауторског и сродних права",
+   "title": "Уредба о утврђивању Листе техничких уређаја и предмета за које постоји обавеза плаћања посебне накнаде носиоцима ауторског и сродних права",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/81a9ec08-4640-47fc-8ab9-00b364ba8d03",
+   "versions": [
+    {
+     "from": "2010-06-11",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/81a9ec08-4640-47fc-8ab9-00b364ba8d03?lawActId=311390",
+     "sha256": "9dddb2f805f97b7b7e478bcc85df8e7581eb72b1a11e9326cc8feaa12b5d763e"
+    },
+    {
+     "from": "2022-04-29",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/81a9ec08-4640-47fc-8ab9-00b364ba8d03?lawActId=433903",
+     "sha256": "8b9fe56d37976af843a79a9f08198219c4537e131ae08157eb1ba5fd8f4b235b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-45-5",
+   "path": "uredba/2010/45-5",
+   "short": "Уредба о садржини Регистра пријава и Регистра топографија и садржини захтева за признање права на топографију у поступку за правну заштиту топографија интегрисаних кола",
+   "title": "Уредба о садржини Регистра пријава и Регистра топографија и садржини захтева за признање права на топографију у поступку за правну заштиту топографија интегрисаних кола",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4ba46cbf-0b27-4237-a34b-d393114563a5",
+   "versions": [
+    {
+     "from": "2010-07-11",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4ba46cbf-0b27-4237-a34b-d393114563a5?lawActId=423582",
+     "sha256": "5f091b461d108a0362f3bb3e10cd24b3c54a22839ee756fe92e14fec602448a7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-46-7",
+   "path": "uredba/2010/46-7",
+   "short": "Уредба o начину предлагања кандидата за чланове Националног савета за регионални развој",
+   "title": "Уредба o начину предлагања кандидата за чланове Националног савета за регионални развој",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/5384c0e2-9d05-4d03-9616-3735b33d2171",
+   "versions": [
+    {
+     "from": "2010-07-10",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5384c0e2-9d05-4d03-9616-3735b33d2171?lawActId=420401",
+     "sha256": "0c6a46de5c7d6804177531d63b02001f477e86ec0ef273eb3a3a2d34dbe369c9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-47-3",
+   "path": "uredba/2010/47-3",
+   "short": "Уредба о ближим условима за издавање, коришћење и укидање дозвола за извоз, увоз, односно транзит робе и расподелу квота",
+   "title": "Уредба о ближим условима за издавање, коришћење и укидање дозвола за извоз, увоз, односно транзит робе и расподелу квота",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3bb0fb62-a759-4345-9530-4a06ab9980ef",
+   "versions": [
+    {
+     "from": "2010-07-21",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3bb0fb62-a759-4345-9530-4a06ab9980ef?lawActId=424648",
+     "sha256": "66b1405722912981ee57d3c547b30af4c5f9ab1580e17a04874c54b013bf9755"
     }
    ]
   },
@@ -1970,6 +2843,21 @@
    ]
   },
   {
+   "slug": "uredba-2010-6-80",
+   "path": "uredba/2010/6-80",
+   "short": "Уредба Комисије (ЕЗ) број 42/2010 од 15. јануара 2010. године у вези са сврставањем одређених роба према Комбинованој номенклатури",
+   "title": "Уредба Комисије (ЕЗ) број 42/2010 од 15. јануара 2010. године у вези са сврставањем одређених роба према Комбинованој номенклатури",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b1a7c359-4c97-480e-9b1a-ff8735f0de83",
+   "versions": [
+    {
+     "from": "2010-02-12",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b1a7c359-4c97-480e-9b1a-ff8735f0de83?lawActId=417636",
+     "sha256": "1672c4cea76d033baad64cc5aff180c19f43dd8d44b7e70bcea9ec112cc287a1"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2010-60-3",
    "path": "uredba/2010/60-3",
    "short": "Уредба о начину и условима давања на коришћење непокретности у својини Републике Србије за потребе Војнобезбедносне агенције и Војнообавештајне агенције",
@@ -2006,6 +2894,42 @@
    ]
   },
   {
+   "slug": "uredba-2010-61-5",
+   "path": "uredba/2010/61-5",
+   "short": "Уредба о превентивним мерама за безбедан и здрав рад при експлоатацији минералних сировина дубинским бушотинама",
+   "title": "Уредба о превентивним мерама за безбедан и здрав рад при експлоатацији минералних сировина дубинским бушотинама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8c4ec1a9-5f7e-41b4-a550-c132067d8d29",
+   "versions": [
+    {
+     "from": "2010-09-08",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8c4ec1a9-5f7e-41b4-a550-c132067d8d29?lawActId=410245",
+     "sha256": "8c99b806589f468c6b2769e88fbf6785ced6ce72888def651388f211234344c8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-65-3",
+   "path": "uredba/2010/65-3",
+   "short": "Уредба о превентивним мерама за безбедан и здрав рад при подземној и површинској експлоатацији минералних сировина",
+   "title": "Уредба о превентивним мерама за безбедан и здрав рад при подземној и површинској експлоатацији минералних сировина",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ff2e2d68-ecd2-4f0d-afb8-a292c53b5bd1",
+   "versions": [
+    {
+     "from": "2010-09-22",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ff2e2d68-ecd2-4f0d-afb8-a292c53b5bd1?lawActId=410244",
+     "sha256": "4122dc931f38629e51d96e59729f8e7705860cb81f3a70569bb403b1560b923d"
+    },
+    {
+     "from": "2021-01-07",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ff2e2d68-ecd2-4f0d-afb8-a292c53b5bd1?lawActId=431462",
+     "sha256": "a39ee3ccc4e3e32b57df611436db5dc97a475d675ec73213be074d1376f16913"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2010-67-5",
    "path": "uredba/2010/67-5",
    "short": "Уредба о утврђивању Програма мера за подстицање развоја пољопривредне производње давањем дугорочних кредита у сарадњи са Фондом за развој Аутономне покрајине Војводине у 2010. и 2011. години",
@@ -2017,6 +2941,54 @@
      "units": 5,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f3689f69-4ac1-4c0c-ace4-13a7f99dee05?lawActId=423276",
      "sha256": "be2524baf330da8081211ebe8bdf28307c2207155f3b412f9f30920f0b7e4754"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-70-4",
+   "path": "uredba/2010/70-4",
+   "short": "Уредба о превентивним мерама за безбедан и здрав рад на пловилима која обављају риболов",
+   "title": "Уредба о превентивним мерама за безбедан и здрав рад на пловилима која обављају риболов",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3f5192f4-c290-4172-84d7-e8ecc6dd8e53",
+   "versions": [
+    {
+     "from": "2010-10-08",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3f5192f4-c290-4172-84d7-e8ecc6dd8e53?lawActId=410243",
+     "sha256": "a49f0980ccc486945c398418bfa0e864965018db68377cf60b1eae6448bf17b0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2010-74-3",
+   "path": "uredba/2010/74-3",
+   "short": "Уредба о утврђивању услова, критеријума и начина акредитације за обављање послова регионалног развоја и одузимања акредитације пре истека рока на који је издата",
+   "title": "Уредба о утврђивању услова, критеријума и начина акредитације за обављање послова регионалног развоја и одузимања акредитације пре истека рока на који је издата",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e86e1d64-1fe8-4e61-922a-4d3134e0bbee",
+   "versions": [
+    {
+     "from": "2012-01-21",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e86e1d64-1fe8-4e61-922a-4d3134e0bbee?lawActId=420400",
+     "sha256": "c62bc8544e75866490408d268c6f4e51d9dfffb9f9b8462138996b7a6e0c86a4"
+    },
+    {
+     "from": "2018-10-01",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e86e1d64-1fe8-4e61-922a-4d3134e0bbee?lawActId=426358",
+     "sha256": "2c6d88977e23a6f6d512fe69b2da4280f70b9f94d63493bbb47c7aad53b26b31"
+    },
+    {
+     "from": "2019-10-05",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e86e1d64-1fe8-4e61-922a-4d3134e0bbee?lawActId=429119",
+     "sha256": "346fc0499155d3544122ddfcff7c5129a73af55e36ec1cdded05c38610df88af"
+    },
+    {
+     "from": "2022-10-15",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e86e1d64-1fe8-4e61-922a-4d3134e0bbee?lawActId=434495",
+     "sha256": "a18b311dc85d7e37bd4cd9989501cd6e5f98c8e21075b5bceb7ca66044c4dc83"
     }
    ]
   },
@@ -2096,6 +3068,33 @@
    ]
   },
   {
+   "slug": "uredba-2010-93-4",
+   "path": "uredba/2010/93-4",
+   "short": "Уредба o садржини, начину и поступку вођења Регистра мера и подстицаја регионалног развоја",
+   "title": "Уредба o садржини, начину и поступку вођења Регистра мера и подстицаја регионалног развоја",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/38fc0c7e-5fc8-4576-bb82-f9ef35676750",
+   "versions": [
+    {
+     "from": "2015-09-12",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/38fc0c7e-5fc8-4576-bb82-f9ef35676750?lawActId=421744",
+     "sha256": "5ea0ede03f25d32a9a2fe2c65c04bdfd62dc3e97101825f0e9689a44fa1f4690"
+    },
+    {
+     "from": "2017-03-02",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/38fc0c7e-5fc8-4576-bb82-f9ef35676750?lawActId=421747",
+     "sha256": "7c4f11ebb9829a394aa916c6dede2fe985319b438c305d7557f5f8eebf843866"
+    },
+    {
+     "from": "2017-09-23",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/38fc0c7e-5fc8-4576-bb82-f9ef35676750?lawActId=423818",
+     "sha256": "94c141e2853401db73828cc7984a3d9133765eda0c52e3fe3abc0e82a075c4f6"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2011-100-10",
    "path": "uredba/2011/100-10",
    "short": "Уредба о начину и поступку извршавања војне, радне и материјалне обавезе",
@@ -2117,6 +3116,39 @@
    ]
   },
   {
+   "slug": "uredba-2011-100-59",
+   "path": "uredba/2011/100-59",
+   "short": "Уредба о корективном коефицијенту, највишем процентуалном увећању основне плате, критеријумима и мерилима за део плате који се остварује по основу радног учинка, као и начину обрачуна плате запослених у здравственим установама",
+   "title": "Уредба о корективном коефицијенту, највишем процентуалном увећању основне плате, критеријумима и мерилима за део плате који се остварује по основу радног учинка, као и начину обрачуна плате запослених у здравственим установама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/718d6c42-2754-4219-bce5-557a5cbb85d1",
+   "versions": [
+    {
+     "from": "2018-03-29",
+     "units": 26,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/718d6c42-2754-4219-bce5-557a5cbb85d1?lawActId=425016",
+     "sha256": "7287ab2caf9729e28ac1d2be15611cbf40be49722be6c5e87f3b08e96c22f705"
+    },
+    {
+     "from": "2019-07-01",
+     "units": 25,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/718d6c42-2754-4219-bce5-557a5cbb85d1?lawActId=427852",
+     "sha256": "691d15fbbb0b4492e4ec00c9b9ce6b2c9aa1c3ad0a98307a711398216a66b106"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 25,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/718d6c42-2754-4219-bce5-557a5cbb85d1?lawActId=424519",
+     "sha256": "8eb483320da3a6b5fa67cbedbe5c5740ec3841dc39c46006550cfe76402a6151"
+    },
+    {
+     "from": "2020-07-01",
+     "units": 24,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/718d6c42-2754-4219-bce5-557a5cbb85d1?lawActId=429888",
+     "sha256": "bac36ec16bdf1d970240306498f38a2f38b0f7794c1625dea514b5ef61e7e056"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2011-11-3",
    "path": "uredba/2011/11-3",
    "short": "Уредба о начину управљања новчаним средствима добијеним од закупа привремено одузете непокретне имовине и привремено одузетим путничким возилима",
@@ -2128,6 +3160,21 @@
      "units": 5,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/037d1288-5522-4fda-a09f-80c50dc23111?lawActId=418779",
      "sha256": "bd8216920f826fadd6b2f8740bfb09000fb237b6ced56b0867a3068e11d448bf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2011-15-3",
+   "path": "uredba/2011/15-3",
+   "short": "Уредба о структури, методологији израде, начину усклађивања развојних докумената, начину спровођења јавне расправе, као и начину и роковима излагања на јавни увид развојних докумената регионалног развоја",
+   "title": "Уредба о структури, методологији израде, начину усклађивања развојних докумената, начину спровођења јавне расправе, као и начину и роковима излагања на јавни увид развојних докумената регионалног развоја",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/35218836-7cc7-42dd-b011-6e758716390c",
+   "versions": [
+    {
+     "from": "2011-03-16",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/35218836-7cc7-42dd-b011-6e758716390c?lawActId=420398",
+     "sha256": "2eff9dd7318137e5846f34b6b98dbde75bb3a3a0e7994aff7903572612ffe939"
     }
    ]
   },
@@ -2239,6 +3286,21 @@
      "units": 6,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/439fc4e0-bdfc-40b7-b118-c2360920f730?lawActId=436054",
      "sha256": "4ddfc9fd91fbbef35fcf077578c215925bd4fb794592104244ed0e46b12cc618"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2011-43-12",
+   "path": "uredba/2011/43-12",
+   "short": "Уредба о утврђивању Средњорочног програма радова на оснивању и одржавању Националне инфраструктуре геопросторних података за период од 1. јануара 2011. до 31. децембра 2015. године",
+   "title": "Уредба о утврђивању Средњорочног програма радова на оснивању и одржавању Националне инфраструктуре геопросторних података за период од 1. јануара 2011. до 31. децембра 2015. године",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ea5acbcd-4a4e-428e-b7ee-83135c1ec3fa",
+   "versions": [
+    {
+     "from": "2011-06-22",
+     "units": 2,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ea5acbcd-4a4e-428e-b7ee-83135c1ec3fa?lawActId=421532",
+     "sha256": "cb2780b95db251c6dd4d2f4e01080344ccb296a41fd68c4b99c63ff0c4b3b176"
     }
    ]
   },
@@ -2375,6 +3437,51 @@
    ]
   },
   {
+   "slug": "uredba-2012-101-5",
+   "path": "uredba/2012/101-5",
+   "short": "Уредба о превентивним мерама за безбедан и здрав рад услед ризика од експлозивних атмосфера",
+   "title": "Уредба о превентивним мерама за безбедан и здрав рад услед ризика од експлозивних атмосфера",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/fe094937-88d1-401f-8332-da22b181b29b",
+   "versions": [
+    {
+     "from": "2015-01-01",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fe094937-88d1-401f-8332-da22b181b29b?lawActId=410242",
+     "sha256": "764060c04e481edca75125afae0198c88b29830c1a06f54291ce49980aeeb7d1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-102-5",
+   "path": "uredba/2012/102-5",
+   "short": "Уредба о начину пружања информација и поступку обавештавања о примени санитарних, ветеринарских и фитосанитарних мера у области безбедности хране, ветерине и заштите биља",
+   "title": "Уредба о начину пружања информација и поступку обавештавања о примени санитарних, ветеринарских и фитосанитарних мера у области безбедности хране, ветерине и заштите биља",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/cfa4445d-b006-4f17-8a72-ae5c6fae3c70",
+   "versions": [
+    {
+     "from": "2012-11-03",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/cfa4445d-b006-4f17-8a72-ae5c6fae3c70?lawActId=418350",
+     "sha256": "64b2aa750d06617fedb4ade028b2bfe03c6a71f1483a142804ee2643f44edee8"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-103-3",
+   "path": "uredba/2012/103-3",
+   "short": "Уредба о критеријумима и мерилима за утврђивање конкурентности у јавном сектору",
+   "title": "Уредба о критеријумима и мерилима за утврђивање конкурентности у јавном сектору",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/5fa452ec-574e-4ce9-a541-b029646779ab",
+   "versions": [
+    {
+     "from": "2012-11-07",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5fa452ec-574e-4ce9-a541-b029646779ab?lawActId=424529",
+     "sha256": "00e48de14c23f63a5e62bd97a42aef8ff09fe0c308c638deafb0d3b1db54e975"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2012-46-6",
    "path": "uredba/2012/46-6",
    "short": "Уредба о уплати доприноса за пензијско и инвалидско и здравствено осигурање за свештенике и верске службенике",
@@ -2437,6 +3544,21 @@
      "units": 8,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/20ed25b0-1328-4cec-9cd2-13d75ebf5a39?lawActId=420305",
      "sha256": "e62653a753ff8ea257be21f47cd6050e2dbdb5a638158f342681d1cd7217db54"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2012-98-18",
+   "path": "uredba/2012/98-18",
+   "short": "Уредба Комисије (ЕУ) о спровођењу број 715/2012 од 30. јула 2012. године о измени и допуни Уредбе (ЕУ) број 42/2010 у вези са сврставањем одређених роба према Комбинованој номенклатури",
+   "title": "Уредба Комисије (ЕУ) о спровођењу број 715/2012 од 30. јула 2012. године о измени и допуни Уредбе (ЕУ) број 42/2010 у вези са сврставањем одређених роба према Комбинованој номенклатури",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8be13624-5398-4848-a74c-67ce6d7d7c39",
+   "versions": [
+    {
+     "from": "2012-10-12",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8be13624-5398-4848-a74c-67ce6d7d7c39?lawActId=417637",
+     "sha256": "72511cae1b87bab029a441b551960a45889d868baacfcc1cb23e840dc6b37fff"
     }
    ]
   },
@@ -2567,6 +3689,21 @@
    ]
   },
   {
+   "slug": "uredba-2013-18-12",
+   "path": "uredba/2013/18-12",
+   "short": "Уредба о накнадама и другим примањима запослених у организацијама обавезног социјалног осигурања",
+   "title": "Уредба о накнадама и другим примањима запослених у организацијама обавезног социјалног осигурања",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/907d7458-bde1-48f0-aa0f-95357f47de1c",
+   "versions": [
+    {
+     "from": "2020-01-01",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/907d7458-bde1-48f0-aa0f-95357f47de1c?lawActId=424518",
+     "sha256": "1723cce769882e619aacb715e76a98353b63d3610cc9778a09b36b2ecf47a4af"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2013-4-4",
    "path": "uredba/2013/4-4",
    "short": "Уредба о општим условима за емисију и продају дугорочних државних хартија од вредности на међународном финансијском тржишту",
@@ -2608,6 +3745,21 @@
      "units": 6,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ab4a4a83-f410-4586-a040-12de9e2b20c9?lawActId=294910",
      "sha256": "48e229aa09b5d5b79ad562259a74ab8f4ae960d8760814bc85253b49f64ae69e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2013-47-27",
+   "path": "uredba/2013/47-27",
+   "short": "Уредба о надзору над реализацијом јавних уговора о јавно-приватном партнерству",
+   "title": "Уредба о надзору над реализацијом јавних уговора о јавно-приватном партнерству",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/171a65c6-902c-4bfb-8606-85ef8fd4e446",
+   "versions": [
+    {
+     "from": "2013-06-06",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/171a65c6-902c-4bfb-8606-85ef8fd4e446?lawActId=420198",
+     "sha256": "e1959590e1777379f82084ee0164f96ff151a469456c4994511740d0361c8540"
     }
    ]
   },
@@ -2801,6 +3953,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-104-3",
+   "path": "uredba/2014/104-3",
+   "short": "Уредба о утврђивању јединствене листе развијености региона и јединица локалне самоуправе за 2014. годину",
+   "title": "Уредба о утврђивању јединствене листе развијености региона и јединица локалне самоуправе за 2014. годину",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d5d1e1fa-8012-4f7b-9656-ee5efdcc35b8",
+   "versions": [
+    {
+     "from": "2014-10-09",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d5d1e1fa-8012-4f7b-9656-ee5efdcc35b8?lawActId=420397",
+     "sha256": "53adfd0a7eda38fad62fafed12dac10ebfca9b4907a0679a1b44f0cfa8d5fe4d"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-105-4",
    "path": "uredba/2014/105-4",
    "short": "Уредба о утврђивању Државног програма обнове оштећених електроенергетских објеката за дистрибуцију електричне енергије",
@@ -2827,6 +3994,36 @@
      "units": 11,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dc1b1557-9f80-415d-a20e-494348fda2a9?lawActId=417878",
      "sha256": "fd2ac8cc5008561d67d6d8be7b8194bc6a156cb0887082915993d6645b0b4171"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-108-22-54ac60",
+   "path": "uredba/2014/108-22-54ac60",
+   "short": "Уредба о начину вођења електронске евиденције емитовања и реемитовања ауторских дела",
+   "title": "Уредба о начину вођења електронске евиденције емитовања и реемитовања ауторских дела",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/54ac604f-e9e0-4a09-a982-7f91b62fb4b1",
+   "versions": [
+    {
+     "from": "2014-10-18",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/54ac604f-e9e0-4a09-a982-7f91b62fb4b1?lawActId=311388",
+     "sha256": "b441bc294629d632bebfabfe53ed0b01924a9e4f6163d03c1d5fb62e7d9586f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-108-22-6a5637",
+   "path": "uredba/2014/108-22-6a5637",
+   "short": "Уредба о утврђивању најниже суме осигурања на коју може бити уговорено осигурање власника моторних возила од одговорности за штету причињену трећим лицима",
+   "title": "Уредба о утврђивању најниже суме осигурања на коју може бити уговорено осигурање власника моторних возила од одговорности за штету причињену трећим лицима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6a5637f0-2ee1-4216-9ee0-5e30ebab48fc",
+   "versions": [
+    {
+     "from": "2014-10-13",
+     "units": 2,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6a5637f0-2ee1-4216-9ee0-5e30ebab48fc?lawActId=423878",
+     "sha256": "5988d2ef470829259708e1269ba3a69886d173f75c740d6f55e742ef7a328313"
     }
    ]
   },
@@ -2894,6 +4091,27 @@
    ]
   },
   {
+   "slug": "uredba-2014-129-3",
+   "path": "uredba/2014/129-3",
+   "short": "Уредба о стратешком партнерству",
+   "title": "Уредба о стратешком партнерству",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/11beb362-9240-4b86-897f-8696a49a1fd1",
+   "versions": [
+    {
+     "from": "2016-03-06",
+     "units": 30,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/11beb362-9240-4b86-897f-8696a49a1fd1?lawActId=418341",
+     "sha256": "708316d64bb163e7b81d1f03ec40c47976a9e6b64e4c11b8b5b42bfa94c21ae7"
+    },
+    {
+     "from": "2017-01-06",
+     "units": 30,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/11beb362-9240-4b86-897f-8696a49a1fd1?lawActId=420039",
+     "sha256": "d7848edf55dd9de1c37bde5638dfad2cca92f9fea4916d594f782598e534b4a5"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-21-3",
    "path": "uredba/2014/21-3",
    "short": "Уредба о критеријумима за утврђивање природе расхода и условима и начину прибављања сагласности за закључивање одређених уговора који, због природе расхода, захтевају плаћање у више година",
@@ -2939,6 +4157,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-65-5",
+   "path": "uredba/2014/65-5",
+   "short": "Уредба о престанку важења Уредбе о подстицању запошљавања",
+   "title": "Уредба о престанку важења Уредбе о подстицању запошљавања",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f7993279-b562-432a-8369-7b797b452286",
+   "versions": [
+    {
+     "from": "2014-06-28",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f7993279-b562-432a-8369-7b797b452286?lawActId=426220",
+     "sha256": "a03cdfd15715fb82d27442700404f0e484795be8faa8d54ac55494dd5cb3b525"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-66-4",
    "path": "uredba/2014/66-4",
    "short": "Уредба о ближим критеријумима за одређивање степена тајности \"ПОВЕРЉИВО\" и \"ИНТЕРНО\" у Министарству одбране",
@@ -2954,6 +4187,75 @@
    ]
   },
   {
+   "slug": "uredba-2014-70-10",
+   "path": "uredba/2014/70-10",
+   "short": "Уредба о поклонима који остају у јавној својини",
+   "title": "Уредба о поклонима који остају у јавној својини",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/49f2aeab-5975-4647-bf57-f38576bdad27",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/49f2aeab-5975-4647-bf57-f38576bdad27?lawActId=421753",
+     "sha256": "ef21d75df25ce4b1f25608ae60bd92c5a15c636f2c0b17b49a2511ae0795d180"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-70-9-3e7042",
+   "path": "uredba/2014/70-9-3e7042",
+   "short": "Уредба о непокретностима за репрезентативне потребе Републике Србије",
+   "title": "Уредба о непокретностима за репрезентативне потребе Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3e7042dd-4b75-4097-a145-69c00e8454fe",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3e7042dd-4b75-4097-a145-69c00e8454fe?lawActId=421754",
+     "sha256": "113f21f29b4cd68153402b18dcd141b53a57b689af7ec0c047f189506aba198f"
+    },
+    {
+     "from": "2018-11-10",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3e7042dd-4b75-4097-a145-69c00e8454fe?lawActId=426922",
+     "sha256": "b6014da3c35676e3f2175d7c19e9cf350a510bb653c7a2e41261058b8c555598"
+    },
+    {
+     "from": "2020-11-05",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3e7042dd-4b75-4097-a145-69c00e8454fe?lawActId=431085",
+     "sha256": "1e27f7796342f259e0b6ef788a1defa56f2de024ed0bf27e13e012964d4f6722"
+    },
+    {
+     "from": "2024-03-23",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3e7042dd-4b75-4097-a145-69c00e8454fe?lawActId=437002",
+     "sha256": "a81e3ea782dd90be36a1b7155f8bed69ad434b61490bf737a05eecdd91a51d92"
+    },
+    {
+     "from": "2024-07-27",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3e7042dd-4b75-4097-a145-69c00e8454fe?lawActId=437389",
+     "sha256": "36a0ec532d0f85d58bb1156fe6f77041c0c3688883009ab1ec556e729d622f64"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-70-9-6bb03f",
+   "path": "uredba/2014/70-9-6bb03f",
+   "short": "Уредба о службеним зградама и пословним просторијама у јавној својини које користе органи Републике Србије",
+   "title": "Уредба о службеним зградама и пословним просторијама у јавној својини које користе органи Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6bb03f26-3c4a-4cd0-8b7f-4a6735ccd254",
+   "versions": [
+    {
+     "from": "2014-07-17",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6bb03f26-3c4a-4cd0-8b7f-4a6735ccd254?lawActId=421755",
+     "sha256": "0b257f940462360f4bd2745d1b3cc5da01e6e16da71fa01f664b279a2d3d9d9b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-77-4",
    "path": "uredba/2014/77-4",
    "short": "Уредба о утврђивању Државног програма обнове порушених породичних стамбених објеката",
@@ -2965,6 +4267,21 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0ad0f849-b186-4b13-acc8-6dccd0ee3caa?lawActId=417885",
      "sha256": "d804d2158d473ce5030688f42b760172b07eda676c176a1f6ea6484c7802ed44"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2014-77-5",
+   "path": "uredba/2014/77-5",
+   "short": "Уредба о одређивању Министарства одбране за издавање квалификованих електронских сертификата",
+   "title": "Уредба о одређивању Министарства одбране за издавање квалификованих електронских сертификата",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9814dc08-7b84-4749-b4d7-738bb63fdd0b",
+   "versions": [
+    {
+     "from": "2014-08-01",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9814dc08-7b84-4749-b4d7-738bb63fdd0b?lawActId=418774",
+     "sha256": "1055f31e8229268b26e5dbe39c01c057de4168a264f8a3e90503851ccf8c2055"
     }
    ]
   },
@@ -3050,6 +4367,21 @@
    ]
   },
   {
+   "slug": "uredba-2014-87-3",
+   "path": "uredba/2014/87-3",
+   "short": "Уредба о посебном начину обезбеђивања доступности података садржаних у катастру земљишта за Аутономну покрајину Косово и Метохија",
+   "title": "Уредба о посебном начину обезбеђивања доступности података садржаних у катастру земљишта за Аутономну покрајину Косово и Метохија",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4625f53a-0fd1-4b56-922b-6cb59f672eec",
+   "versions": [
+    {
+     "from": "2014-08-30",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4625f53a-0fd1-4b56-922b-6cb59f672eec?lawActId=421531",
+     "sha256": "0b5a85f449c7fb58f0bda01ad12845080dbcba19536ee7424eda1e61500cd667"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2014-92-3",
    "path": "uredba/2014/92-3",
    "short": "Уредба о спровођењу мобилизације",
@@ -3091,6 +4423,21 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5798af16-c84e-4972-848f-b5c145947783?lawActId=417881",
      "sha256": "e101a876b30a3312d06f8ebfc64e3f07bf139eba26b2ada0fef81e231bd80954"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-108-3",
+   "path": "uredba/2015/108-3",
+   "short": "Уредба о превентивним мерама за безбедан и здрав рад при излагању азбесту",
+   "title": "Уредба о превентивним мерама за безбедан и здрав рад при излагању азбесту",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/72256146-e847-4d8d-bcdf-0011c4a8978b",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 25,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/72256146-e847-4d8d-bcdf-0011c4a8978b?lawActId=410240",
+     "sha256": "9d52a09f8ce0f6f789177791b081a4e5c3f42b6d1920907367d2f9085b6a844c"
     }
    ]
   },
@@ -3184,6 +4531,36 @@
      "units": 16,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/46283101-555a-4b32-b193-6a5824759d8b?lawActId=378080",
      "sha256": "9ec63a47aaf52b912c57ea5c7b97d4586ffe7f17c222309fa0978070befad7e4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-56-3",
+   "path": "uredba/2015/56-3",
+   "short": "Уредба о одређивању ризика који се могу осигурати, односно реосигурати код страног друштва за осигурање, односно реосигурање",
+   "title": "Уредба о одређивању ризика који се могу осигурати, односно реосигурати код страног друштва за осигурање, односно реосигурање",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/21f83c78-1f4d-4f57-ad66-fae323791317",
+   "versions": [
+    {
+     "from": "2015-06-27",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/21f83c78-1f4d-4f57-ad66-fae323791317?lawActId=422443",
+     "sha256": "2d98c1610b5aee701f8a0d4a8f604ec4c005a1c0be77c3d07f47ca96b46fb6c4"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2015-62-3",
+   "path": "uredba/2015/62-3",
+   "short": "Уредба о утврђивању Методологије за израчунавање степена развијености региона и јединица локалне самоуправе",
+   "title": "Уредба о утврђивању Методологије за израчунавање степена развијености региона и јединица локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9c08d2a6-3825-4973-95c5-9f4d097127eb",
+   "versions": [
+    {
+     "from": "2015-07-22",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9c08d2a6-3825-4973-95c5-9f4d097127eb?lawActId=420396",
+     "sha256": "8dbb9b670c1b5efb1029ac2a47e0a55b57cfd78b7ac8a1a44e4bede61b889df0"
     }
    ]
   },
@@ -3346,6 +4723,21 @@
      "units": 4,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/eeb6771a-b7fa-40ce-a997-1c6f821332e7?lawActId=428607",
      "sha256": "04dd3936f5adb14b14db9ad14c00bd88cd2723bebbfa45caae14186fe1f0ed88"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-101-27",
+   "path": "uredba/2016/101-27",
+   "short": "Уредба о превентивним мерама за безбедан и здрав рад при коришћењу оштрих предмета који су медицинска средства у здравственој делатности",
+   "title": "Уредба о превентивним мерама за безбедан и здрав рад при коришћењу оштрих предмета који су медицинска средства у здравственој делатности",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/83892c5a-3eba-4ae8-aa7a-e004ad944d2d",
+   "versions": [
+    {
+     "from": "2016-12-24",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/83892c5a-3eba-4ae8-aa7a-e004ad944d2d?lawActId=419288",
+     "sha256": "5fe74e4b5e10af6a37bd6f3ca69572cbae0172c83c2acfcae583a815bae31550"
     }
    ]
   },
@@ -3638,6 +5030,21 @@
    ]
   },
   {
+   "slug": "uredba-2016-65-4",
+   "path": "uredba/2016/65-4",
+   "short": "Уредба о мерилима за именовање директора јавног предузећа",
+   "title": "Уредба о мерилима за именовање директора јавног предузећа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4776003e-6de1-4b14-b4cf-690395f46a3a",
+   "versions": [
+    {
+     "from": "2016-08-05",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4776003e-6de1-4b14-b4cf-690395f46a3a?lawActId=425346",
+     "sha256": "140a44301064c052e1a81ebe7c71e75c25ebc31e53fd8ecf94427bba8c7ddb50"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2016-88-12",
    "path": "uredba/2016/88-12",
    "short": "Уредба о утврђивању Државног програма хитних санационих радова за заштиту насеља и индустријске зоне у насељу Драганићи, општина Рашка, од великих вода реке Рашке",
@@ -3664,6 +5071,123 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a881dbe9-6f4a-4e9f-a080-c0764699504d?lawActId=417865",
      "sha256": "f29ce96a589dc53a68ae36e4d2c4ab74bac7e8376b1daf0643bc6e9c589c251d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-88-3",
+   "path": "uredba/2016/88-3",
+   "short": "Уредба о критеријумима за разврставање радних места и мерилима за опис радних места намештеника у аутономним покрајинама и јединицама локалне самоуправе",
+   "title": "Уредба о критеријумима за разврставање радних места и мерилима за опис радних места намештеника у аутономним покрајинама и јединицама локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/7bc3074e-8de3-4755-b7cd-e6b5ad262c43",
+   "versions": [
+    {
+     "from": "2016-11-05",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7bc3074e-8de3-4755-b7cd-e6b5ad262c43?lawActId=417887",
+     "sha256": "842b0f1674653f8e6ebdd9ac1dced5f950eb53a291454035b27116f0e08b6912"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-88-4",
+   "path": "uredba/2016/88-4",
+   "short": "Уредба о критеријумима за разврставање радних места и мерилима за опис радних места службеника у аутономним покрајинама и јединицама локалне самоуправе",
+   "title": "Уредба о критеријумима за разврставање радних места и мерилима за опис радних места службеника у аутономним покрајинама и јединицама локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b0cd1b14-dadb-42ed-896b-df0ff1f8e5cb",
+   "versions": [
+    {
+     "from": "2016-12-01",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b0cd1b14-dadb-42ed-896b-df0ff1f8e5cb?lawActId=417886",
+     "sha256": "155ff99431e76452dd334c3f4fb867f3d13581a1067b6da3a21df398c60b048f"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b0cd1b14-dadb-42ed-896b-df0ff1f8e5cb?lawActId=424538",
+     "sha256": "136e854d22f1a2ddd22f439ae867d3705e1599f09183f110761221a8457a4892"
+    },
+    {
+     "from": "2022-02-09",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b0cd1b14-dadb-42ed-896b-df0ff1f8e5cb?lawActId=433495",
+     "sha256": "c31ae1109caff34f64245af2057c67c7691015eda5f7ec3fc3c538044f308a0f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-90-14",
+   "path": "uredba/2016/90-14",
+   "short": "Уредба o означавању пољопривредних и прехрамбених производа националном ознаком вишег квалитета \"српски квалитет\"",
+   "title": "Уредба o означавању пољопривредних и прехрамбених производа националном ознаком вишег квалитета \"српски квалитет\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4035b0ea-bc24-47d9-8859-bf9243ed4de6",
+   "versions": [
+    {
+     "from": "2016-11-12",
+     "units": 13,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4035b0ea-bc24-47d9-8859-bf9243ed4de6?lawActId=418349",
+     "sha256": "032b9b4c3a5f872b7e913ab5afa70e0f9aba517ccd403315a8a2ee0fcb5eaa6f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-90-4",
+   "path": "uredba/2016/90-4",
+   "short": "Уредба о поступању лица која обављају послове привременог заступника капитала у субјектима приватизације",
+   "title": "Уредба о поступању лица која обављају послове привременог заступника капитала у субјектима приватизације",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/722247f8-987d-4dc3-987d-6ca2349d586e",
+   "versions": [
+    {
+     "from": "2016-11-12",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/722247f8-987d-4dc3-987d-6ca2349d586e?lawActId=418336",
+     "sha256": "eae4a1d7ccd6fd6562c1b9e3b95f9ca7c4f3a35ba0f5b9a641d448f0c5fd1418"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-94-21",
+   "path": "uredba/2016/94-21",
+   "short": "Уредба о ближем садржају акта о безбедности информационо-комуникационих система од посебног значаја, начину провере и садржају извештаја о провери безбедности информационо-комуникационих система од посебног значаја",
+   "title": "Уредба о ближем садржају акта о безбедности информационо-комуникационих система од посебног значаја, начину провере и садржају извештаја о провери безбедности информационо-комуникационих система од посебног значаја",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f1109bea-28b0-4352-b291-42a86fea4d9e",
+   "versions": [
+    {
+     "from": "2016-12-02",
+     "units": 9,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f1109bea-28b0-4352-b291-42a86fea4d9e?lawActId=418748",
+     "sha256": "550519adde6b6fd0612aec93618b445de4ca804f917ef0a3ef2b21d65511bdfe"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2016-94-22",
+   "path": "uredba/2016/94-22",
+   "short": "Уредба о ближем уређењу мера заштите информационо-комуникационих система од посебног значаја",
+   "title": "Уредба о ближем уређењу мера заштите информационо-комуникационих система од посебног значаја",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d6957d2a-cf1c-4b84-abea-a7da7ba6e127",
+   "versions": [
+    {
+     "from": "2016-12-02",
+     "units": 30,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d6957d2a-cf1c-4b84-abea-a7da7ba6e127?lawActId=418747",
+     "sha256": "e07ff401707422f5d8839a459c4a141624d88889b1204b4e5ea382d1e25d9474"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-1-3",
+   "path": "uredba/2017/1-3",
+   "short": "Уредба о начину давања концесије у фазама",
+   "title": "Уредба о начину давања концесије у фазама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/324450ce-c7ea-475a-a11a-025c86caee7a",
+   "versions": [
+    {
+     "from": "2017-01-07",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/324450ce-c7ea-475a-a11a-025c86caee7a?lawActId=420197",
+     "sha256": "cbc332c18aa18c77cc0c2d3bec4dcc1119867da16eaa185b8ba00c7a0c8e1c2b"
     }
    ]
   },
@@ -3715,6 +5239,21 @@
      "units": 19,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7adb9eee-9af7-466d-bb08-2f7127b07dc5?lawActId=440738",
      "sha256": "2c7c75c39d35d91cc7420d89c4cca2313c6d40eace93ce1e4b92b4de497cc069"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-33-6",
+   "path": "uredba/2017/33-6",
+   "short": "Уредба о поступку и начину продаје удела и акција у власништву Акционарског фонда, Фонда за развој Републике Србије и Републичког фонда за пензијско и инвалидско осигурање методом јавног прикупљања понуда са јавним надметањем",
+   "title": "Уредба о поступку и начину продаје удела и акција у власништву Акционарског фонда, Фонда за развој Републике Србије и Републичког фонда за пензијско и инвалидско осигурање методом јавног прикупљања понуда са јавним надметањем",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/916a06fa-27ad-43e5-afd1-dd31544b91cf",
+   "versions": [
+    {
+     "from": "2017-04-15",
+     "units": 31,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/916a06fa-27ad-43e5-afd1-dd31544b91cf?lawActId=422275",
+     "sha256": "0a21982e8e9f5507a69001ed10846f58b04a8c0466fd1dae2b4bc364199c22bd"
     }
    ]
   },
@@ -3772,6 +5311,27 @@
      "units": 115,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/42e4e239-4b1d-466d-8a98-2e795e18c9f3?lawActId=437611",
      "sha256": "00717899d816ecbe83972e7276fdb8460617111c75f12034bda8c45ce94271d0"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-42-52",
+   "path": "uredba/2017/42-52",
+   "short": "Уредба о начину и поступку продаје акција банака које су у власништву Републике Србије",
+   "title": "Уредба о начину и поступку продаје акција банака које су у власништву Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/fc0f8886-3523-4d3e-b41a-6444a2641c39",
+   "versions": [
+    {
+     "from": "2017-05-12",
+     "units": 59,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fc0f8886-3523-4d3e-b41a-6444a2641c39?lawActId=422686",
+     "sha256": "1e1e27fdf3664f5ee2067a61dd53b2b577e0c1c1aaf53dc60c13417c497413f4"
+    },
+    {
+     "from": "2018-07-26",
+     "units": 59,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fc0f8886-3523-4d3e-b41a-6444a2641c39?lawActId=426323",
+     "sha256": "2918d8c636e808743333d736a01031015625378dd1b594fe7095f4236fb34329"
     }
    ]
   },
@@ -3902,6 +5462,21 @@
    ]
   },
   {
+   "slug": "uredba-2017-79-3",
+   "path": "uredba/2017/79-3",
+   "short": "Уредба о начину вршења метролошког надзора",
+   "title": "Уредба о начину вршења метролошког надзора",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6d73ff8d-0a2d-4408-8b43-62f187c7f3bc",
+   "versions": [
+    {
+     "from": "2017-09-02",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6d73ff8d-0a2d-4408-8b43-62f187c7f3bc?lawActId=423735",
+     "sha256": "8923ee42d59dc35b31a37b513b7a0c8b62bfdab96db2528576c836c65a18b307"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2017-8-10",
    "path": "uredba/2017/8-10",
    "short": "Уредба о поступку за утврђивање права на исплату девизне штедње грађана",
@@ -3968,6 +5543,33 @@
    ]
   },
   {
+   "slug": "uredba-2017-81-3",
+   "path": "uredba/2017/81-3",
+   "short": "Уредба о Каталогу радних места у јавним службама и другим организацијама у јавном сектору",
+   "title": "Уредба о Каталогу радних места у јавним службама и другим организацијама у јавном сектору",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e10292d2-8a91-4f48-8868-42076162a45a",
+   "versions": [
+    {
+     "from": "2018-01-01",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e10292d2-8a91-4f48-8868-42076162a45a?lawActId=423772",
+     "sha256": "34789abf0ddd82e7865df4074b44f05f37e45a7f31273cb2323f7087a9ec9aca"
+    },
+    {
+     "from": "2018-01-31",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e10292d2-8a91-4f48-8868-42076162a45a?lawActId=424754",
+     "sha256": "2336a0b31790d801daae895c4d6c336d66bacb212a74c4050134b40b612e47f6"
+    },
+    {
+     "from": "2018-06-14",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e10292d2-8a91-4f48-8868-42076162a45a?lawActId=426023",
+     "sha256": "2abea681cf34890673c1ea84c1dff0ae99f76eb8eff0244a833d5fba082c5dfd"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2017-82-5",
    "path": "uredba/2017/82-5",
    "short": "Уредба о критеријумима за класификацију повреда прописа према категорији опасности од наступања последица у транспорту опасне робе",
@@ -3994,6 +5596,36 @@
      "units": 2,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a32cf517-2958-4c9c-9e95-d4178cf64286?lawActId=424171",
      "sha256": "1a6a1beae1f92b174265aa592ec5906260a8092a4cb85c9477bd8ce387d87f02"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-mu5-12",
+   "path": "uredba/2017/mu5-12",
+   "short": "Уредба о поступку по коме се бирају инфраструктурни пројекти и поступку по коме се спроводи подршка унапређења локалне и регионалне инфраструктуре - Градимо заједно",
+   "title": "Уредба о поступку по коме се бирају инфраструктурни пројекти и поступку по коме се спроводи подршка унапређења локалне и регионалне инфраструктуре - Градимо заједно",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/5857d5dd-a90a-49d3-b4f8-532c4c747b3f",
+   "versions": [
+    {
+     "from": "2017-01-26",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5857d5dd-a90a-49d3-b4f8-532c4c747b3f?lawActId=420395",
+     "sha256": "af531a14643f5bc2e18c6153191240929c4a399c92614ada0521e385ed7b1a3f"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2017-mu53-36",
+   "path": "uredba/2017/mu53-36",
+   "short": "Уредба о утврђивању опасног рада за децу",
+   "title": "Уредба о утврђивању опасног рада за децу",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4785e9f9-242d-486a-8f33-d33918543193",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4785e9f9-242d-486a-8f33-d33918543193?lawActId=423099",
+     "sha256": "9d77873f7f6509788029e0a06cd0c2727caba7d158db8ee9f12f41006b6b16f1"
     }
    ]
   },
@@ -4178,6 +5810,27 @@
    ]
   },
   {
+   "slug": "uredba-2018-16-3",
+   "path": "uredba/2018/16-3",
+   "short": "Уредба о условима прибављања и отуђења непокретности непосредном погодбом и давања у закуп ствари у јавној својини, односно прибављања и уступања искоришћавања других имовинских права, као и поступцима јавног надметања и прикупљања писмених понуда",
+   "title": "Уредба о условима прибављања и отуђења непокретности непосредном погодбом и давања у закуп ствари у јавној својини, односно прибављања и уступања искоришћавања других имовинских права, као и поступцима јавног надметања и прикупљања писмених понуда",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/fe11fc3e-9493-4758-b4d2-c6351f2e0638",
+   "versions": [
+    {
+     "from": "2018-03-13",
+     "units": 33,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fe11fc3e-9493-4758-b4d2-c6351f2e0638?lawActId=424928",
+     "sha256": "7e1e26d758a0d7ec8809260f33b028eb8c851a258f88b42fcf66d4a2d77408d3"
+    },
+    {
+     "from": "2023-09-23",
+     "units": 34,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fe11fc3e-9493-4758-b4d2-c6351f2e0638?lawActId=436039",
+     "sha256": "f3b5bbae94f4a126e0ac0d57ba59d055ffdb8e50f2bff0ca99bb4e7f3a895eec"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2018-17-3",
    "path": "uredba/2018/17-3",
    "short": "Уредба о остваривању посебних права бивших запослених у Министарству унутрашњих послова на територији Аутономне покрајине Косово и Метохија",
@@ -4189,6 +5842,36 @@
      "units": 15,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c1f792ab-9ab3-4d0c-b451-01f0846f0747?lawActId=424948",
      "sha256": "ab331be07d79b0517ffa27163331e6a6356f3c28eb53bfff957454b49aa5fe3b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2018-29-6",
+   "path": "uredba/2018/29-6",
+   "short": "Уредба о критеријумима за утврђивање површине пољопривредног и шумског земљишта у поступку враћања одузете имовине",
+   "title": "Уредба о критеријумима за утврђивање површине пољопривредног и шумског земљишта у поступку враћања одузете имовине",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/738be0c2-1f93-4b37-baa3-845b077c0e65",
+   "versions": [
+    {
+     "from": "2018-04-21",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/738be0c2-1f93-4b37-baa3-845b077c0e65?lawActId=425307",
+     "sha256": "b6dda83583cc307b357cb94590a30618c6ddb6dfb8f6cfcbdaf5e4bb70e092bb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2018-37-13",
+   "path": "uredba/2018/37-13",
+   "short": "Уредба о условима за пружање квалификованих услуга од поверења",
+   "title": "Уредба о условима за пружање квалификованих услуга од поверења",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d7a0c002-5825-459b-9859-244d20e6ad6d",
+   "versions": [
+    {
+     "from": "2018-05-19",
+     "units": 39,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d7a0c002-5825-459b-9859-244d20e6ad6d?lawActId=425887",
+     "sha256": "ae7b99e71e922f22c2cc40e7eb8f1a1b771b893154571eddeca6801d0d0604eb"
     }
    ]
   },
@@ -4240,6 +5923,36 @@
      "units": 27,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6d549c97-4536-48bf-92f4-acf8553cfb1e?lawActId=440226",
      "sha256": "9fc819d696f26d181d369bb8790317672b47136a787e0f6e04802695882a2050"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2018-46-3",
+   "path": "uredba/2018/46-3",
+   "short": "Уредба о поступку контроле извршења уговорних обавеза купца из уговора о продаји капитала или имовине",
+   "title": "Уредба о поступку контроле извршења уговорних обавеза купца из уговора о продаји капитала или имовине",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e3a4be0e-ed70-4ac7-a28d-0d771a917843",
+   "versions": [
+    {
+     "from": "2018-06-18",
+     "units": 19,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e3a4be0e-ed70-4ac7-a28d-0d771a917843?lawActId=426130",
+     "sha256": "d99876331421f5bc4c27f2e03ac726f420b8c3820aca707ad0715a76eaefa6cf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2018-50-15",
+   "path": "uredba/2018/50-15",
+   "short": "Уредба о начину достављања докумената у поступку уписа у катастар и начину издавања извода из катастра електронским путем",
+   "title": "Уредба о начину достављања докумената у поступку уписа у катастар и начину издавања извода из катастра електронским путем",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/54f34bb9-ec04-42a7-8722-7341e32bc921",
+   "versions": [
+    {
+     "from": "2018-07-01",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/54f34bb9-ec04-42a7-8722-7341e32bc921?lawActId=426226",
+     "sha256": "a49a5fd21a1a1dd2359f9d4b3f292fb998be3063f70655de3566249c0304b912"
     }
    ]
   },
@@ -4325,6 +6038,27 @@
    ]
   },
   {
+   "slug": "uredba-2018-60-3",
+   "path": "uredba/2018/60-3",
+   "short": "Уредба о ближем уређењу услова које морају да испуне шеме електронске идентификације за одређене нивое поузданости",
+   "title": "Уредба о ближем уређењу услова које морају да испуне шеме електронске идентификације за одређене нивое поузданости",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0a9139f4-eb23-4655-bbfb-ff9b45081999",
+   "versions": [
+    {
+     "from": "2018-08-11",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0a9139f4-eb23-4655-bbfb-ff9b45081999?lawActId=426443",
+     "sha256": "c1a307adecf737b4bde1974959745c5e2ca4aac4e98d753dbd5acb57e2497567"
+    },
+    {
+     "from": "2024-08-17",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0a9139f4-eb23-4655-bbfb-ff9b45081999?lawActId=437475",
+     "sha256": "526b0ba9ed0dfd80e15352bf6d2c71e3f684ef5d922a8e407cfbe074416f3654"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2018-61-3",
    "path": "uredba/2018/61-3",
    "short": "Уредба о утврђивању Државног програма санационих радова на објектима за заштиту од вода оштећеним у поплавама у 2016. и 2017. години",
@@ -4387,6 +6121,21 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/00a89f71-db1e-4b42-9209-c386a0e8a54f?lawActId=429182",
      "sha256": "b300728979766515ac5ae7f7913b597a60352098a198212809477d3d7c779509"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2018-86-45",
+   "path": "uredba/2018/86-45",
+   "short": "Уредба о условима за припрему документа за поуздано електронско чување и форматима документа који су погодни за дуготрајно чување",
+   "title": "Уредба о условима за припрему документа за поуздано електронско чување и форматима документа који су погодни за дуготрајно чување",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/14432af1-969a-4ce4-9aec-6cee81bb9a0b",
+   "versions": [
+    {
+     "from": "2018-11-17",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/14432af1-969a-4ce4-9aec-6cee81bb9a0b?lawActId=426997",
+     "sha256": "f245fc84b943f38d30149329031208a61091c5d33181bb116ed789b61ab5e403"
     }
    ]
   },
@@ -4715,6 +6464,21 @@
    ]
   },
   {
+   "slug": "uredba-2019-2-52",
+   "path": "uredba/2019/2-52",
+   "short": "Уредба о оцењивању службеника",
+   "title": "Уредба о оцењивању службеника",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f2debae0-40b3-4857-a07c-61a8f99c06fa",
+   "versions": [
+    {
+     "from": "2019-01-24",
+     "units": 46,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f2debae0-40b3-4857-a07c-61a8f99c06fa?lawActId=427657",
+     "sha256": "c58dee2420bf931343255c3a3c3133402c930712908c6bee80c2e6f37c50291b"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2019-2-9",
    "path": "uredba/2019/2-9",
    "short": "Уредба о интерном и јавном конкурсу за попуњавање радних места у државним органима",
@@ -4753,6 +6517,21 @@
      "units": 9,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c74cd8ef-f58a-4f88-9dce-8b596ab38f32?lawActId=428046",
      "sha256": "c770924874d2935cdf8b005b6aee9ec43d0c344eb3a3718a339affa687cb3aee"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-26-3",
+   "path": "uredba/2019/26-3",
+   "short": "Уредба о минимуму процеса рада у Републичком геодетском заводу",
+   "title": "Уредба о минимуму процеса рада у Републичком геодетском заводу",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b7d6c391-823e-4944-8437-90bf66707434",
+   "versions": [
+    {
+     "from": "2019-04-13",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b7d6c391-823e-4944-8437-90bf66707434?lawActId=428154",
+     "sha256": "53ba547b950d7d042c23e77aacf090084642050bf977c1bd2d8a5b59a846b184"
     }
    ]
   },
@@ -5018,6 +6797,72 @@
    ]
   },
   {
+   "slug": "uredba-2019-54-22",
+   "path": "uredba/2019/54-22",
+   "short": "Уредба о спроведбеним правилима за метаподатке националне инфраструктуре геопросторних података",
+   "title": "Уредба о спроведбеним правилима за метаподатке националне инфраструктуре геопросторних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0603405a-f197-43c8-a96e-620045340a0a",
+   "versions": [
+    {
+     "from": "2019-08-03",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0603405a-f197-43c8-a96e-620045340a0a?lawActId=428807",
+     "sha256": "8cdf79a0d4d3ddd7b92525d678d3bfc3397332361420553d6151894600a810f1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-55-10",
+   "path": "uredba/2019/55-10",
+   "short": "Уредба о критеријумима и начину избора стратешког партнера и стручног надзора над извођењем радова на реализацији пројекта изградње инфраструктурног коридора ауто-пута E-761, деоница Појате-Прељина (\"Моравски коридор\")",
+   "title": "Уредба о критеријумима и начину избора стратешког партнера и стручног надзора над извођењем радова на реализацији пројекта изградње инфраструктурног коридора ауто-пута E-761, деоница Појате-Прељина (\"Моравски коридор\")",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a56d0062-a6ce-4002-9033-dbc3e838904a",
+   "versions": [
+    {
+     "from": "2019-08-03",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a56d0062-a6ce-4002-9033-dbc3e838904a?lawActId=428849",
+     "sha256": "7111433937d0557daf552433677f8044a1e1af2b4c1e0a17e34ff4cf7c8719bc"
+    },
+    {
+     "from": "2021-01-30",
+     "units": 20,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a56d0062-a6ce-4002-9033-dbc3e838904a?lawActId=431584",
+     "sha256": "4e533c2ed4e209a10bba64b97cbe9f2800ef3032351ee85c859c363ef80304a9"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-57-3",
+   "path": "uredba/2019/57-3",
+   "short": "Уредба o накнади трошкова у вези са конверзијом и умањењем дуга",
+   "title": "Уредба o накнади трошкова у вези са конверзијом и умањењем дуга",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/970f5880-eb95-4fd6-9b90-6c97bc2ba5e3",
+   "versions": [
+    {
+     "from": "2019-08-17",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/970f5880-eb95-4fd6-9b90-6c97bc2ba5e3?lawActId=428876",
+     "sha256": "510a54360151be3fd3c01d4410d5b97e10d12546e28bf58bee69ca4743d2b463"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-57-7",
+   "path": "uredba/2019/57-7",
+   "short": "Уредба о криптобезбедности и заштити од компромитујућег електромагнетног зрачења",
+   "title": "Уредба о криптобезбедности и заштити од компромитујућег електромагнетног зрачења",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8203641d-cf42-4943-a12f-f0946851e67c",
+   "versions": [
+    {
+     "from": "2019-08-17",
+     "units": 48,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8203641d-cf42-4943-a12f-f0946851e67c?lawActId=428883",
+     "sha256": "d95c10ced47ececa91220897313d0d835b6893f4591c1b68c8426822e10fcc5f"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2019-62-22",
    "path": "uredba/2019/62-22",
    "short": "Уредба о начину остваривања права полицијских службеника на накнаду трошкова за долазак и одлазак са рада",
@@ -5110,6 +6955,21 @@
      "units": 12,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f5e822ac-ae2b-4b12-8c53-163e76e0dbfb?lawActId=432372",
      "sha256": "ea90cc7a5d68371f92ed5aaca05469fa1bdf6bcfeeb5620fb6c9762ba9a03ba2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2019-8-71",
+   "path": "uredba/2019/8-71",
+   "short": "Уредба о методологији за израду средњорочних планова",
+   "title": "Уредба о методологији за израду средњорочних планова",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6e88cb63-2af9-4793-9c15-47f6ee82f7c8",
+   "versions": [
+    {
+     "from": "2019-02-16",
+     "units": 29,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6e88cb63-2af9-4793-9c15-47f6ee82f7c8?lawActId=427793",
+     "sha256": "a54c2f8490a4352e48328db37eba18dbf1ecdf96d10bc1304bcd6371922699b3"
     }
    ]
   },
@@ -5255,6 +7115,21 @@
    ]
   },
   {
+   "slug": "uredba-2019-94-51",
+   "path": "uredba/2019/94-51",
+   "short": "Уредба о утврђивању Листе делатности у областима у којима се обављају делатности од општег интереса и у којима се користе информационо-комуникациони системи од посебног значаја",
+   "title": "Уредба о утврђивању Листе делатности у областима у којима се обављају делатности од општег интереса и у којима се користе информационо-комуникациони системи од посебног значаја",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e68690ab-32d9-476a-89d7-884100fa862d",
+   "versions": [
+    {
+     "from": "2020-01-04",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e68690ab-32d9-476a-89d7-884100fa862d?lawActId=429611",
+     "sha256": "6c9972c8016f0c5ef27a4f48b284eb7811c9d0d167124234004e18bb6ac2cfdd"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2019-94-64",
    "path": "uredba/2019/94-64",
    "short": "Уредба о режиму граничних провера страних и домаћих пловила",
@@ -5381,6 +7256,69 @@
    ]
   },
   {
+   "slug": "uredba-2020-107-3-32f51b",
+   "path": "uredba/2020/107-3-32f51b",
+   "short": "Уредба о обавезним елементима плана развоја аутономне покрајине и јединице локалне самоуправе",
+   "title": "Уредба о обавезним елементима плана развоја аутономне покрајине и јединице локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/32f51b24-7d72-4a30-b7f5-52a9d97a6e4d",
+   "versions": [
+    {
+     "from": "2020-08-22",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/32f51b24-7d72-4a30-b7f5-52a9d97a6e4d?lawActId=430846",
+     "sha256": "e37d94e61f4658ee12a90f97193b95bd7000ec75db740c9d357ebd9ae55337d5"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-107-3-d69ed0",
+   "path": "uredba/2020/107-3-d69ed0",
+   "short": "Уредба о Програму подстицања запошљавања младих \"Моја прва плата\"",
+   "title": "Уредба о Програму подстицања запошљавања младих \"Моја прва плата\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d69ed0c4-d654-40a1-a343-546c8c33b05d",
+   "versions": [
+    {
+     "from": "2020-08-15",
+     "units": 9,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d69ed0c4-d654-40a1-a343-546c8c33b05d?lawActId=430845",
+     "sha256": "bee2bd4e0039110afc861e53704d103d7cd3a58af42fe9fddf2bf65168c0062f"
+    },
+    {
+     "from": "2021-08-14",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d69ed0c4-d654-40a1-a343-546c8c33b05d?lawActId=432611",
+     "sha256": "3997acea31b23078de25d132d55dd06b2c122a72e5a02dcbac3bb76998889312"
+    },
+    {
+     "from": "2022-08-19",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d69ed0c4-d654-40a1-a343-546c8c33b05d?lawActId=434326",
+     "sha256": "46351653c4ae1b7507def7cf9d58a28e05321368049e1c122b4a1ba2ea52b3fd"
+    },
+    {
+     "from": "2023-10-07",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d69ed0c4-d654-40a1-a343-546c8c33b05d?lawActId=436104",
+     "sha256": "f846f45b90d65898b7be8983789820a8f0172000e2d083920cfc138873adc848"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-11-5",
+   "path": "uredba/2020/11-5",
+   "short": "Уредба о поступку обавештавања о инцидентима у информационо-комуникационим системима од посебног значаја",
+   "title": "Уредба о поступку обавештавања о инцидентима у информационо-комуникационим системима од посебног значаја",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/80ad4f66-90c4-4335-b3ad-1d7ae876a249",
+   "versions": [
+    {
+     "from": "2020-02-15",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/80ad4f66-90c4-4335-b3ad-1d7ae876a249?lawActId=429863",
+     "sha256": "0a7055f0a73a955c9c568591d0c12d4b20827b0cc115311c63899ca646df4415"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2020-122-4",
    "path": "uredba/2020/122-4",
    "short": "Уредба о обавезама субјеката система смањења ризика од катастрофа и управљања ванредним ситуацијама у поступку израде Регистра ризика од катастрофа, начину израде Регистра ризика од катастрофа и уносу података",
@@ -5392,6 +7330,36 @@
      "units": 5,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a09c111c-1934-44ec-b222-a4ce278ce692?lawActId=431022",
      "sha256": "d9c8c49a1f4c2d095c57d5496f4f8e9e35cc98e9d49105c5b53dda6ff5a376fa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-124-33",
+   "path": "uredba/2020/124-33",
+   "short": "Уредба о реализацији поступка наплате потраживања којима у име и за рачун Републике Србије и Аутономне покрајине Војводине управља и располаже Агенција за осигурање депозита",
+   "title": "Уредба о реализацији поступка наплате потраживања којима у име и за рачун Републике Србије и Аутономне покрајине Војводине управља и располаже Агенција за осигурање депозита",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/aef412f1-b795-4f65-aff9-01b04c4894f9",
+   "versions": [
+    {
+     "from": "2020-10-24",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/aef412f1-b795-4f65-aff9-01b04c4894f9?lawActId=431042",
+     "sha256": "59f452feace8f8de47b779b63e8cd7c183656e0f742b24b89a3bf11b66033428"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-13-29",
+   "path": "uredba/2020/13-29",
+   "short": "Уредба о безбедности и заштити деце при коришћењу информационо-комуникационих технологија",
+   "title": "Уредба о безбедности и заштити деце при коришћењу информационо-комуникационих технологија",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/09562bab-e2ea-40f7-8eb5-72ed9a004e67",
+   "versions": [
+    {
+     "from": "2020-02-22",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/09562bab-e2ea-40f7-8eb5-72ed9a004e67?lawActId=429890",
+     "sha256": "80dd89e47e0de06d3bde09e57a3a7c8aaf95ce3f74f7a6fd589a6623a6be9642"
     }
    ]
   },
@@ -5482,6 +7450,21 @@
      "units": 7,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/09bc63e8-7301-4d68-a45e-c603c5896e14?lawActId=431375",
      "sha256": "39139a86ebdf5f829a82cba73d35e1bc2ab0a589763b66e0f0c49f62a4c12371"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-156-8",
+   "path": "uredba/2020/156-8",
+   "short": "Уредба о одређивању опреме веће вредности и утврђивању случајева и услова под којима се покретне ствари из јавне својине могу отуђити непосредном погодбом, испод тржишне цене, односно без накнаде",
+   "title": "Уредба о одређивању опреме веће вредности и утврђивању случајева и услова под којима се покретне ствари из јавне својине могу отуђити непосредном погодбом, испод тржишне цене, односно без накнаде",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/7e82aa60-ac73-42a8-a25e-a9cc070c1ace",
+   "versions": [
+    {
+     "from": "2020-01-02",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7e82aa60-ac73-42a8-a25e-a9cc070c1ace?lawActId=431379",
+     "sha256": "2efad6dc5f794b0a8a3992b6abb361d7e48e01566bbe51003294d2f1156fad84"
     }
    ]
   },
@@ -5681,6 +7664,51 @@
    ]
   },
   {
+   "slug": "uredba-2020-54-46",
+   "path": "uredba/2020/54-46",
+   "short": "Уредба о поступку за издавање дужничких хартија од вредности",
+   "title": "Уредба о поступку за издавање дужничких хартија од вредности",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/35daa83a-3b86-46e9-a0b9-70001bb86f7b",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/35daa83a-3b86-46e9-a0b9-70001bb86f7b?lawActId=430260",
+     "sha256": "9b9073ce9067cfa1ff4e525f59b4cb85d29a81b52dab19ebefeb4af83dd13d9a"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-54-52",
+   "path": "uredba/2020/54-52",
+   "short": "Уредба о померању рока за подношење тромесечних извештаја о реализацији годишњег, односно трогодишњег програма пословања за време ванредног стања насталог услед болести COVID-19 изазване вирусом SARS-CoV-2",
+   "title": "Уредба о померању рока за подношење тромесечних извештаја о реализацији годишњег, односно трогодишњег програма пословања за време ванредног стања насталог услед болести COVID-19 изазване вирусом SARS-CoV-2",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/01dac1f2-ed6f-48f9-a9f8-09998cef2652",
+   "versions": [
+    {
+     "from": "2020-04-10",
+     "units": 4,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/01dac1f2-ed6f-48f9-a9f8-09998cef2652?lawActId=430262",
+     "sha256": "fef888d9e4ce3096dc30dca88d93db47f8ce55f55126759515b799ef8133613d"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-57-8",
+   "path": "uredba/2020/57-8",
+   "short": "Уредба о померању рокова за одржавање редовне седнице скупштине привредног друштва и достављање годишњих и консолидованих финансијских извештаја привредних друштава, задруга, других правних лица и предузетника, као и рокова за подношење пријава за порез на добит и пореза на приход од самосталне делатности, важења лиценци овлашћених ревизора и лиценци за вршење процене вредности непокретности које истичу за време ванредног стања насталог услед болести COVID-19 изазване вирусом SARS-CoV-2",
+   "title": "Уредба о померању рокова за одржавање редовне седнице скупштине привредног друштва и достављање годишњих и консолидованих финансијских извештаја привредних друштава, задруга, других правних лица и предузетника, као и рокова за подношење пријава за порез на добит и пореза на приход од самосталне делатности, важења лиценци овлашћених ревизора и лиценци за вршење процене вредности непокретности које истичу за време ванредног стања насталог услед болести COVID-19 изазване вирусом SARS-CoV-2",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/62de4a61-b0c4-4c76-89f0-0a38930a6b94",
+   "versions": [
+    {
+     "from": "2020-04-16",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/62de4a61-b0c4-4c76-89f0-0a38930a6b94?lawActId=430284",
+     "sha256": "4426f013a1b6a4f1b4df6116d38008812920d1db40206fd203e32ea6c7be28d0"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2020-60-5",
    "path": "uredba/2020/60-5",
    "short": "Уредба о померању рока за стицање статуса квалификованог новозапосленог лица",
@@ -5692,6 +7720,21 @@
      "units": 4,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6cefcef1-4cb1-4d57-b228-1ab308fc8aa5?lawActId=430311",
      "sha256": "88571b0ea59ae89709724f8b2f6975d70be5cc8dc51d558e5c916323ebfa6bc7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-63-3",
+   "path": "uredba/2020/63-3",
+   "short": "Уредба о ближим критеријумима за оцену економске оправданости одређивања подручја слободне зоне",
+   "title": "Уредба о ближим критеријумима за оцену економске оправданости одређивања подручја слободне зоне",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8b8f7fa5-4c6d-426e-a9b0-9fb254b2ac83",
+   "versions": [
+    {
+     "from": "2020-05-08",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8b8f7fa5-4c6d-426e-a9b0-9fb254b2ac83?lawActId=430336",
+     "sha256": "ceb40b40d03bed9ab64886c1ef3aa30224c3f8ac344c86a45d1136b3a76f193a"
     }
    ]
   },
@@ -5767,6 +7810,21 @@
      "units": 18,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/173d0947-df6f-42cb-a2fb-ce7c60fe7739?lawActId=430523",
      "sha256": "1df7aa0ad8e6dfce8408173f116eabb99fa48169dc67b7387fd6d12273c651ee"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2020-91-3",
+   "path": "uredba/2020/91-3",
+   "short": "Уредба о праћењу и извештавању активности националне инфраструктуре геопросторних података",
+   "title": "Уредба о праћењу и извештавању активности националне инфраструктуре геопросторних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/445242a5-8f0d-4e4c-8ef6-4f369a2f696d",
+   "versions": [
+    {
+     "from": "2020-07-04",
+     "units": 19,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/445242a5-8f0d-4e4c-8ef6-4f369a2f696d?lawActId=430602",
+     "sha256": "2332d7cf479678d1779d5e49557a1f79d63b162459b172ed47a8d57cb5c955ee"
     }
    ]
   },
@@ -5864,6 +7922,36 @@
    ]
   },
   {
+   "slug": "uredba-2021-127-3",
+   "path": "uredba/2021/127-3",
+   "short": "Уредба о начину спровођења оцењивања усаглашености и исправи о усаглашености",
+   "title": "Уредба о начину спровођења оцењивања усаглашености и исправи о усаглашености",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9c0d16c9-ddad-4778-900a-a058252bd523",
+   "versions": [
+    {
+     "from": "2022-01-01",
+     "units": 36,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9c0d16c9-ddad-4778-900a-a058252bd523?lawActId=433243",
+     "sha256": "4a9c9e16ff75834ba73416b1efeca16562af1555708ac3c6d1b7426db6ae97e7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-132-21",
+   "path": "uredba/2021/132-21",
+   "short": "Уредба о одређивању компетенција за рад службеника у органима аутономних покрајина и јединицама локалне самоуправе",
+   "title": "Уредба о одређивању компетенција за рад службеника у органима аутономних покрајина и јединицама локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d4e7e6a9-3301-464b-b99f-d0709505b5f2",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 36,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d4e7e6a9-3301-464b-b99f-d0709505b5f2?lawActId=433341",
+     "sha256": "1b40bd05a694ef2a732018f5f1fb2c1c65c4798500bfebb2ab8d94689d9ade08"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-132-27",
    "path": "uredba/2021/132-27",
    "short": "Уредба о централизованом обрачуну примања запослених, изабраних и постављених лица код корисника буџетских средстава и корисника средстава организација за обавезно социјално осигурање",
@@ -5875,6 +7963,21 @@
      "units": 14,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ab5d95a2-61d4-4875-a01d-eb363272a48d?lawActId=433352",
      "sha256": "3f408095e1c95516f4809793d3226cc0d80d8a84979befefd5ded50987b64e67"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-132-48",
+   "path": "uredba/2021/132-48",
+   "short": "Уредба о законским мерним јединицама и начину њихове употребе",
+   "title": "Уредба о законским мерним јединицама и начину њихове употребе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0b33a9b9-fa73-48a8-aae6-f6654ea47afb",
+   "versions": [
+    {
+     "from": "2022-01-07",
+     "units": 9,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0b33a9b9-fa73-48a8-aae6-f6654ea47afb?lawActId=433365",
+     "sha256": "2d0824df54a3ae506fac08f8348b2ecb9532fb982b6a1599659df85f7ff8e94e"
     }
    ]
   },
@@ -6071,6 +8174,96 @@
    ]
   },
   {
+   "slug": "uredba-2021-69-4",
+   "path": "uredba/2021/69-4",
+   "short": "Уредба о условима и начину чувања и стављања на увид електронских фактура и начину обезбеђивања веродостојности и интегритета садржине фактура у папирном облику",
+   "title": "Уредба о условима и начину чувања и стављања на увид електронских фактура и начину обезбеђивања веродостојности и интегритета садржине фактура у папирном облику",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/98119853-68af-4492-a13c-575b8eb41b13",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/98119853-68af-4492-a13c-575b8eb41b13?lawActId=433359",
+     "sha256": "f6018a1dcd596f26a3ff1206ee98a1d8b04702ff8b163e65611fdb7558beac61"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/98119853-68af-4492-a13c-575b8eb41b13?lawActId=432484",
+     "sha256": "1742d225bf841159ecab9d87328e736fc2fb05bd074e3d62e3491c5c78f03512"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/98119853-68af-4492-a13c-575b8eb41b13?lawActId=433847",
+     "sha256": "6236f5c225bc42e61a7d76775b43aa0dae22dbecdc33f69615ba135209944afa"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-69-5-2850da",
+   "path": "uredba/2021/69-5-2850da",
+   "short": "Уредба о условима и начину коришћења система за управљање фактурама",
+   "title": "Уредба о условима и начину коришћења система за управљање фактурама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2850da70-ab0c-48f8-898b-3e12300d5339",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2850da70-ab0c-48f8-898b-3e12300d5339?lawActId=433356",
+     "sha256": "9cdc9f165208f0f7ecfd98b8a62f74beaac60d10b562f6363567883af27d2754"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2850da70-ab0c-48f8-898b-3e12300d5339?lawActId=432485",
+     "sha256": "de1c611ace2b91f4426cfd1027baeacee6904e4123c6a88516c566de043c69db"
+    },
+    {
+     "from": "2022-04-09",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2850da70-ab0c-48f8-898b-3e12300d5339?lawActId=433846",
+     "sha256": "74c2dcc67573e4c2eb977b2849f480cf8c1a0a484245554a91bc7f23f6b0d950"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-69-5-ff386b",
+   "path": "uredba/2021/69-5-ff386b",
+   "short": "Уредба о поступку и условима за давање и одузимање сагласности за обављање послова информационог посредника",
+   "title": "Уредба о поступку и условима за давање и одузимање сагласности за обављање послова информационог посредника",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ff386b74-f249-4ca6-9d6d-23dafff0da38",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ff386b74-f249-4ca6-9d6d-23dafff0da38?lawActId=433357",
+     "sha256": "ca7555b706de4156faace5d5c7a10f8a89b3c220c00f40d5aca064728f8962bb"
+    },
+    {
+     "from": "2022-01-01",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ff386b74-f249-4ca6-9d6d-23dafff0da38?lawActId=432486",
+     "sha256": "5dd18199b20dd9d443f957233e8ae46073bbad00644694e972471b5b0eac28d7"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-86-5",
+   "path": "uredba/2021/86-5",
+   "short": "Уредба о утврђивању Канцеларије за информационе технологије и електронску управу као пружаоца квалификоване услуге од поверења",
+   "title": "Уредба о утврђивању Канцеларије за информационе технологије и електронску управу као пружаоца квалификоване услуге од поверења",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9690b138-024d-4143-aa78-557338a0bc1b",
+   "versions": [
+    {
+     "from": "2021-09-11",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9690b138-024d-4143-aa78-557338a0bc1b?lawActId=432691",
+     "sha256": "6f2223bf21b8e8fd9d2d2432c6bff0613433b95474c1d09b30e24875dd9dbab8"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2021-9-18",
    "path": "uredba/2021/9-18",
    "short": "Уредба о минималним техничким условима код обавезне уградње система техничке заштите у банкама и другим финансијским организацијама",
@@ -6118,6 +8311,21 @@
      "units": 17,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3c8805d0-ab40-4c44-b568-6e0b94b9adf0?lawActId=439289",
      "sha256": "908d8dc3ee79cbe51c236db78d6e60d80d2ee6273c28f3020327a858584d088b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2021-mu44-14",
+   "path": "uredba/2021/mu44-14",
+   "short": "Уредбa о спровођењу Пилот обуке за тржиште рада на основу ваучера",
+   "title": "Уредбa о спровођењу Пилот обуке за тржиште рада на основу ваучера",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a7d476d1-f33c-40c6-be9d-d3efb8b900b1",
+   "versions": [
+    {
+     "from": "2021-05-07",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a7d476d1-f33c-40c6-be9d-d3efb8b900b1?lawActId=432124",
+     "sha256": "fb30dfdd229c9ad7715b31b3495dc708cb4d34179a6067174b954496506822fc"
     }
    ]
   },
@@ -6188,6 +8396,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-15-3",
+   "path": "uredba/2022/15-3",
+   "short": "Уредбa о спроведбеним правилима за интероперабилност скупова и сервиса геопросторних података националне инфраструктуре геопросторних података",
+   "title": "Уредбa о спроведбеним правилима за интероперабилност скупова и сервиса геопросторних података националне инфраструктуре геопросторних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d099be0c-b5bd-4f42-b034-3a667889a087",
+   "versions": [
+    {
+     "from": "2022-02-16",
+     "units": 21,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d099be0c-b5bd-4f42-b034-3a667889a087?lawActId=433538",
+     "sha256": "45753705d63fe58c4eca4511d2cf2d2724ce58ded3556d5d684175544a749054"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-18-30",
    "path": "uredba/2022/18-30",
    "short": "Уредба о одржавању и унапређењу Државног центра за управљање и чување података",
@@ -6199,6 +8422,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0e09131f-bdee-41a9-921d-71dff9966d07?lawActId=433577",
      "sha256": "263d4497af95aae31863ca6cfdcb949db33e59acceb57c45cd5acdaa0208c644"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-18-32",
+   "path": "uredba/2022/18-32",
+   "short": "Уредба о именовању тела за оцењивање усаглашености",
+   "title": "Уредба о именовању тела за оцењивање усаглашености",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/768ccde7-12cf-4b4d-b117-bd6f6718d1e3",
+   "versions": [
+    {
+     "from": "2022-02-19",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/768ccde7-12cf-4b4d-b117-bd6f6718d1e3?lawActId=433578",
+     "sha256": "09ad0100181d22139c187c5d21ac49926a9abab3d8f60f398f067d4683bf91d8"
     }
    ]
   },
@@ -6278,6 +8516,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-4-49",
+   "path": "uredba/2022/4-49",
+   "short": "Уредба о знаку усаглашености",
+   "title": "Уредба о знаку усаглашености",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/1def6cf4-ec65-4558-9237-c6682d9c1ba4",
+   "versions": [
+    {
+     "from": "2022-01-22",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/1def6cf4-ec65-4558-9237-c6682d9c1ba4?lawActId=433412",
+     "sha256": "c93c33da742ff6e8dd05e0a0c88c09437e8fb5ab4e2dedba7b6ef45dbee2b6a8"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-69-4",
    "path": "uredba/2022/69-4",
    "short": "Уредба о критеријумима за идентификацију критичне инфраструктуре и начину извештавања о критичној инфраструктури Републике Србије",
@@ -6289,6 +8542,21 @@
      "units": 17,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/662962ab-ec76-4430-850a-4c33ed4dc055?lawActId=434125",
      "sha256": "29266aa4f0bc0e1f3b1c92a60d27ef4c27c37d8e48e95a7bfaf4e2de823b56cb"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2022-69-6",
+   "path": "uredba/2022/69-6",
+   "short": "Уредба о утврђивању Канцеларије за информационе технологије и електронску управу као пружаоца услуге квалификоване електронске доставе",
+   "title": "Уредба о утврђивању Канцеларије за информационе технологије и електронску управу као пружаоца услуге квалификоване електронске доставе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/deb2d94e-509f-4536-8370-f1236bc56e9d",
+   "versions": [
+    {
+     "from": "2022-07-02",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/deb2d94e-509f-4536-8370-f1236bc56e9d?lawActId=434126",
+     "sha256": "0c1c67099efd58d982d002eac6087a2bfdc80df183d6dc35ea383168b09e66b6"
     }
    ]
   },
@@ -6353,6 +8621,21 @@
    ]
   },
   {
+   "slug": "uredba-2022-95-3",
+   "path": "uredba/2022/95-3",
+   "short": "Уредба о нотификацији и информисању о техничким прописима, оцењивању усаглашености и стандардима",
+   "title": "Уредба о нотификацији и информисању о техничким прописима, оцењивању усаглашености и стандардима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8c1cec79-e058-41b5-ad27-17c6ce6d8b29",
+   "versions": [
+    {
+     "from": "2022-09-03",
+     "units": 50,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8c1cec79-e058-41b5-ad27-17c6ce6d8b29?lawActId=434355",
+     "sha256": "c90406c5ae32b7870536ad7c1e2bceee93b101d5b81c8ea57bdd62da58436f45"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2022-mu41-3",
    "path": "uredba/2022/mu41-3",
    "short": "Уредба о утврђивању Инвестиционог програма \"Опоравак и развој\"",
@@ -6370,6 +8653,51 @@
      "units": 4,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/015af5be-19e3-48a2-9f75-a6e4feeafa1e?lawActId=434153",
      "sha256": "88164b527eacd24e930561c7fb0354cc9dea9d474039b18bd3fd0f0953294dd2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-107-4",
+   "path": "uredba/2023/107-4",
+   "short": "Уредба о спровођењу интерног и јавног конкурса за попуњавање радних места у аутономним покрајинама и јединицама локалне самоуправе",
+   "title": "Уредба о спровођењу интерног и јавног конкурса за попуњавање радних места у аутономним покрајинама и јединицама локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2e10c261-1188-4891-8db1-c8991dcce4a0",
+   "versions": [
+    {
+     "from": "2023-12-09",
+     "units": 98,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2e10c261-1188-4891-8db1-c8991dcce4a0?lawActId=436533",
+     "sha256": "00cebe4728ed12426aad3f9d62e0027daf08c791aca1b82aa7403bbef6c9c581"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-18-29",
+   "path": "uredba/2023/18-29",
+   "short": "Уредба о нотификацији тела за оцењивање усаглашености",
+   "title": "Уредба о нотификацији тела за оцењивање усаглашености",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6d49ebd2-773e-4f85-85dd-de0e009051a9",
+   "versions": [
+    {
+     "from": "2023-03-11",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6d49ebd2-773e-4f85-85dd-de0e009051a9?lawActId=435190",
+     "sha256": "7f6fb348137c724ac0974bc7f800023e6c9536ba8d89afea34768cde69d65683"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-20-5",
+   "path": "uredba/2023/20-5",
+   "short": "Уредба о начину признавања иностраних исправа о усаглашености",
+   "title": "Уредба о начину признавања иностраних исправа о усаглашености",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c1bfb155-9fbb-4f88-a6e3-9e6b303bfcc3",
+   "versions": [
+    {
+     "from": "2023-03-18",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c1bfb155-9fbb-4f88-a6e3-9e6b303bfcc3?lawActId=435221",
+     "sha256": "5839cc8ab56a3c5b9f54be6a4701f5aaa02ef0b521dca0b5a3a618549b31fc8f"
     }
    ]
   },
@@ -6437,6 +8765,21 @@
    ]
   },
   {
+   "slug": "uredba-2023-3-3",
+   "path": "uredba/2023/3-3",
+   "short": "Уредба о посебним захтевима за акредитована тела у саставу произвођача",
+   "title": "Уредба о посебним захтевима за акредитована тела у саставу произвођача",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/27c80313-d789-4829-9fc3-6d15bd395809",
+   "versions": [
+    {
+     "from": "2023-01-28",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/27c80313-d789-4829-9fc3-6d15bd395809?lawActId=434988",
+     "sha256": "4ae02e83633360e7032e317e2b4e08d3506e737d5237f1433e1581aea0ed8f24"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2023-38-5",
    "path": "uredba/2023/38-5",
    "short": "Уредба о начелима за унутрашње уређење Министарства унутрашњих послова",
@@ -6478,6 +8821,27 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4bd2486f-e68f-414d-b7b7-b7502a378fc4?lawActId=435664",
      "sha256": "0d9d79cd4b6820dd2f9fcb06ad2415f1f7595511fc145ea2b955272f9c3f1c36"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-54-3",
+   "path": "uredba/2023/54-3",
+   "short": "Уредба о поступку припреме Нацрта плана развоја Републике Србије",
+   "title": "Уредба о поступку припреме Нацрта плана развоја Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/920c515b-4f30-43b1-a688-37029b419cd0",
+   "versions": [
+    {
+     "from": "2023-07-08",
+     "units": 16,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/920c515b-4f30-43b1-a688-37029b419cd0?lawActId=435679",
+     "sha256": "1676a57bcde9b5649717dd2f3539ff7df933a9c696e1122e08900ec71590333f"
+    },
+    {
+     "from": "2025-04-23",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/920c515b-4f30-43b1-a688-37029b419cd0?lawActId=438548",
+     "sha256": "31fb574817020ee8afc163bba246dff5101d0b721b034d2bf3a054f7f3a629d1"
     }
    ]
   },
@@ -6583,6 +8947,21 @@
      "units": 3,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d0b0bd81-83c1-4b1f-bc40-c86373964851?lawActId=435900",
      "sha256": "b491109fc177d0012be040dadd9ab7247c3fda247a85366c3651d84908b3cf93"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2023-70-3",
+   "path": "uredba/2023/70-3",
+   "short": "Уредба о начину, условима и поступку за привремено прикључење на електроенергетску мрежу, гасну мрежу и/или мрежу даљинског грејања, водовод и канализацију незаконито изграђених објеката",
+   "title": "Уредба о начину, условима и поступку за привремено прикључење на електроенергетску мрежу, гасну мрежу и/или мрежу даљинског грејања, водовод и канализацију незаконито изграђених објеката",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ede2e07e-59aa-433c-96eb-0305caab74c2",
+   "versions": [
+    {
+     "from": "2023-08-31",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ede2e07e-59aa-433c-96eb-0305caab74c2?lawActId=435910",
+     "sha256": "1e8e7a672d093de685077291159b2f75030a6cd6b3595bf67ecd3e16c000cf84"
     }
    ]
   },
@@ -6728,6 +9107,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-18-27",
+   "path": "uredba/2024/18-27",
+   "short": "Уредба о условима, критеријумима и поступку за остваривање права на доделу средстава за подстицање развоја социјалног предузетништва",
+   "title": "Уредба о условима, критеријумима и поступку за остваривање права на доделу средстава за подстицање развоја социјалног предузетништва",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/22e78726-83de-44f7-a98c-90911d9900f5",
+   "versions": [
+    {
+     "from": "2024-03-16",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/22e78726-83de-44f7-a98c-90911d9900f5?lawActId=436982",
+     "sha256": "f2516f9cfcb392a04a87c75ac6fbd0f010f48b558ef2c49e4fbed25fac1ca979"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-3-26",
    "path": "uredba/2024/3-26",
    "short": "Уредба о Централној кадровској евиденцији",
@@ -6833,6 +9227,21 @@
    ]
   },
   {
+   "slug": "uredba-2024-6-6",
+   "path": "uredba/2024/6-6",
+   "short": "Уредба о условима издавања извода из базе података катастра непокретности и катастра инфраструктуре из Геодетског катастарског информационог система, од стране јавних бележника, геодетских организација и посредника у промету и закупу непокретности",
+   "title": "Уредба о условима издавања извода из базе података катастра непокретности и катастра инфраструктуре из Геодетског катастарског информационог система, од стране јавних бележника, геодетских организација и посредника у промету и закупу непокретности",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/95adae1c-9113-47e5-8f26-9bed3caad56b",
+   "versions": [
+    {
+     "from": "2024-02-03",
+     "units": 8,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/95adae1c-9113-47e5-8f26-9bed3caad56b?lawActId=436809",
+     "sha256": "b183a231818c36ae81703fa98269c2ecee5241488e8800a741d43e1676ee28da"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2024-73-3",
    "path": "uredba/2024/73-3",
    "short": "Уредба о утврђивању Програма подстицања регионалног и локалног развоја у 2024. години",
@@ -6859,6 +9268,21 @@
      "units": 4,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b914da43-4e32-49f8-93dc-a9f955e99f4a?lawActId=437539",
      "sha256": "49d1d9ffb310063e155ad48f39a3c45f936b939bf4b6ef9fca6635c274ea2d6e"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-77-8",
+   "path": "uredba/2024/77-8",
+   "short": "Уредба о додатним условима за именовање и поступку именовања органа друштва капитала, као и поступку о спровођењу јавног конкурса за директора",
+   "title": "Уредба о додатним условима за именовање и поступку именовања органа друштва капитала, као и поступку о спровођењу јавног конкурса за директора",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/88419e87-e6c6-4fa4-afe4-ed9a3792adf2",
+   "versions": [
+    {
+     "from": "2024-09-28",
+     "units": 24,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/88419e87-e6c6-4fa4-afe4-ed9a3792adf2?lawActId=437568",
+     "sha256": "f45e533c262e415a412d7ed417356b7395eeaa40dffe36ff4e72f12c8adb4835"
     }
    ]
   },
@@ -6916,6 +9340,21 @@
      "units": 24,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dd980988-064b-461e-bac8-70a4e903cd1b?lawActId=437604",
      "sha256": "33df3d7fb848afbb499b9e35fbe3fa78987c6fd51dfae985a3ed0ccc7a0de91b"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2024-89-21",
+   "path": "uredba/2024/89-21",
+   "short": "Уредбa о утврђивању Канцеларије за информационе технологије и електронску управу као пружаоца услуге управљања квалификованим средством за креирање електронског печата на даљину",
+   "title": "Уредбa о утврђивању Канцеларије за информационе технологије и електронску управу као пружаоца услуге управљања квалификованим средством за креирање електронског печата на даљину",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8541b493-4b38-49a8-b074-b81dfe2d4827",
+   "versions": [
+    {
+     "from": "2024-11-16",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8541b493-4b38-49a8-b074-b81dfe2d4827?lawActId=437753",
+     "sha256": "5cc5c7341ba96fd2e99be41449d33d73f1e90b8c94a09c0f0a2cf87a0d4d0557"
     }
    ]
   },
@@ -6986,6 +9425,27 @@
    ]
   },
   {
+   "slug": "uredba-2025-103-15",
+   "path": "uredba/2025/103-15",
+   "short": "Уредба о утврђивању елемената годишњег програма пословања за 2026. годину, односно трогодишњег програма пословања за период 2026-2028. године јавних предузећа и других облика организовања који обављају делатност од општег интереса чији је оснивач аутономна покрајина или јединица локалне самоуправе",
+   "title": "Уредба о утврђивању елемената годишњег програма пословања за 2026. годину, односно трогодишњег програма пословања за период 2026-2028. године јавних предузећа и других облика организовања који обављају делатност од општег интереса чији је оснивач аутономна покрајина или јединица локалне самоуправе",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e84a4dbd-8269-4b57-84e2-724dd105bd75",
+   "versions": [
+    {
+     "from": "2025-11-29",
+     "units": 2,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e84a4dbd-8269-4b57-84e2-724dd105bd75?lawActId=439259",
+     "sha256": "b7194d79fc4d53245f24a1bc4356649eaa1d3622d2538c8e753056ddcc5ec397"
+    },
+    {
+     "from": "2026-10-24",
+     "units": 2,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e84a4dbd-8269-4b57-84e2-724dd105bd75?lawActId=440710",
+     "sha256": "9c1e0b3222370adfe9195a2388159fa570205738bfe62bc0e63d7c951d046f44"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2025-107-1",
    "path": "uredba/2025/107-1",
    "short": "Уредба о усклађивању номенклатуре Царинске тарифе за 2026. годину",
@@ -7018,6 +9478,141 @@
      "units": 4,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/59598611-6c53-4a1c-b5c3-084a1c02a7bf?lawActId=439502",
      "sha256": "dc901973bd3e39f201510d09e6627d2a6735277f3671dc30284b565c24a3cccf"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-20-18",
+   "path": "uredba/2025/20-18",
+   "short": "Уредба о методологији израде докумената јавних политика",
+   "title": "Уредба о методологији израде докумената јавних политика",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9b437848-556b-4b7e-8588-886207c08420",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 47,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9b437848-556b-4b7e-8588-886207c08420?lawActId=438330",
+     "sha256": "e290f98eee6bde11444301f1f023adc5565a6bbb21d9fbc20a781fdb3f0dd716"
+    },
+    {
+     "from": "2026-03-28",
+     "units": 47,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9b437848-556b-4b7e-8588-886207c08420?lawActId=439883",
+     "sha256": "635780f0869fc70132ce5af83fee523948be20f675bf8bc012ba13c115e453b6"
+    },
+    {
+     "from": "2026-04-04",
+     "units": 48,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9b437848-556b-4b7e-8588-886207c08420?lawActId=439908",
+     "sha256": "53af1de7e0a3fe40a77a0a3fd3697d9c2e21694edd2182bbc3b957b3edc5b793"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-20-8",
+   "path": "uredba/2025/20-8",
+   "short": "Уредба о анализи ефеката прописа",
+   "title": "Уредба о анализи ефеката прописа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/da0f1919-f85b-49d7-9979-f4a90d1291ba",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 33,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/da0f1919-f85b-49d7-9979-f4a90d1291ba?lawActId=438322",
+     "sha256": "801812499874ef32203058ae568299f630be1d88e4139c02b63f47f4931a93ca"
+    },
+    {
+     "from": "2026-03-28",
+     "units": 33,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/da0f1919-f85b-49d7-9979-f4a90d1291ba?lawActId=439892",
+     "sha256": "f094cfd5917ac20466a55201d4b5f144329ea8598a1a7c952caeef036d5ec6d9"
+    },
+    {
+     "from": "2026-04-04",
+     "units": 34,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/da0f1919-f85b-49d7-9979-f4a90d1291ba?lawActId=439910",
+     "sha256": "c1787f8cbb786202dc4bd3227a7710414926b6fb70cf517d1828e62c62199cb1"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-21-12",
+   "path": "uredba/2025/21-12",
+   "short": "Уредба о поступку и роковима уновчења имовине и намирења поверилаца у поступцима стечаја и ликвидације финансијских институција, као и поступању Агенције за осигурање депозита у вези са обављањем послова у име и за рачун Републике Србије",
+   "title": "Уредба о поступку и роковима уновчења имовине и намирења поверилаца у поступцима стечаја и ликвидације финансијских институција, као и поступању Агенције за осигурање депозита у вези са обављањем послова у име и за рачун Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b980f631-40af-4e14-a2e4-d71940f9072d",
+   "versions": [
+    {
+     "from": "2025-03-21",
+     "units": 27,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b980f631-40af-4e14-a2e4-d71940f9072d?lawActId=438350",
+     "sha256": "748d534e2c8b0a56d8932a1e341f010959783b35ebb6d96b648151e59ba74c63"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-47-3",
+   "path": "uredba/2025/47-3",
+   "short": "Уредба о додатним захтевима за стављање на тржиште производа који садрже палмино уље, палмину маст, односно друга биљна уља и масти",
+   "title": "Уредба о додатним захтевима за стављање на тржиште производа који садрже палмино уље, палмину маст, односно друга биљна уља и масти",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f0824020-5ec6-42cb-a7f7-ca7967b4913c",
+   "versions": [
+    {
+     "from": "2025-08-01",
+     "units": 13,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f0824020-5ec6-42cb-a7f7-ca7967b4913c?lawActId=438662",
+     "sha256": "5c28343b0effa6c6e665136a02f16c2c4c807377938b4fafe33cca5ce1239a24"
+    },
+    {
+     "from": "2025-08-01",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f0824020-5ec6-42cb-a7f7-ca7967b4913c?lawActId=438877",
+     "sha256": "710e5ac3112b120f5ae4454375c44e02c11da803682494f78e977942cf0529c3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-48-29",
+   "path": "uredba/2025/48-29",
+   "short": "Уредба о утврђивању битних одступања од општих годишњих циљева утврђених смерницама којим се утврђују општи годишњи циљеви друштава капитала",
+   "title": "Уредба о утврђивању битних одступања од општих годишњих циљева утврђених смерницама којим се утврђују општи годишњи циљеви друштава капитала",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3e1bfa41-cf98-46d5-8b1c-1be2a9798dd2",
+   "versions": [
+    {
+     "from": "2025-06-14",
+     "units": 5,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3e1bfa41-cf98-46d5-8b1c-1be2a9798dd2?lawActId=438676",
+     "sha256": "a7ac3e52f2e26641b808415ea1a26344b7521df17f84378155c0f06de309fe88"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-59-3",
+   "path": "uredba/2025/59-3",
+   "short": "Уредба о садржини, изради, роковима и начину достављања планова и периодичних извештаја друштава капитала у власништву Републике Србије",
+   "title": "Уредба о садржини, изради, роковима и начину достављања планова и периодичних извештаја друштава капитала у власништву Републике Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a771a4bf-57a1-43e0-859c-60ec103fd506",
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a771a4bf-57a1-43e0-859c-60ec103fd506?lawActId=438804",
+     "sha256": "22c3d508a1d87dd023ea4aee36ad3a646a1aaeef21e1f610fe534b00277f87a2"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2025-59-66",
+   "path": "uredba/2025/59-66",
+   "short": "Уредба о условима и квалификацијама неопходним за учешће у раду Комисије за доношење Смерница којима се утврђују општи годишњи циљеви друштава капитала, као и активностима те комисије",
+   "title": "Уредба о условима и квалификацијама неопходним за учешће у раду Комисије за доношење Смерница којима се утврђују општи годишњи циљеви друштава капитала, као и активностима те комисије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f3b53fb4-9075-47f2-8f86-12d84fe154ea",
+   "versions": [
+    {
+     "from": "2025-07-12",
+     "units": 7,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f3b53fb4-9075-47f2-8f86-12d84fe154ea?lawActId=438805",
+     "sha256": "6c0efe0e09ccf83d3f48f65f42bb3e297e21743b15e5dae9a6ecb17c48be7306"
     }
    ]
   },
@@ -7138,6 +9733,36 @@
      "units": 17,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7d75b9be-60ff-4abd-992a-24b1287997ab?lawActId=439212",
      "sha256": "dfdb0065473adec32599ac43a9245dd9c84a6551c0d1cbefa1dc27134bb45bc3"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-101-3",
+   "path": "uredba/2026/101-3",
+   "short": "Уредба за први циљ кохезионе политике \"Улагање у запошљавање и pacт\"",
+   "title": "Уредба за први циљ кохезионе политике \"Улагање у запошљавање и pacт\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/02307fa5-8a0b-44d2-9c4b-6178a81ed36d",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/02307fa5-8a0b-44d2-9c4b-6178a81ed36d?lawActId=440735",
+     "sha256": "694b92d94948756b7e8c7085e4ff9c0d6238a8cc33cf779ba7fd3725064ff8f6"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-101-7",
+   "path": "uredba/2026/101-7",
+   "short": "Уредба за други циљ кохезионе политике \"Европска територијална сарадња\" (Интеррег)",
+   "title": "Уредба за други циљ кохезионе политике \"Европска територијална сарадња\" (Интеррег)",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0ab70f55-4ed4-43d4-8b8e-a2253ecca839",
+   "versions": [
+    {
+     "from": "2026-10-31",
+     "units": 23,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0ab70f55-4ed4-43d4-8b8e-a2253ecca839?lawActId=440736",
+     "sha256": "65fd23dc9b02a09577054b53437d159f4ad1a781fa1c9678ede53f2973ec3c1e"
     }
    ]
   },
@@ -7454,6 +10079,42 @@
    ]
   },
   {
+   "slug": "uredba-2026-4-3",
+   "path": "uredba/2026/4-3",
+   "short": "Уредба о тржишном додатку",
+   "title": "Уредба о тржишном додатку",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c50f02a9-1d6e-4c74-b812-44f7d0c42436",
+   "versions": [
+    {
+     "from": "2026-02-01",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c50f02a9-1d6e-4c74-b812-44f7d0c42436?lawActId=439621",
+     "sha256": "6ce35e28ed41e27b36a576bee47e9d1ef130295290cebd23465e881b0803e83f"
+    },
+    {
+     "from": "2026-05-08",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c50f02a9-1d6e-4c74-b812-44f7d0c42436?lawActId=440053",
+     "sha256": "2cd940fa5d57e356625b46edae85cee3b0ea68c70d6af913ded992b2824add10"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-4-7",
+   "path": "uredba/2026/4-7",
+   "short": "Уредба о утврђивању Плана званичне статистике за 2026. годину",
+   "title": "Уредба о утврђивању Плана званичне статистике за 2026. годину",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d817f6f0-aa72-4314-b65e-5027026e7b8c",
+   "versions": [
+    {
+     "from": "2026-01-24",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d817f6f0-aa72-4314-b65e-5027026e7b8c?lawActId=439631",
+     "sha256": "2191242a913124cc34a93cd51e7c6b6344ab399e15021dd51bef85dd761137d5"
+    }
+   ]
+  },
+  {
    "slug": "uredba-2026-48-4",
    "path": "uredba/2026/48-4",
    "short": "Уредба о утврђивању Програма доделе бесповратних средстава за подршку развоју добровољних ватрогасних друштава у сеоским срединама на територији Републике Србије за 2026. годину",
@@ -7585,6 +10246,21 @@
      "units": 47,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/35ec27c2-ed23-4b90-b737-edbf077c42a2?lawActId=440501",
      "sha256": "73ef480b90ef8b82749af8a11462dc5b5cd610737b438ff840bd1b796a286571"
+    }
+   ]
+  },
+  {
+   "slug": "uredba-2026-90-8",
+   "path": "uredba/2026/90-8",
+   "short": "Уредба о критеријумима и начину избора стратешког партнера и стручног надзора над извођењем радова на реализацији Пројекта изградње дела инфраструктурног коридора, крака аутопута Е-761, деоница Краљево - Нови Пазар, са везом Рашка-Јариње",
+   "title": "Уредба о критеријумима и начину избора стратешког партнера и стручног надзора над извођењем радова на реализацији Пројекта изградње дела инфраструктурног коридора, крака аутопута Е-761, деоница Краљево - Нови Пазар, са везом Рашка-Јариње",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9885f064-b4c6-4c2e-ac0c-b66c3336435f",
+   "versions": [
+    {
+     "from": "2026-09-19",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9885f064-b4c6-4c2e-ac0c-b66c3336435f?lawActId=440635",
+     "sha256": "0422c7987e22f40d22ba187d53de339272ececf5c8ff17471cd8b205fea83e0c"
     }
    ]
   },
