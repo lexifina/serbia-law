@@ -173,6 +173,21 @@
    ]
   },
   {
+   "slug": "kodeks-2015-1-165",
+   "path": "kodeks/2015/1-165",
+   "short": "Кодекс професионалне етике стручних радника социјалне заштите",
+   "title": "Кодекс професионалне етике стручних радника социјалне заштите",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/069315e2-8f09-4dc6-b58d-0d32eb354c1b",
+   "versions": [
+    {
+     "from": "2015-01-14",
+     "units": 69,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/069315e2-8f09-4dc6-b58d-0d32eb354c1b?lawActId=416776",
+     "sha256": "01b9b305ce48b24c291b8cbc2d14f6194b20205393f5e1b4c71397fe11918f33"
+    }
+   ]
+  },
+  {
    "slug": "kodeks-2016-104-165",
    "path": "kodeks/2016/104-165",
    "short": "Кодекс медицинске етике Лекарске коморе Србије",
@@ -1058,6 +1073,21 @@
    ]
   },
   {
+   "slug": "zakon-1993-22-769",
+   "path": "zakon/1993/22-769",
+   "short": "Закон о повластицама у унутрашњем путничком саобраћају инвалидних лица",
+   "title": "Закон о повластицама у унутрашњем путничком саобраћају инвалидних лица",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b899eb83-c3eb-4281-8b06-aed242b475f4",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b899eb83-c3eb-4281-8b06-aed242b475f4?lawActId=423562",
+     "sha256": "c172864e18f0e2fb8ba6992d7f6047de2344ecad4edf0f3a9b2ae88dfcf22b38"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1993-49-2289",
    "path": "zakon/1993/49-2289",
    "short": "Закон о оснивању учитељских факултета и о укидању и промени делатности педагошких академија и виших школа",
@@ -1450,6 +1480,21 @@
      "units": 4,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/395e57ca-66ee-4c03-b55d-8f4477c70174?lawActId=425882",
      "sha256": "786c67de908ddf4286f3a15d56b7b5055e4bad5807ea0f99c2f19f8577bb910a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1996-srj46-15",
+   "path": "zakon/1996/srj46-15",
+   "short": "Закон о употреби и заштити знака и назива Црвеног крста",
+   "title": "Закон о употреби и заштити знака и назива Црвеног крста",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3d9179ad-ca4e-436c-b9b2-fc5317f57d0e",
+   "versions": [
+    {
+     "from": "1996-10-12",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3d9179ad-ca4e-436c-b9b2-fc5317f57d0e?lawActId=304265",
+     "sha256": "ce3704b1582b8bdfc39118ec1b08d1c5b4dbd3b37430114eb51caab242c70e6d"
     }
    ]
   },
@@ -2347,6 +2392,21 @@
      "units": 7,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c29d5a5f-d7bd-4ef2-a6a2-0986773aca43?lawActId=423028",
      "sha256": "a77ce0de5ff777f778ff03e4f5fe804eb46d71ab032b71eb10c894e9348afe8d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2001-srj53-14",
+   "path": "zakon/2001/srj53-14",
+   "short": "Закон о донацијама и хуманитарној помоћи",
+   "title": "Закон о донацијама и хуманитарној помоћи",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d3617998-33b0-45e0-960d-bc419b796924",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 13,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d3617998-33b0-45e0-960d-bc419b796924?lawActId=280130",
+     "sha256": "6fef5f48e85d017171f0966c7993c896dbc2c2b92b6bc0391701eb0bcd6e76d3"
     }
    ]
   },
@@ -4004,6 +4064,21 @@
    ]
   },
   {
+   "slug": "zakon-2005-107-104",
+   "path": "zakon/2005/107-104",
+   "short": "Закон о супстанцама које се користе у недозвољеној производњи опојних дрога и психотропних супстанци",
+   "title": "Закон о супстанцама које се користе у недозвољеној производњи опојних дрога и психотропних супстанци",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c58e3aaf-1f79-4b90-b214-34565b848fea",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 49,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c58e3aaf-1f79-4b90-b214-34565b848fea?lawActId=428141",
+     "sha256": "f22915fdc007054bdd4096d2d82950fae9dce8a5e3f3837de885bb9ff3c151e6"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2005-107-15",
    "path": "zakon/2005/107-15",
    "short": "Закон о банкама",
@@ -4021,6 +4096,21 @@
      "units": 204,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9a9c8589-43f1-4946-a350-f76bbfa69447?lawActId=438334",
      "sha256": "d17cf9cf778039a27eab166e5e0ca59786899c9266e20849e4877f8b2b98c4e0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-107-92",
+   "path": "zakon/2005/107-92",
+   "short": "Закон о Црвеном крсту Србије",
+   "title": "Закон о Црвеном крсту Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6579e0b7-917c-4a87-8b78-6b810262c0e3",
+   "versions": [
+    {
+     "from": "2005-12-10",
+     "units": 25,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6579e0b7-917c-4a87-8b78-6b810262c0e3?lawActId=280122",
+     "sha256": "c170aa8a6d4777e264df41706449b5ab94c4fa108637b2f4b79d0c0795964b13"
     }
    ]
   },
@@ -7877,6 +7967,27 @@
    ]
   },
   {
+   "slug": "zakon-2010-99-4",
+   "path": "zakon/2010/99-4",
+   "short": "Закон о психоактивним контролисаним супстанцама",
+   "title": "Закон о психоактивним контролисаним супстанцама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/62442dc5-7844-44a8-9e53-1ab1dda6f696",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 117,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/62442dc5-7844-44a8-9e53-1ab1dda6f696?lawActId=419240",
+     "sha256": "25cf7185d65f891cddc3c6746b5046920ee3f0912d6b688b10b5fac6ff9b0f29"
+    },
+    {
+     "from": "2018-08-02",
+     "units": 119,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/62442dc5-7844-44a8-9e53-1ab1dda6f696?lawActId=426387",
+     "sha256": "5567d2ab3db9e086e6de9b84f2001e6f730f281127b6a4ce36eddef2fe1a852d"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2011-13-3",
    "path": "zakon/2011/13-3",
    "short": "Закон о давању гаранције Републике Србије у корист Српске банке а.д. Београд за обавезе ЈП \"Југоимпорт-СДПР\"",
@@ -9536,6 +9647,36 @@
    ]
   },
   {
+   "slug": "zakon-2013-mu12-15",
+   "path": "zakon/2013/mu12-15",
+   "short": "Закон о потврђивању Конвенције Савета Европе о спречавању и борби против насиља над женама и насиља у породици",
+   "title": "Закон о потврђивању Конвенције Савета Европе о спречавању и борби против насиља над женама и насиља у породици",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a3c5b0fa-58b7-4866-8272-25323ff9f318",
+   "versions": [
+    {
+     "from": "2013-11-08",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a3c5b0fa-58b7-4866-8272-25323ff9f318?lawActId=408445",
+     "sha256": "0d021964271e52839eaa43d0c0c2ecb92169ea8eae756a87e8c9d5c7569a1b1b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-mu12-6",
+   "path": "zakon/2013/mu12-6",
+   "short": "Закон о потврђивању Конвенције о заштити деце и сарадњи у области међународног усвојења",
+   "title": "Закон о потврђивању Конвенције о заштити деце и сарадњи у области међународног усвојења",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/58e1032b-3150-45bd-9194-f972462e108b",
+   "versions": [
+    {
+     "from": "2013-11-08",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/58e1032b-3150-45bd-9194-f972462e108b?lawActId=408447",
+     "sha256": "c2c7fa6387f2ac92b01f4574f4f1a5d7334a5b908ef1fb7227c01c8fe6c26bef"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-107-3",
    "path": "zakon/2014/107-3",
    "short": "Закон о извозу и увозу наоружања и војне опреме",
@@ -9995,6 +10136,36 @@
    ]
   },
   {
+   "slug": "zakon-2014-mu10-89",
+   "path": "zakon/2014/mu10-89",
+   "short": "Закон о потврђивању Споразума о сарадњи између Владе Републике Србије и Владе Црне Горе у контексту приступања Европској унији",
+   "title": "Закон о потврђивању Споразума о сарадњи између Владе Републике Србије и Владе Црне Горе у контексту приступања Европској унији",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0b2fc154-deca-485c-816b-66b6a4eeb267",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0b2fc154-deca-485c-816b-66b6a4eeb267?lawActId=408477",
+     "sha256": "7f332520c82a9c32fda326c1c74cdbf09395e7feab5ede7f8eef3311f4861c0d"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-mu5-133",
+   "path": "zakon/2014/mu5-133",
+   "short": "Закон о потврђивању Амандмана на члан 20. став 1. Конвенције о елиминисању свих облика дискриминације жена",
+   "title": "Закон о потврђивању Амандмана на члан 20. став 1. Конвенције о елиминисању свих облика дискриминације жена",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f5d09f91-08cd-4222-b124-e60dc507ac94",
+   "versions": [
+    {
+     "from": "2014-06-07",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f5d09f91-08cd-4222-b124-e60dc507ac94?lawActId=408437",
+     "sha256": "0851bf886f06c9f64fc937311137427265952f274a15e5a39ba9a821c59153cd"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2015-101-3",
    "path": "zakon/2015/101-3",
    "short": "Закон о рударству и геолошким истраживањима",
@@ -10303,6 +10474,21 @@
      "units": 28,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/25c8a131-b434-4470-be06-2deec4873656?lawActId=437827",
      "sha256": "40d3e1c3a374c022e5cdc61eedea379d73f058c668a2d1e81fa09767569cb7bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-29-8",
+   "path": "zakon/2015/29-8",
+   "short": "Закон о кретању уз помоћ пса водича",
+   "title": "Закон о кретању уз помоћ пса водича",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a7177359-8362-4cad-acc2-615b00fb0a0c",
+   "versions": [
+    {
+     "from": "2015-03-31",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a7177359-8362-4cad-acc2-615b00fb0a0c?lawActId=423560",
+     "sha256": "4f627ec65d88f9858949e57a2898f929a688c765e40570641cedc33d358b6302"
     }
    ]
   },
@@ -10744,6 +10930,21 @@
      "units": 798,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9cb02859-fddf-4410-91e0-5f5a21acecaa?lawActId=424565",
      "sha256": "4c38d30a3dd88d9cd4c794e94e185b978ca72105a928daf974580174dfeca872"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-mu10-1",
+   "path": "zakon/2015/mu10-1",
+   "short": "Закон о потврђивању Протокола број 15 којим се мења Конвенција за заштиту људских права и основних слобода",
+   "title": "Закон о потврђивању Протокола број 15 којим се мења Конвенција за заштиту људских права и основних слобода",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/33c587e8-c7d0-44c8-9b33-60d505ede2ff",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/33c587e8-c7d0-44c8-9b33-60d505ede2ff?lawActId=408417",
+     "sha256": "fd9d7eedf99ce6c30dd223dfbb5bfd4599c506d7b9bc9307e15d5baa2d690a5f"
     }
    ]
   },
@@ -11278,6 +11479,21 @@
      "units": 48,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b312dca7-6030-4352-aef5-e2a772a56d28?lawActId=435995",
      "sha256": "9e26b1ac5853f5db7ae1f5156ba6adb3d35a50056d6003a52c9ff4cbd1216fc1"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-105-3",
+   "path": "zakon/2017/105-3",
+   "short": "Закон о медицинским средствима",
+   "title": "Закон о медицинским средствима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/1ed616c8-7e70-4872-8ca6-eb058c5ec7e9",
+   "versions": [
+    {
+     "from": "2017-12-01",
+     "units": 138,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/1ed616c8-7e70-4872-8ca6-eb058c5ec7e9?lawActId=424373",
+     "sha256": "e8ba2ce28c9c5f5725e357c172cff8fbbfa96e5f08055b38349b4b8700126d90"
     }
    ]
   },
@@ -12056,6 +12272,33 @@
    ]
   },
   {
+   "slug": "zakon-2018-57-12",
+   "path": "zakon/2018/57-12",
+   "short": "Закон о пресађивању људских органа",
+   "title": "Закон о пресађивању људских органа",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b181540d-ea78-4fda-a395-57e6d1b71a63",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 58,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b181540d-ea78-4fda-a395-57e6d1b71a63?lawActId=426384",
+     "sha256": "b3d047f0355b87cea95900270aaf8738251f0db5836c3a9aadf31cdd21d59047"
+    },
+    {
+     "from": "2021-11-25",
+     "units": 57,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b181540d-ea78-4fda-a395-57e6d1b71a63?lawActId=433061",
+     "sha256": "167bae830003aa5ed362276fcc9c54d1ece41839d6efd592b62a5d1deaf39e8a"
+    },
+    {
+     "from": "2026-07-03",
+     "units": 60,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b181540d-ea78-4fda-a395-57e6d1b71a63?lawActId=440264",
+     "sha256": "7c444db0edf225654745f648df9649bdc0d2745ff5075d19c166dc075a766f41"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-57-3",
    "path": "zakon/2018/57-3",
    "short": "Закон о људским ћелијама и ткивима",
@@ -12328,6 +12571,27 @@
      "units": 287,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8301fae0-6c3f-46d0-94c7-03d64234dca1?lawActId=439983",
      "sha256": "f605f766478549ccc35b238bc0d8ccafe715072bec22a9bbb19276a17d6c03dc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2018-95-3",
+   "path": "zakon/2018/95-3",
+   "short": "Закон о Централном регистру обавезног социјалног осигурања",
+   "title": "Закон о Централном регистру обавезног социјалног осигурања",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/51218f50-4f8c-4d65-b7a2-4ef6aa56e2a8",
+   "versions": [
+    {
+     "from": "2018-12-16",
+     "units": 52,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/51218f50-4f8c-4d65-b7a2-4ef6aa56e2a8?lawActId=427204",
+     "sha256": "4757ce9e9ea20237b064ba053d8333e52e89d63b1df14d13a4c2d5e524aa19d5"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 52,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/51218f50-4f8c-4d65-b7a2-4ef6aa56e2a8?lawActId=429523",
+     "sha256": "a939ce7eba08034b2a4b0f6d07d9b999e503338eb7b9cf14e303bd09abdd529b"
     }
    ]
   },
@@ -13448,6 +13712,21 @@
    ]
   },
   {
+   "slug": "zakon-2020-18-6",
+   "path": "zakon/2020/18-6",
+   "short": "Закон о правима бораца, војних инвалида, цивилних инвалида рата и чланова њихових породица",
+   "title": "Закон о правима бораца, војних инвалида, цивилних инвалида рата и чланова њихових породица",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/59f04a7f-b4ef-4122-9e3d-423b50741b9e",
+   "versions": [
+    {
+     "from": "2020-03-11",
+     "units": 212,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/59f04a7f-b4ef-4122-9e3d-423b50741b9e?lawActId=429977",
+     "sha256": "dfccda90ae049b02eb61c58f84b648e2fd755d63413c1b3998f2460a724a0f5e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2020-6-31",
    "path": "zakon/2020/6-31",
    "short": "Закон о архивској грађи и архивској делатности",
@@ -13570,6 +13849,21 @@
      "units": 50,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f3369cb1-3940-409d-a175-8a79ca2dfc81?lawActId=432976",
      "sha256": "9bfeb72252fb161f71ef0880da91727ebe9ec4b59b4b300ae4011dac2baa5330"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-109-3",
+   "path": "zakon/2021/109-3",
+   "short": "Закон о биоцидним производима",
+   "title": "Закон о биоцидним производима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/145c2d66-f86f-4efb-9e5f-770f9693ba28",
+   "versions": [
+    {
+     "from": "2021-11-27",
+     "units": 69,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/145c2d66-f86f-4efb-9e5f-770f9693ba28?lawActId=433016",
+     "sha256": "cf9d9b5dfae3aed44bad795ce477c8f55dbc70122607c97e6247a7ecf663ed74"
     }
    ]
   },
@@ -13846,6 +14140,27 @@
      "units": 128,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/efc2e537-f19e-4df8-93cf-a8418e3524af?lawActId=437869",
      "sha256": "8280dd334e2b750812e16a5308afb216e57526f9cef4f923ec2b8e5963e937a5"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-40-313",
+   "path": "zakon/2021/40-313",
+   "short": "Закон о Привременом регистру пунолетних држављана Републике Србије којима се уплаћује новчанa помоћ за ублажавање последица пандемије болести CОVID-19 изазване вирусом SARS-CоV-2",
+   "title": "Закон о Привременом регистру пунолетних држављана Републике Србије којима се уплаћује новчанa помоћ за ублажавање последица пандемије болести CОVID-19 изазване вирусом SARS-CоV-2",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0a43fc0d-dedc-4f45-9ebd-25563a1e7d3c",
+   "versions": [
+    {
+     "from": "2021-04-23",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0a43fc0d-dedc-4f45-9ebd-25563a1e7d3c?lawActId=432073",
+     "sha256": "06b04f369db2ab987d3f6f8eab01e4f6591ca31dd78d5d0fa4910ee83876db43"
+    },
+    {
+     "from": "2021-10-16",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0a43fc0d-dedc-4f45-9ebd-25563a1e7d3c?lawActId=432837",
+     "sha256": "f745face7f31fa81b701f21f360d4dd5bd6a9d6a0db8188feed55edd05cdd567"
     }
    ]
   },
@@ -14224,6 +14539,36 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ddd1322d-49f7-4710-bd65-714d8427c7df?lawActId=432824",
      "sha256": "93c409224451070a557711e1aae1dfe79d0468fd059bae368817e7a2847c8ab2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-mu3-24",
+   "path": "zakon/2021/mu3-24",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Северне Македоније о сарадњи у области борбе против трговине људима",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Северне Македоније о сарадњи у области борбе против трговине људима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e30d2582-c591-4745-a4ae-290d1db8904d",
+   "versions": [
+    {
+     "from": "2021-03-10",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e30d2582-c591-4745-a4ae-290d1db8904d?lawActId=431807",
+     "sha256": "871bdb67c218d071931dd1f605fd533a2faca7f15010eb180cfe02cae266fd6e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-125-220",
+   "path": "zakon/2022/125-220",
+   "short": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ",
+   "title": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/6e05ff1e-ae48-4b0e-8bce-ec41ddba85c6",
+   "versions": [
+    {
+     "from": "2022-11-20",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/6e05ff1e-ae48-4b0e-8bce-ec41ddba85c6?lawActId=434597",
+     "sha256": "22b8a7ac8050615bb792252b05231b7f8528a168803b13269a43f28cfd09a96e"
     }
    ]
   },
@@ -14929,6 +15274,21 @@
      "units": 7,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5708a2e3-000e-4181-a3e0-e5cd814d8ea9?lawActId=436248",
      "sha256": "6505e7b3842597187439a1e5132ce6ad02b7fc173856faf5fdcff43fa5ea045b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-mu5-40",
+   "path": "zakon/2023/mu5-40",
+   "short": "Закон о потврђивању Опционог протокола уз Међународни пакт о економским, социјалним и културним правима",
+   "title": "Закон о потврђивању Опционог протокола уз Међународни пакт о економским, социјалним и културним правима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/fcb423ff-4008-4b7a-ba36-936245dc3e01",
+   "versions": [
+    {
+     "from": "2023-09-19",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fcb423ff-4008-4b7a-ba36-936245dc3e01?lawActId=436020",
+     "sha256": "1fcc638988d44c1e553a0500f4521bfdb3c1cc5efc445b6923fa12af4c61485b"
     }
    ]
   },
@@ -15934,6 +16294,21 @@
      "units": 51,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/72d94bd6-a43e-4249-8b06-6f50f9fee3ea?lawActId=440338",
      "sha256": "34ca83a3069b2d11183d556992b753527b8ae66dda9cb0559b9cd46d099f6c11"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-80-193",
+   "path": "zakon/2026/80-193",
+   "short": "Закон о ублажавању последица енергетске кризе и раста трошкова живота појединим категоријама становништва кроз једнократну финансијску подршку и једнократну новчану накнаду",
+   "title": "Закон о ублажавању последица енергетске кризе и раста трошкова живота појединим категоријама становништва кроз једнократну финансијску подршку и једнократну новчану накнаду",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/41572b02-6b59-4892-988c-acd21433a92c",
+   "versions": [
+    {
+     "from": "2026-09-01",
+     "units": 18,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/41572b02-6b59-4892-988c-acd21433a92c?lawActId=440521",
+     "sha256": "de9b8e837f0ff7271dd6e3d697b50a144ad8d7b19d2100c413d9520da4704780"
     }
    ]
   },
