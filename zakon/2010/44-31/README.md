@@ -1,6 +1,6 @@
-# Закон о спољнотрговинском пословању
+# Закон о судским вештацима
 
-Закон о спољнотрговинском пословању · 1 versions, from 2015-11-04 (latest in force: 2015-11-04) · <https://www.pravno-informacioni-sistem.rs/reg/viewAct/894607a6-fb3f-4b13-b556-1711a7d444dd>
+Закон о судским вештацима · 1 versions, from 2010-07-08 (latest in force: 2010-07-08) · <https://www.pravno-informacioni-sistem.rs/reg/viewAct/eca4a2f9-a11a-41a7-a0f1-79d1f53f9dad>
 
 | Provision | File | Changes | Last changed |
 | --- | --- | ---: | --- |
@@ -36,27 +36,8 @@
 | Члан 30. | [clan-030.md](clan-030.md) | 0 |  |
 | Члан 31. | [clan-031.md](clan-031.md) | 0 |  |
 | Члан 32. | [clan-032.md](clan-032.md) | 0 |  |
-| Члан 33. | [clan-033.md](clan-033.md) | 0 |  |
-| Члан 34. | [clan-034.md](clan-034.md) | 0 |  |
-| Члан 35. | [clan-035.md](clan-035.md) | 0 |  |
-| Члан 36. | [clan-036.md](clan-036.md) | 0 |  |
-| Члан 36а. | [clan-036-01.md](clan-036-01.md) | 0 |  |
-| Члан 37. | [clan-037.md](clan-037.md) | 0 |  |
-| Члан 38. | [clan-038.md](clan-038.md) | 0 |  |
-| Члан 39. | [clan-039.md](clan-039.md) | 0 |  |
-| Члан 40. | [clan-040.md](clan-040.md) | 0 |  |
-| Члан 41. | [clan-041.md](clan-041.md) | 0 |  |
-| Члан 47. | [clan-047.md](clan-047.md) | 0 |  |
-| Члан 48. | [clan-048.md](clan-048.md) | 0 |  |
-| Члан 48а. | [clan-048-01.md](clan-048-01.md) | 0 |  |
-| Члан 49. | [clan-049.md](clan-049.md) | 0 |  |
-| Члан 50. | [clan-050.md](clan-050.md) | 0 |  |
-| Члан 51. | [clan-051.md](clan-051.md) | 0 |  |
-| Члан 52. | [clan-052.md](clan-052.md) | 0 |  |
-| Члан 53. | [clan-053.md](clan-053.md) | 0 |  |
-| Одредбе које нису унете у пречишћен текст | [zz-2-neunete-odredbe.md](zz-2-neunete-odredbe.md) | 0 |  |
 
-Act id: `zakon-2009-36-163` (tags `zakon-2009-36-163/<day>`; `python tools/on.py <day> zakon-2009-36-163`).
+Act id: `zakon-2010-44-31` (tags `zakon-2010-44-31/<day>`; `python tools/on.py <day> zakon-2010-44-31`).
 
 ## Decisions made by hand
 
