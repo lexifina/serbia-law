@@ -10361,6 +10361,36 @@
    ]
   },
   {
+   "slug": "zakon-2014-mu10-4",
+   "path": "zakon/2014/mu10-4",
+   "short": "Закон о потврђивању Безбедносног споразума између Владе Републике Србије и Савета министара Босне и Херцеговине",
+   "title": "Закон о потврђивању Безбедносног споразума између Владе Републике Србије и Савета министара Босне и Херцеговине",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/22c6b5bd-7257-47cc-bb60-efff05296583",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/22c6b5bd-7257-47cc-bb60-efff05296583?lawActId=408866",
+     "sha256": "1e7e674d682484cc73e647603df33c04fa7f814c1696a4e3964862d08d532c54"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-mu10-6",
+   "path": "zakon/2014/mu10-6",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Македоније о размени и узајамној заштити тајних података",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Македоније о размени и узајамној заштити тајних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/da9d66f2-6edf-47d4-aaf6-81478caa5319",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/da9d66f2-6edf-47d4-aaf6-81478caa5319?lawActId=408864",
+     "sha256": "b1fc84f7a1fa720260b8ef2ddefbe4d14c70fe6398158e9763aa880b84e9e391"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-mu10-89",
    "path": "zakon/2014/mu10-89",
    "short": "Закон о потврђивању Споразума о сарадњи између Владе Републике Србије и Владе Црне Горе у контексту приступања Европској унији",
@@ -10432,6 +10462,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/290a5ce5-a451-45a1-8b60-94479a52ca77?lawActId=408857",
      "sha256": "6e1993c9a1691527a731531b150af15c5e35725ad505d747aa763d0637b2e24b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-mu19-1",
+   "path": "zakon/2014/mu19-1",
+   "short": "Закон о потврђивању Оквирног споразума између Републике Србије и Европске комисије о правилима за спровођење финансијске помоћи Европске уније Републици Србији у оквиру инструмента за претприступну помоћ (ИПА II)",
+   "title": "Закон о потврђивању Оквирног споразума између Републике Србије и Европске комисије о правилима за спровођење финансијске помоћи Европске уније Републици Србији у оквиру инструмента за претприступну помоћ (ИПА II)",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/24a6865e-4a82-45c2-bcc5-e5068a7888ec",
+   "versions": [
+    {
+     "from": "2015-01-06",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/24a6865e-4a82-45c2-bcc5-e5068a7888ec?lawActId=408613",
+     "sha256": "f6b00caa01b080cd0386609906e71d1c4bec33895a2997b0f54dec27d04f60f5"
     }
    ]
   },
@@ -11245,6 +11290,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/33c587e8-c7d0-44c8-9b33-60d505ede2ff?lawActId=408417",
      "sha256": "fd9d7eedf99ce6c30dd223dfbb5bfd4599c506d7b9bc9307e15d5baa2d690a5f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2015-mu10-3",
+   "path": "zakon/2015/mu10-3",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Руске Федерације о узајамној заштити тајних података",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Руске Федерације о узајамној заштити тајних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c9eba8cf-c4e9-4253-82fa-715cd1a4e5a1",
+   "versions": [
+    {
+     "from": "2015-05-19",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c9eba8cf-c4e9-4253-82fa-715cd1a4e5a1?lawActId=408855",
+     "sha256": "2f1860f9711a8d9a09f6b6ca862f1ab23e2d0efd6110948d95c9b510fdbdd0a6"
     }
    ]
   },
@@ -12250,6 +12310,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0dee5ec5-669c-4c91-965c-713740c76cbb?lawActId=424569",
      "sha256": "3f084ac43a6638344cb8a241779dae2bc1657efdc447131d4d49366f5dcdd904"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-mu4-1",
+   "path": "zakon/2017/mu4-1",
+   "short": "Закон о потврђивању Меморандума о разумевању између Владе Републике Србије и Уједињених нација о пружању доприноса у ресурсима мултидимензионалној интегрисаној мисији Уједињених нација за стабилизацију у Централноафричкој Републици (MINUSCA)",
+   "title": "Закон о потврђивању Меморандума о разумевању између Владе Републике Србије и Уједињених нација о пружању доприноса у ресурсима мултидимензионалној интегрисаној мисији Уједињених нација за стабилизацију у Централноафричкој Републици (MINUSCA)",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/cc33a145-01fc-4dec-bfab-c84863b4d59f",
+   "versions": [
+    {
+     "from": "2017-06-07",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/cc33a145-01fc-4dec-bfab-c84863b4d59f?lawActId=423087",
+     "sha256": "8130967860111a5f4043070f3d37fb88dafb9093bb33397f4a4cfc0ffb61e171"
     }
    ]
   },
@@ -14333,6 +14408,21 @@
    ]
   },
   {
+   "slug": "zakon-2020-mu4-91",
+   "path": "zakon/2020/mu4-91",
+   "short": "Закон о потврђивању Споразума о безбедносној сарадњи између Владе Републике Србије и Владе Републике Турске",
+   "title": "Закон о потврђивању Споразума о безбедносној сарадњи између Владе Републике Србије и Владе Републике Турске",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/de3385c6-2fbb-4615-b70f-bd99d8a3641f",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/de3385c6-2fbb-4615-b70f-bd99d8a3641f?lawActId=430017",
+     "sha256": "d62d3445eb8bdc8188371e01c7a381e032613bc85ff8b168256004e1cb42aced"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-105-3",
    "path": "zakon/2021/105-3",
    "short": "Закон о Заштитнику грађана",
@@ -15038,6 +15128,51 @@
    ]
   },
   {
+   "slug": "zakon-2021-mu17-1",
+   "path": "zakon/2021/mu17-1",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Краљевине Мароко о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Краљевине Мароко о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f79bb2bb-76b3-4eec-bdf9-82f73cd69b5f",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f79bb2bb-76b3-4eec-bdf9-82f73cd69b5f?lawActId=432729",
+     "sha256": "faeec8d248b298413124c201b9b72a1b58331f8275d49cff3cc5fc3a87eab963"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-mu17-66",
+   "path": "zakon/2021/mu17-66",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Савезне Републике Немачке о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Савезне Републике Немачке о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3197b40f-e503-49fc-8269-03790517a4c3",
+   "versions": [
+    {
+     "from": "2021-09-21",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3197b40f-e503-49fc-8269-03790517a4c3?lawActId=432733",
+     "sha256": "eed9910658f55efbf298682e7b2351d36025f73e355e36bac1d41a95eea68f20"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-mu2-1",
+   "path": "zakon/2021/mu2-1",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Краљевине Лесото о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Краљевине Лесото о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2988544a-524f-40df-b777-e236f9d90e5b",
+   "versions": [
+    {
+     "from": "2021-02-26",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2988544a-524f-40df-b777-e236f9d90e5b?lawActId=431752",
+     "sha256": "7040c40e58420da4637c8060b011b81282dff2f84722242a58c1b626874f0197"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-mu3-24",
    "path": "zakon/2021/mu3-24",
    "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Северне Македоније о сарадњи у области борбе против трговине људима",
@@ -15286,6 +15421,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a8bde893-64dd-496a-a0ca-72a055b41d21?lawActId=433553",
      "sha256": "970ec351adac851bfc0500897d619b2f7e18e0d4c873cdf68abca8d9a0826c3a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-mu6-16",
+   "path": "zakon/2022/mu6-16",
+   "short": "Закон о потврђивању Оквирног споразума о финансијском партнерству између Републике Србије коју заступа Влада Републике Србије и Европскe комисијe о правилима за спровођење финансијске помоћи Европске уније Републици Србији у оквиру инструмента за претприступну помоћ (ИПА III)",
+   "title": "Закон о потврђивању Оквирног споразума о финансијском партнерству између Републике Србије коју заступа Влада Републике Србије и Европскe комисијe о правилима за спровођење финансијске помоћи Европске уније Републици Србији у оквиру инструмента за претприступну помоћ (ИПА III)",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/5a4d755d-4c68-4727-b346-36ec4ddbd680",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5a4d755d-4c68-4727-b346-36ec4ddbd680?lawActId=434773",
+     "sha256": "cd8bdf5f2387fc793ec4428c5fb45b3ed582e86c61a3cb5e32cd0eb592a317fe"
     }
    ]
   },
@@ -15818,6 +15968,36 @@
    ]
   },
   {
+   "slug": "zakon-2023-mu1-20",
+   "path": "zakon/2023/mu1-20",
+   "short": "Закон о потврђивању Споразума о сарадњи између Владе Републике Србије и Владе Републике Анголе у области безбедности и јавног реда",
+   "title": "Закон о потврђивању Споразума о сарадњи између Владе Републике Србије и Владе Републике Анголе у области безбедности и јавног реда",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b8ec0d41-a2c4-4414-985b-136f73ef2d43",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b8ec0d41-a2c4-4414-985b-136f73ef2d43?lawActId=435101",
+     "sha256": "7f4c9fda5a477b6313008eeb2149d9d1cbfc069e9186e741a6c0635315aeafa0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-mu1-41",
+   "path": "zakon/2023/mu1-41",
+   "short": "Закон о потврђивању Споразума о сарадњи у области одбране између Владе Републике Србије и Владе Републике Екваторијалне Гвинеје",
+   "title": "Закон о потврђивању Споразума о сарадњи у области одбране између Владе Републике Србије и Владе Републике Екваторијалне Гвинеје",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4f2167e8-0f01-4beb-b311-695bc2531110",
+   "versions": [
+    {
+     "from": "2023-02-21",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4f2167e8-0f01-4beb-b311-695bc2531110?lawActId=435105",
+     "sha256": "6293435879ae2902b6779c889a8fab7b0a73af6512a01943fdb9daced476e4d9"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-mu3-186",
    "path": "zakon/2023/mu3-186",
    "short": "Закон о потврђивању Споразума о свеобухватном стратешком партнерству између Владе Републике Србије и Владе Уједињених Арапских Емирата",
@@ -16096,6 +16276,51 @@
      "units": 56,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/64ec2b8e-1f59-4a15-acc0-76ae7c159fd3?lawActId=437826",
      "sha256": "afbd1761f706ff8dd3fec7f4a380605047808498fa548d542b3a0fbd3090a12e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-mu7-3",
+   "path": "zakon/2024/mu7-3",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Демократске Републике Сао Томе и Принсипе о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Демократске Републике Сао Томе и Принсипе о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a661b18e-9e20-489c-b45b-5afae93a8a2a",
+   "versions": [
+    {
+     "from": "2024-08-10",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a661b18e-9e20-489c-b45b-5afae93a8a2a?lawActId=437430",
+     "sha256": "aae021f3b45b5013e7b3fedf8b98582ded14ce2d3def53befee45423531f6223"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-mu7-36",
+   "path": "zakon/2024/mu7-36",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Мађарске о унапређеној стратешкој сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Мађарске о унапређеној стратешкој сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/45f68d8d-bafd-4704-89c5-34231963d333",
+   "versions": [
+    {
+     "from": "2024-08-10",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/45f68d8d-bafd-4704-89c5-34231963d333?lawActId=437450",
+     "sha256": "597504620c823df324d680d98cf30e1ca091e91daa8b8da0a08ff48ce4465d90"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2024-mu7-5",
+   "path": "zakon/2024/mu7-5",
+   "short": "Закон о потврђивању Споразума о сарадњи у области одбране између Владе Републике Србије и Владе Републике Габон",
+   "title": "Закон о потврђивању Споразума о сарадњи у области одбране између Владе Републике Србије и Владе Републике Габон",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/7db9dd3c-f8e4-476e-b59c-4f69608a1883",
+   "versions": [
+    {
+     "from": "2024-08-10",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/7db9dd3c-f8e4-476e-b59c-4f69608a1883?lawActId=437431",
+     "sha256": "7793dfe12f9920b1c231796708d5d83bf469821f52f551b80d1792c1282285de"
     }
    ]
   },
@@ -16703,6 +16928,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-mu1-1",
+   "path": "zakon/2025/mu1-1",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Казахстан о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Казахстан о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/bfe2e740-1b6a-490a-adcf-abcc48692923",
+   "versions": [
+    {
+     "from": "2025-03-26",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bfe2e740-1b6a-490a-adcf-abcc48692923?lawActId=438381",
+     "sha256": "2ce7ef3ea4116ae10d1f7338ca3964977dbcc03819f60ae639dd4ca17a5d962e"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-mu10-175",
    "path": "zakon/2025/mu10-175",
    "short": "Закон о потврђивању Оквирног споразума о сарадњи између Владе Републике Србије и Владе Централноафричке Републике",
@@ -16718,6 +16958,51 @@
    ]
   },
   {
+   "slug": "zakon-2025-mu10-186",
+   "path": "zakon/2025/mu10-186",
+   "short": "Закон о потврђивању Споразума о сарадњи у области одбране између Владе Републике Србије и Владе Централноафричке Републике",
+   "title": "Закон о потврђивању Споразума о сарадњи у области одбране између Владе Републике Србије и Владе Централноафричке Републике",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8f7a0840-bb83-46d0-ab82-e1259deb0840",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8f7a0840-bb83-46d0-ab82-e1259deb0840?lawActId=439159",
+     "sha256": "a736cf61d6ebecd65ca51c2090090de45b1ac7755fde826fce0854056727df88"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-mu10-199",
+   "path": "zakon/2025/mu10-199",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Хашемитске Краљевине Јордан о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Хашемитске Краљевине Јордан о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/35d8a308-b7d0-4e94-99b3-d5efa06d5f68",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 3,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/35d8a308-b7d0-4e94-99b3-d5efa06d5f68?lawActId=439166",
+     "sha256": "fc0036480c6df501435ac21d4005c98e6b9643bdfff660a45fa441fd7583ac25"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-mu10-207",
+   "path": "zakon/2025/mu10-207",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Гане о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Гане о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/cd2950b5-37a9-4702-b46c-d4c1c5dc3088",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/cd2950b5-37a9-4702-b46c-d4c1c5dc3088?lawActId=439169",
+     "sha256": "605e41842bdd47caed87c8009b869f82dc72583892695fb62b8ed5ab5b32b1dd"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-mu10-208",
    "path": "zakon/2025/mu10-208",
    "short": "Закон о допуни Закона о потврђивању Европске повеље о локалној самоуправи",
@@ -16729,6 +17014,21 @@
      "units": 2,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dd7c523c-608e-4f39-a6c1-66e48503e1dc?lawActId=439182",
      "sha256": "543bd43bde3581f0c1415674f609c1071c2e482aa53fcd99d28d9b9fb6bddbf2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-mu11-3",
+   "path": "zakon/2025/mu11-3",
+   "short": "Закон о потврђивању Споразума о сарадњи у области безбедности и јавног реда између Владе Републике Србије и Владе Републике Екваторијалне Гвинеје",
+   "title": "Закон о потврђивању Споразума о сарадњи у области безбедности и јавног реда између Владе Републике Србије и Владе Републике Екваторијалне Гвинеје",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a13777c8-7ec2-4da6-a820-76b2f45d4c08",
+   "versions": [
+    {
+     "from": "2025-11-18",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a13777c8-7ec2-4da6-a820-76b2f45d4c08?lawActId=439226",
+     "sha256": "22f262974417e2b1c0aa9e62eb493fe814898ace44341f02f3ad277c316c896c"
     }
    ]
   },
