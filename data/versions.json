@@ -17,6 +17,36 @@
    ]
   },
   {
+   "slug": "kodeks-2006-106-85",
+   "path": "kodeks/2006/106-85",
+   "short": "Етички кодекс биохемичара",
+   "title": "Етички кодекс биохемичара",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ad3cd8fa-0f13-4581-a591-e1a92fbd4cf6",
+   "versions": [
+    {
+     "from": "2006-12-02",
+     "units": 72,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ad3cd8fa-0f13-4581-a591-e1a92fbd4cf6?lawActId=419749",
+     "sha256": "8748a0dc3024621dd26901da5b98046e65401575e278b74e0099ac1b1e0683ba"
+    }
+   ]
+  },
+  {
+   "slug": "kodeks-2008-14-78",
+   "path": "kodeks/2008/14-78",
+   "short": "Етички кодекс доктора стоматологије",
+   "title": "Етички кодекс доктора стоматологије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2bccaf68-692a-4654-8aab-137224c78266",
+   "versions": [
+    {
+     "from": "2008-02-13",
+     "units": 60,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2bccaf68-692a-4654-8aab-137224c78266?lawActId=423728",
+     "sha256": "4c52bac8d7606d477323069f18f3559c777dcdf22d195400d108e306f98f2c8f"
+    }
+   ]
+  },
+  {
    "slug": "kodeks-2008-29-111",
    "path": "kodeks/2008/29-111",
    "short": "Кодекс понашања државних службеника",
@@ -139,6 +169,21 @@
      "units": 12,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8b13615b-8bd0-4757-8218-91cb677adfd6?lawActId=404485",
      "sha256": "bd5c963708d026d9ace78aec7791be2c64c88103676155451c120deaae73970b"
+    }
+   ]
+  },
+  {
+   "slug": "kodeks-2016-104-165",
+   "path": "kodeks/2016/104-165",
+   "short": "Кодекс медицинске етике Лекарске коморе Србије",
+   "title": "Кодекс медицинске етике Лекарске коморе Србије",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c554d207-c9ec-4134-95c6-67ba00adbd97",
+   "versions": [
+    {
+     "from": "2016-12-31",
+     "units": 84,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c554d207-c9ec-4134-95c6-67ba00adbd97?lawActId=419750",
+     "sha256": "42babfac5a9788cec931aecaf1398855826982adc0f2ee41b1c3280bce5eebdd"
     }
    ]
   },
@@ -935,6 +980,27 @@
    ]
   },
   {
+   "slug": "zakon-1992-49-1657",
+   "path": "zakon/1992/49-1657",
+   "short": "Закон о друштвеној бризи о деци",
+   "title": "Закон о друштвеној бризи о деци",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/40da5adf-2c4f-47f5-b177-c233bdf8305c",
+   "versions": [
+    {
+     "from": "2010-04-03",
+     "units": 47,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/40da5adf-2c4f-47f5-b177-c233bdf8305c?lawActId=424512",
+     "sha256": "b009772378de08e629ceec5f77f936d1f270a6686c180997d15b4cff83d03a26"
+    },
+    {
+     "from": "2018-07-01",
+     "units": 45,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/40da5adf-2c4f-47f5-b177-c233bdf8305c?lawActId=424541",
+     "sha256": "c30f1bf7dd9a5dbe7334a65ada19b13df980032febfb343815b4cf7ab63aac11"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1992-50-1704",
    "path": "zakon/1992/50-1704",
    "short": "Закон о становању",
@@ -1162,6 +1228,21 @@
      "units": 6,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/9273fd0b-c776-490c-b6d1-727ffebb7e3e?lawActId=420027",
      "sha256": "34b4426664420ae23a82ea79ea7d58af5460c24f20faeadaec9182fe5a223bf7"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-1995-16-497",
+   "path": "zakon/1995/16-497",
+   "short": "Закон о поступку прекида трудноће у здравственој установи",
+   "title": "Закон о поступку прекида трудноће у здравственој установи",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/93b9401a-78cb-4d22-a35c-17bd0b829e52",
+   "versions": [
+    {
+     "from": "2005-11-29",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93b9401a-78cb-4d22-a35c-17bd0b829e52?lawActId=422632",
+     "sha256": "dd86539e45da84d7c798abfbdd6674a5420e16998fc7b05b211d7c9ddd365992"
     }
    ]
   },
@@ -2927,6 +3008,27 @@
    ]
   },
   {
+   "slug": "zakon-2003-67-1",
+   "path": "zakon/2003/67-1",
+   "short": "Закон о спречавању насиља и недоличног понашања на спортским приредбама",
+   "title": "Закон о спречавању насиља и недоличног понашања на спортским приредбама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/44bbc9a0-7404-433a-ac32-58aa27f604e6",
+   "versions": [
+    {
+     "from": "2013-12-05",
+     "units": 25,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/44bbc9a0-7404-433a-ac32-58aa27f604e6?lawActId=426326",
+     "sha256": "3465c5c4c0aecfe39826e1bbbe75b09fd9fe498834864215b961beaa48e5898c"
+    },
+    {
+     "from": "2018-11-21",
+     "units": 25,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/44bbc9a0-7404-433a-ac32-58aa27f604e6?lawActId=427022",
+     "sha256": "4ee4a925907e46f2fa82343cfafaac31c24c208a8533a6788732ad0abcf96ac4"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2003-67-4",
    "path": "zakon/2003/67-4",
    "short": "Закон о организацији и надлежности државних органа у поступку за ратне злочине",
@@ -3202,6 +3304,21 @@
      "units": 51,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0b7f7931-f230-45cf-b550-a1495539249d?lawActId=432980",
      "sha256": "79c0df36349771a744324b5245ab798b99dcfd16be98af18e1e27ba9897f8c75"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-125-59",
+   "path": "zakon/2004/125-59",
+   "short": "Закон о санитарном надзору",
+   "title": "Закон о санитарном надзору",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0092c8ed-9252-4dcf-951e-c6488818f2b3",
+   "versions": [
+    {
+     "from": "2004-11-30",
+     "units": 41,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0092c8ed-9252-4dcf-951e-c6488818f2b3?lawActId=427111",
+     "sha256": "e1b1050b419475c953a10f979031b4f96db57a8a04ff5bdc57a4128321715698"
     }
    ]
   },
@@ -3908,6 +4025,27 @@
    ]
   },
   {
+   "slug": "zakon-2005-107-96",
+   "path": "zakon/2005/107-96",
+   "short": "Закон о коморама здравствених радника",
+   "title": "Закон о коморама здравствених радника",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/02a7bc49-9035-4dac-9505-a0d4b3fcd348",
+   "versions": [
+    {
+     "from": "2011-01-04",
+     "units": 63,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/02a7bc49-9035-4dac-9505-a0d4b3fcd348?lawActId=423439",
+     "sha256": "62a00c7a4473d213f3bd84315fcaa00c5b4c0f4324fc89d09de3f717e289871b"
+    },
+    {
+     "from": "2017-07-20",
+     "units": 63,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/02a7bc49-9035-4dac-9505-a0d4b3fcd348?lawActId=423447",
+     "sha256": "51d1437a9b07218e305caec38634819a01fbd21c1375ccd98f86392b3ee75538"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2005-110-26",
    "path": "zakon/2005/110-26",
    "short": "Закон о Српској енциклопедији",
@@ -4504,6 +4642,21 @@
      "units": 47,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8c425ffe-c168-4447-aa04-e893bdb4e1d0?lawActId=241510",
      "sha256": "f3bdcd46880bfdb3aab07e36289fbdf10dde4f1a16189bd67ee693884048a1d9"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2005-85-25",
+   "path": "zakon/2005/85-25",
+   "short": "Закон о уплати доприноса за пензијско и инвалидско осигурање за поједине категорије осигураника - запослених",
+   "title": "Закон о уплати доприноса за пензијско и инвалидско осигурање за поједине категорије осигураника - запослених",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/952d426d-8f45-462a-9cc7-2d7aeb7ec43e",
+   "versions": [
+    {
+     "from": "2005-10-14",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/952d426d-8f45-462a-9cc7-2d7aeb7ec43e?lawActId=426740",
+     "sha256": "452bc91eda63798fb71a1f4ab97490778b16441c304198a287f3e60b75dbd15d"
     }
    ]
   },
@@ -5677,6 +5830,21 @@
      "units": 49,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8cb68f7e-8572-4fa6-814d-1ceba4ebbf13?lawActId=429303",
      "sha256": "65abba760c85cfce22acfa3892b58718b5655a495c1c663d4f859fc8911c9dcf"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2008-102-79",
+   "path": "zakon/2008/102-79",
+   "short": "Закон о отпису камате на доспеле обавезе по основу одређених пореза и доприноса за обавезно социјално осигурање",
+   "title": "Закон о отпису камате на доспеле обавезе по основу одређених пореза и доприноса за обавезно социјално осигурање",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/42b1af72-9978-47bb-9a1b-28dd095c8d89",
+   "versions": [
+    {
+     "from": "2008-11-13",
+     "units": 6,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/42b1af72-9978-47bb-9a1b-28dd095c8d89?lawActId=427099",
+     "sha256": "ee01e203b3d2bfdccec7be75f160f9b0382832e98b4a6e4892514ffb06402223"
     }
    ]
   },
@@ -6953,6 +7121,45 @@
    ]
   },
   {
+   "slug": "zakon-2009-72-3",
+   "path": "zakon/2009/72-3",
+   "short": "Закон о култури",
+   "title": "Закон о култури",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3",
+   "versions": [
+    {
+     "from": "2016-02-27",
+     "units": 88,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3?lawActId=419770",
+     "sha256": "78da9078d7b86dd3b59bd7c2399c9f7c7bd5436d361662e815f756a08411d372"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 99,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3?lawActId=429762",
+     "sha256": "4858f907b5dbdaf6260f7951ccfe569af615f9153b96811c854bf034038dad06"
+    },
+    {
+     "from": "2021-05-18",
+     "units": 103,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3?lawActId=432163",
+     "sha256": "644841ef0c087546e9f651ed98f03026f61f75fb3505266808f18036ab9829d1"
+    },
+    {
+     "from": "2021-08-11",
+     "units": 103,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3?lawActId=432601",
+     "sha256": "33730e1477ed19701e3d21b4ff8933a3dac67e752f3f7d51a0ca09a1d57fe607"
+    },
+    {
+     "from": "2023-09-15",
+     "units": 103,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3?lawActId=435985",
+     "sha256": "0e83cc421d63f0ef060d09e7bc9c3eafed455bc0a64d6b9a6cfef2937f952e97"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2009-88-23",
    "path": "zakon/2009/88-23",
    "short": "Закон о цивилној служби",
@@ -7700,6 +7907,27 @@
    ]
   },
   {
+   "slug": "zakon-2011-24-15",
+   "path": "zakon/2011/24-15",
+   "short": "Закон о социјалној заштити",
+   "title": "Закон о социјалној заштити",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e012df69-7bc7-47ec-9f62-38353c561e46",
+   "versions": [
+    {
+     "from": "2011-04-12",
+     "units": 230,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e012df69-7bc7-47ec-9f62-38353c561e46?lawActId=418052",
+     "sha256": "c573aa105126736d765ef854294c0e84e5b22107171a50c7b6076da8c0fbac99"
+    },
+    {
+     "from": "2022-10-26",
+     "units": 230,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e012df69-7bc7-47ec-9f62-38353c561e46?lawActId=434531",
+     "sha256": "0bf1c6198446007c75cc22cebf8140370376cef3eb4715d877e5c1cf4ee0a274"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2011-24-67",
    "path": "zakon/2011/24-67",
    "short": "Закон о давању гаранције Републике Србије у корист Hypo Alpe - Adria - Bankе a.d. Beograd по задужењу општина Косовска Митровица, Звечан и Зубин Поток",
@@ -8375,6 +8603,27 @@
    ]
   },
   {
+   "slug": "zakon-2011-99-3",
+   "path": "zakon/2011/99-3",
+   "short": "Закон о кинематографији",
+   "title": "Закон о кинематографији",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3c874a2a-46b4-4a31-a3fe-0c8f74847336",
+   "versions": [
+    {
+     "from": "2014-04-29",
+     "units": 41,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3c874a2a-46b4-4a31-a3fe-0c8f74847336?lawActId=418327",
+     "sha256": "b1bc8973eefe21ed4bc615ade7de767a1d78b8d4c6cdcbe818fcd90e68c9dc59"
+    },
+    {
+     "from": "2023-09-15",
+     "units": 40,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3c874a2a-46b4-4a31-a3fe-0c8f74847336?lawActId=435996",
+     "sha256": "d86aacb639c30578feeb73a27bab4eb48043f248b0e8468c3ac53effd584761d"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2011-99-9",
    "path": "zakon/2011/99-9",
    "short": "Закон о поступку регистрације у Агенцији за привредне регистре",
@@ -8858,6 +9107,21 @@
    ]
   },
   {
+   "slug": "zakon-2013-104-67",
+   "path": "zakon/2013/104-67",
+   "short": "Закон о остваривању права на здравствену заштиту деце, трудница и породиља",
+   "title": "Закон о остваривању права на здравствену заштиту деце, трудница и породиља",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/34461cee-ae80-41ba-ab54-d8ba3506fb3c",
+   "versions": [
+    {
+     "from": "2013-11-27",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/34461cee-ae80-41ba-ab54-d8ba3506fb3c?lawActId=427105",
+     "sha256": "05682e285f6b3b03d56f7a371afc780e3ac18590fc0ac48d9ed3c5abe3754467"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2013-104-8",
    "path": "zakon/2013/104-8",
    "short": "Закон о приватном обезбеђењу",
@@ -8953,6 +9217,42 @@
      "units": 87,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4d57d626-6d47-4d60-a82c-5f7387e5de0b?lawActId=428395",
      "sha256": "e89b273eb36898c79462a0577ba886fcb6286a220f78606f5a36a3925045e4b0"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-45-19",
+   "path": "zakon/2013/45-19",
+   "short": "Закон о правима пацијената",
+   "title": "Закон о правима пацијената",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8d359f7b-6b21-467a-8417-83bed930515f",
+   "versions": [
+    {
+     "from": "2013-05-30",
+     "units": 51,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8d359f7b-6b21-467a-8417-83bed930515f?lawActId=423601",
+     "sha256": "fa6b262ab25b388db5557852d1673939be417162f53c7e48dbceaf83744d0eae"
+    },
+    {
+     "from": "2019-04-11",
+     "units": 51,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8d359f7b-6b21-467a-8417-83bed930515f?lawActId=428139",
+     "sha256": "2016b26b1346582afad85c2662dfb4c383a37a75c0f44f4993c4482a9305a75b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2013-45-25",
+   "path": "zakon/2013/45-25",
+   "short": "Закон о заштити лица са менталним сметњама",
+   "title": "Закон о заштити лица са менталним сметњама",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/93bca79d-5fef-4f93-8134-891039b82b9a",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 71,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/93bca79d-5fef-4f93-8134-891039b82b9a?lawActId=440574",
+     "sha256": "8285ec42f66288eb94be68852609a05e3df0af1befb69fcf1f3d6e1d6996636e"
     }
    ]
   },
@@ -9247,6 +9547,33 @@
      "units": 42,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/508180cd-1dc5-442a-b60f-d7a631a3409b?lawActId=420132",
      "sha256": "2360a280c227b0441781c4f80ed464381dc1f09666e77ac04b95dd1ada04bf48"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-111-3",
+   "path": "zakon/2014/111-3",
+   "short": "Закон о спречавању допинга у спорту",
+   "title": "Закон о спречавању допинга у спорту",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/eb7011c1-83e1-495c-8b9d-70b214533325",
+   "versions": [
+    {
+     "from": "2014-10-23",
+     "units": 45,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/eb7011c1-83e1-495c-8b9d-70b214533325?lawActId=419871",
+     "sha256": "5e6bd26ed536437a52114493064a2dbe13bd7701f00fd6f8acc03b387d75b13a"
+    },
+    {
+     "from": "2021-05-18",
+     "units": 46,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/eb7011c1-83e1-495c-8b9d-70b214533325?lawActId=432161",
+     "sha256": "0f3eec7e1d107f6b273611324572c803f721f62989638b5f9dbc56cb406cebec"
+    },
+    {
+     "from": "2026-07-18",
+     "units": 46,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/eb7011c1-83e1-495c-8b9d-70b214533325?lawActId=440333",
+     "sha256": "8032db2f10bb1f5cf2eb0a158c8ff8aaa4f0a3cd83d092444d232ef83cd9aeef"
     }
    ]
   },
@@ -9580,6 +9907,69 @@
      "units": 95,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ecf30ba1-b300-4097-ba8f-435b7402e628?lawActId=438298",
      "sha256": "8c5ae8b97d4906ecd1c8936cf2b7c9ad7f381e4002757b691f71161c12dd877e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-83-53",
+   "path": "zakon/2014/83-53",
+   "short": "Закон о јавним медијским сервисима",
+   "title": "Закон о јавним медијским сервисима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c",
+   "versions": [
+    {
+     "from": "2015-12-15",
+     "units": 64,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=419917",
+     "sha256": "87b8d327f352c26e0efaf8ec93e05cdfc2823dbdfddecc064b3ee3b4ae9db3bc"
+    },
+    {
+     "from": "2016-12-30",
+     "units": 64,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=419926",
+     "sha256": "2f6d9a2540522d571f5f2a6403c85820166243b92a3d18081dd5a6d4fd980bab"
+    },
+    {
+     "from": "2020-12-31",
+     "units": 66,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=431489",
+     "sha256": "2ce1333bc87151e8bc876c9aa34dd5206bcf9d4aec8003b800b1ac902ab80c28"
+    },
+    {
+     "from": "2021-12-29",
+     "units": 67,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=433287",
+     "sha256": "b4cecd482d575517dc87bf328aa3dfb4c952a02a4e5b97fa9317aa2e4425b6b9"
+    },
+    {
+     "from": "2022-12-28",
+     "units": 68,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=434872",
+     "sha256": "d86bb4762ac7c1a93e32814a1eb7aa9b9a66c798455827a2ceea62b2cba4a6e8"
+    },
+    {
+     "from": "2023-11-04",
+     "units": 69,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=436263",
+     "sha256": "e3d82fb5a9816baa117352e3245aafbb41d33a01f76e0ad1cf8adf8d196bf693"
+    },
+    {
+     "from": "2025-06-25",
+     "units": 73,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=438720",
+     "sha256": "092fce098d5c123d20bee79f85ca099f8ac1c494aab746f3a25c91afae952f1d"
+    },
+    {
+     "from": "2025-12-12",
+     "units": 74,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=439319",
+     "sha256": "7927b452eec3a17548764c5a86fe916b682bc4dc1e9a3b6653b7c64f7927db48"
+    },
+    {
+     "from": "2026-09-08",
+     "units": 75,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c?lawActId=440537",
+     "sha256": "fc7f135a8155419aef0386f3393db5c00fc7f14135a415884dff4fae8fa63bf0"
     }
    ]
   },
@@ -10187,6 +10577,21 @@
    ]
   },
   {
+   "slug": "zakon-2015-8-3",
+   "path": "zakon/2015/8-3",
+   "short": "Закон о превенцији и дијагностици генетчких болести, генетички условљених аномалија и ретких болести",
+   "title": "Закон о превенцији и дијагностици генетчких болести, генетички условљених аномалија и ретких болести",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a6e93dd1-2baf-4a16-a219-cd29db35a0ce",
+   "versions": [
+    {
+     "from": "2015-02-03",
+     "units": 42,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a6e93dd1-2baf-4a16-a219-cd29db35a0ce?lawActId=422631",
+     "sha256": "3bb1a32903d5e34e35e73575cb9d7508ecae699d9185664ea73f28338e05a279"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2015-84-15",
    "path": "zakon/2015/84-15",
    "short": "Закон о националним парковима",
@@ -10354,6 +10759,21 @@
      "units": 29,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4fd4f9fa-e64a-4319-b90b-a39b06a10d8a?lawActId=417861",
      "sha256": "cb2242271ab18bdb34508f342fdf1f1b76b6ee1a566783aa2979f93de9f07a64"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-10-5",
+   "path": "zakon/2016/10-5",
+   "short": "Закон о спорту",
+   "title": "Закон о спорту",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/35e71049-1a0b-48f7-8ab1-620d01cd477e",
+   "versions": [
+    {
+     "from": "2016-02-16",
+     "units": 184,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/35e71049-1a0b-48f7-8ab1-620d01cd477e?lawActId=417746",
+     "sha256": "60156a7b63168805bebaf9d35e89578f954647edefae35f2060d6e9e18d1ce26"
     }
    ]
   },
@@ -10553,6 +10973,21 @@
    ]
   },
   {
+   "slug": "zakon-2016-15-25",
+   "path": "zakon/2016/15-25",
+   "short": "Закон о јавном здрављу",
+   "title": "Закон о јавном здрављу",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8350b32f-f925-4ed1-9ec5-f0e76929cd85",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 29,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8350b32f-f925-4ed1-9ec5-f0e76929cd85?lawActId=417748",
+     "sha256": "dddaeeff08400d944b18406f05a59d49b2a9a7db3bf7950277ae0feb6cbb01ed"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2016-15-3",
    "path": "zakon/2016/15-3",
    "short": "Закон о јавним предузећима",
@@ -10570,6 +11005,33 @@
      "units": 86,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/64793192-ea1a-4ef8-8886-905c260520bf?lawActId=429456",
      "sha256": "0366739143fbc0ba22c3ed3c6acdd549cf9c266fbdb3d1d6bc2fbca2d35ef637"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-15-31",
+   "path": "zakon/2016/15-31",
+   "short": "Закон о заштити становништва од заразних болести",
+   "title": "Закон о заштити становништва од заразних болести",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/dc12c33b-7620-4736-95b5-69682c5b7d69",
+   "versions": [
+    {
+     "from": "2016-03-04",
+     "units": 81,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dc12c33b-7620-4736-95b5-69682c5b7d69?lawActId=418389",
+     "sha256": "b97c25cf7e044798f3ba4a78fd6e478a423297141673188712fea1091c9f997e"
+    },
+    {
+     "from": "2020-05-10",
+     "units": 82,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dc12c33b-7620-4736-95b5-69682c5b7d69?lawActId=430384",
+     "sha256": "bb7811c05aa08c6ddf59dff091c82a2e5cf7f87caae60b12972ac16cf2989167"
+    },
+    {
+     "from": "2020-11-13",
+     "units": 89,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/dc12c33b-7620-4736-95b5-69682c5b7d69?lawActId=431116",
+     "sha256": "d74d110223e77e4ce3b4eea778896e24efa89a36174c47a4f3ca8ae8ddefbed3"
     }
    ]
   },
@@ -10870,6 +11332,48 @@
      "units": 45,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ded96d6f-19d2-471c-b66b-a4fa7545e190?lawActId=424495",
      "sha256": "cee1c611cd37ca862feb7a9197856ec57cf00d2f22e5f3f773a7081a5f5f6b7f"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-40-14",
+   "path": "zakon/2017/40-14",
+   "short": "Закон о трансфузијској медицини",
+   "title": "Закон о трансфузијској медицини",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/30a1661d-a294-483e-8feb-57ff1ad54739",
+   "versions": [
+    {
+     "from": "2017-12-25",
+     "units": 55,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/30a1661d-a294-483e-8feb-57ff1ad54739?lawActId=424574",
+     "sha256": "1122751b58954147b64ce03c5fbadd4acf760471d038450baefb519eb645aeac"
+    },
+    {
+     "from": "2019-01-01",
+     "units": 55,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/30a1661d-a294-483e-8feb-57ff1ad54739?lawActId=422634",
+     "sha256": "5191bad2bb507b47244b109accd290bc45f512ef2884525b13eda52b91b298bc"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2017-40-3",
+   "path": "zakon/2017/40-3",
+   "short": "Закон о биомедицински потпомогнутој оплодњи",
+   "title": "Закон о биомедицински потпомогнутој оплодњи",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4d1eaca8-1cc0-4da3-a246-39df64636c51",
+   "versions": [
+    {
+     "from": "2017-05-05",
+     "units": 73,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4d1eaca8-1cc0-4da3-a246-39df64636c51?lawActId=422622",
+     "sha256": "a9e7facb618c993bbcc10de6ca56e9bc6b6fe6176a10d018fc8209bdaaa5548e"
+    },
+    {
+     "from": "2017-12-25",
+     "units": 73,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4d1eaca8-1cc0-4da3-a246-39df64636c51?lawActId=424575",
+     "sha256": "e802061b511f7bb2e89c7b3471b0f8da2b3e7b9c01770cd59c3ee4d8f02c7688"
     }
    ]
   },
@@ -11552,6 +12056,33 @@
    ]
   },
   {
+   "slug": "zakon-2018-57-3",
+   "path": "zakon/2018/57-3",
+   "short": "Закон о људским ћелијама и ткивима",
+   "title": "Закон о људским ћелијама и ткивима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/854c90a8-4c05-4f54-820c-d38f687b8b67",
+   "versions": [
+    {
+     "from": "2018-08-02",
+     "units": 59,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/854c90a8-4c05-4f54-820c-d38f687b8b67?lawActId=426385",
+     "sha256": "032d62f209223270aa90eb5ce1112651697449105ab25bc8b263fba1172dcd51"
+    },
+    {
+     "from": "2021-11-25",
+     "units": 58,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/854c90a8-4c05-4f54-820c-d38f687b8b67?lawActId=433063",
+     "sha256": "6dd5e24344cbfd27322004b773c0dcd1e83dc4d935369d7f22d4aac3630e0869"
+    },
+    {
+     "from": "2026-07-03",
+     "units": 62,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/854c90a8-4c05-4f54-820c-d38f687b8b67?lawActId=440263",
+     "sha256": "fec8cb5302d8d43f61996ca2fa75212d9b6cb085ba8b1edb438279573e4b7ccd"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2018-73-9",
    "path": "zakon/2018/73-9",
    "short": "Закон о професијама од посебног интереса за Републику Србију и условима за њихово обављање",
@@ -11977,6 +12508,54 @@
      "units": 138,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b87887d1-f150-406a-a55f-3444283931da?lawActId=428006",
      "sha256": "44830576b79363e67f5cd8ae94251063d3a0026fc5d3424c8444ece9f74c3978"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-25-3",
+   "path": "zakon/2019/25-3",
+   "short": "Закон о здравственом осигурању",
+   "title": "Закон о здравственом осигурању",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c48bc4c1-31f2-485a-a483-631bece24d53",
+   "versions": [
+    {
+     "from": "2019-04-11",
+     "units": 277,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c48bc4c1-31f2-485a-a483-631bece24d53?lawActId=428136",
+     "sha256": "896e41fe4e3057f7c3b1b13a372a51deabbd8c27f850255b72766dc3cbc84e75"
+    },
+    {
+     "from": "2023-11-04",
+     "units": 277,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c48bc4c1-31f2-485a-a483-631bece24d53?lawActId=436294",
+     "sha256": "7497e742923e4e49e0299eeb204becf1cef1235dcab60819522de2af0929a4fe"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 278,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c48bc4c1-31f2-485a-a483-631bece24d53?lawActId=439325",
+     "sha256": "9b698a4dde3678b887bcfa9c16351e1f68f71d362f5f5e89f060771449e2f1ce"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2019-25-40",
+   "path": "zakon/2019/25-40",
+   "short": "Закон о здравственој заштити",
+   "title": "Закон о здравственој заштити",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/700e4b89-d6d0-40e7-97ad-45994460ef77",
+   "versions": [
+    {
+     "from": "2023-10-26",
+     "units": 271,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/700e4b89-d6d0-40e7-97ad-45994460ef77?lawActId=436374",
+     "sha256": "4c51facbf425e4c859db351f8408defad4acb64079c7e8a4f67d115b5693fff6"
+    },
+    {
+     "from": "2025-04-04",
+     "units": 271,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/700e4b89-d6d0-40e7-97ad-45994460ef77?lawActId=438506",
+     "sha256": "a016cb6e1d193804744b34a5489ca80d53b8771c0c2bd7e0df18173710e596a6"
     }
    ]
   },
@@ -13097,6 +13676,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-126-3",
+   "path": "zakon/2021/126-3",
+   "short": "Закон о правима корисника услуга привременог смештаја у социјалнoj заштити",
+   "title": "Закон о правима корисника услуга привременог смештаја у социјалнoj заштити",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/cf48d3f5-3d88-4afc-b753-b38c96f24186",
+   "versions": [
+    {
+     "from": "2021-12-31",
+     "units": 41,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/cf48d3f5-3d88-4afc-b753-b38c96f24186?lawActId=433225",
+     "sha256": "fe3972821a0f2837fde4c13957d59cf91ec4ca58de41d4b52fcbb669c12122ed"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2021-126-8",
    "path": "zakon/2021/126-8",
    "short": "Закон о задуживању Републике Србије код Banca Intesa AD Beograd за потребе финансирања Пројекта Рума-Шабац-Лозница",
@@ -13159,6 +13753,21 @@
      "units": 48,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d1b4ea78-cc14-478a-a57f-d693d5742251?lawActId=433275",
      "sha256": "466c989c979f870b670d15c849a7fc8bd405a61a660c654e16bd51bfe173cc7b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2021-14-3",
+   "path": "zakon/2021/14-3",
+   "short": "Закон о социјалној карти",
+   "title": "Закон о социјалној карти",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/fcd2db8c-a770-406b-baa0-dab79d58d300",
+   "versions": [
+    {
+     "from": "2021-02-25",
+     "units": 24,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/fcd2db8c-a770-406b-baa0-dab79d58d300?lawActId=431749",
+     "sha256": "64800e8bdf3a6231d302df47616192f745a957f81eabb2e5f831a7d406d2cca7"
     }
    ]
   },
@@ -13790,6 +14399,27 @@
    ]
   },
   {
+   "slug": "zakon-2022-3-3",
+   "path": "zakon/2022/3-3",
+   "short": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ за ублажавање последица пандемије болести CОVID-19 изазване вирусом SARS-CoV-2",
+   "title": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ за ублажавање последица пандемије болести CОVID-19 изазване вирусом SARS-CoV-2",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2bb16b87-d941-4f7c-8ad8-7cd7d81aefab",
+   "versions": [
+    {
+     "from": "2022-01-13",
+     "units": 10,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2bb16b87-d941-4f7c-8ad8-7cd7d81aefab?lawActId=433392",
+     "sha256": "c153bfddcd00a4b814d9101e05396fcac810f231ab31ecdc5876fc04dc98dec7"
+    },
+    {
+     "from": "2022-02-22",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2bb16b87-d941-4f7c-8ad8-7cd7d81aefab?lawActId=433613",
+     "sha256": "7b22fab8632a2b57451b4194e508e51e06d48a8ba80448007c488bf50b7f1ca8"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-10-14",
    "path": "zakon/2023/10-14",
    "short": "Закон о судијама",
@@ -13991,6 +14621,21 @@
    ]
   },
   {
+   "slug": "zakon-2023-62-3",
+   "path": "zakon/2023/62-3",
+   "short": "Закон о Привременом регистру мајки и других лица којима се уплаћује новчана помоћ",
+   "title": "Закон о Привременом регистру мајки и других лица којима се уплаћује новчана помоћ",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/67903fa4-ff40-475e-be7b-1aa57243dbec",
+   "versions": [
+    {
+     "from": "2023-08-01",
+     "units": 11,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/67903fa4-ff40-475e-be7b-1aa57243dbec?lawActId=435786",
+     "sha256": "aaa898f439a9bc3219f833de8dd14c3a0b400cc0c189f87e0c89f5562fd0fc66"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2023-62-35",
    "path": "zakon/2023/62-35",
    "short": "Закон о интероперабилности железничког система",
@@ -14158,6 +14803,21 @@
      "units": 19,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/0bc07b59-d4f2-422e-9afb-f97fcc110434?lawActId=439118",
      "sha256": "9cf270c42094a819ef32538636b916dee02d327a019f3710084f6bc57b3385b2"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-92-254",
+   "path": "zakon/2023/92-254",
+   "short": "Закон о здравственој документацији и евиденцијама у области здравства",
+   "title": "Закон о здравственој документацији и евиденцијама у области здравства",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3fd7943a-9793-414c-b491-e4406abb1456",
+   "versions": [
+    {
+     "from": "2023-11-04",
+     "units": 63,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3fd7943a-9793-414c-b491-e4406abb1456?lawActId=436241",
+     "sha256": "4985c983f78b83c7db46a8e29090e8af1e4480036765515f7d5a191b6af4dda4"
     }
    ]
   },
@@ -14708,6 +15368,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-109-268",
+   "path": "zakon/2025/109-268",
+   "short": "Закон о размени података, докумената и обавештења у случају наступања привремене спречености за рад коришћењем софтверског решења \"е-Боловање - Послодавац\"",
+   "title": "Закон о размени података, докумената и обавештења у случају наступања привремене спречености за рад коришћењем софтверског решења \"е-Боловање - Послодавац\"",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/815be4ae-0ba1-4250-b46d-fec7998d747d",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 15,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/815be4ae-0ba1-4250-b46d-fec7998d747d?lawActId=439317",
+     "sha256": "9f6f7641a0a828294e9b3d6ce0320e62a4a8b982d5bec0f70b2ce0a14453c362"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-109-274",
    "path": "zakon/2025/109-274",
    "short": "Закон о управљању отпадом",
@@ -14987,6 +15662,21 @@
    ]
   },
   {
+   "slug": "zakon-2025-51-3",
+   "path": "zakon/2025/51-3",
+   "short": "Закон о остваривању права из Алиментациoног фонда",
+   "title": "Закон о остваривању права из Алиментациoног фонда",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e80d38fe-9857-40eb-b3b5-54d0e7f55825",
+   "versions": [
+    {
+     "from": "2025-06-25",
+     "units": 17,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/e80d38fe-9857-40eb-b3b5-54d0e7f55825?lawActId=438716",
+     "sha256": "37b809eacff56345d9b0db518a0ecfd7d0adde3a19fff204167e75de06686f4c"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2025-51-34",
    "path": "zakon/2025/51-34",
    "short": "Закон о давању гаранције Републике Србије у корист OTP banke Srbija akcionarsko društvo Novi Sad, Банке Поштанска штедионица, акционарско друштво, Београд и Banca Intesa AD Beograd по основу задужења Електродистрибуцијe Србије д.о.о. Београд, у вези са пројектом унапређење дистрибутивне мреже",
@@ -15214,6 +15904,21 @@
      "units": 15,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f82a1c48-416e-4aa9-8de6-4c3d381e494c?lawActId=440336",
      "sha256": "59e697011503de8db35ddb4d313a8f2ca2b2ef83eedde19f1f156e38ed42ae56"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2026-63-32",
+   "path": "zakon/2026/63-32",
+   "short": "Закон о родитељима неговатељима и неговатељима",
+   "title": "Закон о родитељима неговатељима и неговатељима",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f976e9a6-8c2b-4081-810d-0747da4bc5ae",
+   "versions": [
+    {
+     "from": "2026-10-01",
+     "units": 14,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/f976e9a6-8c2b-4081-810d-0747da4bc5ae?lawActId=440335",
+     "sha256": "3bce16d26092313abbc433e0a577379dcfeb851675cbe068d832ad9f1b5408f4"
     }
    ]
   },

@@ -648,6 +648,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/1fe1145f-6860-4fe3-80dc-1a42dd74babd"
 },
 {
+"slug": "zakon-1992-49-1657",
+"path": "zakon/1992/49-1657",
+"kind": "zakon",
+"year": "1992",
+"number": "49-1657",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о друштвеној бризи о деци",
+"short": "Закон о друштвеној бризи о деци",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2010-04-03",
+"latest": "2018-07-01",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/40da5adf-2c4f-47f5-b177-c233bdf8305c"
+},
+{
 "slug": "zakon-1992-50-1704",
 "path": "zakon/1992/50-1704",
 "kind": "zakon",
@@ -867,6 +884,23 @@
 "from": "1995-01-07",
 "latest": "1995-01-07",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9273fd0b-c776-490c-b6d1-727ffebb7e3e"
+},
+{
+"slug": "zakon-1995-16-497",
+"path": "zakon/1995/16-497",
+"kind": "zakon",
+"year": "1995",
+"number": "16-497",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о поступку прекида трудноће у здравственој установи",
+"short": "Закон о поступку прекида трудноће у здравственој установи",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2005-11-29",
+"latest": "2005-11-29",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/93b9401a-78cb-4d22-a35c-17bd0b829e52"
 },
 {
 "slug": "zakon-1995-46-1689",
@@ -2110,6 +2144,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d83772aa-8342-49ef-8147-3834ed4e6788"
 },
 {
+"slug": "zakon-2003-67-1",
+"path": "zakon/2003/67-1",
+"kind": "zakon",
+"year": "2003",
+"number": "67-1",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о спречавању насиља и недоличног понашања на спортским приредбама",
+"short": "Закон о спречавању насиља и недоличног понашања на спортским приредбама",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2013-12-05",
+"latest": "2018-11-21",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/44bbc9a0-7404-433a-ac32-58aa27f604e6"
+},
+{
 "slug": "zakon-2003-67-4",
 "path": "zakon/2003/67-4",
 "kind": "zakon",
@@ -2397,6 +2448,23 @@
 "from": "2010-06-05",
 "latest": "2022-02-16",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0b7f7931-f230-45cf-b550-a1495539249d"
+},
+{
+"slug": "zakon-2004-125-59",
+"path": "zakon/2004/125-59",
+"kind": "zakon",
+"year": "2004",
+"number": "125-59",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о санитарном надзору",
+"short": "Закон о санитарном надзору",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2004-11-30",
+"latest": "2004-11-30",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0092c8ed-9252-4dcf-951e-c6488818f2b3"
 },
 {
 "slug": "zakon-2004-125-71",
@@ -3011,6 +3079,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9a9c8589-43f1-4946-a350-f76bbfa69447"
 },
 {
+"slug": "zakon-2005-107-96",
+"path": "zakon/2005/107-96",
+"kind": "zakon",
+"year": "2005",
+"number": "107-96",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о коморама здравствених радника",
+"short": "Закон о коморама здравствених радника",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2011-01-04",
+"latest": "2017-07-20",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/02a7bc49-9035-4dac-9505-a0d4b3fcd348"
+},
+{
 "slug": "zakon-2005-110-26",
 "path": "zakon/2005/110-26",
 "kind": "zakon",
@@ -3521,6 +3606,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8c425ffe-c168-4447-aa04-e893bdb4e1d0"
 },
 {
+"slug": "zakon-2005-85-25",
+"path": "zakon/2005/85-25",
+"kind": "zakon",
+"year": "2005",
+"number": "85-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о уплати доприноса за пензијско и инвалидско осигурање за поједине категорије осигураника - запослених",
+"short": "Закон о уплати доприноса за пензијско и инвалидско осигурање за поједине категорије осигураника - запослених",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2005-10-14",
+"latest": "2005-10-14",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/952d426d-8f45-462a-9cc7-2d7aeb7ec43e"
+},
+{
 "slug": "zakon-2005-85-30",
 "path": "zakon/2005/85-30",
 "kind": "zakon",
@@ -3740,6 +3842,23 @@
 "from": "2005-04-10",
 "latest": "2005-04-10",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/96880942-f50f-4eac-9cc3-1ac4fa7794c5"
+},
+{
+"slug": "kodeks-2006-106-85",
+"path": "kodeks/2006/106-85",
+"kind": "kodeks",
+"year": "2006",
+"number": "106-85",
+"withdrawn_by": null,
+"reason": null,
+"title": "Етички кодекс биохемичара",
+"short": "Етички кодекс биохемичара",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2006-12-02",
+"latest": "2006-12-02",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ad3cd8fa-0f13-4581-a591-e1a92fbd4cf6"
 },
 {
 "slug": "ustav-2006-98-29",
@@ -4524,6 +4643,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8cb68f7e-8572-4fa6-814d-1ceba4ebbf13"
 },
 {
+"slug": "kodeks-2008-14-78",
+"path": "kodeks/2008/14-78",
+"kind": "kodeks",
+"year": "2008",
+"number": "14-78",
+"withdrawn_by": null,
+"reason": null,
+"title": "Етички кодекс доктора стоматологије",
+"short": "Етички кодекс доктора стоматологије",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-02-13",
+"latest": "2008-02-13",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2bccaf68-692a-4654-8aab-137224c78266"
+},
+{
 "slug": "kodeks-2008-29-111",
 "path": "kodeks/2008/29-111",
 "kind": "kodeks",
@@ -4539,6 +4675,23 @@
 "from": "2015-04-04",
 "latest": "2020-03-16",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/777fb73b-8726-4e57-ab4d-aecb49e2aaaf"
+},
+{
+"slug": "zakon-2008-102-79",
+"path": "zakon/2008/102-79",
+"kind": "zakon",
+"year": "2008",
+"number": "102-79",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о отпису камате на доспеле обавезе по основу одређених пореза и доприноса за обавезно социјално осигурање",
+"short": "Закон о отпису камате на доспеле обавезе по основу одређених пореза и доприноса за обавезно социјално осигурање",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2008-11-13",
+"latest": "2008-11-13",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/42b1af72-9978-47bb-9a1b-28dd095c8d89"
 },
 {
 "slug": "zakon-2008-116-46",
@@ -5561,6 +5714,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/43c38138-e615-4977-ad36-f47f3e2523bf"
 },
 {
+"slug": "zakon-2009-72-3",
+"path": "zakon/2009/72-3",
+"kind": "zakon",
+"year": "2009",
+"number": "72-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о култури",
+"short": "Закон о култури",
+"code": null,
+"status": "in force",
+"versions": 5,
+"from": "2016-02-27",
+"latest": "2023-09-15",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a254ffdd-07bc-4afd-a20c-6f463cfbd7e3"
+},
+{
 "slug": "zakon-2009-88-23",
 "path": "zakon/2009/88-23",
 "kind": "zakon",
@@ -6224,6 +6394,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/5070bcfc-32f5-4285-9c57-5ebf783725a2"
 },
 {
+"slug": "zakon-2011-24-15",
+"path": "zakon/2011/24-15",
+"kind": "zakon",
+"year": "2011",
+"number": "24-15",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о социјалној заштити",
+"short": "Закон о социјалној заштити",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2011-04-12",
+"latest": "2022-10-26",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e012df69-7bc7-47ec-9f62-38353c561e46"
+},
+{
 "slug": "zakon-2011-24-67",
 "path": "zakon/2011/24-67",
 "kind": "zakon",
@@ -6717,6 +6904,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/067ab0c1-73cf-4ae4-8926-b1c38d8e337a"
 },
 {
+"slug": "zakon-2011-99-3",
+"path": "zakon/2011/99-3",
+"kind": "zakon",
+"year": "2011",
+"number": "99-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о кинематографији",
+"short": "Закон о кинематографији",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2014-04-29",
+"latest": "2023-09-15",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3c874a2a-46b4-4a31-a3fe-0c8f74847336"
+},
+{
 "slug": "zakon-2011-99-9",
 "path": "zakon/2011/99-9",
 "kind": "zakon",
@@ -7193,6 +7397,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/783dde5d-515d-493e-b9c5-e728bdf63add"
 },
 {
+"slug": "zakon-2013-104-67",
+"path": "zakon/2013/104-67",
+"kind": "zakon",
+"year": "2013",
+"number": "104-67",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о остваривању права на здравствену заштиту деце, трудница и породиља",
+"short": "Закон о остваривању права на здравствену заштиту деце, трудница и породиља",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2013-11-27",
+"latest": "2013-11-27",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/34461cee-ae80-41ba-ab54-d8ba3506fb3c"
+},
+{
 "slug": "zakon-2013-104-8",
 "path": "zakon/2013/104-8",
 "kind": "zakon",
@@ -7276,6 +7497,40 @@
 "from": "2013-04-16",
 "latest": "2019-05-29",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4d57d626-6d47-4d60-a82c-5f7387e5de0b"
+},
+{
+"slug": "zakon-2013-45-19",
+"path": "zakon/2013/45-19",
+"kind": "zakon",
+"year": "2013",
+"number": "45-19",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о правима пацијената",
+"short": "Закон о правима пацијената",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2013-05-30",
+"latest": "2019-04-11",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8d359f7b-6b21-467a-8417-83bed930515f"
+},
+{
+"slug": "zakon-2013-45-25",
+"path": "zakon/2013/45-25",
+"kind": "zakon",
+"year": "2013",
+"number": "45-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о заштити лица са менталним сметњама",
+"short": "Закон о заштити лица са менталним сметњама",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-09-08",
+"latest": "2026-09-08",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/93bca79d-5fef-4f93-8134-891039b82b9a"
 },
 {
 "slug": "zakon-2013-45-32",
@@ -7463,6 +7718,23 @@
 "from": "2014-10-16",
 "latest": "2014-10-16",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/508180cd-1dc5-442a-b60f-d7a631a3409b"
+},
+{
+"slug": "zakon-2014-111-3",
+"path": "zakon/2014/111-3",
+"kind": "zakon",
+"year": "2014",
+"number": "111-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о спречавању допинга у спорту",
+"short": "Закон о спречавању допинга у спорту",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2014-10-23",
+"latest": "2026-07-18",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/eb7011c1-83e1-495c-8b9d-70b214533325"
 },
 {
 "slug": "zakon-2014-115-10",
@@ -7718,6 +7990,23 @@
 "from": "2016-03-03",
 "latest": "2025-03-14",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ecf30ba1-b300-4097-ba8f-435b7402e628"
+},
+{
+"slug": "zakon-2014-83-53",
+"path": "zakon/2014/83-53",
+"kind": "zakon",
+"year": "2014",
+"number": "83-53",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о јавним медијским сервисима",
+"short": "Закон о јавним медијским сервисима",
+"code": null,
+"status": "in force",
+"versions": 9,
+"from": "2015-12-15",
+"latest": "2026-09-08",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3b64b618-11ae-443a-ba61-5f66b48fbd7c"
 },
 {
 "slug": "zakon-2014-93-3",
@@ -8179,6 +8468,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8ba4a0ff-6904-4cde-8592-729ec83aa252"
 },
 {
+"slug": "zakon-2015-8-3",
+"path": "zakon/2015/8-3",
+"kind": "zakon",
+"year": "2015",
+"number": "8-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о превенцији и дијагностици генетчких болести, генетички условљених аномалија и ретких болести",
+"short": "Закон о превенцији и дијагностици генетчких болести, генетички условљених аномалија и ретких болести",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2015-02-03",
+"latest": "2015-02-03",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a6e93dd1-2baf-4a16-a219-cd29db35a0ce"
+},
+{
 "slug": "zakon-2015-84-15",
 "path": "zakon/2015/84-15",
 "kind": "zakon",
@@ -8315,6 +8621,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/9cb02859-fddf-4410-91e0-5f5a21acecaa"
 },
 {
+"slug": "kodeks-2016-104-165",
+"path": "kodeks/2016/104-165",
+"kind": "kodeks",
+"year": "2016",
+"number": "104-165",
+"withdrawn_by": null,
+"reason": null,
+"title": "Кодекс медицинске етике Лекарске коморе Србије",
+"short": "Кодекс медицинске етике Лекарске коморе Србије",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-12-31",
+"latest": "2016-12-31",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c554d207-c9ec-4134-95c6-67ba00adbd97"
+},
+{
 "slug": "kodeks-2016-26-44",
 "path": "kodeks/2016/26-44",
 "kind": "kodeks",
@@ -8347,6 +8670,23 @@
 "from": "2016-02-16",
 "latest": "2016-02-16",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4fd4f9fa-e64a-4319-b90b-a39b06a10d8a"
+},
+{
+"slug": "zakon-2016-10-5",
+"path": "zakon/2016/10-5",
+"kind": "zakon",
+"year": "2016",
+"number": "10-5",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о спорту",
+"short": "Закон о спорту",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-02-16",
+"latest": "2016-02-16",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/35e71049-1a0b-48f7-8ab1-620d01cd477e"
 },
 {
 "slug": "zakon-2016-104-3",
@@ -8502,6 +8842,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d3812028-98df-4941-8b6b-ca2391b317b8"
 },
 {
+"slug": "zakon-2016-15-25",
+"path": "zakon/2016/15-25",
+"kind": "zakon",
+"year": "2016",
+"number": "15-25",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о јавном здрављу",
+"short": "Закон о јавном здрављу",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2016-03-04",
+"latest": "2016-03-04",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8350b32f-f925-4ed1-9ec5-f0e76929cd85"
+},
+{
 "slug": "zakon-2016-15-3",
 "path": "zakon/2016/15-3",
 "kind": "zakon",
@@ -8517,6 +8874,23 @@
 "from": "2016-03-04",
 "latest": "2016-03-04",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/64793192-ea1a-4ef8-8886-905c260520bf"
+},
+{
+"slug": "zakon-2016-15-31",
+"path": "zakon/2016/15-31",
+"kind": "zakon",
+"year": "2016",
+"number": "15-31",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о заштити становништва од заразних болести",
+"short": "Закон о заштити становништва од заразних болести",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2016-03-04",
+"latest": "2020-11-13",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/dc12c33b-7620-4736-95b5-69682c5b7d69"
 },
 {
 "slug": "zakon-2016-18-10",
@@ -8721,6 +9095,40 @@
 "from": "2017-12-18",
 "latest": "2017-12-18",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ded96d6f-19d2-471c-b66b-a4fa7545e190"
+},
+{
+"slug": "zakon-2017-40-14",
+"path": "zakon/2017/40-14",
+"kind": "zakon",
+"year": "2017",
+"number": "40-14",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о трансфузијској медицини",
+"short": "Закон о трансфузијској медицини",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2017-12-25",
+"latest": "2019-01-01",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/30a1661d-a294-483e-8feb-57ff1ad54739"
+},
+{
+"slug": "zakon-2017-40-3",
+"path": "zakon/2017/40-3",
+"kind": "zakon",
+"year": "2017",
+"number": "40-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о биомедицински потпомогнутој оплодњи",
+"short": "Закон о биомедицински потпомогнутој оплодњи",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2017-05-05",
+"latest": "2017-12-25",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4d1eaca8-1cc0-4da3-a246-39df64636c51"
 },
 {
 "slug": "zakon-2017-51-3",
@@ -9250,6 +9658,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b74c9e90-ac13-41cb-b360-d06e310924b9"
 },
 {
+"slug": "zakon-2018-57-3",
+"path": "zakon/2018/57-3",
+"kind": "zakon",
+"year": "2018",
+"number": "57-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о људским ћелијама и ткивима",
+"short": "Закон о људским ћелијама и ткивима",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2018-08-02",
+"latest": "2026-07-03",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/854c90a8-4c05-4f54-820c-d38f687b8b67"
+},
+{
 "slug": "zakon-2018-73-9",
 "path": "zakon/2018/73-9",
 "kind": "zakon",
@@ -9656,6 +10081,40 @@
 "from": "2019-03-22",
 "latest": "2019-03-22",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b87887d1-f150-406a-a55f-3444283931da"
+},
+{
+"slug": "zakon-2019-25-3",
+"path": "zakon/2019/25-3",
+"kind": "zakon",
+"year": "2019",
+"number": "25-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о здравственом осигурању",
+"short": "Закон о здравственом осигурању",
+"code": null,
+"status": "in force",
+"versions": 3,
+"from": "2019-04-11",
+"latest": "2026-01-01",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c48bc4c1-31f2-485a-a483-631bece24d53"
+},
+{
+"slug": "zakon-2019-25-40",
+"path": "zakon/2019/25-40",
+"kind": "zakon",
+"year": "2019",
+"number": "25-40",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о здравственој заштити",
+"short": "Закон о здравственој заштити",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2023-10-26",
+"latest": "2025-04-04",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/700e4b89-d6d0-40e7-97ad-45994460ef77"
 },
 {
 "slug": "zakon-2019-25-88",
@@ -10797,6 +11256,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ea443a95-12af-49ef-9d26-c7fd0832063f"
 },
 {
+"slug": "zakon-2021-126-3",
+"path": "zakon/2021/126-3",
+"kind": "zakon",
+"year": "2021",
+"number": "126-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о правима корисника услуга привременог смештаја у социјалнoj заштити",
+"short": "Закон о правима корисника услуга привременог смештаја у социјалнoj заштити",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-12-31",
+"latest": "2021-12-31",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/cf48d3f5-3d88-4afc-b753-b38c96f24186"
+},
+{
 "slug": "zakon-2021-126-8",
 "path": "zakon/2021/126-8",
 "kind": "zakon",
@@ -10863,6 +11339,23 @@
 "from": "2022-01-05",
 "latest": "2022-01-05",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d1b4ea78-cc14-478a-a57f-d693d5742251"
+},
+{
+"slug": "zakon-2021-14-3",
+"path": "zakon/2021/14-3",
+"kind": "zakon",
+"year": "2021",
+"number": "14-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о социјалној карти",
+"short": "Закон о социјалној карти",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2021-02-25",
+"latest": "2021-02-25",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/fcd2db8c-a770-406b-baa0-dab79d58d300"
 },
 {
 "slug": "zakon-2021-18-4",
@@ -11477,6 +11970,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/97c1e276-99f6-407f-8d5a-a44c564201f4"
 },
 {
+"slug": "zakon-2022-3-3",
+"path": "zakon/2022/3-3",
+"kind": "zakon",
+"year": "2022",
+"number": "3-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ за ублажавање последица пандемије болести CОVID-19 изазване вирусом SARS-CoV-2",
+"short": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ за ублажавање последица пандемије болести CОVID-19 изазване вирусом SARS-CoV-2",
+"code": null,
+"status": "in force",
+"versions": 2,
+"from": "2022-01-13",
+"latest": "2022-02-22",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2bb16b87-d941-4f7c-8ad8-7cd7d81aefab"
+},
+{
 "slug": "kodeks-2023-28-204",
 "path": "kodeks/2023/28-204",
 "kind": "kodeks",
@@ -11681,6 +12191,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/bd3d0807-02aa-40d9-ab55-7f9d3e2acddf"
 },
 {
+"slug": "zakon-2023-62-3",
+"path": "zakon/2023/62-3",
+"kind": "zakon",
+"year": "2023",
+"number": "62-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о Привременом регистру мајки и других лица којима се уплаћује новчана помоћ",
+"short": "Закон о Привременом регистру мајки и других лица којима се уплаћује новчана помоћ",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-08-01",
+"latest": "2023-08-01",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/67903fa4-ff40-475e-be7b-1aa57243dbec"
+},
+{
 "slug": "zakon-2023-62-35",
 "path": "zakon/2023/62-35",
 "kind": "zakon",
@@ -11866,6 +12393,23 @@
 "from": "2025-10-31",
 "latest": "2025-10-31",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/0bc07b59-d4f2-422e-9afb-f97fcc110434"
+},
+{
+"slug": "zakon-2023-92-254",
+"path": "zakon/2023/92-254",
+"kind": "zakon",
+"year": "2023",
+"number": "92-254",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о здравственој документацији и евиденцијама у области здравства",
+"short": "Закон о здравственој документацији и евиденцијама у области здравства",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2023-11-04",
+"latest": "2023-11-04",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/3fd7943a-9793-414c-b491-e4406abb1456"
 },
 {
 "slug": "zakon-2023-92-270",
@@ -12463,6 +13007,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c82ce400-5764-4d0c-8d87-b0448289aec4"
 },
 {
+"slug": "zakon-2025-109-268",
+"path": "zakon/2025/109-268",
+"kind": "zakon",
+"year": "2025",
+"number": "109-268",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о размени података, докумената и обавештења у случају наступања привремене спречености за рад коришћењем софтверског решења \"е-Боловање - Послодавац\"",
+"short": "Закон о размени података, докумената и обавештења у случају наступања привремене спречености за рад коришћењем софтверског решења \"е-Боловање - Послодавац\"",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-01-01",
+"latest": "2026-01-01",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/815be4ae-0ba1-4250-b46d-fec7998d747d"
+},
+{
 "slug": "zakon-2025-109-274",
 "path": "zakon/2025/109-274",
 "kind": "zakon",
@@ -12752,6 +13313,23 @@
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/cf9a78dc-6af7-4b40-9977-b083e950aba6"
 },
 {
+"slug": "zakon-2025-51-3",
+"path": "zakon/2025/51-3",
+"kind": "zakon",
+"year": "2025",
+"number": "51-3",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о остваривању права из Алиментациoног фонда",
+"short": "Закон о остваривању права из Алиментациoног фонда",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2025-06-25",
+"latest": "2025-06-25",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/e80d38fe-9857-40eb-b3b5-54d0e7f55825"
+},
+{
 "slug": "zakon-2025-51-34",
 "path": "zakon/2025/51-34",
 "kind": "zakon",
@@ -13022,6 +13600,23 @@
 "from": "2026-07-18",
 "latest": "2026-07-18",
 "portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f82a1c48-416e-4aa9-8de6-4c3d381e494c"
+},
+{
+"slug": "zakon-2026-63-32",
+"path": "zakon/2026/63-32",
+"kind": "zakon",
+"year": "2026",
+"number": "63-32",
+"withdrawn_by": null,
+"reason": null,
+"title": "Закон о родитељима неговатељима и неговатељима",
+"short": "Закон о родитељима неговатељима и неговатељима",
+"code": null,
+"status": "in force",
+"versions": 1,
+"from": "2026-10-01",
+"latest": "2026-10-01",
+"portal": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/f976e9a6-8c2b-4081-810d-0747da4bc5ae"
 },
 {
 "slug": "zakon-2026-63-34",
