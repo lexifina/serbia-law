@@ -1,0 +1,163 @@
+# Закон о буџетском систему
+
+Закон о буџетском систему · 12 versions, from 2005-12-15 (latest in force: 2026-09-08) · <https://www.pravno-informacioni-sistem.rs/reg/viewAct/d4a2c278-3288-42b8-ba5f-fc58fa8e9b91>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Члан 1. | [clan-001.md](clan-001.md) | 0 |  |
+| Члан 2. | [clan-002.md](clan-002.md) | 8 | 2026-09-08 |
+| Члан 3. | [clan-003.md](clan-003.md) | 0 |  |
+| Члан 4. | [clan-004.md](clan-004.md) | 1 | 2022-12-13 |
+| Члан 5. | [clan-005.md](clan-005.md) | 1 | 2026-09-08 |
+| Члан 6. | [clan-006.md](clan-006.md) | 0 |  |
+| Члан 7. | [clan-007.md](clan-007.md) | 0 |  |
+| Члан 8. | [clan-008.md](clan-008.md) | 1 | 2022-12-13 |
+| Члан 9. | [clan-009.md](clan-009.md) | 1 | 2018-12-09 |
+| Члан 10. | [clan-010.md](clan-010.md) | 2 | 2019-10-08 |
+| Члан 11. | [clan-011.md](clan-011.md) | 0 |  |
+| Члан 12. | [clan-012.md](clan-012.md) | 0 |  |
+| Члан 13. | [clan-013.md](clan-013.md) | 0 |  |
+| Члан 14. | [clan-014.md](clan-014.md) | 0 |  |
+| Члан 15. | [clan-015.md](clan-015.md) | 0 |  |
+| Члан 16. | [clan-016.md](clan-016.md) | 0 |  |
+| Члан 17. | [clan-017.md](clan-017.md) | 1 | 2016-12-13 |
+| Члан 18. | [clan-018.md](clan-018.md) | 0 |  |
+| Члан 19. | [clan-019.md](clan-019.md) | 0 |  |
+| Члан 20. | [clan-020.md](clan-020.md) | 0 |  |
+| Члан 21. | [clan-021.md](clan-021.md) | 0 |  |
+| Члан 23. | [clan-023.md](clan-023.md) | 1 | 2017-12-18 |
+| Члан 24. | [clan-024.md](clan-024.md) | 1 | 2017-12-18 |
+| Члан 25. | [clan-025.md](clan-025.md) | 1 | 2017-12-18 |
+| Члан 26. | [clan-026.md](clan-026.md) | 0 |  |
+| Члан 27. | [clan-027.md](clan-027.md) | 0 |  |
+| Члан 27а. | [clan-027-01.md](clan-027-01.md) | 0 |  |
+| Члан 27б. | [clan-027-02.md](clan-027-02.md) | 0 |  |
+| Члан 27в. | [clan-027-03.md](clan-027-03.md) | 1 | 2018-12-09 |
+| Члан 27г. | [clan-027-04.md](clan-027-04.md) | 2 | 2022-12-13 |
+| Члан 27д. | [clan-027-05.md](clan-027-05.md) | 4 | 2026-09-08 |
+| Члан 27е. | [clan-027-07.md](clan-027-07.md) | 8 | 2022-12-13 |
+| Члан 27ж. | [clan-027-08.md](clan-027-08.md) | 2 | 2024-11-29 |
+| Члан 27з. | [clan-027-09.md](clan-027-09.md) | 1 | 2022-12-13 |
+| Члан 27и. | [clan-027-10.md](clan-027-10.md) | 0 |  |
+| Члан 27ј. | [clan-027-11.md](clan-027-11.md) | 2 | 2017-12-18 |
+| Члан 27к. | [clan-027-12.md](clan-027-12.md) | 3 | 2026-09-08 |
+| Члан 28. | [clan-028.md](clan-028.md) | 2 | 2026-09-08 |
+| Члан 29. | [clan-029.md](clan-029.md) | 0 |  |
+| Члан 30. | [clan-030.md](clan-030.md) | 1 | 2022-12-13 |
+| Члан 31. | [clan-031.md](clan-031.md) | 5 | 2026-09-08 |
+| Члан 32. | [clan-032.md](clan-032.md) | 0 |  |
+| Члан 35. | [clan-035.md](clan-035.md) | 1 | 2024-11-29 |
+| Члан 36а. | [clan-036-01.md](clan-036-01.md) | 2 | 2017-12-18 |
+| Члан 37. | [clan-037.md](clan-037.md) | 1 | 2016-12-13 |
+| Члан 38. | [clan-038.md](clan-038.md) | 0 |  |
+| Члан 39. | [clan-039.md](clan-039.md) | 0 |  |
+| Члан 40. | [clan-040.md](clan-040.md) | 1 | 2016-12-13 |
+| Члан 41. | [clan-041.md](clan-041.md) | 1 | 2016-12-13 |
+| Члан 42. | [clan-042.md](clan-042.md) | 0 |  |
+| Члан 43. | [clan-043.md](clan-043.md) | 0 |  |
+| Члан 44. | [clan-044.md](clan-044.md) | 0 |  |
+| Члан 45. | [clan-045.md](clan-045.md) | 2 | 2022-12-13 |
+| Члан 46. | [clan-046.md](clan-046.md) | 1 | 2026-09-08 |
+| Члан 47. | [clan-047.md](clan-047.md) | 0 |  |
+| Члан 48. | [clan-048.md](clan-048.md) | 0 |  |
+| Члан 49. | [clan-049.md](clan-049.md) | 1 | 2019-10-08 |
+| Члан 50. | [clan-050.md](clan-050.md) | 2 | 2019-10-08 |
+| Члан 51. | [clan-051.md](clan-051.md) | 1 | 2016-12-13 |
+| Члан 52. | [clan-052.md](clan-052.md) | 0 |  |
+| Члан 53. | [clan-053.md](clan-053.md) | 2 | 2018-12-09 |
+| Члан 54. | [clan-054.md](clan-054.md) | 2 | 2020-12-12 |
+| Члан 54а. | [clan-054-01.md](clan-054-01.md) | 0 |  |
+| Члан 56. | [clan-056.md](clan-056.md) | 2 | 2023-10-28 |
+| Члан 56а. | [clan-056-01.md](clan-056-01.md) | 6 | 2026-09-08 |
+| Члан 57. | [clan-057.md](clan-057.md) | 0 |  |
+| Члан 58. | [clan-058.md](clan-058.md) | 0 |  |
+| Члан 59. | [clan-059.md](clan-059.md) | 3 | 2026-09-08 |
+| Члан 60. | [clan-060.md](clan-060.md) | 4 | 2024-11-29 |
+| Члан 61. | [clan-061.md](clan-061.md) | 4 | 2024-11-29 |
+| Члан 62. | [clan-062.md](clan-062.md) | 0 |  |
+| Члан 63. | [clan-063.md](clan-063.md) | 0 |  |
+| Члан 64. | [clan-064.md](clan-064.md) | 0 |  |
+| Члан 65. | [clan-065.md](clan-065.md) | 0 |  |
+| Члан 66. | [clan-066.md](clan-066.md) | 0 |  |
+| Члан 67. | [clan-067.md](clan-067.md) | 0 |  |
+| Члан 68. | [clan-068.md](clan-068.md) | 0 |  |
+| Члан 68а. | [clan-068-01.md](clan-068-01.md) | 0 |  |
+| Члан 68б. | [clan-068-02.md](clan-068-02.md) | 2 | 2017-12-18 |
+| Члан 69. | [clan-069.md](clan-069.md) | 2 | 2018-12-09 |
+| Члан 70. | [clan-070.md](clan-070.md) | 0 |  |
+| Члан 71. | [clan-071.md](clan-071.md) | 1 | 2018-12-09 |
+| Члан 72. | [clan-072.md](clan-072.md) | 0 |  |
+| Члан 73. | [clan-073.md](clan-073.md) | 1 | 2020-12-12 |
+| Члан 74. | [clan-074.md](clan-074.md) | 1 | 2026-09-08 |
+| Члан 75. | [clan-075.md](clan-075.md) | 0 |  |
+| Члан 75а. | [clan-075-01.md](clan-075-01.md) | 4 | 2024-11-29 |
+| Члан 76. | [clan-076.md](clan-076.md) | 1 | 2022-12-13 |
+| Члан 77. | [clan-077.md](clan-077.md) | 0 |  |
+| Члан 78. | [clan-078.md](clan-078.md) | 3 | 2026-09-08 |
+| Члан 79. | [clan-079.md](clan-079.md) | 2 | 2024-11-29 |
+| Члан 79а. | [clan-079-01.md](clan-079-01.md) | 2 | 2026-09-08 |
+| Члан 80. | [clan-080.md](clan-080.md) | 1 | 2026-09-08 |
+| Члан 81. | [clan-081.md](clan-081.md) | 1 | 2026-09-08 |
+| Члан 82. | [clan-082.md](clan-082.md) | 2 | 2026-09-08 |
+| Члан 83. | [clan-083.md](clan-083.md) | 4 | 2026-09-08 |
+| Члан 92. | [clan-092.md](clan-092.md) | 3 | 2026-09-08 |
+| Члан 92а. | [clan-092-01.md](clan-092-01.md) | 0 |  |
+| Члан 92б. | [clan-092-02.md](clan-092-02.md) | 1 | 2026-09-08 |
+| Члан 92в. | [clan-092-03.md](clan-092-03.md) | 0 |  |
+| Члан 92г. | [clan-092-04.md](clan-092-04.md) | 0 |  |
+| Члан 92д. | [clan-092-05.md](clan-092-05.md) | 0 |  |
+| Члан 92ђ. | [clan-092-06.md](clan-092-06.md) | 0 |  |
+| Члан 92е. | [clan-092-07.md](clan-092-07.md) | 0 |  |
+| Члан 92ж. | [clan-092-08.md](clan-092-08.md) | 1 | 2022-12-13 |
+| Члан 92з. | [clan-092-09.md](clan-092-09.md) | 1 | 2026-09-08 |
+| Члан 92и. | [clan-092-10.md](clan-092-10.md) | 0 |  |
+| Члан 92ј. | [clan-092-11.md](clan-092-11.md) | 0 |  |
+| Члан 92к. | [clan-092-12.md](clan-092-12.md) | 1 | 2016-12-13 |
+| Члан 92л. | [clan-092-13.md](clan-092-13.md) | 1 | 2016-12-13 |
+| Члан 92љ. | [clan-092-14.md](clan-092-14.md) | 2 | 2026-09-08 |
+| Члан 92м. | [clan-092-15.md](clan-092-15.md) | 0 |  |
+| Члан 92н. | [clan-092-16.md](clan-092-16.md) | 0 |  |
+| Члан 92њ. | [clan-092-17.md](clan-092-17.md) | 0 |  |
+| Члан 92о. | [clan-092-18.md](clan-092-18.md) | 1 | 2016-12-13 |
+| Члан 92п. | [clan-092-19.md](clan-092-19.md) | 0 |  |
+| Члан 92р. | [clan-092-20.md](clan-092-20.md) | 1 | 2016-12-13 |
+| Члан 92с. | [clan-092-21.md](clan-092-21.md) | 0 |  |
+| Члан 92т. | [clan-092-22.md](clan-092-22.md) | 1 | 2016-12-13 |
+| Члан 92ћ. | [clan-092-23.md](clan-092-23.md) | 0 |  |
+| Члан 93. | [clan-093.md](clan-093.md) | 4 | 2023-10-28 |
+| Члан 93б. | [clan-093-02.md](clan-093-02.md) | 3 | 2023-10-28 |
+| Члан 94. | [clan-094.md](clan-094.md) | 0 |  |
+| Члан 95. | [clan-095.md](clan-095.md) | 0 |  |
+| Члан 96. | [clan-096.md](clan-096.md) | 1 | 2018-12-09 |
+| Члан 97. | [clan-097.md](clan-097.md) | 0 |  |
+| Члан 98. | [clan-098.md](clan-098.md) | 0 |  |
+| Члан 99. | [clan-099.md](clan-099.md) | 0 |  |
+| Члан 100. | [clan-100.md](clan-100.md) | 1 | 2026-09-08 |
+| Члан 101. | [clan-101.md](clan-101.md) | 1 | 2024-11-29 |
+| Члан 102. | [clan-102.md](clan-102.md) | 0 |  |
+| Члан 103. | [clan-103.md](clan-103.md) | 4 | 2026-09-08 |
+| Члан 103а. | [clan-103-01.md](clan-103-01.md) | 0 |  |
+| Члан 103б. | [clan-103-02.md](clan-103-02.md) | 2 | 2022-12-13 |
+| Члан 104. | [clan-104.md](clan-104.md) | 2 | 2024-11-29 |
+| Члан 105. | [clan-105.md](clan-105.md) | 0 |  |
+| Члан 106. | [clan-106.md](clan-106.md) | 0 |  |
+| Члан 107. | [clan-107.md](clan-107.md) | 0 |  |
+| Члан 108. | [clan-108.md](clan-108.md) | 0 |  |
+| Члан 109. | [clan-109.md](clan-109.md) | 0 |  |
+| Члан 110. | [clan-110.md](clan-110.md) | 0 |  |
+| Члан 111. | [clan-111.md](clan-111.md) | 0 |  |
+| Члан 112. | [clan-112.md](clan-112.md) | 5 | 2026-09-08 |
+| Члан 112а. | [clan-112-01.md](clan-112-01.md) | 1 | 2017-12-18 |
+| Члан 114. | [clan-114.md](clan-114.md) | 0 |  |
+| Одредбе које нису унете у пречишћен текст | [zz-2-neunete-odredbe.md](zz-2-neunete-odredbe.md) | 10 | 2024-11-29 |
+
+Act id: `zakon-2009-54-3` (tags `zakon-2009-54-3/<day>`; `python tools/on.py <day> zakon-2009-54-3`).
+
+## Decisions made by hand
+
+- Each version is the register's editorially consolidated text, as the register shows it with change notes hidden: elements marked as change notes (hide-change) are not law text and are dropped.
+- A version takes effect on the register's application day for it (versionApplicationDate); a version whose text equals the version before it is not recorded.
+- A changed provision is credited to the Gazette publications that are new in that version's list, narrowed to those its own change note names; with none new it is left uncredited. Publications marked (одлука УС) are Constitutional Court decisions.
+- The first version is credited to the act's original publication when it holds only that publication and its corrections; otherwise it is the oldest version available.
+- Captions and part headings printed between articles are kept at the top of the article that follows them; an act whose articles are not numbered in one rising sequence (for example a treaty quoted in a ratifying law) is kept as one text.
+- Gazette days of publications come from the header of the register's text.
