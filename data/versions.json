@@ -1580,6 +1580,21 @@
    ]
   },
   {
+   "slug": "zakon-1997-srj29-xbb71c0",
+   "path": "zakon/1997/srj29-xbb71c0",
+   "short": "Закон о поверавању јавних овлашћења Југословенском црвеном крсту",
+   "title": "Закон о поверавању јавних овлашћења Југословенском црвеном крсту",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/bb71c041-3533-4245-a4c1-ede9cdeddbba",
+   "versions": [
+    {
+     "from": "1997-07-05",
+     "units": 12,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/bb71c041-3533-4245-a4c1-ede9cdeddbba?lawActId=304264",
+     "sha256": "f34434567e3871e3c1be4b1483e79270d2f3a79d4c7dedd057ed39bd440c6b05"
+    }
+   ]
+  },
+  {
    "slug": "zakon-1998-srj12-162",
    "path": "zakon/1998/srj12-162",
    "short": "Закон о претварању краткорочних потраживања из примарне емисије у дугорочне кредите",
@@ -3721,6 +3736,135 @@
      "units": 89,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4bde60fc-c101-40b3-853a-622119373352?lawActId=440547",
      "sha256": "bb4b2e1622401c62b924569f47e4a418f754ecc231a3b524093b941644fb4226"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2004-84-37",
+   "path": "zakon/2004/84-37",
+   "short": "Закон о доприносима за обавезно социјално осигурање",
+   "title": "Закон о доприносима за обавезно социјално осигурање",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5",
+   "versions": [
+    {
+     "from": "2016-01-01",
+     "units": 88,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=418054",
+     "sha256": "3eeda70384031d40474f308c07345e0cfc2c87d4c2af05ac439a54017a6a0d64"
+    },
+    {
+     "from": "2018-01-01",
+     "units": 89,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=424515",
+     "sha256": "b510d9ac06b78653c978de1257983bba3915a37edf7c1b9a9c136cc38df4b6c7"
+    },
+    {
+     "from": "2018-12-16",
+     "units": 89,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=427239",
+     "sha256": "16f51be4be6f7d78f2d0ae421ed722a47ee37e3094734fba41376a084ca7bf28"
+    },
+    {
+     "from": "2019-02-01",
+     "units": 89,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=427697",
+     "sha256": "ebda33257942a288dcb952b3e5b99e365713993e84b7206355d0e8d3b31ef284"
+    },
+    {
+     "from": "2020-01-01",
+     "units": 93,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=429379",
+     "sha256": "2fa17c9f29685b53282b5ac00bc8aa0f8a5d23d8a823834f23f40af1d42cea42"
+    },
+    {
+     "from": "2020-02-01",
+     "units": 93,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=429746",
+     "sha256": "48c99e07865faf47778e57a49ccd2d7d5204abf59291cbdb0afcfdd584037366"
+    },
+    {
+     "from": "2021-01-01",
+     "units": 93,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=431322",
+     "sha256": "590d689b520d3439a2076947ff1997e0a2fbb5458c7e4351d6aec20b41aa9039"
+    },
+    {
+     "from": "2021-02-01",
+     "units": 93,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=431588",
+     "sha256": "07b3a0b46f11137b9dd2929aee6747c2a858c2d332e7a27d9027aade6f1d5709"
+    },
+    {
+     "from": "2021-05-07",
+     "units": 94,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=432117",
+     "sha256": "8c90d4c3ef8dd0126d1f76c454070a762dab575dc679e8dc61a633eff770d3d6"
+    },
+    {
+     "from": "2021-12-17",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=433154",
+     "sha256": "8b3450945fc2d166c461a5a533755aff84239b2e1f93923dd7191c54165e9e9b"
+    },
+    {
+     "from": "2022-02-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=433481",
+     "sha256": "2bfa1aefcd9f0b3f6bb97063fd14ff4ef8a93eac532511bf4372bd69473e110e"
+    },
+    {
+     "from": "2023-01-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=434779",
+     "sha256": "d965c2da85db9b0477bdd43907dd3ae33cc239143530756f25926c6f7963ad94"
+    },
+    {
+     "from": "2023-02-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=435028",
+     "sha256": "e957c42e3bd059d0224a0ce360b5328efcebe2c5f3ec068ce7e88c9dd9cd90d4"
+    },
+    {
+     "from": "2024-01-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=436259",
+     "sha256": "ec3c1b1b644e020e922a9351f37fa84ddafc41648884768e97873ac918714adf"
+    },
+    {
+     "from": "2024-02-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=436827",
+     "sha256": "297b0558e532391d76426e4e1dec626907d2b48a9a51fc16399398e3b4f92869"
+    },
+    {
+     "from": "2025-01-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=437828",
+     "sha256": "e1db5c577cad886a5a34a8eabb6b2313fdd7bfb7cb00156346d05bcd8bea61f2"
+    },
+    {
+     "from": "2025-02-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=438156",
+     "sha256": "a817f78cffd3a2163795a140315da41c3382c761b99eb89402524f00abb42c9f"
+    },
+    {
+     "from": "2026-01-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=439346",
+     "sha256": "96ad31a77ed83db59d7fc1bc1357dcb5548cb548dcf49c597887096a09ad6d64"
+    },
+    {
+     "from": "2026-02-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=439654",
+     "sha256": "207d77cfb43f6818ce17524978ea53b86abb586b42a45bf8f24c17bd91542a9e"
+    },
+    {
+     "from": "2027-01-01",
+     "units": 96,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04455352-c6cf-4ce5-9a7a-2d75505518f5?lawActId=440558",
+     "sha256": "a5a4479c7698c258d0ea3f8263672b69bccb5668df46ffd735a8cff6ce14436d"
     }
    ]
   },
@@ -10187,6 +10331,36 @@
    ]
   },
   {
+   "slug": "zakon-2014-mu10-1",
+   "path": "zakon/2014/mu10-1",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Словеније о размени и узајамној заштити тајних података",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Словеније о размени и узајамној заштити тајних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/04b60c63-0bb7-4fba-bf1f-3128d41c87a9",
+   "versions": [
+    {
+     "from": "2014-09-18",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/04b60c63-0bb7-4fba-bf1f-3128d41c87a9?lawActId=408868",
+     "sha256": "9c9b53c5b2e1886063132c5a2ed21daaf7d21b700f9d1912ed60e1f8481309ab"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-mu10-11",
+   "path": "zakon/2014/mu10-11",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Сједињених Америчких Држава у вези са безбедносним мерама за заштиту тајних војних података",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Сједињених Америчких Држава у вези са безбедносним мерама за заштиту тајних војних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/b1b67061-3105-4aa6-be67-04dcdd23aec2",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/b1b67061-3105-4aa6-be67-04dcdd23aec2?lawActId=408861",
+     "sha256": "895ccc63d730cac4022fcfffe429397733118eb2088867c7459290a9f2f9cb28"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-mu10-89",
    "path": "zakon/2014/mu10-89",
    "short": "Закон о потврђивању Споразума о сарадњи између Владе Републике Србије и Владе Црне Горе у контексту приступања Европској унији",
@@ -10202,6 +10376,36 @@
    ]
   },
   {
+   "slug": "zakon-2014-mu10-9",
+   "path": "zakon/2014/mu10-9",
+   "short": "Закон о потврђивању Споразума између Републике Србије и Чешке Републике о размени и узајамној заштити тајних података",
+   "title": "Закон о потврђивању Споразума између Републике Србије и Чешке Републике о размени и узајамној заштити тајних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/8780d9d3-0012-4d15-b188-a8ff518d2ec2",
+   "versions": [
+    {
+     "from": "2014-09-17",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/8780d9d3-0012-4d15-b188-a8ff518d2ec2?lawActId=408862",
+     "sha256": "7291624dc045cde2018ff546c5f8ee279258e3f5df0317ac695e42c37a7ed04e"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-mu12-1",
+   "path": "zakon/2014/mu12-1",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Демократске Народне Републике Алжир о узајамној размени и заштити тајних података у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Демократске Народне Републике Алжир о узајамној размени и заштити тајних података у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/1459dded-0157-4d6b-a212-43834cfc75cd",
+   "versions": [
+    {
+     "from": "2014-10-16",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/1459dded-0157-4d6b-a212-43834cfc75cd?lawActId=408859",
+     "sha256": "0d8b76854c3f94868efec5e50679932ec16e69b5a5f30348ab0ee1ad31e1ed2f"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2014-mu12-7",
    "path": "zakon/2014/mu12-7",
    "short": "Закон о потврђивању Протокола уз Споразум о стабилизацији и придруживању између Републике Србије, са једне стране и Европских заједница и њихових држава чланица, са друге стране, којим се узима у обзир приступање Републике Хрватске Европској унији",
@@ -10213,6 +10417,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/84f3c156-a9c6-4bea-b5ca-6ad6d7400b68?lawActId=408495",
      "sha256": "beb3fb38de5243fae5790239065422395604cf76b36a8f4aaa133b777cef382a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2014-mu14-10",
+   "path": "zakon/2014/mu14-10",
+   "short": "Закон о потврђивању Споразума између Републике Србије и Краљевине Шпаније о размени и узајамној заштити тајних података",
+   "title": "Закон о потврђивању Споразума између Републике Србије и Краљевине Шпаније о размени и узајамној заштити тајних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/290a5ce5-a451-45a1-8b60-94479a52ca77",
+   "versions": [
+    {
+     "from": "2014-11-06",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/290a5ce5-a451-45a1-8b60-94479a52ca77?lawActId=408857",
+     "sha256": "6e1993c9a1691527a731531b150af15c5e35725ad505d747aa763d0637b2e24b"
     }
    ]
   },
@@ -11045,6 +11264,21 @@
    ]
   },
   {
+   "slug": "zakon-2015-mu24-1",
+   "path": "zakon/2015/mu24-1",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Пољске о узајамној заштити тајних података",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Републике Пољске о узајамној заштити тајних података",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/ddf4ef59-68ce-48d8-92e6-dadcef98bbb0",
+   "versions": [
+    {
+     "from": "2016-01-07",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/ddf4ef59-68ce-48d8-92e6-dadcef98bbb0?lawActId=408851",
+     "sha256": "46e46369ff410ddb52079fbb26ffc9653d27553fef5f92acb55cc0e2c995865a"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2016-10-3",
    "path": "zakon/2016/10-3",
    "short": "Закон о међународним мерама ограничавања",
@@ -11593,6 +11827,21 @@
      "units": 1,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/3ef22958-fec6-46b2-a48e-655c019d0025?lawActId=408469",
      "sha256": "09090bd79a54eaf7160b2f9b4b689ab9fb5b87b3410115a8d24bb0d7f9b14677"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2016-mu3-3",
+   "path": "zakon/2016/mu3-3",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије коју представља Министарство одбране и Владе Републике Мјанмарске Уније коју представља Министарство одбране о сарадњи у области одбране",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије коју представља Министарство одбране и Владе Републике Мјанмарске Уније коју представља Министарство одбране о сарадњи у области одбране",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4049433c-35cf-4dfd-bf46-d1f9857b519e",
+   "versions": [
+    {
+     "from": "2016-02-27",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4049433c-35cf-4dfd-bf46-d1f9857b519e?lawActId=408849",
+     "sha256": "5715a6664e0ef9f970a2f25b945bd3cbd59d983b4c9f70465583ff4c5609c26b"
     }
    ]
   },
@@ -14804,6 +15053,21 @@
    ]
   },
   {
+   "slug": "zakon-2021-mu5-30",
+   "path": "zakon/2021/mu5-30",
+   "short": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Државе Палестине у области безбедносне сарадње",
+   "title": "Закон о потврђивању Споразума између Владе Републике Србије и Владе Државе Палестине у области безбедносне сарадње",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/d4f521f7-362a-4474-b960-ff2705e92220",
+   "versions": [
+    {
+     "from": "2021-03-25",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/d4f521f7-362a-4474-b960-ff2705e92220?lawActId=431874",
+     "sha256": "5c6db6e9ccac58b45a594eabcd52c092cd8fa5d453409ab616d3f70caae6f282"
+    }
+   ]
+  },
+  {
    "slug": "zakon-2022-125-220",
    "path": "zakon/2022/125-220",
    "short": "Закон о Привременом регистру држављана Републике Србије од 16 до 29 година којима се уплаћује новчана помоћ",
@@ -15007,6 +15271,36 @@
      "units": 11,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2bb16b87-d941-4f7c-8ad8-7cd7d81aefab?lawActId=433613",
      "sha256": "7b22fab8632a2b57451b4194e508e51e06d48a8ba80448007c488bf50b7f1ca8"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-mu1-417",
+   "path": "zakon/2022/mu1-417",
+   "short": "Закон о потврђивању Одлуке брoj 1/2021 Савета за стабилизацију и придруживање ЕУ и Србије о измени Споразума о стабилизацији и придруживању између Европских заједница и њихових држава чланица, са једне стране, и Републике Србије, са друге стране, заменом његовог Протокола 3 о дефиницији појма \"производи са пореклом\" и методама административне сарадње",
+   "title": "Закон о потврђивању Одлуке брoj 1/2021 Савета за стабилизацију и придруживање ЕУ и Србије о измени Споразума о стабилизацији и придруживању између Европских заједница и њихових држава чланица, са једне стране, и Републике Србије, са друге стране, заменом његовог Протокола 3 о дефиницији појма \"производи са пореклом\" и методама административне сарадње",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/a8bde893-64dd-496a-a0ca-72a055b41d21",
+   "versions": [
+    {
+     "from": "2022-02-18",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/a8bde893-64dd-496a-a0ca-72a055b41d21?lawActId=433553",
+     "sha256": "970ec351adac851bfc0500897d619b2f7e18e0d4c873cdf68abca8d9a0826c3a"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2022-mu6-3",
+   "path": "zakon/2022/mu6-3",
+   "short": "Закон о потврђивању Уговора између Владе Републике Србије и Владе Мађарске о пријатељским односима и сарадњи у области стратешког партнерства",
+   "title": "Закон о потврђивању Уговора између Владе Републике Србије и Владе Мађарске о пријатељским односима и сарадњи у области стратешког партнерства",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/c018b75d-1d27-44f8-b205-2da8091408c5",
+   "versions": [
+    {
+     "from": "2022-12-20",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/c018b75d-1d27-44f8-b205-2da8091408c5?lawActId=434771",
+     "sha256": "4cfddfe547fdfa4a3ea30537ec5350cb6c5eea7e8c340321d5e13425065aefd0"
     }
    ]
   },
@@ -15520,6 +15814,21 @@
      "units": 7,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/5708a2e3-000e-4181-a3e0-e5cd814d8ea9?lawActId=436248",
      "sha256": "6505e7b3842597187439a1e5132ce6ad02b7fc173856faf5fdcff43fa5ea045b"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2023-mu3-186",
+   "path": "zakon/2023/mu3-186",
+   "short": "Закон о потврђивању Споразума о свеобухватном стратешком партнерству између Владе Републике Србије и Владе Уједињених Арапских Емирата",
+   "title": "Закон о потврђивању Споразума о свеобухватном стратешком партнерству између Владе Републике Србије и Владе Уједињених Арапских Емирата",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/2329a07f-7e4f-425e-ab7c-a61d49a9245c",
+   "versions": [
+    {
+     "from": "2023-05-16",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/2329a07f-7e4f-425e-ab7c-a61d49a9245c?lawActId=435484",
+     "sha256": "dc37456ff5782afbfa9c5d7ef915ff86b1744f873d82b3d386934aae8d3b83af"
     }
    ]
   },
@@ -16390,6 +16699,21 @@
      "units": 26,
      "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/633faec6-079a-4bfa-9fb6-25796468ca91?lawActId=439205",
      "sha256": "cc20c7973b9fd892c62e46c4a1c308df0fa100c7d944ead1803f5c47f430c695"
+    }
+   ]
+  },
+  {
+   "slug": "zakon-2025-mu10-175",
+   "path": "zakon/2025/mu10-175",
+   "short": "Закон о потврђивању Оквирног споразума о сарадњи између Владе Републике Србије и Владе Централноафричке Републике",
+   "title": "Закон о потврђивању Оквирног споразума о сарадњи између Владе Републике Србије и Владе Централноафричке Републике",
+   "url": "https://www.pravno-informacioni-sistem.rs/reg/viewAct/4802cd46-600c-4e41-8d41-3c88f2d197ab",
+   "versions": [
+    {
+     "from": "2025-11-04",
+     "units": 1,
+     "source_url": "https://reg.pravno-informacioni-sistem.rs/api/viewAct/4802cd46-600c-4e41-8d41-3c88f2d197ab?lawActId=439178",
+     "sha256": "02d696088d402f8b37899eda78539a4cdb3f762a4697b66831372821e322759c"
     }
    ]
   },
