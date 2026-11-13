@@ -1,96 +1,96 @@
-# Serbia: law history in git
+# Srbija: istorija propisa u gitu
+
+**Srpski** · [English](README.en.md)
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Serbian law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+<img alt="Propisi Srbije u ovom repozitorijumu: šta sadrži, izmene po godini stupanja na snagu, potpunost u odnosu na zvanične izvore i tačnost onoga što sadrži" src="data/effort-light.svg" width="880">
 </picture>
 
-Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Serbia's national law, which global-law reads at `serbia/national/acts/`.
+Deo projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git istorije prava svih zemalja: ovo je nacionalno pravo Srbije, koje global-law čita na putanji `serbia/national/acts/`.
 
-The law of Serbia as a git history: one file per provision, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
+Pravo Srbije kao git istorija: jedna datoteka po odredbi, jedan commit po verziji na dan kada je stupila na snagu, a autor svakog commita je propis koji je doneo izmenu. `git blame` pokazuje propis koji stoji iza svakog člana; `git log` navodi svaku izmenu člana; izborom datuma dobija se tekst koji je tog dana bio na snazi.
 
-**What is in it now:** the Constitution and 9,748 acts from the official register, with 13,507 versions. [`PLAN.md`](PLAN.md) lists every part this repository is meant to hold (laws, by-laws, local acts, case law, treaties, legislative history) and how far each one is; [`registry/ACTS.md`](registry/ACTS.md) lists every act.
+**Šta sadrži sada:** Ustav i 9.748 propisa iz zvaničnog registra, sa 13.507 verzija. [`PLAN.md`](PLAN.md) navodi sve delove koje ovaj repozitorijum treba da sadrži (zakoni, podzakonski akti, lokalni propisi, sudska praksa, međunarodni ugovori, zakonodavna istorija) i dokle se stiglo sa svakim; [`registry/ACTS.md`](registry/ACTS.md) navodi sve propise.
 
-| Folder | Kind | Acts | Versions |
+| Folder | Vrsta | Propisa | Verzija |
 | --- | --- | ---: | ---: |
-| `ustav/` | Устав Републике Србије (the Constitution) | 1 | 2 |
-| `pravilnik/` | Правилник (rulebooks) | 3,291 | 4,656 |
-| `odluka/` | Одлука (decisions) | 2,767 | 3,650 |
-| `zakon/` | Закон (laws) | 1,649 | 2,335 |
-| `uredba/` | Уредба (government decrees) | 1,233 | 1,824 |
-| `akt/` | Other acts | 175 | 292 |
-| `memorandum/` | Меморандум (memoranda) | 114 | 114 |
-| `resenje/` | Решење (rulings) | 95 | 113 |
-| `naredba/` | Наредба (orders) | 85 | 93 |
-| `sporazum/` | Споразум (agreements) | 80 | 80 |
-| `uputstvo/` | Упутство (instructions) | 64 | 65 |
-| `tarifa/` | Тарифа (tariffs) | 41 | 51 |
-| `statut/` | Статут (statutes) | 34 | 51 |
-| `poslovnik/` | Пословник (rules of procedure) | 28 | 43 |
-| `kolektivni/` | Колективни уговор (collective agreements) | 25 | 52 |
-| `kodeks/` | Кодекс (codes) | 21 | 30 |
-| `protokol/` | Протокол (protocols) | 17 | 17 |
-| `pravila/` | Правила (rules) | 7 | 7 |
-| `zakljucak/` | Закључак (conclusions) | 7 | 16 |
-| `ustav/` | Уставни закон (constitutional laws) | 3 | 3 |
-| `program/` | Програм (programmes) | 3 | 3 |
-| `strategija/` | Стратегија (strategies) | 3 | 6 |
-| `metodologija/` | Методологија (methodologies) | 2 | 2 |
-| `plan/` | План (plans) | 1 | 1 |
-| `konvencija/` | Конвенција (conventions) | 1 | 1 |
-| `ugovor/` | Уговор (contracts, treaties) | 1 | 1 |
-| `ukaz/` | Указ (decrees) | 1 | 1 |
+| `ustav/` | Ustav Republike Srbije | 1 | 2 |
+| `pravilnik/` | Pravilnici | 3.291 | 4.656 |
+| `odluka/` | Odluke | 2.767 | 3.650 |
+| `zakon/` | Zakoni | 1.649 | 2.335 |
+| `uredba/` | Uredbe | 1.233 | 1.824 |
+| `akt/` | Ostali akti | 175 | 292 |
+| `memorandum/` | Memorandumi | 114 | 114 |
+| `resenje/` | Rešenja | 95 | 113 |
+| `naredba/` | Naredbe | 85 | 93 |
+| `sporazum/` | Sporazumi | 80 | 80 |
+| `uputstvo/` | Uputstva | 64 | 65 |
+| `tarifa/` | Tarife | 41 | 51 |
+| `statut/` | Statuti | 34 | 51 |
+| `poslovnik/` | Poslovnici | 28 | 43 |
+| `kolektivni/` | Kolektivni ugovori | 25 | 52 |
+| `kodeks/` | Kodeksi | 21 | 30 |
+| `protokol/` | Protokoli | 17 | 17 |
+| `pravila/` | Pravila | 7 | 7 |
+| `zakljucak/` | Zaključci | 7 | 16 |
+| `ustav/` | Ustavni zakoni | 3 | 3 |
+| `program/` | Programi | 3 | 3 |
+| `strategija/` | Strategije | 3 | 6 |
+| `metodologija/` | Metodologije | 2 | 2 |
+| `plan/` | Planovi | 1 | 1 |
+| `konvencija/` | Konvencije | 1 | 1 |
+| `ugovor/` | Ugovori | 1 | 1 |
+| `ukaz/` | Ukazi | 1 | 1 |
 
-Each act is in `<kind>/<year>/<Gazette number>-<page>/`, from its first publication (`zakon/2005/24-3/` is the Закон о раду, the Labour Law, "Службени гласник РС" 24/2005, page 3); acts first published in an earlier Gazette carry its name (`sfrj29-1181` is "Службени лист СФРЈ" 29/1978, page 1181). `registry/data/paths.json` maps each act id to its folder.
+Svaki propis je u `<vrsta>/<godina>/<broj glasnika>-<strana>/`, prema prvom objavljivanju (`zakon/2005/24-3/` je Закон о раду, Zakon o radu, „Службени гласник РС” 24/2005, strana 3); propisi prvi put objavljeni u nekom ranijem glasniku nose njegov naziv (`sfrj29-1181` je „Службени лист СФРЈ” 29/1978, strana 1181). `registry/data/paths.json` povezuje id svakog propisa sa njegovim folderom.
 
-The text is in Serbian (Cyrillic, some acts Latin), as the official register prints it. An English translation is not part of this record.
+Tekstovi propisa su na srpskom, ćirilicom (neki latinicom), onako kako ih objavljuje zvanični registar. Prevod propisa na engleski nije deo ovog repozitorijuma.
 
-## A lawyer's questions as git commands
+## Pitanja pravnika kao git komande
 
-| Question | Command |
+| Pitanje | Komanda |
 | --- | --- |
-| Every change to Article 1 of the Labour Law | `git log -p --word-diff -- zakon/2005/24-3/clan-001.md` |
-| Which act wrote each line of it? | `git blame zakon/2005/24-3/clan-001.md` |
-| Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
-| Article 1 as it stood in one of those versions | `git show <commit>:zakon/2005/24-3/clan-001.md` |
-| Every version in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
+| Svaka izmena člana 1 Zakona o radu | `git log -p --word-diff -- zakon/2005/24-3/clan-001.md` |
+| Koji propis je napisao svaki red tog člana? | `git blame zakon/2005/24-3/clan-001.md` |
+| Svaka verzija Zakona o radu, sa danom kada je stupila na snagu | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
+| Član 1 kakav je bio u jednoj od tih verzija | `git show <commit>:zakon/2005/24-3/clan-001.md` |
+| Sve verzije u repozitorijumu, redom | `git log --reverse --format="%ad %an" --date=short main` |
 
-## Dates
+## Datumi
 
-Each commit is dated at noon, Europe/Belgrade, on the day the version took effect, and carries it in its `In-force:` trailer:
+Svaki commit nosi datum u podne po beogradskom vremenu (Europe/Belgrade), na dan kada je verzija stupila na snagu, a taj dan stoji i u njegovom `In-force:` traileru:
 
-- for an act with several versions, the register's own application day for each version (its version timeline);
-- for an act the register keeps as one text, the register's ELI date for it, or the day the act's own in-force clause gives (or its last amendment's), counted from the Gazette day the text's header prints;
-- for a single text with neither (most are decisions and notices with no in-force clause), the Gazette day of the last publication the text includes, as its header prints it. Every such version says so in a note in its commit message ("The register keeps only this text and gives no day it took effect ..."), and its part file's decisions say which rule gave the day.
+- za propis sa više verzija, dan primene svake verzije koji navodi sam registar (njegova vremenska linija verzija);
+- za propis koji registar čuva kao jedan tekst, ELI datum koji registar daje za njega, ili dan koji navodi odredba propisa o stupanju na snagu (ili odredba njegove poslednje izmene), računato od dana izlaska glasnika odštampanog u zaglavlju teksta;
+- za jedan tekst bez ijednog od tih podataka (uglavnom odluke i obaveštenja bez odredbe o stupanju na snagu), dan izlaska glasnika sa poslednjom objavom koju tekst obuhvata, kako je odštampan u zaglavlju. Svaka takva verzija to navodi u napomeni u poruci commita („The register keeps only this text and gives no day it took effect ...”), a odluke u datoteci njenog dela navode koje je pravilo dalo dan.
 
-The first version of an act is credited to its original publication when it holds only that publication and its corrections; otherwise it is the "oldest version available", credited to the publisher and naming the publications it already includes.
+Prva verzija propisa pripisuje se njegovom prvobitnom objavljivanju kada sadrži samo to objavljivanje i njegove ispravke; u suprotnom je to „najstarija dostupna verzija”, pripisana izdavaču, i navodi objave koje već obuhvata.
 
-## How it is checked
+## Kako se proverava
 
-- Every version is the register's own consolidated text for that version, with the register's change notes (not law text) left out; the units re-join to the register's text line for line.
-- Every act is read back from git on the day each version took effect and on the day before, and must match the corpus; only checked batches are pushed. Results are in `registry/REPRODUCE.md`.
-- History is append-only: no merge commits, no rewriting, no commit dated in the future, and every commit's trailers parse.
+- Svaka verzija je prečišćeni tekst te verzije iz samog registra, bez napomena registra o izmenama (one nisu tekst propisa); delovi se ponovo spajaju u tekst registra red po red.
+- Svaki propis se čita iz gita na dan stupanja na snagu svake verzije i na dan pre toga, i mora se poklapati sa korpusom; objavljuju se samo provereni paketi. Rezultati su u `registry/REPRODUCE.md`.
+- Istorija se samo dopisuje: nema merge commitova, nema prepravljanja istorije, nema commita sa datumom u budućnosti, a traileri svakog commita su ispravnog formata.
 
-## What it does not show
+## Šta ne prikazuje
 
-- **Acts no longer in force.** The register lists acts in force; earlier texts of an act are here where the register keeps them as versions. Repealed acts and texts as first published are planned from the Службени гласник archive (see `PLAN.md`).
-- **Images** (forms, tables, formulas drawn as pictures) are not in the files; versions whose text holds them say so.
-- **Local acts, case law, treaties' own Gazette texts, bills and drafts** are planned parts (see `PLAN.md`).
+- **Propise koji više nisu na snazi.** Registar navodi propise na snazi; raniji tekstovi propisa su ovde ako ih registar čuva kao verzije. Ukinuti propisi i tekstovi u obliku u kome su prvi put objavljeni planirani su iz arhive Službenog glasnika (vidi `PLAN.md`).
+- **Slike** (obrasci, tabele i formule u obliku slika) nisu u datotekama; verzije čiji tekst ih sadrži to navode.
+- **Lokalne propise, sudsku praksu, tekstove međunarodnih ugovora iz glasnika, predloge i nacrte zakona**: to su planirani delovi (vidi `PLAN.md`).
 
-## Sources
+## Izvori
 
-| Source | Kind | Past versions | Notes |
+| Izvor | Vrsta | Ranije verzije | Napomene |
 | --- | --- | --- | --- |
-| [Pravno-informacioni sistem Republike Srbije](https://pravno-informacioni-sistem.rs) | Official register (Службени гласник) | yes, a version timeline per act | The text of every version, its application day and the Gazette publications it includes |
+| [Pravno-informacioni sistem Republike Srbije](https://pravno-informacioni-sistem.rs) | Zvanični registar (Službeni glasnik) | da, vremenska linija verzija za svaki propis | Tekst svake verzije, dan njene primene i objave u glasniku koje obuhvata |
 
-## Licence
+## Licenca
 
-See `LICENSE`.
+Vidi `LICENSE`.
 
-**The register's terms of use.** The terms of use of the Pravno-informacioni sistem (Услови коришћења, read on 13 November 2026) allow copying its content only for personal, non-commercial purposes, and require the prior written consent of Службени гласник for automated extraction, indexing or storage of its data and for republishing its content on other sites. Direct links to its public pages are allowed. Until that consent is given, no further texts are taken from the register: the acts already here stay as they are, and the parts that would come from the register are marked in `PLAN.md` as needing the publisher's permission.
+**Uslovi korišćenja registra.** Uslovi korišćenja Pravno-informacionog sistema (pročitani 13. novembra 2026) dozvoljavaju kopiranje sadržaja samo u lične, nekomercijalne svrhe, a za automatsko preuzimanje, indeksiranje ili čuvanje podataka i za ponovno objavljivanje sadržaja na drugim sajtovima traže prethodnu pismenu saglasnost Službenog glasnika. Direktni linkovi na javne stranice registra su dozvoljeni. Dok se ta saglasnost ne dobije, iz registra se ne preuzimaju novi tekstovi: propisi koji su već ovde ostaju kakvi jesu, a delovi koji bi došli iz registra označeni su u `PLAN.md` kao delovi za koje je potrebna dozvola izdavača.
 
-This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; scripts were written by an AI model (see `REPRODUCE.md` and `registry/REPRODUCE.md`).
+Ovaj repozitorijum nije pravni savet niti zvanična publikacija. Nijedan AI model nije pisao niti menjao tekst propisa; skripte je napisao AI model (vidi `REPRODUCE.md` i `registry/REPRODUCE.md`).
 
-## На српском
-
-Историја прописа Србије у гиту: једна датотека по члану, једна ревизија по верзији на дан ступања на снагу, а аутор сваке ревизије је пропис који је донео измену. Садржи Устав и 9,748 прописа из Правно-информационог система Републике Србије (13,507 верзија). План (`PLAN.md`) наводи шта ће још бити укључено: локални прописи, судска пракса, међународни уговори, предлози закона.
+Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.
