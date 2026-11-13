@@ -2,7 +2,7 @@
 
 This is the plan for this repository, part by part, with what is published so far. It is regenerated with each documentation commit, so the gap can be followed over time.
 
-**52.0%** of the plan is published, weighted by how binding each source is and how often it is used. Parts without an official count yet score only when done. 69.9% of the weight is in parts that need the publisher's permission first. Updated 2026-11-13 02:09 UTC.
+**52.0%** of the plan is published, weighted by how binding each source is and how often it is used. Parts without an official count yet score only when done. 69.9% of the weight is in parts that need the publisher's permission first. Updated 2026-11-13 02:18 UTC.
 
 | Part | Will be in | Weight | Progress | How | Status |
 | --- | --- | ---: | --- | --- | --- |
@@ -21,7 +21,7 @@ This is the plan for this repository, part by part, with what is published so fa
 | Collective agreements | kolektivni/ | 0.3% | 23 of 24 acts · 95.8% | the register's texts | paused: needs the publisher's permission (the register's terms of use require Службени гласник's written consent for automated extraction and republication) |
 | National Bank of Serbia regulations | nbs/<year>/<number>/ | 1.6% | target unknown | nbs.rs regulations as published | planned |
 | **Local acts** | | | | | |
-| City of Belgrade (Службени лист Града Београда) | local/beograd/<year>/<number>/ | 2.1% | target unknown | the city's official gazette, by issue | planned |
+| City of Belgrade (Службени лист Града Београда) | local/beograd/<year>/<number>/ | 2.1% | 13,554 acts listed; target unknown (index of 658 of 2,272 issues; texts 0) | the city's official gazette, by issue | collecting |
 | AP Vojvodina (Службени лист АП Војводине) | pokrajina/vojvodina/<year>/<number>/ | 1.6% | target unknown | the province's official gazette, by issue | planned |
 | Other cities (Нови Сад, Ниш, Крагујевац and 24 more) | local/<city>/<year>/<number>/ | 1.6% | target unknown | each city's official gazette | planned |
 | Municipalities and Belgrade city municipalities | local/<municipality>/<year>/<number>/ | 1.0% | target unknown | each municipality's official gazette | planned |
