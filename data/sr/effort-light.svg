@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="752" viewBox="0 0 880 752" font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans,Helvetica,Arial,sans-serif">
 <rect x="0.5" y="0.5" width="879" height="751" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="24" y="38" font-size="16" font-weight="600" fill="#1f2328">Pravo Srbije kao git istorija</text>
-<rect x="566.4" y="24.5" width="150" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="641.6" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">zapis do 4. nov 2026.</text>
-<rect x="724.8" y="24.5" width="131" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
-<text x="790.4" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">ažurnost: aktuelno</text>
+<rect x="600.7" y="24.5" width="130" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="665.7" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">zapis do 4. nov 2026.</text>
+<rect x="738.6" y="24.5" width="117" height="20" rx="10" fill="none" stroke="#d1d9e0"/>
+<text x="797.3" y="38.5" font-size="11.5" font-weight="500" text-anchor="middle" fill="#59636e">ažurnost: aktuelno</text>
 <rect x="24.5" y="60.5" width="831" height="58" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.0" y="87" font-size="20" font-weight="600" fill="#1f2328">9.749</text>
 <text x="40.0" y="106" font-size="12" fill="#59636e">propisa</text>
@@ -28,92 +28,92 @@
 <text x="72.5" y="259.5" font-size="11" text-anchor="end" fill="#59636e">1.000</text>
 <line x1="80.5" y1="180.5" x2="839.5" y2="180.5" stroke="#d1d9e0" stroke-width="0.6" stroke-dasharray="3 3"/>
 <text x="72.5" y="184.5" font-size="11" text-anchor="end" fill="#59636e">2.000</text>
-<rect x="80.83" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1800: 3 izmene</title></rect>
+<rect x="80.83" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1800: stupile na snagu izmene: 3</title></rect>
 <text x="82.2" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1800</text>
 <text x="149.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1820</text>
 <text x="215.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1840</text>
 <text x="282.8" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1860</text>
 <text x="349.7" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1880</text>
-<rect x="415.20" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1900: 2 izmene</title></rect>
+<rect x="415.20" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1900: stupile na snagu izmene: 2</title></rect>
 <text x="416.5" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1900</text>
 <text x="483.4" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1920</text>
-<rect x="518.85" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1931: 1 izmena</title></rect>
+<rect x="518.85" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1931: stupile na snagu izmene: 1</title></rect>
 <text x="550.3" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1940</text>
-<rect x="572.35" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1947: 1 izmena</title></rect>
-<rect x="599.09" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1955: 1 izmena</title></rect>
-<rect x="605.78" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1957: 2 izmene</title></rect>
-<rect x="612.47" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1959: 1 izmena</title></rect>
-<rect x="615.81" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1960: 1 izmena</title></rect>
+<rect x="572.35" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1947: stupile na snagu izmene: 1</title></rect>
+<rect x="599.09" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1955: stupile na snagu izmene: 1</title></rect>
+<rect x="605.78" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1957: stupile na snagu izmene: 2</title></rect>
+<rect x="612.47" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1959: stupile na snagu izmene: 1</title></rect>
+<rect x="615.81" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1960: stupile na snagu izmene: 1</title></rect>
 <text x="617.1" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1960</text>
-<rect x="622.50" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1962: 1 izmena</title></rect>
-<rect x="625.84" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1963: 1 izmena</title></rect>
-<rect x="629.19" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1964: 1 izmena</title></rect>
-<rect x="632.53" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1965: 1 izmena</title></rect>
-<rect x="635.87" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1966: 3 izmene</title></rect>
-<rect x="639.22" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1967: 5 izmena</title></rect>
-<rect x="642.56" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1968: 2 izmene</title></rect>
-<rect x="645.90" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1969: 2 izmene</title></rect>
-<rect x="649.25" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1970: 1 izmena</title></rect>
-<rect x="652.59" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1971: 3 izmene</title></rect>
-<rect x="659.28" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1973: 3 izmene</title></rect>
-<rect x="662.62" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1974: 3 izmene</title></rect>
-<rect x="665.97" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1975: 9 izmena</title></rect>
-<rect x="669.31" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1976: 2 izmene</title></rect>
-<rect x="672.65" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1977: 8 izmena</title></rect>
-<rect x="676.00" y="328.9" width="2.67" height="1.6" rx="1.1" fill="#1f883d"><title>1978: 22 izmene</title></rect>
-<rect x="679.34" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1979: 12 izmena</title></rect>
-<rect x="682.68" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1980: 16 izmena</title></rect>
+<rect x="622.50" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1962: stupile na snagu izmene: 1</title></rect>
+<rect x="625.84" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1963: stupile na snagu izmene: 1</title></rect>
+<rect x="629.19" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1964: stupile na snagu izmene: 1</title></rect>
+<rect x="632.53" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1965: stupile na snagu izmene: 1</title></rect>
+<rect x="635.87" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1966: stupile na snagu izmene: 3</title></rect>
+<rect x="639.22" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1967: stupile na snagu izmene: 5</title></rect>
+<rect x="642.56" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1968: stupile na snagu izmene: 2</title></rect>
+<rect x="645.90" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1969: stupile na snagu izmene: 2</title></rect>
+<rect x="649.25" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1970: stupile na snagu izmene: 1</title></rect>
+<rect x="652.59" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1971: stupile na snagu izmene: 3</title></rect>
+<rect x="659.28" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1973: stupile na snagu izmene: 3</title></rect>
+<rect x="662.62" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1974: stupile na snagu izmene: 3</title></rect>
+<rect x="665.97" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1975: stupile na snagu izmene: 9</title></rect>
+<rect x="669.31" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1976: stupile na snagu izmene: 2</title></rect>
+<rect x="672.65" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1977: stupile na snagu izmene: 8</title></rect>
+<rect x="676.00" y="328.9" width="2.67" height="1.6" rx="1.1" fill="#1f883d"><title>1978: stupile na snagu izmene: 22</title></rect>
+<rect x="679.34" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1979: stupile na snagu izmene: 12</title></rect>
+<rect x="682.68" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1980: stupile na snagu izmene: 16</title></rect>
 <text x="684.0" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">1980</text>
-<rect x="686.03" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1981: 14 izmena</title></rect>
-<rect x="689.37" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1982: 9 izmena</title></rect>
-<rect x="692.72" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1983: 12 izmena</title></rect>
-<rect x="696.06" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1984: 14 izmena</title></rect>
-<rect x="699.40" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1985: 9 izmena</title></rect>
-<rect x="702.75" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1986: 9 izmena</title></rect>
-<rect x="706.09" y="328.8" width="2.67" height="1.7" rx="1.1" fill="#1f883d"><title>1987: 23 izmene</title></rect>
-<rect x="709.43" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1988: 15 izmena</title></rect>
-<rect x="712.78" y="328.9" width="2.67" height="1.6" rx="1.1" fill="#1f883d"><title>1989: 21 izmena</title></rect>
-<rect x="716.12" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1990: 20 izmena</title></rect>
-<rect x="719.46" y="328.8" width="2.67" height="1.7" rx="1.1" fill="#1f883d"><title>1991: 23 izmene</title></rect>
-<rect x="722.81" y="327.8" width="2.67" height="2.7" rx="1.1" fill="#1f883d"><title>1992: 36 izmena</title></rect>
-<rect x="726.15" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1993: 19 izmena</title></rect>
-<rect x="729.50" y="327.1" width="2.67" height="3.5" rx="1.1" fill="#1f883d"><title>1994: 46 izmena</title></rect>
-<rect x="732.84" y="326.0" width="2.67" height="4.5" rx="1.1" fill="#1f883d"><title>1995: 60 izmena</title></rect>
-<rect x="736.18" y="327.0" width="2.67" height="3.5" rx="1.1" fill="#1f883d"><title>1996: 47 izmena</title></rect>
-<rect x="739.53" y="326.4" width="2.67" height="4.1" rx="1.1" fill="#1f883d"><title>1997: 55 izmena</title></rect>
-<rect x="742.87" y="324.8" width="2.67" height="5.7" rx="1.1" fill="#1f883d"><title>1998: 76 izmena</title></rect>
-<rect x="746.21" y="326.4" width="2.67" height="4.1" rx="1.1" fill="#1f883d"><title>1999: 55 izmena</title></rect>
-<rect x="749.56" y="326.8" width="2.67" height="3.8" rx="1.1" fill="#1f883d"><title>2000: 50 izmena</title></rect>
+<rect x="686.03" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1981: stupile na snagu izmene: 14</title></rect>
+<rect x="689.37" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1982: stupile na snagu izmene: 9</title></rect>
+<rect x="692.72" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1983: stupile na snagu izmene: 12</title></rect>
+<rect x="696.06" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1984: stupile na snagu izmene: 14</title></rect>
+<rect x="699.40" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1985: stupile na snagu izmene: 9</title></rect>
+<rect x="702.75" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1986: stupile na snagu izmene: 9</title></rect>
+<rect x="706.09" y="328.8" width="2.67" height="1.7" rx="1.1" fill="#1f883d"><title>1987: stupile na snagu izmene: 23</title></rect>
+<rect x="709.43" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1988: stupile na snagu izmene: 15</title></rect>
+<rect x="712.78" y="328.9" width="2.67" height="1.6" rx="1.1" fill="#1f883d"><title>1989: stupile na snagu izmene: 21</title></rect>
+<rect x="716.12" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1990: stupile na snagu izmene: 20</title></rect>
+<rect x="719.46" y="328.8" width="2.67" height="1.7" rx="1.1" fill="#1f883d"><title>1991: stupile na snagu izmene: 23</title></rect>
+<rect x="722.81" y="327.8" width="2.67" height="2.7" rx="1.1" fill="#1f883d"><title>1992: stupile na snagu izmene: 36</title></rect>
+<rect x="726.15" y="329.0" width="2.67" height="1.5" rx="1.1" fill="#1f883d"><title>1993: stupile na snagu izmene: 19</title></rect>
+<rect x="729.50" y="327.1" width="2.67" height="3.5" rx="1.1" fill="#1f883d"><title>1994: stupile na snagu izmene: 46</title></rect>
+<rect x="732.84" y="326.0" width="2.67" height="4.5" rx="1.1" fill="#1f883d"><title>1995: stupile na snagu izmene: 60</title></rect>
+<rect x="736.18" y="327.0" width="2.67" height="3.5" rx="1.1" fill="#1f883d"><title>1996: stupile na snagu izmene: 47</title></rect>
+<rect x="739.53" y="326.4" width="2.67" height="4.1" rx="1.1" fill="#1f883d"><title>1997: stupile na snagu izmene: 55</title></rect>
+<rect x="742.87" y="324.8" width="2.67" height="5.7" rx="1.1" fill="#1f883d"><title>1998: stupile na snagu izmene: 76</title></rect>
+<rect x="746.21" y="326.4" width="2.67" height="4.1" rx="1.1" fill="#1f883d"><title>1999: stupile na snagu izmene: 55</title></rect>
+<rect x="749.56" y="326.8" width="2.67" height="3.8" rx="1.1" fill="#1f883d"><title>2000: stupile na snagu izmene: 50</title></rect>
 <text x="750.9" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2000</text>
-<rect x="752.90" y="326.9" width="2.67" height="3.6" rx="1.1" fill="#1f883d"><title>2001: 48 izmena</title></rect>
-<rect x="756.24" y="323.1" width="2.67" height="7.3" rx="1.1" fill="#1f883d"><title>2002: 98 izmena</title></rect>
-<rect x="759.59" y="324.6" width="2.67" height="5.9" rx="1.1" fill="#1f883d"><title>2003: 79 izmena</title></rect>
-<rect x="762.93" y="322.9" width="2.67" height="7.6" rx="1.1" fill="#1f883d"><title>2004: 101 izmena</title></rect>
-<rect x="766.27" y="320.4" width="2.67" height="10.1" rx="1.1" fill="#1f883d"><title>2005: 134 izmene</title></rect>
-<rect x="769.62" y="314.1" width="2.67" height="16.4" rx="1.1" fill="#1f883d"><title>2006: 218 izmena</title></rect>
-<rect x="772.96" y="324.2" width="2.67" height="6.3" rx="1.1" fill="#1f883d"><title>2007: 84 izmene</title></rect>
-<rect x="776.31" y="325.1" width="2.67" height="5.4" rx="1.1" fill="#1f883d"><title>2008: 72 izmene</title></rect>
-<rect x="779.65" y="315.0" width="2.67" height="15.5" rx="1.1" fill="#1f883d"><title>2009: 207 izmena</title></rect>
-<rect x="782.99" y="305.9" width="2.67" height="24.6" rx="1.1" fill="#1f883d"><title>2010: 328 izmena</title></rect>
-<rect x="786.34" y="306.1" width="2.67" height="24.4" rx="1.1" fill="#1f883d"><title>2011: 325 izmena</title></rect>
-<rect x="789.68" y="309.3" width="2.67" height="21.2" rx="1.1" fill="#1f883d"><title>2012: 283 izmene</title></rect>
-<rect x="793.02" y="299.1" width="2.67" height="31.4" rx="1.1" fill="#1f883d"><title>2013: 418 izmena</title></rect>
-<rect x="796.37" y="298.3" width="2.67" height="32.2" rx="1.1" fill="#1f883d"><title>2014: 429 izmena</title></rect>
-<rect x="799.71" y="292.9" width="2.67" height="37.6" rx="1.1" fill="#1f883d"><title>2015: 502 izmene</title></rect>
-<rect x="803.05" y="291.1" width="2.67" height="39.4" rx="1.1" fill="#1f883d"><title>2016: 525 izmena</title></rect>
-<rect x="806.40" y="283.3" width="2.67" height="47.2" rx="1.1" fill="#1f883d"><title>2017: 629 izmena</title></rect>
-<rect x="809.74" y="265.2" width="2.67" height="65.3" rx="1.1" fill="#1f883d"><title>2018: 871 izmena</title></rect>
-<rect x="813.09" y="252.7" width="2.67" height="77.8" rx="1.1" fill="#1f883d"><title>2019: 1.038 izmena</title></rect>
+<rect x="752.90" y="326.9" width="2.67" height="3.6" rx="1.1" fill="#1f883d"><title>2001: stupile na snagu izmene: 48</title></rect>
+<rect x="756.24" y="323.1" width="2.67" height="7.3" rx="1.1" fill="#1f883d"><title>2002: stupile na snagu izmene: 98</title></rect>
+<rect x="759.59" y="324.6" width="2.67" height="5.9" rx="1.1" fill="#1f883d"><title>2003: stupile na snagu izmene: 79</title></rect>
+<rect x="762.93" y="322.9" width="2.67" height="7.6" rx="1.1" fill="#1f883d"><title>2004: stupile na snagu izmene: 101</title></rect>
+<rect x="766.27" y="320.4" width="2.67" height="10.1" rx="1.1" fill="#1f883d"><title>2005: stupile na snagu izmene: 134</title></rect>
+<rect x="769.62" y="314.1" width="2.67" height="16.4" rx="1.1" fill="#1f883d"><title>2006: stupile na snagu izmene: 218</title></rect>
+<rect x="772.96" y="324.2" width="2.67" height="6.3" rx="1.1" fill="#1f883d"><title>2007: stupile na snagu izmene: 84</title></rect>
+<rect x="776.31" y="325.1" width="2.67" height="5.4" rx="1.1" fill="#1f883d"><title>2008: stupile na snagu izmene: 72</title></rect>
+<rect x="779.65" y="315.0" width="2.67" height="15.5" rx="1.1" fill="#1f883d"><title>2009: stupile na snagu izmene: 207</title></rect>
+<rect x="782.99" y="305.9" width="2.67" height="24.6" rx="1.1" fill="#1f883d"><title>2010: stupile na snagu izmene: 328</title></rect>
+<rect x="786.34" y="306.1" width="2.67" height="24.4" rx="1.1" fill="#1f883d"><title>2011: stupile na snagu izmene: 325</title></rect>
+<rect x="789.68" y="309.3" width="2.67" height="21.2" rx="1.1" fill="#1f883d"><title>2012: stupile na snagu izmene: 283</title></rect>
+<rect x="793.02" y="299.1" width="2.67" height="31.4" rx="1.1" fill="#1f883d"><title>2013: stupile na snagu izmene: 418</title></rect>
+<rect x="796.37" y="298.3" width="2.67" height="32.2" rx="1.1" fill="#1f883d"><title>2014: stupile na snagu izmene: 429</title></rect>
+<rect x="799.71" y="292.9" width="2.67" height="37.6" rx="1.1" fill="#1f883d"><title>2015: stupile na snagu izmene: 502</title></rect>
+<rect x="803.05" y="291.1" width="2.67" height="39.4" rx="1.1" fill="#1f883d"><title>2016: stupile na snagu izmene: 525</title></rect>
+<rect x="806.40" y="283.3" width="2.67" height="47.2" rx="1.1" fill="#1f883d"><title>2017: stupile na snagu izmene: 629</title></rect>
+<rect x="809.74" y="265.2" width="2.67" height="65.3" rx="1.1" fill="#1f883d"><title>2018: stupile na snagu izmene: 871</title></rect>
+<rect x="813.09" y="252.7" width="2.67" height="77.8" rx="1.1" fill="#1f883d"><title>2019: stupile na snagu izmene: 1.038</title></rect>
 <text x="814.4" y="246.7" font-size="11" font-weight="600" text-anchor="middle" fill="#1f2328">1.038 u 2019.</text>
-<rect x="816.43" y="262.9" width="2.67" height="67.6" rx="1.1" fill="#1f883d"><title>2020: 901 izmena</title></rect>
+<rect x="816.43" y="262.9" width="2.67" height="67.6" rx="1.1" fill="#1f883d"><title>2020: stupile na snagu izmene: 901</title></rect>
 <text x="817.8" y="346.5" font-size="11" text-anchor="middle" fill="#59636e">2020</text>
-<rect x="819.77" y="254.1" width="2.67" height="76.4" rx="1.1" fill="#1f883d"><title>2021: 1.019 izmena</title></rect>
-<rect x="823.12" y="274.7" width="2.67" height="55.8" rx="1.1" fill="#1f883d"><title>2022: 744 izmene</title></rect>
-<rect x="826.46" y="260.8" width="2.67" height="69.8" rx="1.1" fill="#1f883d"><title>2023: 930 izmena</title></rect>
-<rect x="829.80" y="272.1" width="2.67" height="58.4" rx="1.1" fill="#1f883d"><title>2024: 778 izmena</title></rect>
-<rect x="833.15" y="259.9" width="2.67" height="70.6" rx="1.1" fill="#1f883d"><title>2025: 941 izmena</title></rect>
-<rect x="836.49" y="255.3" width="2.67" height="75.2" rx="1.1" fill="#1f883d"><title>2026: 1.003 izmene</title></rect>
-<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">13.425 izmena datirano danom stupanja na snagu. Vrsta istorije: in-force.</text>
+<rect x="819.77" y="254.1" width="2.67" height="76.4" rx="1.1" fill="#1f883d"><title>2021: stupile na snagu izmene: 1.019</title></rect>
+<rect x="823.12" y="274.7" width="2.67" height="55.8" rx="1.1" fill="#1f883d"><title>2022: stupile na snagu izmene: 744</title></rect>
+<rect x="826.46" y="260.8" width="2.67" height="69.8" rx="1.1" fill="#1f883d"><title>2023: stupile na snagu izmene: 930</title></rect>
+<rect x="829.80" y="272.1" width="2.67" height="58.4" rx="1.1" fill="#1f883d"><title>2024: stupile na snagu izmene: 778</title></rect>
+<rect x="833.15" y="259.9" width="2.67" height="70.6" rx="1.1" fill="#1f883d"><title>2025: stupile na snagu izmene: 941</title></rect>
+<rect x="836.49" y="255.3" width="2.67" height="75.2" rx="1.1" fill="#1f883d"><title>2026: stupile na snagu izmene: 1.003</title></rect>
+<text x="40.5" y="368.5" font-size="11.5" fill="#59636e">Izmene datirane danom stupanja na snagu: 13.425. Vrsta istorije: in-force.</text>
 <rect x="24.5" y="396.5" width="831" height="152" rx="6" fill="#ffffff" stroke="#d1d9e0"/>
 <text x="40.5" y="422.5" font-size="14" font-weight="600" fill="#1f2328">Potpunost, provereno prema zvaničnim izvorima 12. nov 2026.</text>
 <text x="40.5" y="446.5" font-size="13" fill="#1f2328">Ustav</text>
@@ -152,5 +152,5 @@
 <text x="456.0" y="612.5" font-size="13" fill="#1f2328">Korpusi ove zemlje u global-law</text>
 <text x="456.0" y="628.5" font-size="11.5" fill="#59636e">nacionalni propisi: 1</text>
 <text x="839.5" y="616.5" font-size="13" font-weight="600" text-anchor="end" fill="#1f2328">1</text>
-<text x="24" y="736" font-size="11.5" fill="#59636e">lexifina/serbia-law na 1329108, napravljeno 2026-11-13. Bez commitova dokumentacije. Obuhvat: 9749 propisa, 13407 datiranih verzija, 1800-02-07 – 2026-11-01</text>
+<text x="24" y="736" font-size="11.5" fill="#59636e" textLength="832" lengthAdjust="spacingAndGlyphs">lexifina/serbia-law na 1329108, napravljeno 2026-11-13. Bez commitova dokumentacije. Obuhvat: 9749 acts, 13407 dated versions from 1800-02-07 to 2026-11-01</text>
 </svg>
