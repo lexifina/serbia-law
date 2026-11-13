@@ -9,53 +9,84 @@ Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git h
 
 The law of Serbia as a git history: one file per provision, one commit per version on the day it took effect, and the act that made each change as the commit's author. `git blame` names the act behind every article; `git log` lists every change to an article; picking a date gives the text in force that day.
 
-It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
+**What is in it now:** the Constitution and 9,748 acts from the official register, with 13,507 versions. [`PLAN.md`](PLAN.md) lists every part this repository is meant to hold (laws, by-laws, local acts, case law, treaties, legislative history) and how far each one is; [`registry/ACTS.md`](registry/ACTS.md) lists every act.
 
-**What is in it now**
+| Folder | Kind | Acts | Versions |
+| --- | --- | ---: | ---: |
+| `ustav/` | Устав Републике Србије (the Constitution) | 1 | 2 |
+| `pravilnik/` | Правилник (rulebooks) | 3,291 | 4,656 |
+| `odluka/` | Одлука (decisions) | 2,767 | 3,650 |
+| `zakon/` | Закон (laws) | 1,649 | 2,335 |
+| `uredba/` | Уредба (government decrees) | 1,233 | 1,824 |
+| `akt/` | Other acts | 175 | 292 |
+| `memorandum/` | Меморандум (memoranda) | 114 | 114 |
+| `resenje/` | Решење (rulings) | 95 | 113 |
+| `naredba/` | Наредба (orders) | 85 | 93 |
+| `sporazum/` | Споразум (agreements) | 80 | 80 |
+| `uputstvo/` | Упутство (instructions) | 64 | 65 |
+| `tarifa/` | Тарифа (tariffs) | 41 | 51 |
+| `statut/` | Статут (statutes) | 34 | 51 |
+| `poslovnik/` | Пословник (rules of procedure) | 28 | 43 |
+| `kolektivni/` | Колективни уговор (collective agreements) | 25 | 52 |
+| `kodeks/` | Кодекс (codes) | 21 | 30 |
+| `protokol/` | Протокол (protocols) | 17 | 17 |
+| `pravila/` | Правила (rules) | 7 | 7 |
+| `zakljucak/` | Закључак (conclusions) | 7 | 16 |
+| `ustav/` | Уставни закон (constitutional laws) | 3 | 3 |
+| `program/` | Програм (programmes) | 3 | 3 |
+| `strategija/` | Стратегија (strategies) | 3 | 6 |
+| `metodologija/` | Методологија (methodologies) | 2 | 2 |
+| `plan/` | План (plans) | 1 | 1 |
+| `konvencija/` | Конвенција (conventions) | 1 | 1 |
+| `ugovor/` | Уговор (contracts, treaties) | 1 | 1 |
+| `ukaz/` | Указ (decrees) | 1 | 1 |
 
-| Folder | Act | Versions | History |
-| --- | --- | ---: | --- |
-| `ustav/` | Устав Републике Србије (Constitution of the Republic of Serbia) | 2 | As promulgated (in force 8 November 2006), and with the Amendments I-XXIX (in force 9 February 2022); 29 articles changed |
+Each act is in `<kind>/<year>/<Gazette number>-<page>/`, from its first publication (`zakon/2005/24-3/` is the Закон о раду, the Labour Law, "Службени гласник РС" 24/2005, page 3); acts first published in an earlier Gazette carry its name (`sfrj29-1181` is "Службени лист СФРЈ" 29/1978, page 1181). `registry/data/paths.json` maps each act id to its folder.
 
-The text is in Serbian (Cyrillic), the language of the official register. An English translation is not part of this record.
+The text is in Serbian (Cyrillic, some acts Latin), as the official register prints it. An English translation is not part of this record.
 
 ## A lawyer's questions as git commands
 
 | Question | Command |
 | --- | --- |
-| What did Article 4 say on 1 January 2020? | `python tools/on.py 2020-01-01 ustav clan-004` |
-| Which act wrote each paragraph of Article 4? | `git blame ustav/clan-004.md` |
-| Every change to Article 4 | `git log -p --word-diff ustav/clan-004.md` |
+| Every change to Article 1 of the Labour Law | `git log -p --word-diff -- zakon/2005/24-3/clan-001.md` |
+| Which act wrote each line of it? | `git blame zakon/2005/24-3/clan-001.md` |
+| Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
+| Article 1 as it stood in one of those versions | `git show <commit>:zakon/2005/24-3/clan-001.md` |
 | Every version in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
 
 ## Dates
 
-Each commit is dated at noon, Europe/Belgrade, on the day the version took effect, as the register's version timeline gives it (2006-11-08 and 2022-02-09). The first commit is "oldest version available", credited to the publisher, as the text of the Constitution of 2006.
+Each commit is dated at noon, Europe/Belgrade, on the day the version took effect, and carries it in its `In-force:` trailer:
+
+- for an act with several versions, the register's own application day for each version (its version timeline);
+- for an act the register keeps as one text, the register's ELI date for it, or the day the act's own in-force clause gives (or its last amendment's), counted from the Gazette day the text's header prints;
+- for a single text with neither (most are decisions and notices with no in-force clause), the Gazette day of the last publication the text includes, as its header prints it. Every such version says so in a note in its commit message ("The register keeps only this text and gives no day it took effect ..."), and its part file's decisions say which rule gave the day.
+
+The first version of an act is credited to its original publication when it holds only that publication and its corrections; otherwise it is the "oldest version available", credited to the publisher and naming the publications it already includes.
 
 ## How it is checked
 
-- Both versions are the register's own text for the version, and the register's version timeline lists exactly these two versions. The latest version is the register's current text, the "editorially cleaned" consolidation including Amendments I-XXIX.
-- Every article of the register's text is in the record apart from the omissions below; the 29 articles that differ between the two versions are the ones credited to the Amendments.
-- Every version is read back from git on the day it took effect and on the day before; both must match the corpus. Results are in `REPRODUCE.md`.
-- No merge commits, no commit dated backwards or in the future, and every commit's trailers parse.
+- Every version is the register's own consolidated text for that version, with the register's change notes (not law text) left out; the units re-join to the register's text line for line.
+- Every act is read back from git on the day each version took effect and on the day before, and must match the corpus; only checked batches are pushed. Results are in `registry/REPRODUCE.md`.
+- History is append-only: no merge commits, no rewriting, no commit dated in the future, and every commit's trailers parse.
 
 ## What it does not show
 
-- **Article captions and the headings of parts and sections** (for example "Носиоци суверености", "ПРВИ ДЕО") are not in the files. The register prints them between articles; this build does not keep them.
-- **The 2006 Constitution's earlier history.** Serbia's earlier constitutions (1990 and before) are not here.
-- **Other acts.** The Criminal Code and other laws are not yet in the record.
-- **The amendment notes** that the register prints under changed articles are not law text and are not in the files.
+- **Acts no longer in force.** The register lists acts in force; earlier texts of an act are here where the register keeps them as versions. Repealed acts and texts as first published are planned from the Службени гласник archive (see `PLAN.md`).
+- **Images** (forms, tables, formulas drawn as pictures) are not in the files; versions whose text holds them say so.
+- **Local acts, case law, treaties' own Gazette texts, bills and drafts** are planned parts (see `PLAN.md`).
 
 ## Sources
 
 | Source | Kind | Past versions | Notes |
 | --- | --- | --- | --- |
-| [Pravno-informacioni sistem Republike Srbije](https://pravno-informacioni-sistem.rs) | Official register (Службени гласник) | yes, a version timeline per act | Used: the text of both versions and their dates |
+| [Pravno-informacioni sistem Republike Srbije](https://pravno-informacioni-sistem.rs) | Official register (Службени гласник) | yes, a version timeline per act | The text of every version, its application day and the Gazette publications it includes |
 
 ## Licence
 
-See `LICENSE`. This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; scripts were written by an AI model (see `REPRODUCE.md`).
+See `LICENSE`. This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; scripts were written by an AI model (see `REPRODUCE.md` and `registry/REPRODUCE.md`).
 
 ## На српском
 
-Историја закона Србије у гиту: једна датотека по члану, једна ревизија по верзији на дан ступања на снагу. Тренутно садржи Устав Републике Србије у две верзије: проглашен 2006. (на снази од 8. новембра 2006) и са Амандманима I-XXIX (од 9. фебруара 2022). Текст је из Правно-информационог система Републике Србије. Наслови чланова и делова нису укључени.
+Историја прописа Србије у гиту: једна датотека по члану, једна ревизија по верзији на дан ступања на снагу, а аутор сваке ревизије је пропис који је донео измену. Садржи Устав и 9,748 прописа из Правно-информационог система Републике Србије (13,507 верзија). План (`PLAN.md`) наводи шта ће још бити укључено: локални прописи, судска пракса, међународни уговори, предлози закона.
