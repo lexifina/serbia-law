@@ -3,8 +3,8 @@
 **Srpski** · [English](README.en.md)
 
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
-<img alt="Propisi Srbije u ovom repozitorijumu: šta sadrži, izmene po godini stupanja na snagu, potpunost u odnosu na zvanične izvore i tačnost onoga što sadrži" src="data/effort-light.svg" width="880">
+<source media="(prefers-color-scheme: dark)" srcset="data/sr/effort-dark.svg">
+<img alt="Propisi Srbije u ovom repozitorijumu: šta sadrži, izmene po godini stupanja na snagu, potpunost u odnosu na zvanične izvore i tačnost onoga što sadrži" src="data/sr/effort-light.svg" width="880">
 </picture>
 
 Deo projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git istorije prava svih zemalja: ovo je nacionalno pravo Srbije, koje global-law čita na putanji `serbia/national/acts/`.
