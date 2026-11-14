@@ -1,0 +1,1016 @@
+<!doctype html>
+<html lang="sr-Latn">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Srpsko pravo u 20 grafikona</title>
+<meta name="description" content="Dvadeset grafikona o srpskom pravu iz repozitorijuma serbia-law / Twenty charts on Serbian law from the serbia-law repository">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:opsz,wght@8..60,500;8..60,600&display=swap" rel="stylesheet">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.8.5/d3.min.js"></script>
+<style>
+:root {
+  color-scheme: light;
+  --bg: #f7f6f3; --surface: #fcfcfb; --surface-2: #f1f0ec; --line: #e4e2dc; --grid: #ebe9e4;
+  --text: #0b0b0b; --text-2: #52514e; --text-3: #7a7974; --accent: #2a78d6;
+  --s1: #2a78d6; --s2: #eb6834; --s3: #1baf7a; --s4: #eda100; --s5: #e87ba4; --s6: #008300; --s7: #6250d6; --s8: #e34948;
+  --muted-mark: #b9b7b0;
+  --seq-lo: #eef4fc; --seq-hi: #0d366b;
+  --good: #1a8a52; --warn: #c98500; --bad: #d13b3b; --info: #2a78d6; --na: #b9b7b0;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    color-scheme: dark;
+    --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+    --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+    --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+    --muted-mark: #55544f;
+    --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+    --good: #2fa866; --warn: #d39a1c; --bad: #e66767; --info: #3987e5; --na: #55544f;
+  }
+}
+:root[data-theme="dark"] {
+  color-scheme: dark;
+  --bg: #131312; --surface: #1a1a19; --surface-2: #222220; --line: #33322f; --grid: #2a2a28;
+  --text: #f0efec; --text-2: #c3c2b7; --text-3: #8f8e86; --accent: #3987e5;
+  --s1: #3987e5; --s2: #d95926; --s3: #199e70; --s4: #c98500; --s5: #d55181; --s6: #0ca30c; --s7: #9085e9; --s8: #e66767;
+  --muted-mark: #55544f;
+  --seq-lo: #1f2a38; --seq-hi: #9ec5f4;
+  --good: #2fa866; --warn: #d39a1c; --bad: #e66767; --info: #3987e5; --na: #55544f;
+}
+* { box-sizing: border-box; }
+html { -webkit-text-size-adjust: 100%; }
+body { margin: 0; background: var(--bg); color: var(--text); font: 15px/1.55 Inter, system-ui, -apple-system, "Segoe UI", sans-serif; }
+a { color: var(--accent); }
+.wrap { max-width: 1040px; margin: 0 auto; padding: 0 16px; }
+header.top { padding: 40px 0 8px; }
+.bar { display: flex; justify-content: space-between; align-items: center; gap: 12px; flex-wrap: wrap; margin-bottom: 28px; }
+.kicker { font-size: 12px; letter-spacing: .04em; text-transform: uppercase; color: var(--text-3); font-weight: 500; }
+.toggles { display: inline-flex; gap: 8px; }
+.seg { display: inline-flex; border: 1px solid var(--line); border-radius: 999px; padding: 2px; background: var(--surface); }
+.seg button { border: 0; background: transparent; color: var(--text-2); font: 500 13px/1 Inter, sans-serif; padding: 7px 12px; border-radius: 999px; cursor: pointer; min-height: 30px; }
+.seg button[aria-pressed="true"] { background: var(--text); color: var(--surface); }
+.seg button:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+h1 { font: 600 clamp(30px, 5vw, 46px)/1.1 "Source Serif 4", Georgia, serif; margin: 0 0 14px; letter-spacing: -.01em; }
+.lede { font-size: 17px; color: var(--text-2); max-width: 760px; margin: 0 0 8px; }
+.tiles { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px; margin: 26px 0 10px; }
+.tile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px 14px 12px; }
+.tile b { display: block; font: 600 24px/1.1 Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.tile span { font-size: 12px; color: var(--text-2); }
+details.profile { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; margin: 10px 0 0; }
+details.profile > summary, details.tbl > summary { cursor: pointer; padding: 12px 14px; font-weight: 500; font-size: 14px; list-style: none; }
+details.profile > summary::-webkit-details-marker, details.tbl > summary::-webkit-details-marker { display: none; }
+details.profile > summary::before, details.tbl > summary::before { content: "▸"; display: inline-block; width: 1.1em; color: var(--text-3); transition: transform .15s; }
+details[open].profile > summary::before, details[open].tbl > summary::before { transform: rotate(90deg); }
+.scroll { overflow-x: auto; padding: 0 14px 14px; }
+table { border-collapse: collapse; width: 100%; font-size: 13px; font-variant-numeric: tabular-nums; }
+th, td { text-align: left; padding: 6px 8px; border-bottom: 1px solid var(--line); vertical-align: top; }
+th { font-weight: 600; color: var(--text-2); font-size: 12px; }
+td.n, th.n { text-align: right; white-space: nowrap; }
+code { font: 12px/1.4 ui-monospace, SFMono-Regular, Consolas, monospace; background: var(--surface-2); padding: 1px 5px; border-radius: 5px; word-break: break-all; }
+nav.toc { margin: 30px 0 10px; display: grid; grid-template-columns: repeat(auto-fit, minmax(190px, 1fr)); gap: 6px 22px; font-size: 13px; }
+nav.toc a { color: var(--text-2); text-decoration: none; display: block; padding: 3px 0; }
+nav.toc a:hover { color: var(--text); text-decoration: underline; }
+nav.toc .p { font-weight: 600; color: var(--text); margin-top: 6px; }
+section.part { padding-top: 34px; }
+section.part > h2 { font: 600 26px/1.2 "Source Serif 4", Georgia, serif; margin: 0 0 6px; }
+section.part > p.pd { color: var(--text-2); margin: 0 0 6px; max-width: 760px; }
+figure.chart { margin: 22px 0 0; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; padding: 18px 18px 6px; }
+.num { font: 600 12px/1 Inter, sans-serif; color: var(--text-3); letter-spacing: .03em; }
+figure.chart h3 { font: 600 19px/1.3 "Source Serif 4", Georgia, serif; margin: 6px 0 6px; }
+.dek { color: var(--text-2); margin: 0 0 12px; max-width: 820px; }
+.legend { display: flex; flex-wrap: wrap; gap: 6px 16px; font-size: 12px; color: var(--text-2); margin: 0 0 8px; }
+.legend i { display: inline-block; width: 10px; height: 10px; border-radius: 3px; margin-right: 6px; vertical-align: -1px; }
+.legend i.dot { border-radius: 50%; }
+.legend i.ring { background: transparent !important; border: 2px solid var(--text-2); border-radius: 50%; }
+.plot { width: 100%; position: relative; }
+.plot svg { display: block; width: 100%; height: auto; overflow: visible; }
+.axis text, .lbl { fill: var(--text-2); font: 11px Inter, sans-serif; font-variant-numeric: tabular-nums; }
+.lbl.strong { fill: var(--text); font-weight: 500; }
+.lbl.mut { fill: var(--text-3); }
+.axis path { display: none; }
+.axis line, .grid line { stroke: var(--grid); }
+.base { stroke: var(--text-3); stroke-width: 1; }
+.note { font-size: 12px; color: var(--text-3); margin: 10px 0 4px; line-height: 1.5; }
+.note b { color: var(--text-2); font-weight: 500; }
+details.tbl { border-top: 1px solid var(--line); margin: 10px -18px 0; }
+details.tbl > summary { font-size: 12px; color: var(--text-2); padding: 10px 18px; }
+details.tbl .scroll { max-height: 360px; overflow: auto; padding: 0 18px 12px; }
+.tip { position: fixed; pointer-events: none; z-index: 10; background: var(--surface); color: var(--text); border: 1px solid var(--line); border-radius: 10px; padding: 8px 10px; font-size: 12px; line-height: 1.45; box-shadow: 0 6px 24px rgba(0,0,0,.12); max-width: 320px; opacity: 0; transition: opacity .08s; }
+.tip b { font-weight: 600; }
+.tip .r { display: flex; justify-content: space-between; gap: 14px; }
+.tip .r span:last-child { font-variant-numeric: tabular-nums; }
+.tip .sw { display: inline-block; width: 8px; height: 8px; border-radius: 2px; margin-right: 6px; }
+.hit { fill: transparent; cursor: default; }
+.mini { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 14px; }
+.mini h4 { margin: 0 0 2px; font: 600 13px/1.3 Inter, sans-serif; }
+.list { columns: 2 280px; font-size: 12px; color: var(--text-2); margin: 6px 0 0; padding-left: 18px; }
+.list li { break-inside: avoid; margin-bottom: 4px; }
+footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
+@media (max-width: 560px) {
+  figure.chart { padding: 14px 12px 4px; border-radius: 12px; }
+  details.tbl { margin: 10px -12px 0; }
+  details.tbl > summary { padding: 10px 12px; }
+  details.tbl .scroll { padding: 0 12px 12px; }
+  .lede { font-size: 16px; }
+}
+@media (forced-colors: active) { .seg button[aria-pressed="true"] { outline: 2px solid CanvasText; } }
+</style>
+</head>
+<body>
+<div class="wrap">
+<header class="top">
+  <div class="bar">
+    <span class="kicker" data-i="kicker"></span>
+    <span class="toggles">
+      <span class="seg" role="group" aria-label="Jezik / Language"><button data-lang="sr">SR</button><button data-lang="en">EN</button></span>
+      <span class="seg" role="group" aria-label="Tema / Theme"><button data-theme-set="auto">Auto</button><button data-theme-set="light">☀</button><button data-theme-set="dark">☾</button></span>
+    </span>
+  </div>
+  <h1 data-i="title"></h1>
+  <p class="lede" data-i="lede"></p>
+  <div class="tiles" id="tiles"></div>
+  <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
+  <nav class="toc" id="toc"></nav>
+</header>
+<main id="main"></main>
+<footer id="foot"></footer>
+</div>
+<div class="tip" id="tip" role="status" aria-live="polite"></div>
+<script>
+const DATA = {"profile":{"built":"2026-11-14","head":"542a099cd5a137d6bd315b1596b033ce44dcd54e","commits":31883,"kinds":[["decision",12408],["law",12360],["local-act",4034],["draft",1607],["publisher",1037],["law-as-adopted",269],["record",102],["other",35],["court",28],["documentation",2],["layout",1]],"bills":{"filed":2794,"adopted":2296,"in_procedure":498,"first_filed":"2007-11-22","last_adopted":"2026-08-31"},"acts_in_tree":9835,"as_adopted":268,"cc":{"decisions":11521,"uz":10759,"full_text":6941,"first":"2008-07-10","last":"2026-07-02"},"poverenik":{"appeals":80153,"first":"2013-03-04","last":"2026-06-15"},"local":{"beograd_index":13554,"local_texts":4034}},"charts":{"c01":{"years":[2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026],"types":["amend","new","treaty","loan","guarantee","budget","interp"],"rows":[{"y":2011,"amend":48,"new":35,"treaty":63,"loan":8,"guarantee":4,"budget":2,"interp":0},{"y":2012,"amend":52,"new":13,"treaty":42,"loan":6,"guarantee":15,"budget":2,"interp":0},{"y":2013,"amend":48,"new":31,"treaty":60,"loan":5,"guarantee":1,"budget":2,"interp":0},{"y":2014,"amend":56,"new":27,"treaty":47,"loan":10,"guarantee":3,"budget":3,"interp":0},{"y":2015,"amend":82,"new":42,"treaty":59,"loan":9,"guarantee":2,"budget":2,"interp":0},{"y":2016,"amend":37,"new":24,"treaty":17,"loan":9,"guarantee":0,"budget":1,"interp":0},{"y":2017,"amend":28,"new":12,"treaty":36,"loan":9,"guarantee":2,"budget":2,"interp":0},{"y":2018,"amend":96,"new":45,"treaty":62,"loan":8,"guarantee":6,"budget":1,"interp":0},{"y":2019,"amend":73,"new":25,"treaty":50,"loan":11,"guarantee":2,"budget":19,"interp":0},{"y":2020,"amend":49,"new":17,"treaty":47,"loan":15,"guarantee":2,"budget":3,"interp":0},{"y":2021,"amend":70,"new":36,"treaty":58,"loan":16,"guarantee":6,"budget":4,"interp":0},{"y":2022,"amend":23,"new":8,"treaty":12,"loan":13,"guarantee":1,"budget":3,"interp":0},{"y":2023,"amend":51,"new":23,"treaty":51,"loan":24,"guarantee":9,"budget":3,"interp":0},{"y":2024,"amend":29,"new":12,"treaty":26,"loan":17,"guarantee":4,"budget":3,"interp":0},{"y":2025,"amend":54,"new":31,"treaty":63,"loan":18,"guarantee":11,"budget":2,"interp":0},{"y":2026,"amend":58,"new":16,"treaty":31,"loan":10,"guarantee":8,"budget":2,"interp":0}],"n":2293},"c02":{"days":[{"d":"2004-07-23","n":1,"t":{"amend":1}},{"d":"2005-07-15","n":1,"t":{"guarantee":1}},{"d":"2009-12-11","n":1,"t":{"treaty":1}},{"d":"2011-05-25","n":10,"t":{"new":4,"treaty":4,"amend":2}},{"d":"2011-06-14","n":2,"t":{"new":1,"amend":1}},{"d":"2011-06-27","n":6,"t":{"amend":1,"loan":3,"guarantee":2}},{"d":"2011-07-05","n":11,"t":{"treaty":7,"new":1,"guarantee":1,"amend":2}},{"d":"2011-07-14","n":6,"t":{"new":4,"amend":2}},{"d":"2011-07-20","n":1,"t":{"amend":1}},{"d":"2011-07-28","n":8,"t":{"treaty":3,"amend":3,"new":2}},{"d":"2011-09-26","n":5,"t":{"new":5}},{"d":"2011-10-18","n":36,"t":{"treaty":28,"loan":2,"new":1,"guarantee":1,"budget":1,"amend":3}},{"d":"2011-11-17","n":5,"t":{"new":5}},{"d":"2011-11-22","n":16,"t":{"amend":5,"new":5,"treaty":5,"loan":1}},{"d":"2011-12-05","n":19,"t":{"amend":6,"new":3,"treaty":10}},{"d":"2011-12-26","n":21,"t":{"new":4,"amend":9,"treaty":6,"loan":2}},{"d":"2011-12-29","n":14,"t":{"amend":13,"budget":1}},{"d":"2012-02-29","n":27,"t":{"treaty":14,"loan":6,"guarantee":7}},{"d":"2012-07-26","n":3,"t":{"amend":2,"new":1}},{"d":"2012-08-04","n":1,"t":{"amend":1}},{"d":"2012-08-31","n":2,"t":{"amend":2}},{"d":"2012-09-25","n":32,"t":{"treaty":4,"budget":1,"amend":25,"new":2}},{"d":"2012-09-27","n":5,"t":{"treaty":4,"amend":1}},{"d":"2012-10-26","n":1,"t":{"new":1}},{"d":"2012-11-05","n":1,"t":{"amend":1}},{"d":"2012-11-08","n":8,"t":{"amend":2,"guarantee":3,"new":2,"treaty":1}},{"d":"2012-11-15","n":1,"t":{"treaty":1}},{"d":"2012-11-22","n":7,"t":{"treaty":6,"amend":1}},{"d":"2012-12-01","n":1,"t":{"budget":1}},{"d":"2012-12-15","n":14,"t":{"amend":9,"new":5}},{"d":"2012-12-24","n":19,"t":{"treaty":11,"amend":7,"guarantee":1}},{"d":"2012-12-29","n":8,"t":{"treaty":1,"new":2,"amend":1,"guarantee":4}},{"d":"2013-01-30","n":20,"t":{"treaty":14,"new":2,"amend":4}},{"d":"2013-02-20","n":5,"t":{"new":1,"treaty":3,"amend":1}},{"d":"2013-02-27","n":1,"t":{"amend":1}},{"d":"2013-03-15","n":9,"t":{"guarantee":1,"new":2,"loan":1,"treaty":5}},{"d":"2013-04-08","n":11,"t":{"new":3,"treaty":4,"amend":4}},{"d":"2013-05-22","n":9,"t":{"amend":1,"new":4,"treaty":4}},{"d":"2013-05-29","n":10,"t":{"treaty":2,"loan":2,"amend":6}},{"d":"2013-06-25","n":12,"t":{"treaty":4,"new":4,"amend":4}},{"d":"2013-07-05","n":1,"t":{"budget":1}},{"d":"2013-07-16","n":9,"t":{"new":4,"loan":1,"treaty":1,"amend":3}},{"d":"2013-07-25","n":2,"t":{"amend":1,"new":1}},{"d":"2013-08-29","n":1,"t":{"amend":1}},{"d":"2013-10-06","n":1,"t":{"amend":1}},{"d":"2013-10-10","n":1,"t":{"amend":1}},{"d":"2013-10-31","n":12,"t":{"treaty":7,"amend":2,"new":3}},{"d":"2013-11-20","n":4,"t":{"new":1,"amend":3}},{"d":"2013-11-26","n":26,"t":{"treaty":16,"new":5,"amend":4,"loan":1}},{"d":"2013-12-06","n":11,"t":{"amend":10,"new":1}},{"d":"2013-12-13","n":1,"t":{"budget":1}},{"d":"2013-12-26","n":1,"t":{"amend":1}},{"d":"2014-04-26","n":2,"t":{"amend":1,"new":1}},{"d":"2014-05-12","n":1,"t":{"amend":1}},{"d":"2014-05-23","n":10,"t":{"amend":6,"new":4}},{"d":"2014-05-30","n":10,"t":{"amend":2,"loan":3,"treaty":5}},{"d":"2014-06-13","n":4,"t":{"amend":3,"new":1}},{"d":"2014-06-19","n":3,"t":{"loan":3}},{"d":"2014-06-29","n":1,"t":{"amend":1}},{"d":"2014-07-03","n":10,"t":{"treaty":8,"amend":1,"loan":1}},{"d":"2014-07-18","n":3,"t":{"amend":2,"new":1}},{"d":"2014-08-02","n":6,"t":{"new":4,"amend":2}},{"d":"2014-08-31","n":4,"t":{"amend":2,"new":2}},{"d":"2014-09-04","n":1,"t":{"treaty":1}},{"d":"2014-09-08","n":16,"t":{"treaty":15,"loan":1}},{"d":"2014-09-10","n":6,"t":{"amend":6}},{"d":"2014-10-03","n":4,"t":{"amend":2,"loan":1,"treaty":1}},{"d":"2014-10-08","n":5,"t":{"new":1,"treaty":4}},{"d":"2014-10-10","n":1,"t":{"amend":1}},{"d":"2014-10-15","n":5,"t":{"treaty":4,"new":1}},{"d":"2014-10-23","n":4,"t":{"amend":3,"new":1}},{"d":"2014-10-26","n":4,"t":{"new":2,"amend":1,"budget":1}},{"d":"2014-10-29","n":5,"t":{"treaty":2,"amend":3}},{"d":"2014-11-05","n":2,"t":{"amend":2}},{"d":"2014-11-08","n":3,"t":{"new":1,"amend":2}},{"d":"2014-11-25","n":8,"t":{"new":4,"treaty":4}},{"d":"2014-12-08","n":5,"t":{"treaty":2,"loan":1,"guarantee":1,"amend":1}},{"d":"2014-12-18","n":6,"t":{"amend":4,"new":2}},{"d":"2014-12-25","n":12,"t":{"budget":2,"guarantee":2,"new":1,"amend":7}},{"d":"2014-12-29","n":5,"t":{"amend":3,"new":1,"treaty":1}},{"d":"2015-01-19","n":3,"t":{"amend":2,"loan":1}},{"d":"2015-01-21","n":6,"t":{"amend":6}},{"d":"2015-01-23","n":1,"t":{"new":1}},{"d":"2015-01-28","n":2,"t":{"amend":2}},{"d":"2015-02-03","n":7,"t":{"amend":4,"new":3}},{"d":"2015-02-12","n":3,"t":{"amend":3}},{"d":"2015-02-20","n":9,"t":{"treaty":7,"new":1,"amend":1}},{"d":"2015-02-25","n":1,"t":{"amend":1}},{"d":"2015-03-10","n":8,"t":{"new":1,"treaty":4,"amend":3}},{"d":"2015-03-20","n":6,"t":{"amend":1,"new":2,"treaty":2,"loan":1}},{"d":"2015-04-10","n":1,"t":{"new":1}},{"d":"2015-04-15","n":1,"t":{"new":1}},{"d":"2015-04-17","n":5,"t":{"treaty":4,"amend":1}},{"d":"2015-04-28","n":7,"t":{"new":3,"treaty":3,"amend":1}},{"d":"2015-05-07","n":2,"t":{"new":1,"amend":1}},{"d":"2015-05-08","n":4,"t":{"treaty":3,"amend":1}},{"d":"2015-05-15","n":3,"t":{"treaty":2,"amend":1}},{"d":"2015-05-21","n":1,"t":{"amend":1}},{"d":"2015-05-27","n":2,"t":{"amend":2}},{"d":"2015-06-19","n":6,"t":{"treaty":2,"loan":1,"new":2,"amend":1}},{"d":"2015-06-24","n":7,"t":{"treaty":4,"loan":2,"amend":1}},{"d":"2015-06-29","n":2,"t":{"treaty":1,"amend":1}},{"d":"2015-07-07","n":2,"t":{"amend":1,"treaty":1}},{"d":"2015-07-16","n":3,"t":{"amend":2,"new":1}},{"d":"2015-07-23","n":6,"t":{"treaty":4,"amend":1,"new":1}},{"d":"2015-07-31","n":13,"t":{"amend":5,"new":6,"loan":2}},{"d":"2015-09-28","n":4,"t":{"loan":1,"amend":3}},{"d":"2015-10-05","n":9,"t":{"treaty":7,"amend":1,"new":1}},{"d":"2015-10-23","n":5,"t":{"treaty":1,"new":2,"amend":2}},{"d":"2015-11-03","n":8,"t":{"treaty":4,"new":1,"amend":3}},{"d":"2015-11-05","n":2,"t":{"treaty":1,"new":1}},{"d":"2015-11-16","n":3,"t":{"treaty":2,"budget":1}},{"d":"2015-11-20","n":8,"t":{"treaty":2,"amend":2,"new":4}},{"d":"2015-12-04","n":5,"t":{"treaty":4,"new":1}},{"d":"2015-12-12","n":8,"t":{"guarantee":1,"budget":1,"amend":6}},{"d":"2015-12-18","n":13,"t":{"treaty":1,"amend":11,"new":1}},{"d":"2015-12-29","n":20,"t":{"new":7,"amend":11,"loan":1,"guarantee":1}},{"d":"2016-01-26","n":5,"t":{"new":5}},{"d":"2016-02-04","n":4,"t":{"new":2,"treaty":2}},{"d":"2016-02-12","n":8,"t":{"amend":5,"treaty":2,"new":1}},{"d":"2016-02-19","n":6,"t":{"treaty":2,"amend":4}},{"d":"2016-02-24","n":14,"t":{"treaty":6,"amend":3,"new":5}},{"d":"2016-02-29","n":3,"t":{"amend":1,"new":2}},{"d":"2016-03-03","n":1,"t":{"new":1}},{"d":"2016-10-07","n":1,"t":{"amend":1}},{"d":"2016-10-14","n":1,"t":{"loan":1}},{"d":"2016-10-21","n":1,"t":{"amend":1}},{"d":"2016-11-10","n":8,"t":{"loan":5,"treaty":2,"amend":1}},{"d":"2016-11-23","n":4,"t":{"new":2,"amend":2}},{"d":"2016-12-10","n":3,"t":{"budget":1,"amend":2}},{"d":"2016-12-16","n":6,"t":{"treaty":3,"amend":3}},{"d":"2016-12-22","n":5,"t":{"new":3,"amend":2}},{"d":"2016-12-27","n":3,"t":{"loan":3}},{"d":"2016-12-28","n":15,"t":{"new":3,"amend":12}},{"d":"2017-04-21","n":12,"t":{"treaty":12}},{"d":"2017-04-25","n":2,"t":{"new":2}},{"d":"2017-05-15","n":3,"t":{"loan":2,"amend":1}},{"d":"2017-05-23","n":4,"t":{"amend":2,"guarantee":2}},{"d":"2017-05-29","n":20,"t":{"treaty":20}},{"d":"2017-06-26","n":1,"t":{"amend":1}},{"d":"2017-08-28","n":1,"t":{"amend":1}},{"d":"2017-09-27","n":2,"t":{"new":2}},{"d":"2017-10-17","n":4,"t":{"new":2,"amend":2}},{"d":"2017-11-08","n":7,"t":{"loan":1,"new":1,"amend":3,"treaty":2}},{"d":"2017-11-22","n":3,"t":{"loan":1,"amend":1,"new":1}},{"d":"2017-11-24","n":4,"t":{"loan":3,"treaty":1}},{"d":"2017-12-14","n":26,"t":{"amend":17,"treaty":1,"loan":2,"new":4,"budget":2}},{"d":"2018-03-22","n":18,"t":{"treaty":8,"new":6,"amend":4}},{"d":"2018-04-05","n":5,"t":{"new":5}},{"d":"2018-04-19","n":16,"t":{"loan":2,"new":1,"treaty":2,"guarantee":3,"amend":8}},{"d":"2018-04-27","n":4,"t":{"treaty":4}},{"d":"2018-05-09","n":7,"t":{"amend":5,"new":2}},{"d":"2018-05-18","n":7,"t":{"treaty":7}},{"d":"2018-05-25","n":13,"t":{"amend":6,"new":7}},{"d":"2018-06-08","n":10,"t":{"loan":3,"amend":4,"new":3}},{"d":"2018-06-15","n":1,"t":{"treaty":1}},{"d":"2018-06-20","n":9,"t":{"amend":8,"new":1}},{"d":"2018-06-28","n":12,"t":{"treaty":4,"amend":6,"new":2}},{"d":"2018-07-24","n":4,"t":{"new":2,"treaty":1,"amend":1}},{"d":"2018-09-25","n":28,"t":{"treaty":28}},{"d":"2018-09-29","n":3,"t":{"amend":2,"new":1}},{"d":"2018-10-12","n":5,"t":{"treaty":4,"amend":1}},{"d":"2018-10-26","n":10,"t":{"new":1,"amend":8,"treaty":1}},{"d":"2018-11-09","n":17,"t":{"amend":10,"new":7}},{"d":"2018-12-07","n":49,"t":{"amend":33,"new":7,"treaty":2,"guarantee":3,"loan":3,"budget":1}},{"d":"2019-02-14","n":31,"t":{"treaty":23,"amend":7,"loan":1}},{"d":"2019-03-14","n":9,"t":{"new":4,"amend":4,"treaty":1}},{"d":"2019-03-29","n":1,"t":{"amend":1}},{"d":"2019-04-03","n":6,"t":{"new":3,"amend":1,"treaty":2}},{"d":"2019-04-25","n":16,"t":{"amend":10,"treaty":4,"guarantee":1,"new":1}},{"d":"2019-05-21","n":13,"t":{"amend":4,"loan":8,"new":1}},{"d":"2019-05-29","n":1,"t":{"amend":1}},{"d":"2019-07-08","n":4,"t":{"amend":1,"new":3}},{"d":"2019-07-22","n":5,"t":{"amend":2,"treaty":1,"new":2}},{"d":"2019-07-26","n":3,"t":{"amend":2,"treaty":1}},{"d":"2019-09-04","n":4,"t":{"treaty":4}},{"d":"2019-09-17","n":5,"t":{"amend":3,"new":2}},{"d":"2019-09-19","n":1,"t":{"amend":1}},{"d":"2019-10-07","n":3,"t":{"amend":2,"budget":1}},{"d":"2019-10-10","n":6,"t":{"amend":1,"new":5}},{"d":"2019-10-30","n":5,"t":{"amend":3,"new":1,"treaty":1}},{"d":"2019-11-14","n":7,"t":{"treaty":6,"amend":1}},{"d":"2019-11-28","n":1,"t":{"budget":1}},{"d":"2019-12-06","n":15,"t":{"new":2,"amend":13}},{"d":"2019-12-09","n":1,"t":{"treaty":1}},{"d":"2019-12-13","n":4,"t":{"amend":4}},{"d":"2019-12-23","n":36,"t":{"treaty":4,"amend":11,"budget":17,"guarantee":1,"new":1,"loan":2}},{"d":"2019-12-27","n":3,"t":{"amend":1,"treaty":2}},{"d":"2020-01-24","n":11,"t":{"treaty":4,"amend":5,"new":2}},{"d":"2020-02-03","n":18,"t":{"treaty":2,"amend":7,"new":4,"guarantee":1,"loan":4}},{"d":"2020-02-08","n":4,"t":{"amend":4}},{"d":"2020-02-24","n":7,"t":{"treaty":3,"loan":2,"amend":1,"new":1}},{"d":"2020-02-29","n":35,"t":{"treaty":28,"new":4,"amend":2,"loan":1}},{"d":"2020-03-04","n":3,"t":{"treaty":2,"amend":1}},{"d":"2020-04-29","n":1,"t":{"treaty":1}},{"d":"2020-05-06","n":1,"t":{"new":1}},{"d":"2020-05-10","n":3,"t":{"amend":3}},{"d":"2020-10-26","n":1,"t":{"new":1}},{"d":"2020-11-12","n":2,"t":{"budget":1,"amend":1}},{"d":"2020-11-26","n":12,"t":{"loan":6,"amend":6}},{"d":"2020-12-10","n":5,"t":{"guarantee":1,"amend":2,"budget":2}},{"d":"2020-12-17","n":17,"t":{"amend":11,"loan":1,"treaty":2,"new":3}},{"d":"2020-12-24","n":9,"t":{"amend":5,"treaty":3,"new":1}},{"d":"2020-12-29","n":4,"t":{"amend":1,"loan":1,"treaty":2}},{"d":"2021-01-28","n":6,"t":{"treaty":6}},{"d":"2021-02-11","n":3,"t":{"treaty":2,"new":1}},{"d":"2021-02-25","n":6,"t":{"treaty":3,"guarantee":1,"amend":1,"loan":1}},{"d":"2021-03-04","n":1,"t":{"loan":1}},{"d":"2021-03-11","n":2,"t":{"treaty":2}},{"d":"2021-03-18","n":1,"t":{"new":1}},{"d":"2021-03-25","n":2,"t":{"loan":1,"treaty":1}},{"d":"2021-04-07","n":3,"t":{"treaty":1,"new":1,"amend":1}},{"d":"2021-04-20","n":4,"t":{"new":2,"amend":2}},{"d":"2021-04-22","n":4,"t":{"amend":1,"new":2,"budget":1}},{"d":"2021-04-28","n":9,"t":{"amend":4,"loan":1,"treaty":2,"new":2}},{"d":"2021-05-06","n":7,"t":{"new":1,"amend":3,"treaty":3}},{"d":"2021-05-13","n":10,"t":{"treaty":5,"amend":4,"new":1}},{"d":"2021-05-20","n":10,"t":{"amend":6,"new":3,"treaty":1}},{"d":"2021-05-27","n":3,"t":{"new":1,"amend":2}},{"d":"2021-06-10","n":4,"t":{"new":1,"guarantee":3}},{"d":"2021-06-16","n":1,"t":{"amend":1}},{"d":"2021-06-30","n":5,"t":{"new":2,"amend":2,"treaty":1}},{"d":"2021-07-07","n":7,"t":{"loan":6,"treaty":1}},{"d":"2021-07-14","n":6,"t":{"amend":1,"treaty":4,"loan":1}},{"d":"2021-07-22","n":6,"t":{"amend":2,"treaty":1,"new":2,"loan":1}},{"d":"2021-07-29","n":3,"t":{"amend":2,"treaty":1}},{"d":"2021-09-09","n":7,"t":{"new":1,"treaty":5,"loan":1}},{"d":"2021-09-10","n":3,"t":{"treaty":3}},{"d":"2021-09-15","n":1,"t":{"new":1}},{"d":"2021-09-23","n":2,"t":{"new":1,"amend":1}},{"d":"2021-10-07","n":6,"t":{"amend":4,"new":2}},{"d":"2021-10-19","n":5,"t":{"treaty":5}},{"d":"2021-10-26","n":1,"t":{"budget":1}},{"d":"2021-11-03","n":5,"t":{"amend":3,"new":1,"guarantee":1}},{"d":"2021-11-17","n":6,"t":{"amend":2,"treaty":3,"new":1}},{"d":"2021-11-23","n":1,"t":{"budget":1}},{"d":"2021-11-25","n":1,"t":{"new":1}},{"d":"2021-11-26","n":13,"t":{"loan":1,"amend":9,"budget":1,"new":2}},{"d":"2021-11-30","n":1,"t":{"new":1}},{"d":"2021-12-08","n":7,"t":{"treaty":1,"amend":5,"guarantee":1}},{"d":"2021-12-10","n":1,"t":{"amend":1}},{"d":"2021-12-15","n":3,"t":{"new":2,"treaty":1}},{"d":"2021-12-23","n":18,"t":{"new":3,"amend":11,"treaty":2,"loan":2}},{"d":"2021-12-29","n":6,"t":{"amend":2,"treaty":4}},{"d":"2022-01-11","n":1,"t":{"new":1}},{"d":"2022-02-04","n":22,"t":{"loan":9,"treaty":2,"new":5,"amend":5,"guarantee":1}},{"d":"2022-02-14","n":1,"t":{"amend":1}},{"d":"2022-10-22","n":1,"t":{"amend":1}},{"d":"2022-11-10","n":6,"t":{"loan":3,"new":1,"amend":1,"budget":1}},{"d":"2022-12-09","n":19,"t":{"amend":12,"treaty":3,"new":1,"budget":2,"loan":1}},{"d":"2022-12-26","n":10,"t":{"treaty":7,"amend":3}},{"d":"2023-02-09","n":26,"t":{"guarantee":2,"treaty":12,"new":6,"amend":6}},{"d":"2023-02-27","n":8,"t":{"amend":1,"loan":3,"treaty":4}},{"d":"2023-04-28","n":25,"t":{"amend":3,"treaty":13,"new":2,"loan":4,"guarantee":3}},{"d":"2023-07-26","n":25,"t":{"amend":9,"new":5,"loan":8,"guarantee":1,"treaty":2}},{"d":"2023-09-06","n":24,"t":{"new":3,"amend":8,"treaty":11,"loan":1,"budget":1}},{"d":"2023-10-26","n":53,"t":{"amend":24,"budget":2,"guarantee":3,"new":7,"loan":8,"treaty":9}},{"d":"2024-04-23","n":1,"t":{"amend":1}},{"d":"2024-05-10","n":1,"t":{"amend":1}},{"d":"2024-07-31","n":28,"t":{"treaty":13,"loan":6,"new":4,"guarantee":2,"amend":3}},{"d":"2024-09-30","n":7,"t":{"treaty":3,"guarantee":1,"loan":1,"amend":1,"budget":1}},{"d":"2024-11-27","n":54,"t":{"treaty":10,"new":8,"amend":23,"loan":10,"budget":2,"guarantee":1}},{"d":"2025-03-06","n":34,"t":{"new":9,"amend":20,"guarantee":5}},{"d":"2025-03-13","n":23,"t":{"treaty":13,"loan":8,"guarantee":2}},{"d":"2025-06-16","n":24,"t":{"new":3,"amend":5,"treaty":13,"loan":2,"guarantee":1}},{"d":"2025-10-22","n":39,"t":{"treaty":25,"new":3,"amend":5,"guarantee":1,"loan":5}},{"d":"2025-11-07","n":8,"t":{"amend":3,"new":2,"treaty":3}},{"d":"2025-12-03","n":50,"t":{"amend":21,"loan":3,"treaty":8,"budget":2,"new":14,"guarantee":2}},{"d":"2025-12-23","n":1,"t":{"treaty":1}},{"d":"2026-01-28","n":8,"t":{"treaty":2,"amend":6}},{"d":"2026-04-23","n":27,"t":{"amend":5,"treaty":14,"loan":4,"new":4}},{"d":"2026-05-20","n":4,"t":{"amend":4}},{"d":"2026-06-25","n":28,"t":{"amend":9,"treaty":7,"loan":5,"guarantee":7}},{"d":"2026-07-10","n":10,"t":{"treaty":2,"amend":4,"new":4}},{"d":"2026-08-31","n":48,"t":{"new":8,"amend":30,"treaty":6,"loan":1,"guarantee":1,"budget":2}}],"big":["2024-11-27","2023-10-26","2025-12-03","2018-12-07","2026-08-31","2025-10-22","2011-10-18","2019-12-23"],"n_days":275,"n_laws":2296,"share_10plus":0.657},"c03":[{"c":8,"span":"2008–2012","n":187,"med":39,"q1":24.0,"q3":57.0,"p90":88.0,"le7":10,"le14":31,"pts":[543,499,113,107,265,64,63,51,47,41,36,70,27,47,67,26,60,53,25,46,43,43,28,44,32,24,24,24,24,26,14,18,18,34,34,14,14,14,14,14,27,104,102,12,102,102,102,102,14,14,14,14,14,91,88,88,88,88,88,120,82,82,112,81,81,150,113,137,60,60,60,60,60,57,57,57,50,49,48,46,24,24,21,72,20,20,25,25,25,60,25,57,57,57,57,57,57,48,18,13,13,12,60,42,52,52,52,39,39,39,39,39,39,49,49,46,45,45,45,45,42,42,40,40,38,38,35,52,45,45,34,31,30,28,28,25,24,24,20,20,20,18,18,21,21,17,13,13,13,75,75,75,13,13,13,69,7,7,7,7,7,7,7,7,65,64,49,47,42,40,40,40,33,33,33,33,33,33,33,29,29,29,27,27,27,5,5]},{"c":9,"span":"2012–2014","n":250,"med":28.5,"q1":14.0,"q3":54.25,"p90":113.7,"le7":17,"le14":69,"pts":[3,3,3,3,18,10,70,25,25,23,15,15,14,14,14,14,14,14,14,14,14,14,14,14,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,11,10,7,7,6,42,42,34,34,33,114,111,35,20,31,31,31,31,4,28,27,27,56,32,6,52,6,52,43,47,45,36,36,45,36,41,78,37,42,28,28,28,28,28,28,28,28,28,25,33,25,62,25,25,61,18,17,17,17,17,22,54,54,17,54,51,51,11,48,47,14,9,40,40,40,7,7,7,7,30,30,30,30,30,26,26,49,26,26,23,70,70,70,68,68,107,37,37,37,15,55,260,29,120,15,39,15,15,15,90,270,25,69,25,25,25,76,68,95,58,55,55,51,81,81,81,44,44,44,29,202,201,201,9,9,9,9,9,9,56,163,56,188,21,21,21,21,21,21,21,148,39,39,143,168,168,28,161,133,35,31,155,155,155,21,21,21,10,21,137,134,134,106,105,131,130,104,104,99,99,123,116,90,102,102,4,58,57,3,7,53,53,40,33,33,33,36,34,42,8,8,8,8,8,8,8,8,8,8,8,8]},{"c":10,"span":"2014–2016","n":383,"med":20,"q1":9.0,"q3":48.0,"p90":93.0,"le7":81,"le14":164,"pts":[3,3,22,6,17,15,15,15,15,15,15,15,15,10,10,10,10,10,10,10,10,10,10,109,11,7,7,7,27,3,3,3,15,15,14,13,13,77,77,77,4,6,6,6,6,204,63,61,59,55,59,59,6,6,6,56,52,49,49,37,47,75,6,6,6,6,6,6,41,31,41,231,38,34,34,34,34,24,9,5,42,40,48,29,18,18,18,29,29,27,27,35,28,8,12,19,10,196,26,53,48,29,10,10,53,40,40,4,4,4,64,4,33,5,119,32,5,5,12,29,27,5,140,5,399,8,354,151,21,351,41,93,17,17,143,7,14,13,13,13,13,13,102,66,91,91,44,44,10,85,10,67,9,8,8,8,5,5,5,5,5,7,116,78,78,51,6,5,5,140,84,180,52,52,136,43,19,79,10,7,4,4,4,4,4,4,14,14,25,25,25,25,6,6,6,6,6,250,36,36,36,93,131,79,229,5,43,55,14,213,110,35,105,50,75,43,45,102,21,42,28,26,25,25,185,34,190,13,14,87,87,87,23,183,50,50,150,37,36,6,21,22,22,43,13,8,8,234,10,13,158,14,20,10,6,17,15,15,14,80,13,5,7,65,6,6,6,6,6,6,6,61,121,88,189,126,182,52,70,17,42,21,9,9,32,43,43,41,30,21,32,28,42,38,21,35,35,67,129,25,21,109,45,45,11,53,28,81,101,7,7,7,35,35,35,35,21,103,29,76,76,76,76,76,28,10,8,8,8,8,8,7,7,8,8,7,7,18,7,12,12,12,12,12,12,12,12,12,12,12,12,39,11,11,11,10,53,58,58,26,26,26,40,17,17,27,9,9,20,24,16,16,9,9,9,12,12,4,4,4,4,4,4]},{"c":11,"span":"2016–2020","n":617,"med":39,"q1":17.0,"q3":91.0,"p90":172.6,"le7":12,"le14":118,"pts":[49,42,203,41,37,17,37,37,10,199,28,28,28,58,216,23,42,14,14,14,158,44,43,195,154,30,180,142,15,179,8,8,8,16,22,10,22,16,10,10,22,10,22,14,133,15,14,14,15,14,15,130,130,9,9,9,9,9,9,112,112,131,139,95,86,86,79,101,87,94,94,94,76,76,76,76,76,70,69,55,48,48,35,19,11,11,11,11,3,251,122,14,114,49,253,107,87,233,71,87,225,75,195,191,191,191,191,12,12,371,23,23,23,764,213,273,71,47,47,29,29,29,29,163,163,227,869,160,157,157,344,21,21,179,23,229,139,192,31,128,29,127,184,4,23,118,115,17,700,14,169,169,14,14,13,13,13,13,13,13,13,13,13,12,12,12,12,110,12,12,110,108,142,142,142,142,151,274,111,181,260,97,256,97,85,261,261,71,113,120,214,211,211,203,73,114,52,52,114,202,202,42,197,67,17,17,17,711,23,23,59,23,20,20,176,176,176,50,14,14,14,14,71,71,56,39,39,39,21,21,69,175,32,30,44,42,151,151,47,47,140,139,15,15,15,74,74,36,144,17,17,17,17,17,11,11,193,22,22,161,19,10,46,13,13,13,13,13,13,13,99,112,91,12,142,56,53,50,88,73,26,26,56,19,13,13,12,12,79,49,49,194,35,46,45,22,35,17,17,17,58,154,154,15,15,15,56,24,24,24,18,18,14,14,14,14,14,369,32,32,32,31,28,28,28,28,93,22,18,87,87,87,87,18,18,18,18,18,18,87,87,87,87,87,87,87,114,114,114,114,17,17,17,17,16,16,16,16,16,15,15,15,15,15,15,15,15,15,15,15,14,14,14,14,14,14,14,14,72,69,58,80,37,37,85,37,37,34,34,31,31,72,23,23,23,21,45,9,36,6,6,6,221,50,62,50,28,23,4,28,28,27,27,20,149,10,36,10,10,10,10,10,10,9,9,23,11,11,11,11,11,11,11,11,11,11,11,11,127,292,176,171,169,38,31,267,89,267,267,267,31,31,89,96,42,38,150,255,143,85,28,32,28,85,28,28,220,220,68,239,239,164,206,164,8,83,126,86,54,13,105,172,29,29,21,21,24,21,98,98,98,24,24,98,165,127,91,91,91,91,91,91,91,91,91,91,91,91,91,90,84,38,109,107,134,134,49,66,49,66,27,70,95,63,42,59,59,59,42,42,42,122,54,53,52,35,35,35,35,35,35,35,49,32,24,29,39,29,29,73,21,31,17,99,94,99,99,99,70,69,66,24,24,56,66,53,53,63,84,53,63,60,60,49,49,21,52,52,78,52,7,68,68,68,67,67,67,64,38,35,61,35,24,50,50,35,40,18,18,33,12,12,27,27,29,24,23,22,19,19,14,9,3,2,4,4,4]},{"c":12,"span":"2020–2022","n":264,"med":20.0,"q1":20.0,"q3":26.0,"p90":29.0,"le7":20,"le14":26,"pts":[3,6,20,20,20,20,20,20,20,20,20,20,20,20,6,27,20,27,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,18,18,18,18,41,41,41,34,34,29,27,27,20,27,27,27,27,20,20,20,20,20,20,20,20,27,26,26,21,21,21,21,26,26,26,26,26,20,26,26,20,26,20,26,31,31,27,27,27,27,27,6,27,27,27,27,27,24,24,20,20,20,24,24,24,24,21,21,21,21,21,21,20,20,14,28,20,20,20,19,26,26,26,26,26,26,26,26,33,26,26,26,20,19,19,19,19,21,21,20,20,20,20,5,20,20,20,62,48,85,41,41,41,34,34,14,14,27,14,20,12,21,20,20,20,20,20,18,18,18,18,26,26,26,26,26,33,4,26,26,26,26,26,29,29,29,22,19,22,22,22,22,22,22,22,22,22,16,19,19,34,19,19,19,19,19,19,19,19,27,27,27,27,27,27,1,20,20,20,20,20,20,20,20,20,2,20,6,6,5,2,2,2,2,36,36,36,36,36,36,1,25,22,21,21,18,18,18,18,18,18,18,18,14,7,7,7,4]},{"c":13,"span":"2022–2024","n":197,"med":27,"q1":21.0,"q3":57.5,"p90":82.0,"le7":18,"le14":26,"pts":[5,7,7,7,7,7,7,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,21,32,14,14,24,24,24,24,24,24,24,55,55,10,6,258,48,48,48,48,41,41,41,41,41,119,27,27,27,27,23,23,23,23,23,23,23,23,23,23,23,24,24,24,24,24,24,24,24,77,77,77,77,77,67,67,67,67,66,66,66,63,63,63,63,187,56,56,49,42,42,28,117,117,28,209,28,110,152,146,104,104,96,131,131,124,79,79,79,79,79,117,68,61,103,54,54,54,54,54,40,40,82,82,33,33,33,68,26,12,54,47,47,97,47,47,47,40,40,34,19,69,59,59,59,59,4,4,50,41,41,41,34,34,34,34,27,27,27,27,27,27,27,27,27,27,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,20,13,13,13,13,6,6,6,6,6,6,6,6]},{"c":14,"span":"2024–","n":395,"med":31,"q1":24.0,"q3":56.0,"p90":104.0,"le7":8,"le14":42,"pts":[3,1,48,41,40,40,40,40,40,40,40,40,34,34,34,27,27,27,27,27,27,27,26,26,26,26,26,26,245,139,20,239,239,13,74,74,237,237,237,67,60,89,89,89,89,82,24,75,75,75,75,11,11,68,68,54,153,54,146,146,47,147,33,29,26,26,23,23,23,23,23,23,23,23,23,23,23,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,19,125,19,19,111,9,5,104,104,104,104,104,104,104,104,101,101,101,101,97,90,90,90,83,69,69,66,55,62,55,62,62,62,49,55,48,48,48,49,48,48,38,34,27,27,13,13,13,13,9,7,7,47,39,39,32,31,31,31,31,31,31,25,25,25,25,25,25,25,25,25,25,25,25,146,10,10,132,132,132,121,121,121,121,121,110,110,110,110,103,103,103,119,286,97,97,97,138,75,62,62,55,55,55,54,47,47,47,47,47,47,47,41,40,56,34,68,23,23,23,35,29,21,21,40,40,5,5,30,30,30,30,30,30,30,30,30,30,30,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,26,19,33,12,12,12,12,12,12,55,48,41,125,37,37,37,37,37,114,100,94,94,87,76,76,76,55,55,49,48,42,42,42,41,35,35,35,35,34,27,27,27,9,69,69,69,29,29,29,29,62,62,62,62,56,56,56,56,56,56,56,56,56,56,52,119,49,34,34,34,34,95,36,35,24,9,9,9,9,9,22,22,22,21,21,67,67,8,7,53,45,45,45,45,45,31,31,31,31,31,31,31,31,31,31,31,31,31,25,24,24,24,24,24,24,24,24,24,24,24,24,24,24,11,11,11,10,10,10,10,10,10,10]}],"c04":{"lenders":[{"k":"wb","total":41,"by":{"2011":2,"2014":4,"2015":3,"2016":3,"2017":4,"2018":3,"2019":3,"2020":4,"2021":3,"2022":1,"2023":4,"2024":3,"2025":4}},{"k":"eib","total":32,"by":{"2011":2,"2012":2,"2014":3,"2015":3,"2016":1,"2017":3,"2018":2,"2019":4,"2020":1,"2021":2,"2023":5,"2025":3,"2026":1}},{"k":"ceb","total":20,"by":{"2011":1,"2012":2,"2015":1,"2016":2,"2019":1,"2020":4,"2021":3,"2023":3,"2025":1,"2026":2}},{"k":"kfw","total":17,"by":{"2011":2,"2013":1,"2015":1,"2017":1,"2018":1,"2020":2,"2021":2,"2022":1,"2023":1,"2024":3,"2025":2}},{"k":"ebrd","total":17,"by":{"2014":1,"2020":2,"2021":2,"2022":3,"2023":3,"2024":2,"2025":3,"2026":1}},{"k":"china","total":13,"by":{"2012":1,"2013":1,"2015":1,"2016":1,"2017":1,"2018":2,"2019":2,"2021":2,"2022":1,"2023":1}},{"k":"other","total":12,"by":{"2011":1,"2020":1,"2022":2,"2023":1,"2024":2,"2025":2,"2026":3}},{"k":"afd","total":10,"by":{"2021":2,"2022":1,"2023":4,"2025":3}},{"k":"commercial","total":9,"by":{"2020":1,"2022":3,"2023":2,"2024":2,"2026":1}},{"k":"uae","total":8,"by":{"2014":2,"2016":1,"2022":1,"2024":2,"2026":2}},{"k":"russia","total":3,"by":{"2013":2,"2019":1}},{"k":"saudi","total":3,"by":{"2024":3}},{"k":"azer","total":2,"by":{"2012":1,"2016":1}},{"k":"italy","total":1,"by":{"2013":1}}],"years":[2011,2012,2013,2014,2015,2016,2017,2018,2019,2020,2021,2022,2023,2024,2025,2026],"other_examples":["Predlog zakona o potvrđivanju Okvirnog ugovora o zajmu za dodelu pojedinačnih zajmova između KFW-A Franfurt na Majni i Republike Srbije i Narodne banke Srbije k","Predlog zakona o potvrđivanju Sporazuma o zajmu (Zajam za ugovaranje stranog projekta o izgradnji) za Projekat izgradnje toplovoda Obrenovac - Novi Beograd, izm","Predlog zakona o potvrđivanju Okvirnog sporazuma o zajmu LD 2106 (2021) između Banke za razvoj Saveta Erope i Republike Srbije za projektni zajam - Centar za ob","Predlog zakona o potvrđivanju Ugovora o kreditnom aranžmanu u iznosu od 203.400.928 evra između Republike Srbije, koju zastupa Vlada Republike Srbije, postupaju","Predlog zakona o potvrđivanju Ugovora o kreditu u iznosu od 300.000.000 evra između Republike Srbije, koju zastupa Vlada Republike Srbije, postupajući preko Min","Predlog zakona o potvrđivanju Ugovora o kreditnom aranžmanu u iznosu do 183.941.730,60 evra između Republike Srbije koju zastupa Vlada Republike Srbije postupaj"]},"c05":{"partners":[{"name":"Montenegro","g":"wb","n":27,"by":{"2011":3,"2013":6,"2014":2,"2017":1,"2019":7,"2020":3,"2021":2,"2023":2,"2025":1}},{"name":"European Union","g":"multi","n":27,"by":{"2012":1,"2014":4,"2018":1,"2019":1,"2021":3,"2022":2,"2023":6,"2024":5,"2025":1,"2026":3}},{"name":"North Macedonia","g":"wb","n":26,"by":{"2011":1,"2012":3,"2013":2,"2014":2,"2015":4,"2017":1,"2019":3,"2020":3,"2021":3,"2023":2,"2025":2}},{"name":"Turkey","g":"europe","n":25,"by":{"2011":2,"2009":1,"2012":1,"2013":2,"2015":3,"2016":1,"2018":3,"2020":6,"2023":3,"2025":3}},{"name":"Russia","g":"east","n":23,"by":{"2011":3,"2012":3,"2013":2,"2014":2,"2015":4,"2016":1,"2017":1,"2018":3,"2020":1,"2021":2,"2026":1}},{"name":"Bosnia and Herzegovina","g":"wb","n":22,"by":{"2011":2,"2012":2,"2013":1,"2014":2,"2015":1,"2017":1,"2018":2,"2020":2,"2021":6,"2023":2,"2025":1}},{"name":"Hungary","g":"eu","n":22,"by":{"2011":1,"2012":1,"2013":1,"2014":1,"2015":3,"2017":1,"2018":1,"2019":1,"2020":3,"2022":2,"2023":1,"2024":2,"2025":3,"2026":1}},{"name":"Azerbaijan","g":"east","n":19,"by":{"2011":4,"2012":1,"2013":1,"2014":2,"2018":1,"2019":1,"2020":2,"2023":4,"2025":1,"2026":2}},{"name":"China","g":"asia","n":18,"by":{"2013":3,"2015":2,"2016":1,"2017":1,"2020":2,"2018":1,"2021":1,"2023":1,"2024":3,"2025":1,"2026":2}},{"name":"France","g":"eu","n":15,"by":{"2011":2,"2015":1,"2017":1,"2018":1,"2019":1,"2020":3,"2021":1,"2023":2,"2024":1,"2025":1,"2026":1}},{"name":"United Arab Emirates","g":"asia","n":14,"by":{"2013":4,"2014":1,"2015":1,"2019":1,"2020":1,"2022":4,"2023":1,"2025":1}},{"name":"Romania","g":"eu","n":13,"by":{"2014":2,"2015":4,"2017":1,"2018":2,"2020":1,"2021":1,"2023":1,"2025":1}},{"name":"Albania","g":"wb","n":12,"by":{"2011":3,"2014":1,"2015":2,"2017":1,"2018":1,"2020":1,"2021":2,"2023":1}},{"name":"Slovenia","g":"eu","n":12,"by":{"2011":2,"2012":1,"2013":3,"2014":1,"2017":1,"2018":2,"2023":1,"2025":1}},{"name":"Slovakia","g":"eu","n":9,"by":{"2012":3,"2013":1,"2015":1,"2017":1,"2019":1,"2020":1,"2025":1}},{"name":"Italy","g":"eu","n":9,"by":{"2012":2,"2014":2,"2018":2,"2021":1,"2023":2}},{"name":"United Nations","g":"multi","n":9,"by":{"2012":1,"2014":1,"2017":3,"2016":1,"2021":1,"2025":1,"2026":1}},{"name":"Kazakhstan","g":"east","n":9,"by":{"2015":1,"2016":1,"2018":3,"2019":1,"2024":1,"2025":2}},{"name":"Belarus","g":"east","n":8,"by":{"2011":1,"2012":1,"2013":1,"2015":2,"2017":2,"2021":1}},{"name":"Croatia","g":"eu","n":8,"by":{"2011":1,"2013":1,"2014":2,"2017":1,"2018":1,"2021":1,"2025":1}},{"name":"Germany","g":"eu","n":8,"by":{"2014":1,"2017":2,"2019":1,"2021":2,"2023":1,"2024":1}},{"name":"United States","g":"americas","n":8,"by":{"2014":1,"2015":1,"2019":3,"2021":2,"2025":1}},{"name":"Algeria","g":"africa","n":7,"by":{"2011":1,"2012":2,"2014":1,"2015":1,"2026":2}},{"name":"Ukraine","g":"east","n":7,"by":{"2011":1,"2012":1,"2013":2,"2015":2,"2021":1}},{"name":"Bulgaria","g":"eu","n":7,"by":{"2011":1,"2013":2,"2017":1,"2019":1,"2021":1,"2025":1}},{"name":"Georgia","g":"east","n":7,"by":{"2012":2,"2015":2,"2018":1,"2019":1,"2025":1}},{"name":"Tunisia","g":"africa","n":7,"by":{"2012":1,"2014":1,"2015":1,"2018":2,"2019":1,"2023":1}},{"name":"Morocco","g":"africa","n":7,"by":{"2013":3,"2015":1,"2018":1,"2020":1,"2021":1}},{"name":"Argentina","g":"americas","n":6,"by":{"2011":1,"2013":1,"2018":1,"2021":3}},{"name":"Greece","g":"eu","n":6,"by":{"2012":1,"2018":4,"2026":1}}],"n_treaty":725,"n_matched":506,"n_partners":85},"c06":{"kinds":[{"k":"pravilnik","n":3314,"m":"ministries"},{"k":"odluka","n":2821,"m":"decisions"},{"k":"zakon","n":1655,"m":"assembly"},{"k":"uredba","n":1237,"m":"government"},{"k":"akt","n":175,"m":"other"},{"k":"memorandum","n":114,"m":"treaties"},{"k":"resenje","n":95,"m":"decisions"},{"k":"naredba","n":85,"m":"ministries"},{"k":"sporazum","n":80,"m":"treaties"},{"k":"uputstvo","n":64,"m":"ministries"},{"k":"tarifa","n":41,"m":"other"},{"k":"statut","n":34,"m":"other"},{"k":"poslovnik","n":28,"m":"assembly"},{"k":"kolektivni","n":25,"m":"other"},{"k":"kodeks","n":21,"m":"other"},{"k":"protokol","n":17,"m":"treaties"},{"k":"pravila","n":7,"m":"other"},{"k":"zakljucak","n":7,"m":"government"},{"k":"program","n":3,"m":"government"},{"k":"strategija","n":3,"m":"government"},{"k":"ustav","n":3,"m":"assembly"},{"k":"metodologija","n":2,"m":"ministries"},{"k":"konvencija","n":1,"m":"treaties"},{"k":"plan","n":1,"m":"government"},{"k":"ugovor","n":1,"m":"treaties"},{"k":"ukaz","n":1,"m":"other"}],"n":9835},"c07":{"rows":[{"y":1947,"fnrj":1},{"y":1954,"fnrj":1},{"y":1955,"fnrj":1},{"y":1957,"fnrj":2},{"y":1959,"fnrj":1},{"y":1960,"fnrj":7},{"y":1962,"rs":1},{"y":1963,"fnrj":1},{"y":1964,"sfrj":1},{"y":1965,"sfrj":1},{"y":1966,"sfrj":4},{"y":1967,"sfrj":5,"srs":1},{"y":1968,"srs":2},{"y":1969,"sfrj":2,"srs":1},{"y":1971,"sfrj":1,"srs":1},{"y":1973,"sfrj":2,"srs":1},{"y":1974,"sfrj":2,"srj":1,"srs":1},{"y":1975,"sfrj":7,"srs":1},{"y":1976,"rs":1,"srs":1,"sfrj":1},{"y":1977,"sfrj":7,"srs":6},{"y":1978,"sfrj":11,"srs":4},{"y":1979,"rs":3,"srs":6,"sfrj":6},{"y":1980,"sfrj":13,"rs":1,"srs":5},{"y":1981,"sfrj":15,"srs":1},{"y":1982,"sfrj":7,"srs":4},{"y":1983,"sfrj":11,"srs":2,"mu":1},{"y":1984,"sfrj":7,"srs":6},{"y":1985,"sfrj":9,"srs":4},{"y":1986,"sfrj":3,"srs":2},{"y":1987,"sfrj":24,"srs":2},{"y":1988,"srs":4,"sfrj":15},{"y":1989,"srs":6,"sfrj":18},{"y":1990,"sfrj":9,"rs":6,"srj":1,"srs":7},{"y":1991,"sfrj":16,"rs":17,"srs":1},{"y":1992,"rs":35,"sfrj":5,"srj":5},{"y":1993,"rs":15,"srj":5},{"y":1994,"sfrj":1,"srj":27,"rs":29},{"y":1995,"rs":56,"srj":10},{"y":1996,"srj":24,"rs":32},{"y":1997,"srj":25,"rs":40},{"y":1998,"rs":52,"srj":27},{"y":1999,"srj":24,"rs":40},{"y":2000,"rs":33,"srj":17},{"y":2001,"rs":45,"srj":24},{"y":2002,"srj":48,"rs":63},{"y":2003,"rs":72,"scg":10,"srj":8},{"y":2004,"rs":114,"scg":15},{"y":2005,"rs":147,"scg":15,"srj":1},{"y":2006,"rs":229,"scg":11},{"y":2007,"rs":92,"srj":1},{"y":2008,"rs":85,"scg":1},{"y":2009,"rs":257,"mu":2},{"y":2010,"rs":358,"mu":7},{"y":2011,"rs":334,"mu":12},{"y":2012,"rs":268,"mu":24},{"y":2013,"rs":298,"mu":70},{"y":2014,"rs":317,"mu":73},{"y":2015,"rs":352,"mu":85},{"y":2016,"rs":331,"mu":37,"srj":1},{"y":2017,"rs":340,"mu":52},{"y":2018,"rs":477,"mu":101},{"y":2019,"rs":614,"mu":118},{"y":2020,"rs":463,"mu":70},{"y":2021,"rs":509,"mu":103},{"y":2022,"rs":357,"mu":34},{"y":2023,"rs":432,"mu":80},{"y":2024,"rs":408,"mu":58},{"y":2025,"rs":450,"mu":92,"srj":1},{"y":2026,"rs":400,"mu":52}],"states":["fnrj","sfrj","srs","srj","scg","rs","mu"],"tot":{"fnrj":14,"sfrj":203,"rs":8173,"srj":250,"mu":1071,"srs":69,"scg":52},"pre1992":312},"c08":{"by":{"zakon":[{"y":2009,"eighth":25,"next":5,"later":1,"n":31},{"y":2010,"eighth":22,"early":1,"next":4,"later":1,"n":28},{"y":2011,"eighth":24,"early":1,"later":3,"next":1,"n":29},{"y":2012,"eighth":28,"next":11,"n":39},{"y":2013,"eighth":65,"same":2,"next":1,"later":5,"n":73},{"y":2014,"eighth":60,"same":1,"later":7,"next":3,"n":71},{"y":2015,"eighth":80,"next":4,"later":9,"same":1,"n":94},{"y":2016,"eighth":36,"next":3,"later":8,"n":47},{"y":2017,"eighth":41,"next":2,"later":5,"early":1,"n":49},{"y":2018,"eighth":85,"same":1,"early":3,"later":10,"next":4,"n":103},{"y":2019,"eighth":77,"next":5,"early":8,"later":7,"n":97},{"y":2020,"eighth":68,"early":3,"same":3,"later":4,"next":1,"n":79},{"y":2021,"eighth":90,"next":12,"same":2,"later":3,"n":107},{"y":2022,"eighth":19,"next":9,"later":1,"n":29},{"y":2023,"eighth":84,"next":2,"same":2,"later":2,"n":90},{"y":2024,"later":1,"eighth":52,"next":1,"n":54},{"y":2025,"eighth":103,"early":1,"next":3,"later":7,"n":114},{"y":2026,"eighth":51,"later":2,"n":53}],"uredba":[{"y":2009,"eighth":23,"next":4,"n":27},{"y":2010,"eighth":32,"next":3,"same":1,"n":36},{"y":2011,"eighth":23,"next":4,"n":27},{"y":2012,"eighth":12,"same":1,"next":1,"later":1,"n":15},{"y":2013,"eighth":26,"later":2,"next":3,"same":1,"n":32},{"y":2014,"eighth":38,"next":11,"early":2,"same":1,"later":1,"n":53},{"y":2015,"eighth":33,"next":6,"early":1,"same":1,"n":41},{"y":2016,"eighth":40,"later":3,"next":12,"n":55},{"y":2017,"later":3,"eighth":30,"next":10,"n":43},{"y":2018,"eighth":35,"later":4,"next":11,"early":2,"n":52},{"y":2019,"later":5,"eighth":46,"early":1,"next":10,"n":62},{"y":2020,"eighth":37,"later":2,"next":5,"same":13,"early":1,"n":58},{"y":2021,"eighth":38,"later":1,"next":11,"n":50},{"y":2022,"eighth":27,"next":9,"n":36},{"y":2023,"eighth":44,"next":11,"later":1,"n":56},{"y":2024,"eighth":34,"next":5,"same":1,"later":1,"early":2,"n":43},{"y":2025,"eighth":33,"early":3,"next":4,"later":5,"n":45},{"y":2026,"later":2,"eighth":28,"next":9,"same":1,"early":2,"n":42}],"pravilnik":[{"y":2009,"eighth":39,"next":6,"early":2,"later":3,"same":4,"n":54},{"y":2010,"eighth":87,"later":6,"same":4,"early":1,"next":8,"n":106},{"y":2011,"eighth":82,"early":2,"next":7,"later":2,"same":4,"n":97},{"y":2012,"eighth":70,"later":4,"same":3,"next":8,"n":85},{"y":2013,"later":3,"eighth":66,"same":3,"next":11,"n":83},{"y":2014,"eighth":85,"next":6,"later":3,"same":1,"n":95},{"y":2015,"eighth":80,"next":13,"later":4,"early":2,"same":1,"n":100},{"y":2016,"eighth":89,"early":2,"same":3,"next":11,"later":14,"n":119},{"y":2017,"eighth":127,"next":9,"later":5,"early":1,"n":142},{"y":2018,"same":7,"later":13,"eighth":135,"early":6,"next":17,"n":178},{"y":2019,"eighth":209,"next":20,"later":14,"same":2,"early":6,"n":251},{"y":2020,"eighth":155,"next":9,"same":10,"later":13,"n":187},{"y":2021,"early":1,"eighth":99,"next":12,"same":2,"later":2,"n":116},{"y":2022,"eighth":100,"next":13,"same":2,"later":6,"n":121},{"y":2023,"eighth":85,"next":40,"later":4,"same":3,"n":132},{"y":2024,"later":25,"eighth":124,"next":17,"same":2,"early":2,"n":170},{"y":2025,"later":23,"eighth":68,"early":5,"next":7,"same":1,"n":104},{"y":2026,"early":4,"next":15,"eighth":64,"same":3,"later":7,"n":93}],"odluka":[{"y":2009,"next":8,"eighth":18,"same":2,"early":1,"n":29},{"y":2010,"eighth":60,"later":2,"same":2,"next":4,"n":68},{"y":2011,"next":2,"eighth":40,"same":1,"n":43},{"y":2012,"eighth":32,"next":7,"later":1,"same":2,"n":42},{"y":2013,"eighth":67,"next":10,"later":1,"same":3,"n":81},{"y":2014,"eighth":47,"next":9,"same":6,"early":4,"n":66},{"y":2015,"later":23,"eighth":45,"same":6,"early":6,"next":3,"n":83},{"y":2016,"eighth":44,"later":5,"early":3,"next":6,"n":58},{"y":2017,"eighth":60,"same":11,"early":1,"later":2,"next":9,"n":83},{"y":2018,"later":9,"eighth":72,"early":4,"same":12,"next":17,"n":114},{"y":2019,"eighth":98,"same":9,"next":15,"early":1,"later":3,"n":126},{"y":2020,"eighth":64,"next":12,"same":16,"later":2,"n":94},{"y":2021,"later":7,"eighth":150,"early":5,"same":13,"next":14,"n":189},{"y":2022,"later":8,"eighth":72,"same":11,"next":11,"n":102},{"y":2023,"eighth":82,"later":9,"same":6,"early":2,"next":8,"n":107},{"y":2024,"later":9,"eighth":66,"early":1,"same":8,"next":3,"n":87},{"y":2025,"later":32,"eighth":82,"next":14,"same":5,"early":2,"n":135},{"y":2026,"later":8,"eighth":72,"next":20,"same":20,"early":3,"n":123}]},"all":{"eighth":5172,"later":414,"next":775,"same":277,"early":106}},"c09":{"top":[{"f":"zakon/2002/80-1","t":"Zakon o poreskom postupku i poreskoj administraciji","n":32,"first":2002,"pts":[{"g":"80/2002","d":"2002-11-26","x":false},{"g":"84/2002","d":"2002-12-07","x":false},{"g":"23/2003","d":"2003-03-15","x":false},{"g":"70/2003","d":"2003-07-10","x":true},{"g":"55/2004","d":"2004-05-21","x":true},{"g":"61/2005","d":"2005-07-18","x":true},{"g":"85/2005","d":"2005-10-06","x":true},{"g":"62/2006","d":"2006-07-19","x":true},{"g":"61/2007","d":"2007-07-02","x":false},{"g":"20/2009","d":"2009-03-19","x":true},{"g":"72/2009","d":"2009-09-03","x":true},{"g":"53/2010","d":"2010-07-29","x":true},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"2/2012","d":"2012-01-13","x":true},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"47/2013","d":"2013-05-29","x":true},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"105/2014","d":"2014-10-03","x":true},{"g":"91/2015","d":"2015-11-05","x":true},{"g":"112/2015","d":"2015-12-30","x":true},{"g":"15/2016","d":"2016-02-25","x":true},{"g":"108/2016","d":"2016-12-29","x":true},{"g":"30/2018","d":"2018-04-20","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"144/2020","d":"2020-11-27","x":true},{"g":"96/2021","d":"2021-10-08","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"109/2025","d":"2025-12-04","x":true},{"g":"80/2026","d":"2026-08-31","x":true}]},{"f":"zakon/2001/22-1","t":"Zakon o akcizama","n":31,"first":2001,"pts":[{"g":"22/2001","d":"2001-04-03","x":false},{"g":"73/2001","d":"2001-12-23","x":false},{"g":"80/2002","d":"2002-11-26","x":false},{"g":"43/2003","d":"2003-04-23","x":false},{"g":"72/2003","d":"2003-07-16","x":false},{"g":"43/2004","d":"2004-04-20","x":true},{"g":"55/2004","d":"2004-05-21","x":true},{"g":"135/2004","d":"2004-12-21","x":true},{"g":"46/2005","d":"2005-06-02","x":false},{"g":"101/2005","d":"2005-11-21","x":true},{"g":"61/2007","d":"2007-07-02","x":false},{"g":"5/2009","d":"2009-01-22","x":true},{"g":"31/2009","d":"2009-04-30","x":false},{"g":"101/2010","d":"2010-12-29","x":true},{"g":"43/2011","d":"2011-06-14","x":true},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"119/2012","d":"2012-12-17","x":true},{"g":"47/2013","d":"2013-05-29","x":true},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"142/2014","d":"2014-12-25","x":true},{"g":"55/2015","d":"2015-06-25","x":true},{"g":"103/2015","d":"2015-12-14","x":true},{"g":"108/2016","d":"2016-12-29","x":true},{"g":"30/2018","d":"2018-04-20","x":true},{"g":"153/2020","d":"2020-12-21","x":true},{"g":"53/2021","d":"2021-05-28","x":true},{"g":"75/2023","d":"2023-09-06","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"109/2025","d":"2025-12-04","x":true},{"g":"80/2026","d":"2026-08-31","x":true}]},{"f":"zakon/2001/24-1","t":"Zakon o porezu na dohodak građana","n":29,"first":2001,"pts":[{"g":"24/2001","d":"2001-04-12","x":true},{"g":"80/2002","d":"2002-11-26","x":false},{"g":"135/2004","d":"2004-12-21","x":true},{"g":"62/2006","d":"2006-07-19","x":true},{"g":"65/2006","d":"2006-07-28","x":true},{"g":"31/2009","d":"2009-04-30","x":false},{"g":"44/2009","d":"2009-06-09","x":true},{"g":"18/2010","d":"2010-03-26","x":true},{"g":"50/2011","d":"2011-07-08","x":true},{"g":"91/2011","d":"2011-12-03","x":false},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"114/2012","d":"2012-12-04","x":true},{"g":"47/2013","d":"2013-05-29","x":true},{"g":"48/2013","d":"2013-06-01","x":false},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"57/2014","d":"2014-05-30","x":false},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"112/2015","d":"2015-12-30","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"153/2020","d":"2020-12-21","x":true},{"g":"44/2021","d":"2021-04-29","x":true},{"g":"118/2021","d":"2021-12-09","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"92/2023","d":"2023-10-27","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"19/2025","d":"2025-03-06","x":true},{"g":"109/2025","d":"2025-12-04","x":true}]},{"f":"zakon/2009/54-3","t":"Zakon o budžetskom sistemu","n":22,"first":2009,"pts":[{"g":"54/2009","d":"2009-07-17","x":true},{"g":"73/2010","d":"2010-10-12","x":true},{"g":"101/2010","d":"2010-12-29","x":true},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"62/2013","d":"2013-07-16","x":true},{"g":"63/2013","d":"2013-07-19","x":true},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"142/2014","d":"2014-12-25","x":true},{"g":"68/2015","d":"2015-08-04","x":true},{"g":"103/2015","d":"2015-12-14","x":true},{"g":"99/2016","d":"2016-12-12","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"31/2019","d":"2019-04-29","x":true},{"g":"72/2019","d":"2019-10-07","x":true},{"g":"149/2020","d":"2020-12-11","x":true},{"g":"118/2021","d":"2021-12-09","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"92/2023","d":"2023-10-27","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"80/2026","d":"2026-08-31","x":true}]},{"f":"zakon/2003/43-9","t":"Zakon o republičkim administrativnim taksama","n":22,"first":2003,"pts":[{"g":"43/2003","d":"2003-04-23","x":false},{"g":"51/2003","d":"2003-05-14","x":false},{"g":"61/2005","d":"2005-07-18","x":true},{"g":"101/2005","d":"2005-11-21","x":true},{"g":"5/2009","d":"2009-01-22","x":true},{"g":"54/2009","d":"2009-07-17","x":true},{"g":"50/2011","d":"2011-07-08","x":true},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"65/2013","d":"2013-07-25","x":false},{"g":"83/2015","d":"2015-10-03","x":true},{"g":"112/2015","d":"2015-12-30","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"3/2018","d":"2018-01-12","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"38/2019","d":"2019-05-31","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"90/2019","d":"2019-12-20","x":true},{"g":"144/2020","d":"2020-11-27","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"92/2023","d":"2023-10-27","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"109/2025","d":"2025-12-04","x":true}]},{"f":"zakon/2004/84-37","t":"Zakon o doprinosima za obavezno socijalno osiguranje","n":21,"first":2004,"pts":[{"g":"84/2004","d":"2004-07-24","x":false},{"g":"61/2005","d":"2005-07-18","x":true},{"g":"62/2006","d":"2006-07-19","x":true},{"g":"5/2009","d":"2009-01-22","x":true},{"g":"52/2011","d":"2011-07-15","x":true},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"47/2013","d":"2013-05-29","x":true},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"57/2014","d":"2014-05-30","x":false},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"112/2015","d":"2015-12-30","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"153/2020","d":"2020-12-21","x":true},{"g":"44/2021","d":"2021-04-29","x":true},{"g":"118/2021","d":"2021-12-09","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"92/2023","d":"2023-10-27","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"109/2025","d":"2025-12-04","x":true}]},{"f":"zakon/2001/26-1","t":"Zakon o porezima na imovinu","n":19,"first":2001,"pts":[{"g":"26/2001","d":"2001-04-26","x":false},{"g":"45/2002","d":"2002-08-01","x":false},{"g":"80/2002","d":"2002-11-26","x":false},{"g":"135/2004","d":"2004-12-21","x":true},{"g":"61/2007","d":"2007-07-02","x":false},{"g":"5/2009","d":"2009-01-22","x":true},{"g":"101/2010","d":"2010-12-29","x":true},{"g":"24/2011","d":"2011-04-04","x":true},{"g":"78/2011","d":"2011-10-19","x":true},{"g":"57/2012","d":"2012-06-08","x":true},{"g":"47/2013","d":"2013-05-29","x":true},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"99/2018","d":"2018-12-18","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"144/2020","d":"2020-11-27","x":true},{"g":"118/2021","d":"2021-12-09","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"94/2024","d":"2024-11-28","x":true}]},{"f":"zakon/2001/25-1","t":"Zakon o porezu na dobit pravnih lica","n":19,"first":2001,"pts":[{"g":"25/2001","d":"2001-04-19","x":false},{"g":"80/2002","d":"2002-11-26","x":false},{"g":"43/2003","d":"2003-04-23","x":false},{"g":"84/2004","d":"2004-07-24","x":false},{"g":"18/2010","d":"2010-03-26","x":true},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"119/2012","d":"2012-12-17","x":true},{"g":"47/2013","d":"2013-05-29","x":true},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"142/2014","d":"2014-12-25","x":true},{"g":"91/2015","d":"2015-11-05","x":true},{"g":"112/2015","d":"2015-12-30","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"153/2020","d":"2020-12-21","x":true},{"g":"118/2021","d":"2021-12-09","x":true},{"g":"94/2024","d":"2024-11-28","x":true}]},{"f":"zakon/2009/72-105","t":"Zakon o planiranju i izgradnji","n":18,"first":2009,"pts":[{"g":"72/2009","d":"2009-09-03","x":true},{"g":"81/2009","d":"2009-10-03","x":false},{"g":"64/2010","d":"2010-09-10","x":true},{"g":"24/2011","d":"2011-04-04","x":true},{"g":"121/2012","d":"2012-12-24","x":true},{"g":"42/2013","d":"2013-05-14","x":true},{"g":"50/2013","d":"2013-06-07","x":true},{"g":"98/2013","d":"2013-11-08","x":true},{"g":"132/2014","d":"2014-12-09","x":true},{"g":"145/2014","d":"2014-12-29","x":true},{"g":"83/2018","d":"2018-10-29","x":true},{"g":"31/2019","d":"2019-04-29","x":true},{"g":"37/2019","d":"2019-05-29","x":true},{"g":"9/2020","d":"2020-02-04","x":true},{"g":"52/2021","d":"2021-05-24","x":true},{"g":"62/2023","d":"2023-07-27","x":true},{"g":"91/2025","d":"2025-10-23","x":true},{"g":"80/2026","d":"2026-08-31","x":true}]},{"f":"zakon/2005/79-13","t":"Zakon o državnim službenicima","n":17,"first":2005,"pts":[{"g":"79/2005","d":"2005-09-15","x":false},{"g":"81/2005","d":"2005-09-23","x":true},{"g":"83/2005","d":"2005-09-30","x":false},{"g":"64/2007","d":"2007-07-13","x":true},{"g":"67/2007","d":"2007-07-20","x":true},{"g":"116/2008","d":"2008-12-21","x":false},{"g":"104/2009","d":"2009-12-16","x":true},{"g":"99/2014","d":"2014-09-11","x":true},{"g":"94/2017","d":"2017-10-19","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"157/2020","d":"2020-12-28","x":true},{"g":"142/2022","d":"2022-12-27","x":true},{"g":"13/2025","d":"2025-02-14","x":true},{"g":"19/2025","d":"2025-03-06","x":true},{"g":"109/2025","d":"2025-12-04","x":true},{"g":"9/2026","d":"2026-01-30","x":true},{"g":"80/2026","d":"2026-08-31","x":true}]},{"f":"zakon/2004/84-25","t":"Zakon o porezu na dodatu vrednost","n":17,"first":2004,"pts":[{"g":"84/2004","d":"2004-07-24","x":false},{"g":"86/2004","d":"2004-07-30","x":true},{"g":"61/2005","d":"2005-07-18","x":true},{"g":"61/2007","d":"2007-07-02","x":false},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"142/2014","d":"2014-12-25","x":true},{"g":"83/2015","d":"2015-10-03","x":true},{"g":"108/2016","d":"2016-12-29","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"30/2018","d":"2018-04-20","x":true},{"g":"72/2019","d":"2019-10-07","x":true},{"g":"153/2020","d":"2020-12-21","x":true},{"g":"138/2022","d":"2022-12-12","x":true},{"g":"94/2024","d":"2024-11-28","x":true},{"g":"109/2025","d":"2025-12-04","x":true}]},{"f":"zakon/1992/50-1704","t":"Zakon o stanovanju","n":17,"first":1992,"pts":[{"g":"50/1992","d":"1992-07-25","x":false},{"g":"76/1992","d":"1992-10-23","x":false},{"g":"84/1992","d":"1992-07-01","x":false},{"g":"33/1993","d":"1993-05-04","x":true},{"g":"53/1993","d":"1993-07-14","x":false},{"g":"67/1993","d":"1993-08-28","x":false},{"g":"46/1994","d":"1994-07-08","x":false},{"g":"47/1994","d":"1994-07-14","x":true},{"g":"48/1994","d":"1994-07-20","x":true},{"g":"44/1995","d":"1995-10-30","x":false},{"g":"49/1995","d":"1995-11-24","x":true},{"g":"16/1997","d":"1997-04-16","x":true},{"g":"46/1998","d":"1998-07-01","x":false},{"g":"26/2001","d":"2001-04-26","x":false},{"g":"101/2005","d":"2005-11-21","x":true},{"g":"99/2011","d":"2011-12-27","x":true},{"g":"104/2016","d":"2016-12-23","x":true}]},{"f":"zakon/1994/28-762","t":"Zakon o sudskim taksama","n":15,"first":1994,"pts":[{"g":"28/1994","d":"1994-04-19","x":false},{"g":"53/1995","d":"1995-07-01","x":false},{"g":"16/1997","d":"1997-04-16","x":true},{"g":"34/2001","d":"2001-06-16","x":false},{"g":"9/2002","d":"2002-02-25","x":false},{"g":"29/2004","d":"2004-07-01","x":false},{"g":"61/2005","d":"2005-07-18","x":true},{"g":"116/2008","d":"2008-12-21","x":false},{"g":"31/2009","d":"2009-04-30","x":false},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"93/2012","d":"2012-09-28","x":true},{"g":"93/2014","d":"2014-09-01","x":false},{"g":"106/2015","d":"2015-12-21","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"91/2025","d":"2025-10-23","x":true}]},{"f":"zakon/1992/49-1657","t":"Zakon o društvenoj brizi o deci","n":15,"first":1992,"pts":[{"g":"49/1992","d":"1992-07-22","x":true},{"g":"29/1993","d":"1993-07-01","x":false},{"g":"53/1993","d":"1993-07-14","x":false},{"g":"67/1993","d":"1993-08-28","x":false},{"g":"28/1994","d":"1994-04-19","x":false},{"g":"47/1994","d":"1994-07-14","x":true},{"g":"48/1994","d":"1994-07-20","x":true},{"g":"25/1996","d":"1996-06-06","x":false},{"g":"29/2001","d":"2001-05-17","x":true},{"g":"16/2002","d":"2002-04-05","x":true},{"g":"62/2003","d":"2003-06-17","x":false},{"g":"64/2003","d":"2003-06-23","x":false},{"g":"101/2005","d":"2005-11-21","x":true},{"g":"18/2010","d":"2010-03-26","x":true},{"g":"113/2017","d":"2017-12-17","x":true}]},{"f":"zakon/2009/41-3","t":"Zakon o bezbednosti saobraćaja na putevima","n":14,"first":2009,"pts":[{"g":"41/2009","d":"2009-06-02","x":true},{"g":"53/2010","d":"2010-07-29","x":true},{"g":"101/2011","d":"2011-12-30","x":false},{"g":"32/2013","d":"2013-04-08","x":true},{"g":"55/2014","d":"2014-05-23","x":true},{"g":"96/2015","d":"2015-11-26","x":true},{"g":"9/2016","d":"2016-02-05","x":true},{"g":"24/2018","d":"2018-03-26","x":true},{"g":"41/2018","d":"2018-05-31","x":true},{"g":"87/2018","d":"2018-11-13","x":true},{"g":"23/2019","d":"2019-03-29","x":true},{"g":"128/2020","d":"2020-10-26","x":true},{"g":"76/2023","d":"2023-09-07","x":true},{"g":"19/2025","d":"2025-03-06","x":true}]},{"f":"zakon/1992/50-1716","t":"Zakon o srednjoj školi","n":12,"first":1992,"pts":[{"g":"50/1992","d":"1992-07-25","x":false},{"g":"53/1993","d":"1993-07-14","x":false},{"g":"67/1993","d":"1993-08-28","x":false},{"g":"48/1994","d":"1994-07-20","x":true},{"g":"24/1996","d":"1996-06-01","x":false},{"g":"23/2002","d":"2002-05-04","x":false},{"g":"25/2002","d":"2002-05-16","x":true},{"g":"62/2003","d":"2003-06-17","x":false},{"g":"64/2003","d":"2003-06-23","x":false},{"g":"101/2005","d":"2005-11-21","x":true},{"g":"72/2009","d":"2009-09-03","x":true},{"g":"55/2013","d":"2013-06-25","x":true}]},{"f":"zakon/1991/37-1377","t":"Zakon o zdravstvenoj zaštiti životinja","n":12,"first":1991,"pts":[{"g":"37/1991","d":"1991-07-01","x":false},{"g":"50/1992","d":"1992-07-25","x":false},{"g":"33/1993","d":"1993-05-04","x":true},{"g":"52/1993","d":"1993-07-10","x":false},{"g":"53/1993","d":"1993-07-14","x":false},{"g":"67/1993","d":"1993-08-28","x":false},{"g":"48/1994","d":"1994-07-20","x":true},{"g":"53/1995","d":"1995-07-01","x":false},{"g":"52/1996","d":"1996-12-17","x":false},{"g":"25/2000","d":"2000-07-17","x":true},{"g":"91/2005","d":"2005-10-24","x":false},{"g":"101/2005","d":"2005-11-21","x":true}]},{"f":"zakon/2017/113-266","t":"Zakon o finansijskoj podršci porodici sa decom","n":11,"first":2017,"pts":[{"g":"113/2017","d":"2017-12-17","x":true},{"g":"50/2018","d":"2018-06-29","x":true},{"g":"46/2021","d":"2021-05-07","x":true},{"g":"51/2021","d":"2021-05-21","x":true},{"g":"53/2021","d":"2021-05-28","x":true},{"g":"66/2021","d":"2021-06-30","x":true},{"g":"130/2021","d":"2021-12-29","x":true},{"g":"43/2023","d":"2023-05-26","x":true},{"g":"62/2023","d":"2023-07-27","x":true},{"g":"11/2024","d":"2024-02-14","x":true},{"g":"79/2024","d":"2024-09-30","x":true}]},{"f":"zakon/2010/73-66","t":"Zakon o plovidbi i lukama na unutrašnjim vodama","n":11,"first":2010,"pts":[{"g":"73/2010","d":"2010-10-12","x":true},{"g":"121/2012","d":"2012-12-24","x":true},{"g":"18/2015","d":"2015-02-13","x":true},{"g":"96/2015","d":"2015-11-26","x":true},{"g":"92/2016","d":"2016-11-14","x":true},{"g":"104/2016","d":"2016-12-23","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"41/2018","d":"2018-05-31","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"9/2020","d":"2020-02-04","x":true},{"g":"52/2021","d":"2021-05-24","x":true}]},{"f":"zakon/2006/62-12","t":"Zakon o platama državnih službenika i nameštenika","n":11,"first":2006,"pts":[{"g":"62/2006","d":"2006-07-19","x":true},{"g":"63/2006","d":"2006-07-21","x":true},{"g":"115/2006","d":"2006-12-25","x":false},{"g":"101/2007","d":"2007-11-06","x":true},{"g":"99/2010","d":"2010-12-27","x":true},{"g":"108/2013","d":"2013-12-06","x":true},{"g":"99/2014","d":"2014-09-11","x":true},{"g":"95/2018","d":"2018-12-08","x":true},{"g":"14/2022","d":"2022-02-07","x":true},{"g":"19/2025","d":"2025-03-06","x":true},{"g":"109/2025","d":"2025-12-04","x":true}]},{"f":"zakon/2005/55-3","t":"Zakon o Vladi","n":11,"first":2005,"pts":[{"g":"55/2005","d":"2005-06-27","x":false},{"g":"71/2005","d":"2005-08-14","x":false},{"g":"101/2007","d":"2007-11-06","x":true},{"g":"65/2008","d":"2008-07-05","x":true},{"g":"16/2011","d":"2011-03-11","x":true},{"g":"68/2012","d":"2012-07-16","x":false},{"g":"72/2012","d":"2012-07-27","x":false},{"g":"74/2012","d":"2012-07-31","x":false},{"g":"7/2014","d":"2014-01-26","x":false},{"g":"44/2014","d":"2014-04-26","x":true},{"g":"30/2018","d":"2018-04-20","x":true}]},{"f":"zakon/2004/55-2","t":"Zakon o osiguranju","n":11,"first":2004,"pts":[{"g":"55/2004","d":"2004-05-21","x":true},{"g":"70/2004","d":"2004-06-19","x":false},{"g":"61/2005","d":"2005-07-18","x":true},{"g":"85/2005","d":"2005-10-06","x":true},{"g":"101/2007","d":"2007-11-06","x":true},{"g":"63/2009","d":"2009-08-07","x":true},{"g":"107/2009","d":"2009-12-23","x":true},{"g":"99/2011","d":"2011-12-27","x":true},{"g":"119/2012","d":"2012-12-17","x":true},{"g":"116/2013","d":"2013-12-28","x":false},{"g":"139/2014","d":"2014-12-18","x":true}]},{"f":"zakon/2001/34-1","t":"Zakon o platama u državnim organima i javnim službama","n":11,"first":2001,"pts":[{"g":"34/2001","d":"2001-06-16","x":false},{"g":"62/2006","d":"2006-07-19","x":true},{"g":"116/2008","d":"2008-12-21","x":false},{"g":"92/2011","d":"2011-12-07","x":true},{"g":"99/2011","d":"2011-12-27","x":true},{"g":"10/2013","d":"2013-01-30","x":true},{"g":"55/2013","d":"2013-06-25","x":true},{"g":"99/2014","d":"2014-09-11","x":true},{"g":"21/2016","d":"2016-03-04","x":true},{"g":"113/2017","d":"2017-12-17","x":true},{"g":"19/2025","d":"2025-03-06","x":true}]},{"f":"zakon/2001/26-6","t":"Zakon o porezima na upotrebu, držanje i nošenje dobara","n":11,"first":2001,"pts":[{"g":"26/2001","d":"2001-04-26","x":false},{"g":"80/2002","d":"2002-11-26","x":false},{"g":"43/2004","d":"2004-04-20","x":true},{"g":"31/2009","d":"2009-04-30","x":false},{"g":"101/2010","d":"2010-12-29","x":true},{"g":"24/2011","d":"2011-04-04","x":true},{"g":"68/2014","d":"2014-07-03","x":false},{"g":"112/2015","d":"2015-12-30","x":true},{"g":"86/2019","d":"2019-12-06","x":true},{"g":"118/2021","d":"2021-12-09","x":true},{"g":"92/2023","d":"2023-10-27","x":true}]},{"f":"zakon/1982/srs53-2238","t":"Zakon o bezbednosti saobraćaja na putevima","n":11,"first":1982,"pts":[{"g":"53/1982","d":"1982-07-01","x":false},{"g":"15/1984","d":"1984-04-28","x":false},{"g":"5/1986","d":"1986-02-22","x":true},{"g":"21/1990","d":"1990-12-29","x":true},{"g":"28/1991","d":"1991-07-01","x":false},{"g":"53/1993","d":"1993-07-14","x":false},{"g":"67/1993","d":"1993-08-28","x":false},{"g":"48/1994","d":"1994-07-20","x":true},{"g":"25/1997","d":"1997-06-16","x":true},{"g":"101/2005","d":"2005-11-21","x":true},{"g":"41/2009","d":"2009-06-02","x":true}]}],"n_laws":732,"median":1.0,"dist":{"6":15,"1":418,"21":1,"11":8,"4":35,"3":71,"2":109,"10":8,"7":13,"15":2,"5":25,"18":1,"8":8,"14":1,"12":2,"30":2,"17":3,"22":2,"9":5,"29":1,"19":2}},"c11":{"rows":[{"y":2016,"m":[1,3,9,7,2,9,2,0,11,18,15,29],"jan1":0,"n":106},{"y":2017,"m":[31,20,20,13,17,18,12,10,25,18,16,31],"jan1":20,"n":231},{"y":2018,"m":[38,16,25,28,21,41,28,21,25,38,38,58],"jan1":22,"n":377},{"y":2019,"m":[55,50,40,26,25,30,27,28,26,28,21,32],"jan1":34,"n":388},{"y":2020,"m":[56,52,40,19,24,21,31,19,22,23,20,54],"jan1":35,"n":381},{"y":2021,"m":[46,40,32,43,41,31,50,24,28,34,27,46],"jan1":15,"n":442},{"y":2022,"m":[43,55,28,27,24,31,21,24,14,30,14,59],"jan1":15,"n":370},{"y":2023,"m":[44,37,32,35,29,33,31,35,47,60,46,32],"jan1":24,"n":461},{"y":2024,"m":[65,27,41,26,20,18,20,21,22,26,32,43],"jan1":35,"n":361},{"y":2025,"m":[55,33,51,43,29,33,27,36,22,33,36,63],"jan1":33,"n":461}]},"c12":{"rows":[{"y":2008,"dismissed":66,"granted":7,"rejected":27},{"y":2009,"granted":98,"rejected":203,"dismissed":642,"other":10},{"y":2010,"granted":12,"rejected":6,"dismissed":3},{"y":2011,"granted":211,"rejected":149,"dismissed":1064,"other":4},{"y":2012,"rejected":376,"granted":799,"dismissed":5},{"y":2013,"rejected":26,"granted":89,"dismissed":2},{"y":2014,"granted":461,"rejected":125,"dismissed":2},{"y":2015,"granted":815,"rejected":283,"dismissed":1},{"y":2016,"granted":1176,"rejected":194,"dismissed":1},{"y":2017,"dismissed":1,"granted":28,"rejected":8},{"y":2019,"dismissed":3,"granted":122,"rejected":13},{"y":2020,"granted":463,"rejected":89,"dismissed":5},{"y":2021,"granted":804,"rejected":69,"dismissed":1},{"y":2022,"granted":345,"rejected":16},{"y":2024,"granted":829,"rejected":24},{"y":2025,"granted":856,"rejected":43,"dismissed":2},{"y":2026,"granted":146,"rejected":33}],"tot":{"granted":7263,"rejected":1684,"dismissed":1798,"other":14}},"c13":{"arts":[{"a":"32","sr":"Pravo na pravično suđenje","en":"Right to a fair trial","n":7238,"granted":5980,"rejected":1258,"dismissed":0},{"a":"58","sr":"Mirno uživanje imovine","en":"Peaceful enjoyment of property","n":2098,"granted":1913,"rejected":185,"dismissed":0},{"a":"36","sr":"Jednaka zaštita prava i pravno sredstvo","en":"Equal protection of rights and legal remedy","n":608,"granted":338,"rejected":270,"dismissed":0},{"a":"60","sr":"Pravo na rad","en":"Right to work","n":220,"granted":74,"rejected":146,"dismissed":0},{"a":"31","sr":"Trajanje pritvora","en":"Length of detention","n":179,"granted":20,"rejected":159,"dismissed":0},{"a":"27","sr":"Pravo na slobodu i bezbednost","en":"Right to liberty and security","n":128,"granted":30,"rejected":98,"dismissed":0},{"a":"35","sr":"Pravo na rehabilitaciju i naknadu štete","en":"Rehabilitation and compensation","n":96,"granted":4,"rejected":92,"dismissed":0},{"a":"34","sr":"Pravna sigurnost u kaznenom pravu","en":"Legal certainty in criminal law","n":80,"granted":14,"rejected":66,"dismissed":0},{"a":"21","sr":"Zabrana diskriminacije","en":"Prohibition of discrimination","n":76,"granted":4,"rejected":72,"dismissed":0},{"a":"30","sr":"Pritvor","en":"Detention","n":57,"granted":20,"rejected":37,"dismissed":0},{"a":"33","sr":"Posebna prava okrivljenog","en":"Rights of the accused","n":51,"granted":11,"rejected":40,"dismissed":0},{"a":"24","sr":"Pravo na život","en":"Right to life","n":31,"granted":3,"rejected":28,"dismissed":0},{"a":"65","sr":"Prava i dužnosti roditelja","en":"Rights and duties of parents","n":29,"granted":23,"rejected":6,"dismissed":0},{"a":"68","sr":"Zdravstvena zaštita","en":"Health care","n":29,"granted":3,"rejected":26,"dismissed":0}],"with_art":8934,"uz":10759},"c14":{"cells":[{"f":2007,"d":2008,"n":26},{"f":2007,"d":2009,"n":151},{"f":2007,"d":2010,"n":1},{"f":2008,"d":2008,"n":72},{"f":2008,"d":2009,"n":379},{"f":2008,"d":2010,"n":11},{"f":2008,"d":2011,"n":17},{"f":2009,"d":2009,"n":416},{"f":2009,"d":2010,"n":7},{"f":2009,"d":2011,"n":411},{"f":2009,"d":2012,"n":293},{"f":2010,"d":2010,"n":2},{"f":2010,"d":2011,"n":439},{"f":2010,"d":2012,"n":595},{"f":2010,"d":2013,"n":99},{"f":2010,"d":2014,"n":2},{"f":2010,"d":2015,"n":3},{"f":2011,"d":2011,"n":561},{"f":2011,"d":2012,"n":178},{"f":2011,"d":2013,"n":13},{"f":2011,"d":2014,"n":300},{"f":2011,"d":2015,"n":33},{"f":2011,"d":2016,"n":2},{"f":2012,"d":2012,"n":114},{"f":2012,"d":2013,"n":4},{"f":2012,"d":2014,"n":267},{"f":2012,"d":2015,"n":548},{"f":2012,"d":2016,"n":19},{"f":2012,"d":2017,"n":1},{"f":2012,"d":2020,"n":1},{"f":2013,"d":2013,"n":1},{"f":2013,"d":2014,"n":9},{"f":2013,"d":2015,"n":452},{"f":2013,"d":2016,"n":363},{"f":2013,"d":2017,"n":2},{"f":2013,"d":2020,"n":2},{"f":2014,"d":2014,"n":10},{"f":2014,"d":2015,"n":25},{"f":2014,"d":2016,"n":595},{"f":2014,"d":2017,"n":8},{"f":2014,"d":2019,"n":3},{"f":2014,"d":2020,"n":8},{"f":2014,"d":2021,"n":3},{"f":2015,"d":2015,"n":38},{"f":2015,"d":2016,"n":275},{"f":2015,"d":2017,"n":21},{"f":2015,"d":2018,"n":1},{"f":2015,"d":2019,"n":11},{"f":2015,"d":2020,"n":17},{"f":2015,"d":2021,"n":10},{"f":2015,"d":2022,"n":3},{"f":2016,"d":2016,"n":117},{"f":2016,"d":2017,"n":5},{"f":2016,"d":2019,"n":19},{"f":2016,"d":2020,"n":49},{"f":2016,"d":2021,"n":16},{"f":2016,"d":2022,"n":1},{"f":2016,"d":2024,"n":1},{"f":2016,"d":2025,"n":1},{"f":2017,"d":2019,"n":91},{"f":2017,"d":2020,"n":361},{"f":2017,"d":2021,"n":99},{"f":2017,"d":2022,"n":15},{"f":2017,"d":2023,"n":1},{"f":2017,"d":2024,"n":3},{"f":2017,"d":2025,"n":5},{"f":2017,"d":2026,"n":9},{"f":2018,"d":2019,"n":9},{"f":2018,"d":2020,"n":95},{"f":2018,"d":2021,"n":276},{"f":2018,"d":2022,"n":85},{"f":2018,"d":2024,"n":3},{"f":2018,"d":2025,"n":6},{"f":2018,"d":2026,"n":21},{"f":2019,"d":2019,"n":5},{"f":2019,"d":2020,"n":14},{"f":2019,"d":2021,"n":191},{"f":2019,"d":2022,"n":75},{"f":2019,"d":2024,"n":36},{"f":2019,"d":2025,"n":21},{"f":2019,"d":2026,"n":18},{"f":2020,"d":2020,"n":10},{"f":2020,"d":2021,"n":228},{"f":2020,"d":2022,"n":160},{"f":2020,"d":2024,"n":100},{"f":2020,"d":2025,"n":71},{"f":2020,"d":2026,"n":30},{"f":2021,"d":2021,"n":51},{"f":2021,"d":2022,"n":18},{"f":2021,"d":2024,"n":177},{"f":2021,"d":2025,"n":166},{"f":2021,"d":2026,"n":30},{"f":2022,"d":2022,"n":4},{"f":2022,"d":2024,"n":211},{"f":2022,"d":2025,"n":219},{"f":2022,"d":2026,"n":40},{"f":2023,"d":2024,"n":279},{"f":2023,"d":2025,"n":282},{"f":2023,"d":2026,"n":16},{"f":2024,"d":2024,"n":42},{"f":2024,"d":2025,"n":118},{"f":2024,"d":2026,"n":10},{"f":2025,"d":2025,"n":12},{"f":2025,"d":2026,"n":4},{"f":2026,"d":2026,"n":1}],"med":{"2022":2,"2021":2.0,"2017":2,"2016":2,"2015":3,"2014":3.0,"2013":3,"2012":2.0,"2011":1.0,"2010":2,"2009":1.0,"2008":0.0,"2026":5,"2025":3,"2024":2.0,"2020":3,"2019":2.0},"n":10749},"c15":{"groups":[{"g":"civil_appeal","n":2399,"granted":2095,"rejected":304},{"g":"proceedings","n":1028,"rejected":96,"granted":932},{"g":"civil_first","n":564,"granted":466,"rejected":95,"dismissed":3},{"g":"administrative","n":485,"granted":348,"rejected":137},{"g":"revision","n":424,"granted":293,"rejected":131},{"g":"criminal","n":419,"rejected":223,"granted":196},{"g":"other","n":366,"granted":272,"rejected":91,"dismissed":3},{"g":"reasonable_time","n":317,"granted":317},{"g":"enforcement","n":227,"granted":197,"rejected":30},{"g":"misdemeanour","n":140,"granted":99,"rejected":41},{"g":"commercial","n":100,"granted":67,"rejected":33}],"n":6469},"c16":{"rows":[{"y":2009,"statute":1},{"y":2010,"local":34,"regulation":13,"statute":2,"other":4,"law":1},{"y":2011,"law":4,"local":6,"regulation":10,"other":1,"statute":1},{"y":2012,"local":29,"law":18,"regulation":12,"statute":5,"other":5},{"y":2013,"regulation":1,"local":2,"law":1,"statute":1},{"y":2014,"law":7,"regulation":8,"local":5,"statute":3,"other":1},{"y":2015,"local":9,"law":7,"statute":2,"regulation":5},{"y":2016,"local":10,"regulation":12,"law":5,"other":1,"statute":1},{"y":2017,"local":1,"statute":1},{"y":2019,"local":2,"regulation":1,"law":1,"other":1},{"y":2020,"law":3,"local":4,"other":3,"regulation":6,"statute":1},{"y":2021,"local":2,"regulation":2,"law":6},{"y":2022,"statute":1,"local":5,"regulation":1},{"y":2024,"local":3,"regulation":1,"law":2,"other":1,"statute":1},{"y":2025,"local":4,"statute":1,"regulation":1,"law":1},{"y":2026,"regulation":1,"local":1}],"n":285,"laws":[{"y":2025,"c":"IUz-127/2015","t":"Zakon o stečaju („Službeni glasnik RS“, br. 104/09, 99/11, 71/12 – Odluka US i 83/14), član 92.","typ":"law"},{"y":2024,"c":"IUz-56/2023","t":"Zakon o državnim službenicima („Službeni glasnik RS“, br. 79/05, 81/05-ispravka, 83/05-ispravka, 64/07, 67/07-ispravka, 116/08, 104/09, 99/1","typ":"law"},{"y":2024,"c":"IUz-106/2019","t":"Zakon o zdravstvenoj zaštiti („Službeni glasnik RS“, broj 25/19), član 210. stav 1. tač. 2) i 3) i stav 3, član 212. stav 1. u delu koji gla","typ":"law"},{"y":2021,"c":"IUz-266/2018","t":"Zakon o Vojsci Srbije („Službeni glasnik RS“, br. 116/07, 88/09, 101/10-dr. zakon, 10/15, 88/15-Odluka US, 36/18 i 94/19), član 45. stav 1.","typ":"law"},{"y":2021,"c":"IUz-69/2020","t":"Zakon o ljudskim ćelijama i tkivima („Službeni glasnik RS“, broj 57/18), član 28.","typ":"law"},{"y":2021,"c":"IUz-223/2018","t":"Zakon o presađivanju ljudskih organa („Službeni glasnik RS“, broj 57/18), član 23","typ":"law"},{"y":2021,"c":"IUz-96/2015","t":"Zakonik o krivičnom postupku („Službeni glasnik RS“, br. 72/11, 101/11, 121/12, 32/13, 45/13, 55/14 i 35/19), član 363. tačka 5) i član 366.","typ":"law"},{"y":2021,"c":"IUz-266/2017","t":"Zakon o finansijskoj podršci porodici sa decom („Službeni glasnik RS“, br. 113/17 i 50/18), član 12. stav 7.","typ":"law"},{"y":2021,"c":"IUz-134/2019","t":"Zakonik o krivičnom postupku („Službeni glasnik RS“, br. 72/11, 101/11, 121/12, 32/13, 45/13, 55/14 i 35/19), član 262. stav 2.","typ":"law"},{"y":2020,"c":"IUz-247/2018","t":"Zakon o finansijskoj podršci porodici sa decom („Službeni glasnik RS“, br. 113/17 i 50/18), član 14. stav 8.","typ":"law"},{"y":2020,"c":"IUz-216/2018","t":"Zakon o finansijskoj podršci porodici sa decom („Službeni glasnik RS“, br. 113/17 i 50/18), član 17. stav 2. i član 18. st. 2, 4. i 6.","typ":"law"},{"y":2020,"c":"IUz-316/2015","t":"Zakon o ozakonjenju objekata („Službeni glasnik RS“ , broj 96/15) član 10. stav 7., čl. 2, 5, 8, 11, 18, 19, 27 i čl. 33","typ":"law"},{"y":2019,"c":"IUz-130/2017","t":"Zakon o penzijskom i invalidskom osiguranju („Službeni glasnik RS“, br. 34/03, 64/04 – Odluka US, 84/04 – dr. zakon, 85/05, 101/05 – dr. zak","typ":"law"},{"y":2016,"c":"IUz-424/2014","t":"Zakon o radu čl.179 st.3. tačka 5 čl.179 st.3. tačka 5","typ":"law"},{"y":2016,"c":"IUz-367/2013","t":"Zakon o prekršajima Član 336., tačka 1., tačka 3. Član 336., tačka 1., tačka 3.","typ":"law"},{"y":2016,"c":"IUz-92/2014","t":"Zakon o izmenama i dopunama Zakona o sudijama Član 16. Član 16.","typ":"law"},{"y":2016,"c":"IUz-166/2014","t":"Zakon o osnovama sistema obrazovanja i vaspitanja čl.54.st.10 čl.54.st.10","typ":"law"},{"y":2016,"c":"IUz-80/2014","t":"Zakon o javnom tužilaštvu član 73, stav 2 i stav 5 član 73, stav 2 i stav 5","typ":"law"},{"y":2015,"c":"IUz-196/2013","t":"Zakon o osnovama bezbednosti saobraćaja na putevima čl.312. čl.312.","typ":"law"},{"y":2015,"c":"IUz-90/2014","t":"Zakon o vraćanju oduzete imovine i obeštećenju član 23 stav 4 član 23 stav 4","typ":"law"},{"y":2015,"c":"IUz-391/2013","t":"Zakon o Vojsci Srbije („Službeni glasnik RS“, br. 116/07, 88/09, 101/10 - dr. zakon i 10/15), član 167. stav 1.","typ":"law"},{"y":2015,"c":"IUz-204/2013","t":"Zakon o okupljanju građana („Službeni glasnik RS“, br. 51/92, 53/93, 67/93, 17/99 i 33/99, „Službeni list SRJ“, broj 21/01 i „Službeni glasn","typ":"law"},{"y":2015,"c":"IUz-479/2014","t":"Zakon o političkim strankama-čl.8,9. i 30 (\"Sl.glasnik RS\",br.36/09) Čl. 8, 10, 11 st. 2, 12, 24 st. 4, 45 st. 2 Čl. 8, 10, 11 st. 2, 12, 24","typ":"law"},{"y":2015,"c":"IUz-799/2012","t":"Zakon o hipoteci član 31. stav 7. član 31. stav 7.","typ":"law"},{"y":2015,"c":"IUz-156/2014","t":"Zakon o dopuni Zakona o sudijama (''Službeni glasnik RS'', broj 121/12) čl.1. čl.1.","typ":"law"},{"y":2014,"c":"IUz-1243/2010","t":"Zakon o Narodnoj banci Srbije (\"Službeni glasnik RS\", br. 72/03, 55/04 i 44/10), član 86b","typ":"law"},{"y":2014,"c":"IUz-312/2013","t":"Zakon o izmenama i dopunama Zakona o državnom premeru i katastru (“Službeni glasnik RS“, broj 65/13), član 1.","typ":"law"},{"y":2014,"c":"IUz-295/2013","t":"Zakon o Agenciji za borbu protiv korupcije („Službeni glasnik RS“, br. 97/08, 53/10, 66/11-US, 67/13-US i 112/13-autentično tumačenje), član","typ":"law"},{"y":2014,"c":"IUz-361/2012","t":"Zakon o zdravstvenom osiguranju Republike Srbije Član 142., st. 4., čl. 146., st. 4., st. 5. Član 142., st. 4., čl. 146., st. 4., st. 5.","typ":"law"},{"y":2014,"c":"IUz-427/2013","t":"Zakon o sudijama član 50. stav 4. član 50. stav 4.","typ":"law"},{"y":2014,"c":"IUz-428/2013","t":"Zakon o javnom tužilaštvu član 75. stav 2. član 75. stav 2.","typ":"law"},{"y":2014,"c":"IUz-252/2002","t":"Zakon o bezbednosno-informativnoj agenciji čl. 13, 14. i 15. čl. 13, 14. i 15. čl. 13, 14. i 15.","typ":"law"},{"y":2013,"c":"IUz-95/2013","t":"Zakon o privatizaciji („Službeni glasnik RS“, br. 38/01, 18/03, 45/05, 123/07, 123/07-dr.zakon, 30/10-dr. zakon, 93/12 i 119/12), član 20ž s","typ":"law"},{"y":2012,"c":"IUz-97/2012","t":"Zakon o Ustavnom sudu, član 89. stav 2 („Službeni glasnik RS“, br . 109/07 i 99/11)","typ":"law"},{"y":2012,"c":"IUz-909/2010","t":"Zakon o obaveznom osiguranju u saobraćaju - čl. 26. - čl. 26. -čl. 26. stav 2. -čl. 26. stav 2.","typ":"law"},{"y":2012,"c":"IUz-733/2011","t":"Zakon o sudijama (\"Službeni glasnik RS\", broj 116/08) član 102. stav 5. član 102. stav 5.","typ":"law"},{"y":2012,"c":"IUz-128/2011","t":"Zakon o porezu na dohodak građana –čl.9.tač.16. –čl.9.tač.16.","typ":"law"},{"y":2012,"c":"IUz-314/2011","t":"Zakon o zdravstvenom osiguranju čl. 33. stav 5. čl. 33. stav 5.","typ":"law"},{"y":2012,"c":"IUz-1442/2010","t":"Zakon o štrajku - član 18. - član 18.","typ":"law"},{"y":2012,"c":"IUo-282/2005","t":"Zakon o izmenama i dopunama Zakona o pravima boraca, vojnih invalida i članova njihovih porodica (\"Službeni glasnik RS\", br.137/04) 1, 2, 3,","typ":"law"}],"tot":{"statute":21,"local":117,"regulation":74,"law":56,"other":17}},"c17":{"rows":[{"y":2013,"decision":120,"answer":171,"silence":709,"notice":14,"n":1014},{"y":2014,"silence":1319,"decision":305,"answer":287,"notice":45,"n":1956},{"y":2015,"silence":2141,"decision":565,"answer":922,"notice":185,"n":3813},{"y":2016,"answer":775,"silence":1821,"decision":678,"notice":192,"n":3466},{"y":2017,"decision":557,"silence":2014,"notice":160,"answer":942,"n":3673},{"y":2018,"silence":1808,"decision":573,"answer":796,"notice":163,"n":3340},{"y":2019,"silence":2344,"decision":794,"answer":1843,"notice":284,"n":5265},{"y":2020,"silence":1694,"notice":211,"decision":756,"answer":620,"n":3281},{"y":2021,"decision":2111,"silence":1891,"answer":895,"notice":277,"n":5174},{"y":2022,"silence":4651,"answer":3142,"decision":1088,"notice":294,"costs":34,"n":9209},{"y":2023,"silence":6705,"decision":1777,"notice":814,"answer":7363,"costs":42,"n":16701},{"y":2024,"notice":898,"decision":1876,"silence":4711,"answer":3345,"costs":76,"n":10906},{"y":2025,"answer":2882,"silence":4576,"decision":986,"notice":310,"costs":30,"n":8784},{"y":2026,"silence":1602,"decision":474,"answer":1412,"notice":78,"costs":5,"n":3571}],"n":80153,"silence":37986},"c18":{"groups":[{"sr":"Organi gradova i opština","en":"City and municipal bodies","n":15994,"silence":8637},{"sr":"Osnovne i srednje škole","en":"Primary and secondary schools","n":8848,"silence":3407},{"sr":"Ministarstva","en":"Ministries","n":8489,"silence":4208},{"sr":"Republička javna preduzeća","en":"State-owned enterprises","n":8040,"silence":4489},{"sr":"Lokalna javna preduzeća","en":"Local public enterprises","n":8017,"silence":3303},{"sr":"Republičke agencije, zavodi i fondovi","en":"State agencies, institutes and funds","n":7476,"silence":3338},{"sr":"Pravosudni organi","en":"Courts and prosecutors","n":6202,"silence":2409},{"sr":"Ostali organi","en":"Other bodies","n":5169,"silence":2710},{"sr":"Zdravstvene ustanove","en":"Health institutions","n":5052,"silence":2409},{"sr":"Visokoškolske ustanove","en":"Universities and colleges","n":1846,"silence":816},{"sr":"Nauka, kultura i informisanje","en":"Science, culture and media institutions","n":1786,"silence":839},{"sr":"Ustanove socijalne zaštite","en":"Social care institutions","n":1636,"silence":691},{"sr":"Javne službe lokalne samouprave","en":"Local public services","n":1598,"silence":730}],"top":[{"a":"MUP Ministarstvo unutrašnjih poslova","n":1799},{"a":"Srbijagas JP","n":1725},{"a":"Grad Beograd Gradska uprava","n":1125},{"a":"Republički geodetski zavod RGZ","n":717},{"a":"Republički fond za penzijsko i invalidsko osiguranje PIO","n":658},{"a":"AIR SERBIA ad","n":645},{"a":"Telekom Srbija ad","n":441},{"a":"Viši sud Beograd","n":370},{"a":"Opština Koceljeva Opštinska uprava","n":302},{"a":"Republički fond za zdravstveno osiguranje RFZO","n":272},{"a":"Poreska uprava Ministarstvo finansija","n":264},{"a":"Ministarstvo zaštite životne sredine","n":263}]},"c19":{"groups":[{"g":"enterprise","n":1181,"done":875,"ongoing":150,"partly":106,"not":37,"na":13},{"g":"institution","n":857,"done":784,"partly":46,"not":19,"ongoing":8},{"g":"local","n":663,"partly":145,"not":35,"done":458,"ongoing":25},{"g":"agency","n":442,"done":362,"ongoing":10,"partly":50,"not":18,"na":2},{"g":"ministry","n":274,"done":161,"partly":50,"ongoing":28,"na":3,"not":32},{"g":"judiciary","n":203,"done":171,"partly":32},{"g":"party","n":67,"not":32,"done":28,"ongoing":2,"partly":5},{"g":"province","n":30,"done":17,"partly":11,"not":2},{"g":"state_accounts","n":19,"partly":12,"ongoing":4,"done":3}],"n":3736,"tot":{"partly":457,"not":175,"done":2859,"ongoing":227,"na":18},"not_top":[{"who":"Politička stranka Zeleni Srbije","n":18},{"who":"Partija za demokratski progres","n":13},{"who":"Republička direkcija za robne rezerve","n":9},{"who":"Ministarstvo za brigu o porodici i demografiju","n":8},{"who":"JKP „Parking servis“, Smederevo","n":8},{"who":"Zavod za vaspitanje dece i omladine","n":8},{"who":"JKP „Gradska toplana“, Novi Pazar","n":7},{"who":"NIP Kompanija ,,Borba“ a. d.","n":5},{"who":"Ministarstvo poljoprivrede, šumarstva i vodoprivrede – Uprava za veterinu","n":5},{"who":"Opština Kovačica","n":4}]},"c20":{"years":[2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014],"rows":[{"i":"Grad Beograd","by":{"2002":100,"2003":288,"2004":273,"2005":276,"2006":192,"2007":292,"2008":247,"2009":274,"2010":394,"2011":324,"2012":315,"2013":338,"2014":410},"n":3723},{"i":"Obrenovac","by":{"2002":11,"2003":32,"2004":47,"2005":92,"2006":93,"2007":84,"2008":134,"2009":55,"2010":73,"2011":40,"2012":148,"2013":102,"2014":46},"n":957},{"i":"Lazarevac","by":{"2002":43,"2003":57,"2004":55,"2005":104,"2006":51,"2007":72,"2008":116,"2009":64,"2010":39,"2011":55,"2012":107,"2013":102,"2014":39},"n":904},{"i":"Zemun","by":{"2002":2,"2003":45,"2004":71,"2005":44,"2006":33,"2007":32,"2008":127,"2009":118,"2010":59,"2011":41,"2012":44,"2013":103,"2014":31},"n":750},{"i":"Surčin","by":{"2003":1,"2004":37,"2005":69,"2006":64,"2007":89,"2008":75,"2009":54,"2010":43,"2011":29,"2012":173,"2013":65,"2014":23},"n":722},{"i":"Voždovac","by":{"2003":3,"2004":60,"2005":39,"2006":40,"2007":29,"2008":128,"2009":50,"2010":138,"2011":35,"2012":22,"2013":34,"2014":97},"n":675},{"i":"Vračar","by":{"2002":24,"2003":27,"2004":44,"2005":31,"2006":35,"2007":41,"2008":66,"2009":47,"2010":71,"2011":58,"2012":77,"2013":54,"2014":33},"n":608},{"i":"Grocka","by":{"2002":3,"2003":65,"2004":45,"2005":38,"2006":53,"2007":28,"2008":60,"2009":44,"2010":46,"2011":29,"2012":52,"2013":67,"2014":64},"n":594},{"i":"Mladenovac","by":{"2002":21,"2003":60,"2004":66,"2005":63,"2006":30,"2007":60,"2008":57,"2009":32,"2010":47,"2011":21,"2012":59,"2013":48,"2014":27},"n":591},{"i":"Barajevo","by":{"2002":10,"2003":67,"2004":29,"2005":55,"2006":23,"2007":84,"2008":51,"2009":31,"2010":46,"2011":26,"2012":38,"2013":60,"2014":42},"n":562},{"i":"Zvezdara","by":{"2002":9,"2003":10,"2004":37,"2005":91,"2006":27,"2007":24,"2008":64,"2009":28,"2010":41,"2011":16,"2012":80,"2013":44,"2014":32},"n":503},{"i":"Rakovica","by":{"2002":1,"2003":32,"2004":50,"2005":48,"2006":33,"2007":31,"2008":52,"2009":42,"2010":23,"2011":19,"2012":77,"2013":49,"2014":44},"n":501},{"i":"Stari grad","by":{"2002":6,"2003":16,"2004":40,"2005":30,"2006":41,"2007":26,"2008":53,"2009":61,"2010":36,"2011":25,"2012":65,"2013":51,"2014":30},"n":480},{"i":"Novi Beograd","by":{"2002":4,"2003":32,"2004":40,"2005":33,"2006":11,"2007":50,"2008":19,"2009":39,"2010":33,"2011":18,"2012":60,"2013":60,"2014":25},"n":424},{"i":"Palilula","by":{"2002":4,"2003":16,"2004":45,"2005":31,"2006":33,"2007":33,"2008":40,"2009":46,"2010":30,"2011":28,"2012":61,"2013":26,"2014":16},"n":409},{"i":"Čukarica","by":{"2002":4,"2003":9,"2004":32,"2005":18,"2006":13,"2007":8,"2008":43,"2009":23,"2010":33,"2011":20,"2012":67,"2013":33,"2014":51},"n":354},{"i":"Savski venac","by":{"2002":4,"2003":11,"2004":24,"2005":19,"2006":11,"2007":15,"2008":23,"2009":21,"2010":25,"2011":13,"2012":22,"2013":24,"2014":13},"n":225},{"i":"Sopot","by":{"2002":2,"2003":29,"2004":19,"2005":23,"2006":11,"2007":10,"2008":43,"2009":12,"2010":12,"2011":5,"2012":30,"2013":11,"2014":9},"n":216}],"n":13554,"plans":{"2002":2,"2003":22,"2004":39,"2005":56,"2006":50,"2007":75,"2008":51,"2009":54,"2010":85,"2011":39,"2012":37,"2013":43,"2014":48}}}};
+</script>
+<script>
+"use strict";
+const D = DATA.charts, PF = DATA.profile;
+let LANG = 'sr';
+try { const q = new URLSearchParams(location.search).get('lang'); if (q === 'en' || q === 'sr') LANG = q; else { const s = localStorage.getItem('rs-viz-lang'); if (s === 'en' || s === 'sr') LANG = s; } } catch (e) {}
+let THEME = 'auto';
+try { const t = localStorage.getItem('rs-viz-theme'); if (t === 'light' || t === 'dark') THEME = t; } catch (e) {}
+
+// ------------------------------------------------------------------ strings
+const S = {
+sr: {
+  kicker: 'serbia-law · vizualizacije',
+  title: 'Srpsko pravo u 20 grafikona',
+  lede: 'Dvadeset grafikona nacrtanih samo iz podataka ovog repozitorijuma: propisi iz Pravno-informacionog sistema, predlozi zakona Narodne skupštine, praksa Ustavnog suda, žalbe Povereniku za informacije od javnog značaja, preporuke Državne revizorske institucije i Službeni list Grada Beograda. Uz svaki grafikon stoje putanja podataka, broj zapisa i ograničenja, a ispod njega tabela sa brojevima.',
+  profile_h: 'Profil podataka: šta je korišćeno i koliko je potpuno',
+  tbl: 'Tabela sa podacima', src: 'Izvor u repozitorijumu', n: 'Zapisa', cover: 'Obuhvat', caveat: 'Ograničenje',
+  ds: 'Skup podataka', foot: 'Napravljeno iz repozitorijuma lexifina/serbia-law ({built}). Brojevi se računaju skriptom visualisations/src/prep.py iz istorije gita i tabela u data/ i registry/data/; stranicu sastavlja build.py. Svi grafikoni su opisni: pokazuju šta je zabeleženo u izvorima, ne uzroke.',
+  tiles: ['komita u istoriji', 'akata u registru (važeći)', 'predloga zakona (2007–2026)', 'odluka Ustavnog suda', 'žalbi Povereniku', 'akata u Sl. listu Beograda'],
+  year: 'Godina', total: 'Ukupno', laws: 'zakona', days: 'dana', share: 'Udeo', count: 'Broj', of: 'od',
+  partial: 'delimična godina',
+},
+en: {
+  kicker: 'serbia-law · visualisations',
+  title: 'Serbian law in 20 charts',
+  lede: 'Twenty charts drawn only from the data in this repository: the acts of the Legal Information System, the National Assembly\'s bills, the Constitutional Court\'s case law, appeals to the Commissioner for Information of Public Importance, the State Audit Institution\'s recommendations and the Official Gazette of the City of Belgrade. Each chart names its data path, its record count and its limits, and has a table of the numbers under it.',
+  profile_h: 'Data profile: what was used and how complete it is',
+  tbl: 'Data table', src: 'Source in the repository', n: 'Records', cover: 'Coverage', caveat: 'Limit',
+  ds: 'Dataset', foot: 'Built from the lexifina/serbia-law repository ({built}). The numbers are computed by visualisations/src/prep.py from the git history and the tables in data/ and registry/data/; build.py assembles the page. All charts are descriptive: they show what the sources record, not causes.',
+  tiles: ['commits in the history', 'register acts (in force)', 'bills (2007–2026)', 'Constitutional Court decisions', 'appeals to the Commissioner', 'acts in Belgrade\'s gazette'],
+  year: 'Year', total: 'Total', laws: 'laws', days: 'days', share: 'Share', count: 'Count', of: 'of',
+  partial: 'partial year',
+}};
+const t = k => S[LANG][k];
+const L = (sr, en) => LANG === 'sr' ? sr : en;
+const fmt = n => (n == null ? '–' : (+n).toLocaleString(LANG === 'sr' ? 'sr-Latn-RS' : 'en-GB'));
+const pct = (a, b, d = 0) => b ? (100 * a / b).toFixed(d).replace('.', LANG === 'sr' ? ',' : '.') + '%' : '–';
+const MONTHS = { sr: ['jan', 'feb', 'mar', 'apr', 'maj', 'jun', 'jul', 'avg', 'sep', 'okt', 'nov', 'dec'], en: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'] };
+const MGEN = ['januara', 'februara', 'marta', 'aprila', 'maja', 'juna', 'jula', 'avgusta', 'septembra', 'oktobra', 'novembra', 'decembra'];
+const dateTxt = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'sr' ? `${d}. ${MGEN[m - 1]} ${y}.` : `${d} ${MONTHS.en[m - 1]} ${y}`; };
+const dateShort = s => { const [y, m, d] = s.split('-').map(Number); return LANG === 'sr' ? `${d}. ${m}. ${y}.` : `${d} ${MONTHS.en[m - 1]} ${y}`; };
+const css = v => getComputedStyle(document.documentElement).getPropertyValue(v).trim();
+const S8 = () => [1, 2, 3, 4, 5, 6, 7, 8].map(i => css('--s' + i));
+const esc = s => String(s).replace(/[&<>"]/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;' }[c]));
+
+// ------------------------------------------------------------------ tooltip
+const tip = document.getElementById('tip');
+function showTip(ev, html) { tip.innerHTML = html; tip.style.opacity = 1; moveTip(ev); }
+function moveTip(ev) {
+  const r = tip.getBoundingClientRect(), pad = 14;
+  let x = ev.clientX + pad, y = ev.clientY + pad;
+  if (x + r.width > innerWidth - 8) x = ev.clientX - r.width - pad;
+  if (y + r.height > innerHeight - 8) y = ev.clientY - r.height - pad;
+  tip.style.left = Math.max(8, x) + 'px'; tip.style.top = Math.max(8, y) + 'px';
+}
+function hideTip() { tip.style.opacity = 0; }
+function bindTip(sel, fn) {
+  sel.on('mouseenter', (ev, d) => showTip(ev, fn(d))).on('mousemove', moveTip).on('mouseleave', hideTip)
+     .on('touchstart', (ev, d) => { const tt = ev.touches[0]; showTip({ clientX: tt.clientX, clientY: tt.clientY }, fn(d)); }, { passive: true });
+}
+const trow = (sw, k, v) => `<div class="r"><span>${sw ? `<i class="sw" style="background:${sw}"></i>` : ''}${esc(k)}</span><span>${v}</span></div>`;
+
+// ------------------------------------------------------------------ chart scaffolding
+function legend(el, items) {
+  const lg = el.append('div').attr('class', 'legend');
+  items.forEach(it => { const s = lg.append('span'); s.append('i').attr('class', it.shape || '').style('background', it.c); s.append('span').text(it.l); });
+}
+function svgIn(el, w, h) { return el.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h).attr('role', 'img'); }
+function table(el, head, rows) {
+  const d = el.append('details').attr('class', 'tbl');
+  d.append('summary').text(t('tbl'));
+  const tb = d.append('div').attr('class', 'scroll').append('table');
+  tb.append('thead').append('tr').selectAll('th').data(head).join('th').attr('class', (h, i) => i ? 'n' : null).text(h => h);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').attr('class', (v, i) => i ? 'n' : null).text(v => typeof v === 'number' ? fmt(v) : v);
+}
+function note(el, src, n, extra) {
+  const p = el.append('p').attr('class', 'note');
+  p.html(`<b>${t('src')}:</b> ${src.map(s => `<code>${esc(s)}</code>`).join(' ')} · <b>${t('n')}:</b> ${n}${extra ? ' · ' + extra : ''}`);
+}
+function yAxis(g, y, w, ticks = 5, f = fmt) {
+  const ax = g.append('g').attr('class', 'axis grid');
+  y.ticks(ticks).forEach(v => {
+    ax.append('line').attr('x1', 0).attr('x2', w).attr('y1', y(v)).attr('y2', y(v));
+    ax.append('text').attr('x', -6).attr('y', y(v)).attr('dy', '0.32em').attr('text-anchor', 'end').text(f(v));
+  });
+}
+const W = el => Math.max(300, Math.min(1000, el.node().getBoundingClientRect().width || 900));
+const narrow = w => w < 560;
+// column with rounded top only
+function colPath(x, y0, w, y1, r = 4) {
+  const h = y0 - y1; if (h <= 0) return '';
+  r = Math.min(r, h, w / 2);
+  return `M${x},${y0}V${y1 + r}Q${x},${y1} ${x + r},${y1}H${x + w - r}Q${x + w},${y1} ${x + w},${y1 + r}V${y0}Z`;
+}
+function barPath(x0, y, x1, h, r = 4) {
+  const w = x1 - x0; if (w <= 0) return '';
+  r = Math.min(r, w, h / 2);
+  return `M${x0},${y}H${x1 - r}Q${x1},${y} ${x1},${y + r}V${y + h - r}Q${x1},${y + h} ${x1 - r},${y + h}H${x0}Z`;
+}
+// stacked columns, keys bottom-up; the top segment gets the rounded end, 2px surface gaps
+function stackedColumns(el, rows, keys, colors, names, opt = {}) {
+  const w = W(el), h = opt.h || 300, m = { t: 14, r: 8, b: 26, l: 44 };
+  const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+  const iw = w - m.l - m.r, ih = h - m.t - m.b;
+  const x = d3.scaleBand().domain(rows.map(r => r.y)).range([0, iw]).padding(0.25);
+  const tot = r => keys.reduce((s, k) => s + (r[k] || 0), 0);
+  const y = d3.scaleLinear().domain([0, opt.max || d3.max(rows, tot)]).nice().range([ih, 0]);
+  yAxis(g, y, iw, opt.ticks || 5, opt.yf);
+  const bw = Math.min(24, x.bandwidth());
+  rows.forEach(r => {
+    let acc = 0; const segs = keys.map((k, i) => ({ k, i, v: r[k] || 0 })).filter(s => s.v > 0);
+    const gx = x(r.y) + (x.bandwidth() - bw) / 2;
+    segs.forEach((s, j) => {
+      const y0 = y(acc), y1 = y(acc + s.v); acc += s.v;
+      const gap = j ? 1 : 0, top = j === segs.length - 1;
+      const yy0 = y0 - gap, yy1 = top ? y1 : y1 + 1;
+      if (yy0 - yy1 < 0.5) return;
+      g.append('path').attr('d', top ? colPath(gx, yy0, bw, yy1) : `M${gx},${yy0}V${yy1}H${gx + bw}V${yy0}Z`).attr('fill', colors[s.i]).attr('opacity', opt.partial && opt.partial(r) ? 0.55 : 1);
+    });
+    if (opt.topLabel) g.append('text').attr('class', 'lbl').attr('x', gx + bw / 2).attr('y', y(tot(r)) - 5).attr('text-anchor', 'middle').text(opt.topLabel(r));
+  });
+  g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+  const every = Math.ceil(rows.length / Math.max(4, Math.floor(iw / 44)));
+  rows.forEach((r, i) => { if (i % every === 0 || (i === rows.length - 1 && (rows.length - 1) % every >= every / 2)) g.append('text').attr('class', 'lbl').attr('x', x(r.y) + x.bandwidth() / 2).attr('y', ih + 16).attr('text-anchor', 'middle').text(opt.xf ? opt.xf(r.y) : r.y); });
+  bindTip(g.selectAll('.hit').data(rows).join('rect').attr('class', 'hit').attr('x', r => x(r.y)).attr('width', x.bandwidth()).attr('y', 0).attr('height', ih),
+    r => `<b>${opt.xf ? opt.xf(r.y) : r.y}${opt.partial && opt.partial(r) ? ' (' + t('partial') + ')' : ''}</b>` + keys.map((k, i) => (r[k] ? trow(colors[i], names[i], fmt(r[k]) + ` · ${pct(r[k], tot(r))}`) : '')).reverse().join('') + trow(null, t('total'), fmt(tot(r))));
+  return { svg, g, x, y };
+}
+
+// ------------------------------------------------------------------ helpers for data
+const sum = (a, f) => a.reduce((s, d) => s + (f ? f(d) : d), 0);
+const BT = { amend: ['Izmene i dopune', 'Amendments'], new: ['Novi zakoni', 'New laws'], treaty: ['Potvrđivanje ugovora', 'Treaty ratifications'],
+  loan: ['Ugovori o zajmu', 'Loan agreements'], guarantee: ['Garancije države', 'State guarantees'], budget: ['Budžet i završni račun', 'Budget and final accounts'], interp: ['Autentično tumačenje', 'Authentic interpretation'] };
+
+// ------------------------------------------------------------------ the charts
+const CH = [];
+const part = (id, sr, en, dsr, den) => CH.push({ part: true, id, sr, en, dsr, den });
+const chart = (id, fn) => CH.push({ id, fn });
+
+part('p1', 'I. Narodna skupština', 'I. The National Assembly',
+  'Predlozi zakona i zakoni sa sajta Narodne skupštine (data/bills-<godina>.csv): kada je predlog podnet, da li je usvojen i kada.',
+  'Bills and laws from the National Assembly\'s website (data/bills-<year>.csv): when each bill was filed, whether it passed and when.');
+
+chart('c01', el => {
+  const c = D.c01, keys = ['amend', 'new', 'treaty', 'loan', 'guarantee', 'budget'], cols = S8();
+  const colors = [cols[0], cols[1], cols[2], cols[3], cols[4], cols[6]];
+  const names = keys.map(k => L(...BT[k]));
+  const all = {}; keys.forEach(k => all[k] = sum(c.rows, r => r[k] || 0)); const N = sum(c.rows, r => sum(keys, k => r[k] || 0));
+  const y1 = c.years[c.years.length - 1];
+  return {
+    title: L('Šta Skupština usvaja: pre svega izmene postojećih zakona i potvrđivanje ugovora', 'What the Assembly passes: mostly amendments to existing laws and ratified agreements'),
+    dek: L(`Od ${fmt(N)} zakona usvojenih ${c.years[0]}–${y1}, ${pct(all.amend, N)} menja postojeće zakone, ${pct(all.treaty, N)} potvrđuje međunarodne ugovore, a ${pct(all.loan + all.guarantee, N)} su zajmovi i državne garancije. Potpuno novih zakona je ${pct(all.new, N)}.`,
+      `Of ${fmt(N)} laws passed in ${c.years[0]}–${y1}, ${pct(all.amend, N)} amend existing laws, ${pct(all.treaty, N)} ratify international agreements and ${pct(all.loan + all.guarantee, N)} are loans and state guarantees. Entirely new laws are ${pct(all.new, N)}.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: names[i] })));
+      stackedColumns(el, c.rows, keys, colors, names, { partial: r => r.y === y1, topLabel: r => fmt(sum(keys, k => r[k] || 0)) });
+      note(el, ['data/bills-*.csv'], fmt(N) + ' ' + t('laws'), L(`vrsta je određena iz naslova predloga („o izmenama i dopunama“, „o potvrđivanju“, „zajam/kredit“, „garancija“, „budžet“); ${y1} je delimična godina (do ${dateTxt(PF.bills.last_adopted)}); godine sa manje od 40 usvojenih zakona su izostavljene jer spisak za njih nije potpun.`, `type read from the bill title ("amending", "ratifying", "loan/credit", "guarantee", "budget"); ${y1} is a partial year (to ${dateTxt(PF.bills.last_adopted)}); years with fewer than 40 laws are left out because the list for them is incomplete.`));
+      table(el, [t('year'), ...names, t('total')], c.rows.map(r => [String(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+chart('c02', el => {
+  const c = D.c02;
+  const big = c.days.slice().sort((a, b) => b.n - a.n).slice(0, 5);
+  return {
+    title: L('Zakoni se usvajaju u paketima: dani za glasanje sa desetinama zakona', 'Laws pass in bundles: voting days with dozens of laws'),
+    dek: L(`Svaka tačka je jedan dan u kojem je Skupština usvojila bar jedan zakon (${fmt(c.n_days)} dana). ${pct(c.share_10plus, 1)} svih zakona usvojeno je na danima sa 10 ili više zakona. Najviše: ${big[0].n} zakona ${dateTxt(big[0].d)}`,
+      `Each dot is a day on which the Assembly passed at least one law (${fmt(c.n_days)} days). ${pct(c.share_10plus, 1)} of all laws passed on days with 10 or more laws. The most: ${big[0].n} laws on ${dateTxt(big[0].d)}.`),
+    draw(el) {
+      const w = W(el), h = 300, m = { t: 18, r: 14, b: 26, l: 40 };
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, ih = h - m.t - m.b;
+      const pd = d3.timeParse('%Y-%m-%d');
+      const days = c.days.filter(d => d.d >= '2011-01-01');
+      const x = d3.scaleTime().domain([new Date(2011, 0, 1), new Date(2027, 0, 1)]).range([0, iw]);
+      const y = d3.scaleLinear().domain([0, d3.max(days, d => d.n)]).nice().range([ih, 0]);
+      yAxis(g, y, iw);
+      g.append('line').attr('class', 'base').attr('x1', 0).attr('x2', iw).attr('y1', ih).attr('y2', ih);
+      x.ticks(narrow(w) ? 5 : 10).forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 16).attr('text-anchor', 'middle').text(v.getFullYear()));
+      const col = css('--s1');
+      g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', y(10)).attr('y2', y(10)).attr('stroke', css('--text-3')).attr('stroke-dasharray', null).attr('stroke-width', 1).attr('opacity', .5);
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', y(10) - 4).attr('text-anchor', 'end').text(L('10 zakona u jednom danu', '10 laws in one day'));
+      g.selectAll('line.st').data(days).join('line').attr('class', 'st').attr('x1', d => x(pd(d.d))).attr('x2', d => x(pd(d.d))).attr('y1', ih).attr('y2', d => y(d.n)).attr('stroke', col).attr('stroke-width', 1).attr('opacity', .35);
+      const dots = g.selectAll('circle').data(days).join('circle').attr('cx', d => x(pd(d.d))).attr('cy', d => y(d.n)).attr('r', d => d.n >= 10 ? 4.5 : 3).attr('fill', col).attr('stroke', css('--surface')).attr('stroke-width', 1.5);
+      bindTip(dots, d => `<b>${dateTxt(d.d)}</b>` + trow(null, L('Usvojeno zakona', 'Laws passed'), d.n) + Object.entries(d.t).sort((a, b) => b[1] - a[1]).map(([k, v]) => trow(null, L(...BT[k]), v)).join(''));
+      const placed = [];
+      big.slice(0, narrow(w) ? 2 : 5).forEach(d => {
+        const xx = x(pd(d.d)), yy = y(d.n), txt = `${d.n} · ${dateShort(d.d)}`, tw = txt.length * 6.2 + 4;
+        const cands = [[xx + 8, yy + 4, 'start'], [xx - 8, yy + 4, 'end'], [xx + 8, yy + 18, 'start'], [xx - 8, yy + 18, 'end'], [xx + 8, yy + 32, 'start'], [xx - 8, yy + 32, 'end']];
+        for (const [lx, ly, an] of cands) {
+          const x0 = an === 'start' ? lx : lx - tw, box = [x0, ly - 11, x0 + tw, ly + 3];
+          if (x0 < 0 || x0 + tw > iw) continue;
+          if (placed.some(b => !(box[2] < b[0] || box[0] > b[2] || box[3] < b[1] || box[1] > b[3]))) continue;
+          placed.push(box);
+          g.append('text').attr('class', 'lbl strong').attr('x', lx).attr('y', ly).attr('text-anchor', an).text(txt);
+          break;
+        }
+      });
+      note(el, ['data/bills-*.csv (law_adopted)'], fmt(c.n_laws) + ' ' + t('laws'), L('Poslovnik Narodne skupštine dozvoljava zajednički načelni pretres o više predloga (čl. 157), a o svakom se glasa posebno; zato veliki dani za glasanje nastaju na kraju zasedanja.', 'The Assembly\'s Rules of Procedure allow a joint general debate on several bills (art. 157), each voted separately; that is how the big voting days at the end of a session come about.'));
+      table(el, [L('Dan', 'Day'), L('Zakona', 'Laws')], c.days.slice().sort((a, b) => b.n - a.n).slice(0, 40).map(d => [d.d, d.n]));
+    }
+  };
+});
+
+chart('c03', el => {
+  const c = D.c03;
+  return {
+    title: L('Od predloga do zakona: koliko dana predlog provede u Skupštini', 'From bill to law: how many days a bill spends in the Assembly'),
+    dek: L(`Svaka tačka je jedan usvojeni zakon, po sazivu Skupštine; pravougaonik obuhvata srednju polovinu, a crta je medijana. Brzina se menja od saziva do saziva: medijana ide od ${d3.min(c, d => d.med)} do ${d3.max(c, d => d.med)} dana.`,
+      `Each dot is one law that passed, by convocation of the Assembly; the box covers the middle half and the line is the median. The pace changes between convocations: the median runs from ${d3.min(c, d => d.med)} to ${d3.max(c, d => d.med)} days.`),
+    draw(el) {
+      const w = W(el), rowH = 46, m = { t: 22, r: narrow(w) ? 60 : 110, b: 30, l: narrow(w) ? 64 : 120 };
+      const h = m.t + m.b + rowH * c.length;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleSymlog().constant(10).domain([0, 900]).range([0, iw]);
+      [0, 7, 15, 30, 60, 120, 365, 900].forEach(v => {
+        g.append('line').attr('class', 'grid').attr('x1', x(v)).attr('x2', x(v)).attr('y1', -6).attr('y2', rowH * c.length).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rowH * c.length + 16).attr('text-anchor', 'middle').text(v);
+      });
+      g.append('text').attr('class', 'lbl mut').attr('x', iw).attr('y', rowH * c.length + 28).attr('text-anchor', 'end').text(L('dana od podnošenja do usvajanja (log. skala)', 'days from filing to passage (log scale)'));
+      const col = css('--s1');
+      g.append('text').attr('class', 'lbl mut').attr('x', iw + 8).attr('y', -8).text(L('≤ 7 dana', '≤ 7 days'));
+      c.forEach((r, i) => {
+        const cy = i * rowH + rowH / 2;
+        g.append('text').attr('class', 'lbl strong').attr('x', -10).attr('y', cy - 3).attr('text-anchor', 'end').text(L(`${r.c}. saziv`, `${r.c}th`));
+        g.append('text').attr('class', 'lbl mut').attr('x', -10).attr('y', cy + 11).attr('text-anchor', 'end').text(r.span);
+        const rnd = d3.randomLcg(r.c);
+        g.append('g').selectAll('circle').data(r.pts).join('circle').attr('cx', d => x(d)).attr('cy', () => cy + (rnd() - 0.5) * (rowH - 18)).attr('r', 2.2).attr('fill', col).attr('opacity', .35);
+        g.append('rect').attr('x', x(r.q1)).attr('width', Math.max(2, x(r.q3) - x(r.q1))).attr('y', cy - 12).attr('height', 24).attr('rx', 4).attr('fill', 'none').attr('stroke', css('--text')).attr('stroke-width', 1.2);
+        g.append('line').attr('x1', x(r.med)).attr('x2', x(r.med)).attr('y1', cy - 12).attr('y2', cy + 12).attr('stroke', css('--text')).attr('stroke-width', 2.5);
+        g.append('text').attr('class', 'lbl strong').attr('x', iw + 8).attr('y', cy + 4).text(pct(r.le7, r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', cy - rowH / 2).attr('height', rowH).datum(r),
+          d => `<b>${L(d.c + '. saziv', d.c + 'th convocation')} (${d.span})</b>` + trow(null, L('Zakona', 'Laws'), fmt(d.n)) + trow(null, L('Medijana', 'Median'), d.med + ' ' + t('days')) + trow(null, L('Srednja polovina', 'Middle half'), `${Math.round(d.q1)}–${Math.round(d.q3)} ${t('days')}`) + trow(null, L('Usvojeno za ≤ 7 dana', 'Passed in ≤ 7 days'), `${d.le7} (${pct(d.le7, d.n)})`) + trow(null, L('Za ≤ 15 dana', 'In ≤ 15 days'), `${d.le14} (${pct(d.le14, d.n)})`));
+      });
+      note(el, ['data/bills-*.csv (bill_date, law_adopted)'], fmt(sum(c, r => r.n)) + ' ' + t('laws'), L('Datum podnošenja je datum predloga na sajtu Skupštine. Po čl. 168 Poslovnika predlog za hitni postupak može na dnevni red ako je podnet najkasnije 24 časa pre sednice, pa vrlo kratki rokovi uglavnom znače hitni postupak; skup podataka ne beleži sam postupak.', 'The filing date is the bill\'s date on the Assembly\'s website. Under art. 168 of the Rules of Procedure a bill in urgent procedure can go on the agenda if filed at least 24 hours before the sitting, so very short times mostly mean urgent procedure; the dataset does not record the procedure itself.'));
+      table(el, [L('Saziv', 'Convocation'), L('Zakona', 'Laws'), L('Medijana (dana)', 'Median (days)'), 'Q1', 'Q3', L('≤ 7 dana', '≤ 7 days'), L('≤ 15 dana', '≤ 15 days')], c.map(r => [`${r.c} (${r.span})`, r.n, r.med, Math.round(r.q1), Math.round(r.q3), r.le7, r.le14]));
+    }
+  };
+});
+
+const LEND = { wb: ['Svetska banka (IBRD/IDA)', 'World Bank (IBRD/IDA)'], eib: ['Evropska investiciona banka', 'European Investment Bank'], ceb: ['Razvojna banka Saveta Evrope', 'Council of Europe Development Bank'],
+  kfw: ['KfW (Nemačka)', 'KfW (Germany)'], ebrd: ['Evropska banka za obnovu i razvoj', 'EBRD'], china: ['Kineska Exim banka', 'China Exim Bank'], afd: ['Francuska agencija za razvoj', 'French Development Agency'],
+  commercial: ['Komercijalne banke', 'Commercial banks'], uae: ['Abu Dabi (UAE)', 'Abu Dhabi (UAE)'], russia: ['Rusija', 'Russia'], saudi: ['Saudijski fond za razvoj', 'Saudi Fund for Development'],
+  azer: ['Azerbejdžan', 'Azerbaijan'], italy: ['Italija', 'Italy'], kuwait: ['Kuvajtski fond', 'Kuwait Fund'], hungary: ['Mađarska', 'Hungary'], turkey: ['Turska', 'Turkey'], japan: ['Japan', 'Japan'], other: ['Ostali zajmodavci', 'Other lenders'] };
+chart('c04', el => {
+  const c = D.c04, N = sum(c.lenders, l => l.total);
+  const ys = d3.range(d3.min(c.years), d3.max(c.years) + 1);
+  return {
+    title: L('Ko pozajmljuje Srbiji: zakoni o potvrđivanju ugovora o zajmu', 'Who lends to Serbia: laws ratifying loan agreements'),
+    dek: L(`Svaki krug je broj zakona kojima je Skupština potvrdila ugovor o zajmu ili kreditu jednog zajmodavca u toj godini. Od ${N} takvih zakona, multilateralne razvojne banke (Svetska banka, EIB, CEB, EBRD) imaju ${pct(sum(c.lenders.filter(l => ['wb', 'eib', 'ceb', 'ebrd'].includes(l.k)), l => l.total), N)}.`,
+      `Each circle is the number of laws by which the Assembly ratified a loan or credit agreement with one lender in that year. Of ${N} such laws, multilateral development banks (World Bank, EIB, CEB, EBRD) account for ${pct(sum(c.lenders.filter(l => ['wb', 'eib', 'ceb', 'ebrd'].includes(l.k)), l => l.total), N)}.`),
+    draw(el) {
+      const w = W(el), rowH = 26, nw = narrow(w), m = { t: 10, r: 40, b: 26, l: nw ? 132 : 220 };
+      const rows = c.lenders, h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleBand().domain(ys).range([0, iw]).padding(0);
+      const r = d3.scaleSqrt().domain([0, d3.max(rows, l => d3.max(Object.values(l.by)))]).range([0, Math.min(11, x.bandwidth() / 2 + 2)]);
+      const col = css('--s1');
+      rows.forEach((l, i) => {
+        const cy = i * rowH + rowH / 2;
+        g.append('line').attr('x1', 0).attr('x2', iw).attr('y1', cy).attr('y2', cy).attr('stroke', css('--grid'));
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 4).attr('text-anchor', 'end').text(L(...(LEND[l.k] || [l.k, l.k])).slice(0, nw ? 20 : 40));
+        g.append('text').attr('class', 'lbl').attr('x', iw + 8).attr('y', cy + 4).text(l.total);
+        Object.entries(l.by).forEach(([yy, n]) => {
+          bindTip(g.append('circle').attr('cx', x(+yy) + x.bandwidth() / 2).attr('cy', cy).attr('r', Math.max(3, r(n))).attr('fill', col).attr('stroke', css('--surface')).attr('stroke-width', 1.5).datum({ yy, n, l }),
+            d => `<b>${L(...(LEND[d.l.k] || [d.l.k, d.l.k]))}</b>` + trow(null, d.yy, d.n + ' ' + t('laws')));
+        });
+      });
+      const every = nw ? 4 : 2;
+      ys.forEach((yy, i) => { if (i % every === 0) g.append('text').attr('class', 'lbl').attr('x', x(yy) + x.bandwidth() / 2).attr('y', rows.length * rowH + 16).attr('text-anchor', 'middle').text(yy); });
+      note(el, ['data/bills-*.csv'], N + ' ' + t('laws'), L('zajmodavac je pročitan iz naslova predloga; „Ostali“ su naslovi bez imena zajmodavca. Državne garancije za zajmove javnih preduzeća nisu ovde (vidi grafikon 1).', 'the lender is read from the bill title; "Other" are titles that do not name the lender. State guarantees for public companies\' loans are not here (see chart 1).'));
+      table(el, [L('Zajmodavac', 'Lender'), ...ys.map(String), t('total')], rows.map(l => [L(...(LEND[l.k] || [l.k, l.k])), ...ys.map(yy => l.by[yy] || 0), l.total]));
+    }
+  };
+});
+
+const PSR = { 'Russia': 'Rusija', 'China': 'Kina', 'Hungary': 'Mađarska', 'Republika Srpska': 'Republika Srpska', 'Montenegro': 'Crna Gora', 'Bosnia and Herzegovina': 'Bosna i Hercegovina',
+  'North Macedonia': 'Severna Makedonija', 'Croatia': 'Hrvatska', 'Slovenia': 'Slovenija', 'Albania': 'Albanija', 'Romania': 'Rumunija', 'Bulgaria': 'Bugarska', 'Greece': 'Grčka', 'Cyprus': 'Kipar',
+  'Austria': 'Austrija', 'Germany': 'Nemačka', 'France': 'Francuska', 'Italy': 'Italija', 'Slovakia': 'Slovačka', 'Czechia': 'Češka', 'Poland': 'Poljska', 'Spain': 'Španija', 'Portugal': 'Portugalija',
+  'Belgium': 'Belgija', 'Netherlands': 'Holandija', 'Luxembourg': 'Luksemburg', 'Denmark': 'Danska', 'Sweden': 'Švedska', 'Finland': 'Finska', 'Ireland': 'Irska', 'Malta': 'Malta', 'Estonia': 'Estonija',
+  'Latvia': 'Letonija', 'Lithuania': 'Litvanija', 'Switzerland': 'Švajcarska', 'Norway': 'Norveška', 'United Kingdom': 'Ujedinjeno Kraljevstvo', 'Turkey': 'Turska', 'Ukraine': 'Ukrajina', 'Belarus': 'Belorusija',
+  'Moldova': 'Moldavija', 'Azerbaijan': 'Azerbejdžan', 'Kazakhstan': 'Kazahstan', 'Uzbekistan': 'Uzbekistan', 'Georgia': 'Gruzija', 'Armenia': 'Jermenija', 'Kyrgyzstan': 'Kirgistan', 'Tajikistan': 'Tadžikistan',
+  'Turkmenistan': 'Turkmenistan', 'Mongolia': 'Mongolija', 'India': 'Indija', 'Indonesia': 'Indonezija', 'Japan': 'Japan', 'South Korea': 'Južna Koreja', 'Vietnam': 'Vijetnam', 'Singapore': 'Singapur',
+  'Thailand': 'Tajland', 'Malaysia': 'Malezija', 'Philippines': 'Filipini', 'Sri Lanka': 'Šri Lanka', 'Pakistan': 'Pakistan', 'Iran': 'Iran', 'Iraq': 'Irak', 'Israel': 'Izrael', 'Palestine': 'Palestina',
+  'United Arab Emirates': 'Ujedinjeni Arapski Emirati', 'Qatar': 'Katar', 'Saudi Arabia': 'Saudijska Arabija', 'Kuwait': 'Kuvajt', 'Oman': 'Oman', 'Bahrain': 'Bahrein', 'Jordan': 'Jordan', 'Lebanon': 'Liban',
+  'Egypt': 'Egipat', 'Tunisia': 'Tunis', 'Morocco': 'Maroko', 'Algeria': 'Alžir', 'Angola': 'Angola', 'Ghana': 'Gana', 'Nigeria': 'Nigerija', 'Ethiopia': 'Etiopija', 'Kenya': 'Kenija',
+  'South Africa': 'Južna Afrika', 'Zambia': 'Zambija', 'Zimbabwe': 'Zimbabve', 'Senegal': 'Senegal', 'Uganda': 'Uganda', 'Tanzania': 'Tanzanija', 'Mozambique': 'Mozambik', 'Cuba': 'Kuba',
+  'United States': 'SAD', 'Brazil': 'Brazil', 'Argentina': 'Argentina', 'Mexico': 'Meksiko', 'Chile': 'Čile', 'Venezuela': 'Venecuela', 'Canada': 'Kanada', 'Nicaragua': 'Nikaragva', 'Peru': 'Peru',
+  'Uruguay': 'Urugvaj', 'Colombia': 'Kolumbija', 'Australia': 'Australija', 'Holy See': 'Sveta Stolica', 'San Marino': 'San Marino', 'Monaco': 'Monako', 'Liechtenstein': 'Lihtenštajn', 'Iceland': 'Island',
+  'European Union': 'Evropska unija', 'Council of Europe': 'Savet Evrope', 'United Nations': 'Ujedinjene nacije' };
+const PG = { eu: ['Članice EU', 'EU member states'], wb: ['Zapadni Balkan', 'Western Balkans'], europe: ['Ostatak Evrope i Turska', 'Rest of Europe and Turkey'], east: ['Istočna Evropa i Centralna Azija', 'Eastern Europe and Central Asia'],
+  asia: ['Azija i Bliski istok', 'Asia and the Middle East'], africa: ['Afrika', 'Africa'], americas: ['Amerike i Australija', 'Americas and Australia'], multi: ['Međunarodne organizacije', 'International organisations'] };
+const PGK = ['eu', 'wb', 'east', 'asia', 'europe', 'africa', 'americas', 'multi'];
+chart('c05', el => {
+  const c = D.c05, cols = S8();
+  const gc = k => cols[PGK.indexOf(k)];
+  return {
+    title: L('S kim Srbija sklapa ugovore: susedi, EU i Rusija na vrhu', 'Who Serbia signs treaties with: neighbours, the EU and Russia at the top'),
+    dek: L(`Zakoni o potvrđivanju međunarodnih ugovora (bez zajmova), po drugoj strani ugovornici; 30 najčešćih od ${c.n_partners}. Ugovor sa više strana broji se kod svake.`,
+      `Laws ratifying international agreements (loans excluded), by the other contracting party; the 30 most frequent of ${c.n_partners}. An agreement with several parties counts for each.`),
+    draw(el) {
+      const used = PGK.filter(k => c.partners.some(p => p.g === k));
+      legend(el, used.map(k => ({ c: gc(k), l: L(...PG[k]) })));
+      const w = W(el), nw = narrow(w), rowH = 20, m = { t: 6, r: 34, b: 8, l: nw ? 128 : 180 };
+      const rows = c.partners, h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, d3.max(rows, p => p.n)]).range([0, iw]);
+      rows.forEach((p, i) => {
+        const y = i * rowH + 3, bh = Math.min(14, rowH - 6);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + bh / 2 + 4).attr('text-anchor', 'end').text(L(PSR[p.name] || p.name, p.name));
+        g.append('path').attr('d', barPath(0, y, Math.max(2, x(p.n)), bh)).attr('fill', gc(p.g));
+        g.append('text').attr('class', 'lbl').attr('x', x(p.n) + 6).attr('y', y + bh / 2 + 4).text(p.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l).attr('y', i * rowH).attr('height', rowH).datum(p),
+          d => `<b>${L(PSR[d.name] || d.name, d.name)}</b>` + trow(gc(d.g), L(...PG[d.g]), '') + trow(null, L('Zakona o potvrđivanju', 'Ratification laws'), d.n) + trow(null, L('Godine', 'Years'), Object.keys(d.by).sort().join(', ')));
+      });
+      note(el, ['data/bills-*.csv'], `${fmt(c.n_treaty)} ${L('zakona o potvrđivanju', 'ratification laws')}; ${L('druga strana pročitana u', 'partner read in')} ${fmt(c.n_matched)}`, L('druga strana je pročitana iz naslova („između Vlade Republike Srbije i Vlade …“); naslovi koji ne imenuju državu (npr. multilateralne konvencije) nisu raspoređeni.', 'the partner is read from the title ("between the Government of the Republic of Serbia and the Government of …"); titles that name no state (such as multilateral conventions) are not assigned.'));
+      table(el, [L('Druga strana', 'Partner'), L('Grupa', 'Group'), L('Zakona', 'Laws')], rows.map(p => [L(PSR[p.name] || p.name, p.name), L(...PG[p.g]), p.n]));
+    }
+  };
+});
+
+part('p2', 'II. Pravni poredak', 'II. The statute book',
+  'Akti iz Pravno-informacionog sistema Republike Srbije kako ih repozitorijum beleži: fascikla po aktu (<vrsta>/<godina>/<broj>), komit po izdanju teksta, sa datumima objavljivanja i stupanja na snagu u prikolicama komita.',
+  'Acts of the Legal Information System of the Republic of Serbia as the repository records them: one folder per act (<kind>/<year>/<number>), one commit per text version, with publication and entry-into-force dates in the commit trailers.');
+
+const KIND = { pravilnik: ['Pravilnici', 'Rulebooks (pravilnik)'], odluka: ['Odluke', 'Decisions (odluka)'], zakon: ['Zakoni', 'Laws (zakon)'], uredba: ['Uredbe', 'Decrees (uredba)'], akt: ['Ostali akti (uzanse, merila…)', 'Other acts (usages, standards…)'],
+  memorandum: ['Memorandumi', 'Memoranda'], resenje: ['Rešenja', 'Rulings (rešenje)'], naredba: ['Naredbe', 'Orders (naredba)'], sporazum: ['Sporazumi', 'Agreements'], uputstvo: ['Uputstva', 'Instructions'],
+  tarifa: ['Tarife', 'Tariffs'], statut: ['Statuti', 'Statutes'], poslovnik: ['Poslovnici', 'Rules of procedure'], kolektivni: ['Kolektivni ugovori', 'Collective agreements'], kodeks: ['Kodeksi', 'Codes of conduct'],
+  protokol: ['Protokoli', 'Protocols'], pravila: ['Pravila', 'Rules'], zakljucak: ['Zaključci', 'Conclusions'], ustav: ['Ustav', 'Constitution'], program: ['Programi', 'Programmes'], strategija: ['Strategije', 'Strategies'],
+  metodologija: ['Metodologije', 'Methodologies'], plan: ['Planovi', 'Plans'], konvencija: ['Konvencije', 'Conventions'], ugovor: ['Ugovori', 'Contracts'], ukaz: ['Ukazi', 'Decrees of the President'] };
+const MK = { ministries: ['Ministarstva i agencije (pravilnici, naredbe, uputstva)', 'Ministries and agencies (rulebooks, orders, instructions)'], decisions: ['Odluke i rešenja (Vlada, NBS, agencije, Skupština)', 'Decisions and rulings (Government, NBS, agencies, Assembly)'],
+  assembly: ['Narodna skupština (zakoni, Ustav, poslovnici)', 'National Assembly (laws, Constitution, rules of procedure)'], government: ['Vlada (uredbe, zaključci, strategije)', 'Government (decrees, conclusions, strategies)'],
+  treaties: ['Međunarodni sporazumi i memorandumi', 'International agreements and memoranda'], other: ['Ostalo (statuti, tarife, kodeksi, uzanse)', 'Other (statutes, tariffs, codes, usages)'] };
+const MKK = ['ministries', 'decisions', 'assembly', 'government', 'treaties', 'other'];
+chart('c06', el => {
+  const c = D.c06, cols = S8();
+  const mc = k => cols[MKK.indexOf(k)];
+  const byM = {}; c.kinds.forEach(k => byM[k.m] = (byM[k.m] || 0) + k.n);
+  return {
+    title: L('Ko piše propise: Skupština donosi samo svaki šesti važeći akt', 'Who writes the rules: the Assembly makes only one in six acts in force'),
+    dek: L(`Od ${fmt(c.n)} akata u repozitorijumu, zakoni su ${pct(byM.assembly, c.n)}. Najviše je pravilnika ministarstava i agencija (${pct(byM.ministries, c.n)}) i odluka (${pct(byM.decisions, c.n)}): sitna, tehnička pravila po kojima se zakoni stvarno primenjuju.`,
+      `Of ${fmt(c.n)} acts in the repository, laws are ${pct(byM.assembly, c.n)}. Most are ministries\' and agencies\' rulebooks (${pct(byM.ministries, c.n)}) and decisions (${pct(byM.decisions, c.n)}): the fine, technical rules by which laws are actually applied.`),
+    draw(el) {
+      legend(el, MKK.filter(k => byM[k]).map(k => ({ c: mc(k), l: L(...MK[k]) })));
+      const rows = c.kinds.filter(k => k.n >= 20);
+      const w = W(el), nw = narrow(w), rowH = 22, m = { t: 6, r: 60, b: 8, l: nw ? 150 : 210 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, d3.max(rows, k => k.n)]).range([0, iw]);
+      rows.forEach((k, i) => {
+        const y = i * rowH + 3, bh = 15;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + 11).attr('text-anchor', 'end').text(L(...(KIND[k.k] || [k.k, k.k])));
+        g.append('path').attr('d', barPath(0, y, Math.max(2, x(k.n)), bh)).attr('fill', mc(k.m));
+        g.append('text').attr('class', 'lbl').attr('x', x(k.n) + 6).attr('y', y + 11).text(fmt(k.n) + (k.n > 500 ? ' · ' + pct(k.n, c.n) : ''));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', i * rowH).attr('height', rowH).datum(k),
+          d => `<b>${L(...(KIND[d.k] || [d.k, d.k]))}</b>` + trow(mc(d.m), L(...MK[d.m]), '') + trow(null, L('Akata', 'Acts'), fmt(d.n) + ' · ' + pct(d.n, c.n, 1)) + trow(null, L('Fascikla', 'Folder'), d.k + '/'));
+      });
+      note(el, ['<vrsta>/<godina>/<broj>/ (fascikle akata)'], fmt(c.n), L('broje se fascikle akata na grani main, bez tekstova zakona „kako su usvojeni“ iz Skupštine; vrste sa manje od 20 akata su u tabeli. „Ko donosi“ je grubo: odluku može doneti i Vlada, i NBS, i Skupština.', 'counts act folders on main, without the Assembly\'s "as adopted" law texts; kinds with fewer than 20 acts are in the table. "Who makes it" is rough: a decision may come from the Government, the National Bank or the Assembly.'));
+      table(el, [L('Vrsta (fascikla)', 'Kind (folder)'), L('Grupa', 'Group'), L('Akata', 'Acts')], c.kinds.map(k => [L(...(KIND[k.k] || [k.k, k.k])) + ` (${k.k}/)`, L(...MK[k.m]), k.n]));
+    }
+  };
+});
+
+const ST = { fnrj: ['Sl. list FNRJ (1945–1963)', 'FPRY gazette (1945–1963)'], sfrj: ['Sl. list SFRJ (1963–1992)', 'SFRY gazette (1963–1992)'], srs: ['Sl. glasnik SR Srbije (do 1990)', 'SR Serbia gazette (to 1990)'],
+  srj: ['Sl. list SRJ (1992–2003)', 'FRY gazette (1992–2003)'], scg: ['Sl. list SCG (2003–2006)', 'Serbia and Montenegro (2003–2006)'], rs: ['Sl. glasnik RS', 'Official Gazette of Serbia'], mu: ['Sl. glasnik RS – Međunarodni ugovori', 'Official Gazette – International Treaties'] };
+chart('c07', el => {
+  const c = D.c07, cols = S8(), keys = ['fnrj', 'sfrj', 'srs', 'srj', 'scg'], allKeys = ['fnrj', 'sfrj', 'srs', 'srj', 'scg', 'mu', 'rs'];
+  const colors = [cols[0], cols[1], cols[2], cols[3], cols[6]];
+  const rows = c.rows.filter(r => r.y <= 2006 && r.y >= 1945);
+  const yug = (c.tot.fnrj || 0) + (c.tot.sfrj || 0) + (c.tot.srj || 0) + (c.tot.scg || 0);
+  return {
+    title: L('Jugoslovenski slojevi: propisi iz FNRJ, SFRJ, SRJ i SCG koji se i danas vode kao važeći', 'Yugoslav layers: acts from the FPRY, SFRY, FRY and Serbia–Montenegro still listed in force'),
+    dek: L(`Važeći akti objavljeni u glasilima država koje više ne postoje, po godini objavljivanja. U registru se i danas vodi ${fmt(yug)} akata iz saveznih glasila (od pravilnika iz 1947. do uzansi za promet robe) i ${fmt(c.tot.srs || 0)} iz Službenog glasnika SR Srbije; ${fmt(c.pre1992)} važećih akata starije je od 1992.`,
+      `Acts in force that were published in the gazettes of states that no longer exist, by year of publication. The register still lists ${fmt(yug)} acts from the federal gazettes in force (from a 1947 rulebook to the usages for trade in goods) and ${fmt(c.tot.srs || 0)} from the gazette of the Socialist Republic of Serbia; ${fmt(c.pre1992)} acts in force predate 1992.`),
+    draw(el) {
+      legend(el, keys.filter(k => c.tot[k]).map(k => ({ c: colors[keys.indexOf(k)], l: L(...ST[k]) + ' · ' + fmt(c.tot[k]) })));
+      const all = d3.range(1945, 2007).map(y => rows.find(r => r.y === y) || { y });
+      stackedColumns(el, all, keys, colors, keys.map(k => L(...ST[k])), { h: 260, xf: y => y });
+      note(el, ['<vrsta>/<godina>/<broj>/', 'registry/data/acts.json'], fmt(sum(keys, k => c.tot[k] || 0)) + L(' od ', ' of ') + fmt(sum(Object.values(c.tot))), L(`godina i glasilo su iz imena fascikle (npr. pravilnik/1947/fnrj5-48 = Sl. list FNRJ 5/1947). Akti iz Službenog glasnika RS (${fmt(c.tot.rs || 0)}) i njegovog dodatka Međunarodni ugovori (${fmt(c.tot.mu || 0)}) nisu nacrtani; svi su u tabeli.`, `the year and gazette come from the folder name (e.g. pravilnik/1947/fnrj5-48 = FPRY gazette 5/1947). Acts from the Official Gazette of the Republic of Serbia (${fmt(c.tot.rs || 0)}) and its International Treaties supplement (${fmt(c.tot.mu || 0)}) are not drawn; all are in the table.`));
+      table(el, [t('year'), ...allKeys.map(k => L(...ST[k])), t('total')], c.rows.map(r => [String(r.y), ...allKeys.map(k => r[k] || 0), sum(allKeys, k => r[k] || 0)]));
+    }
+  };
+});
+
+chart('c08', el => {
+  const c = D.c08, ks = ['zakon', 'uredba', 'pravilnik', 'odluka'], cols = S8();
+  const early = r => (r.same || 0) + (r.next || 0) + (r.early || 0);
+  const A = c.all, AN = sum(Object.values(A));
+  return {
+    title: L('Vacatio legis: koliko propisa stupa na snagu pre osmog dana', 'Vacatio legis: how many acts take effect before the eighth day'),
+    dek: L(`Ustav (čl. 196) propisuje da zakoni i drugi opšti akti stupaju na snagu najranije osmog dana od objavljivanja, a ranije samo iz naročito opravdanih razloga. Od ${fmt(AN)} novih akata, ${pct(early(A), AN)} je stupilo na snagu ranije (${pct(A.same || 0, AN)} istog dana, ${pct(A.next || 0, AN)} sutradan). Zakoni se pravila drže; uredbe i odluke mnogo ređe.`,
+      `The Constitution (art. 196) says laws and other general acts take effect on the eighth day after publication at the earliest, and earlier only for especially justified reasons. Of ${fmt(AN)} new acts, ${pct(early(A), AN)} took effect earlier (${pct(A.same || 0, AN)} the same day, ${pct(A.next || 0, AN)} the next day). Laws keep to the rule; decrees and decisions much less often.`),
+    draw(el) {
+      const box = el.append('div').attr('class', 'mini');
+      const BW = W(el), ncol = Math.max(1, Math.min(4, Math.floor((BW + 14) / (220 + 14)))), cellW = (BW - 14 * (ncol - 1)) / ncol;
+      ks.forEach((k, ki) => {
+        const rows = c.by[k], tot = sum(rows, r => r.n), e = sum(rows, early);
+        const cell = box.append('div');
+        cell.append('h4').text(`${L(...KIND[k])} · ${pct(e, tot)}`);
+        const w = Math.floor(cellW), h = 160, m = { t: 8, r: 8, b: 22, l: 34 };
+        const svg = cell.append('div').attr('class', 'plot').append('svg').attr('viewBox', `0 0 ${w} ${h}`).attr('width', w).attr('height', h);
+        const g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`), iw = w - m.l - m.r, ih = h - m.t - m.b;
+        const x = d3.scaleLinear().domain([2009, 2026]).range([0, iw]), y = d3.scaleLinear().domain([0, 0.6]).range([ih, 0]);
+        yAxis(g, y, iw, 3, v => Math.round(v * 100) + '%');
+        [2010, 2018, 2026].forEach(v => g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', ih + 15).attr('text-anchor', 'middle').text(v));
+        const col = cols[0];
+        g.append('path').datum(rows).attr('fill', 'none').attr('stroke', col).attr('stroke-width', 2).attr('stroke-linejoin', 'round').attr('d', d3.line().x(r => x(r.y)).y(r => y(early(r) / r.n)));
+        bindTip(g.selectAll('circle').data(rows).join('circle').attr('cx', r => x(r.y)).attr('cy', r => y(early(r) / r.n)).attr('r', 3.5).attr('fill', col).attr('stroke', css('--surface')).attr('stroke-width', 1.5),
+          r => `<b>${L(...KIND[k])}, ${r.y}</b>` + trow(null, L('Novih akata', 'New acts'), r.n) + trow(null, L('Isti dan', 'Same day'), r.same || 0) + trow(null, L('Sutradan', 'Next day'), r.next || 0) + trow(null, L('2–7 dana', '2–7 days'), r.early || 0) + trow(null, L('Osmi dan', 'Eighth day'), r.eighth || 0) + trow(null, L('Kasnije', 'Later'), r.later || 0) + trow(null, L('Pre osmog dana', 'Before the eighth day'), pct(early(r), r.n)));
+      });
+      note(el, ['git log (Kind: law, „as enacted“; Published, In-force)'], fmt(AN), L('samo akti čiji je prvi tekst u repozitorijumu (tekst „kako je donet“), po godini objavljivanja; godine sa manje od 8 akata su izostavljene. Datumi su iz registra.', 'only acts whose first text is in the repository (the text "as enacted"), by year of publication; years with fewer than 8 acts are left out. Dates are the register\'s.'));
+      const yrs = d3.range(2009, 2027);
+      table(el, [t('year'), ...ks.map(k => L(...KIND[k]) + ' %')], yrs.map(yy => [String(yy), ...ks.map(k => { const r = c.by[k].find(r => r.y === yy); return r ? pct(early(r), r.n) : '–'; })]));
+    }
+  };
+});
+
+const GL = { 'Zakon o poreskom postupku i poreskoj administraciji': 'Tax Procedure and Tax Administration Act', 'Zakon o akcizama': 'Excise Duties Act', 'Zakon o porezu na dohodak građana': 'Personal Income Tax Act',
+  'Zakon o budžetskom sistemu': 'Budget System Act', 'Zakon o republičkim administrativnim taksama': 'Republic Administrative Fees Act', 'Zakon o doprinosima za obavezno socijalno osiguranje': 'Compulsory Social Insurance Contributions Act',
+  'Zakon o porezima na imovinu': 'Property Taxes Act', 'Zakon o porezu na dobit pravnih lica': 'Corporate Income Tax Act', 'Zakon o planiranju i izgradnji': 'Planning and Construction Act', 'Zakon o državnim službenicima': 'Civil Servants Act',
+  'Zakon o porezu na dodatu vrednost': 'Value Added Tax Act', 'Zakon o stanovanju': 'Housing Act', 'Zakon o sudskim taksama': 'Court Fees Act', 'Zakon o društvenoj brizi o deci': 'Social Care for Children Act',
+  'Zakon o bezbednosti saobraćaja na putevima': 'Road Traffic Safety Act', 'Zakon o srednjoj školi': 'Secondary Schools Act', 'Zakon o zdravstvenoj zaštiti životinja': 'Animal Health Act',
+  'Zakon o finansijskoj podršci porodici sa decom': 'Financial Support for Families with Children Act', 'Zakon o plovidbi i lukama na unutrašnjim vodama': 'Inland Navigation and Ports Act',
+  'Zakon o platama državnih službenika i nameštenika': 'Civil Servants\' and Employees\' Salaries Act', 'Zakon o Vladi': 'Government Act', 'Zakon o osiguranju': 'Insurance Act',
+  'Zakon o platama u državnim organima i javnim službama': 'Salaries in State Bodies and Public Services Act', 'Zakon o porezima na upotrebu, držanje i nošenje dobara': 'Taxes on the Use, Holding and Carrying of Goods Act',
+  'Zakon o osnovama bezbednosti saobraćaja na putevima': 'Road Traffic Safety (Basics) Act', 'Zakon o privrednim prestupima': 'Commercial Offences Act', 'Zakon o Vojsci Jugoslavije': 'Yugoslav Army Act' };
+const lawName = s => L(s, GL[s] || s);
+const TAX = /porez|poresk|akciz|taks|doprinos|budžet/i;
+chart('c09', el => {
+  const c = D.c09, cols = S8();
+  const tax = c.top.filter(x => TAX.test(x.t)).length;
+  return {
+    title: L('Najčešće menjani zakoni: poreski zakoni se menjaju gotovo svake godine', 'The most-changed laws: tax laws change almost every year'),
+    dek: L(`Broj izdanja Službenog glasnika koja su objavila ili menjala tekst zakona (original, izmene, odluke Ustavnog suda), za 25 zakona sa najviše takvih izdanja. ${tax} od 25 su poreski, taksni ili budžetski zakoni.`,
+      `Number of Official Gazette issues that published or changed each law (original, amendments, Constitutional Court decisions), for the 25 laws with the most. ${tax} of the 25 are tax, fee or budget laws.`),
+    draw(el) {
+      legend(el, [{ c: cols[1], l: L('Porezi, takse, doprinosi, budžet', 'Taxes, fees, contributions, budget'), shape: 'dot' }, { c: cols[0], l: L('Ostali zakoni', 'Other laws'), shape: 'dot' }]);
+      const rows = c.top, w = W(el), nw = narrow(w), rowH = 22, m = { t: 6, r: 30, b: 24, l: nw ? 170 : 330 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).nice().range([0, iw]);
+      x.ticks(5).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rows.length * rowH).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rows.length * rowH + 15).attr('text-anchor', 'middle').text(v); });
+      rows.forEach((r, i) => {
+        const cy = i * rowH + rowH / 2, col = TAX.test(r.t) ? cols[1] : cols[0];
+        const nm = lawName(r.t), lab = (nw && nm.length > 30 ? nm.slice(0, 29) + '…' : nm) + ` (${r.first})`;
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 4).attr('text-anchor', 'end').text(lab);
+        g.append('line').attr('x1', 0).attr('x2', x(r.n)).attr('y1', cy).attr('y2', cy).attr('stroke', col).attr('stroke-width', 2);
+        g.append('circle').attr('cx', x(r.n)).attr('cy', cy).attr('r', 5).attr('fill', col).attr('stroke', css('--surface')).attr('stroke-width', 2);
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 9).attr('y', cy + 4).text(r.n);
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${esc(d.t)}</b>${LANG === 'en' && GL[d.t] ? '<br>' + esc(GL[d.t]) : ''}` + trow(null, L('Izdanja Glasnika', 'Gazette issues'), d.n) + trow(null, L('Prvo', 'First'), d.pts[0].g) + trow(null, L('Poslednje', 'Last'), d.pts[d.pts.length - 1].g) + trow(null, L('Fascikla', 'Folder'), d.f));
+      });
+      note(el, ['git log (Kind: law, publisher, court; Law, Also-amended-by)', 'zakon/<godina>/<broj>/'], `${fmt(c.n_laws)} ${L('zakona', 'laws')}`, L('broji se svako različito izdanje Sl. glasnika RS (broj/godina) koje istorija akta navodi: spisak koji registar daje uz najstariji dostupni tekst i svaki kasniji komit. Godina u zagradi je prvo takvo izdanje. Stariji savezni brojevi i ispravke nisu uračunati.', 'counts each distinct issue of the Official Gazette (number/year) that the act\'s history names: the list the register gives with the oldest available text and every later commit. The year in brackets is the first such issue. Older federal issues are not counted.'));
+      table(el, [L('Zakon', 'Law'), L('Izdanja', 'Issues'), L('Prvo', 'First'), L('Fascikla', 'Folder')], rows.map(r => [lawName(r.t), r.n, r.pts[0].g, r.f]));
+    }
+  };
+});
+
+chart('c10', el => {
+  const c = D.c09, cols = S8(), rows = c.top.slice(0, 14);
+  return {
+    title: L('Život zakona: svako izdanje Glasnika koje je promenilo tekst', 'Lives of laws: every Gazette issue that changed the text'),
+    dek: L('Isti zakoni kao u grafikonu 9, na vremenskoj osi: tačka je jedno izdanje Službenog glasnika. Poreski zakoni se menjaju u talasima krajem godine, pred početak nove budžetske godine.',
+      'The same laws as chart 9 on a time axis: each dot is one issue of the Official Gazette. Tax laws change in waves at the end of each year, before the new budget year begins.'),
+    draw(el) {
+      legend(el, [{ c: cols[0], l: L('Datum izdanja poznat iz komita', 'Issue date known from a commit'), shape: 'dot' }, { c: 'transparent', l: L('Datum procenjen iz broja izdanja', 'Date estimated from the issue number'), shape: 'ring' }]);
+      const w = W(el), nw = narrow(w), rowH = 26, m = { t: 8, r: 12, b: 24, l: nw ? 150 : 300 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r, pd = d3.timeParse('%Y-%m-%d');
+      const x = d3.scaleTime().domain([new Date(1990, 0, 1), new Date(2027, 0, 1)]).range([0, iw]);
+      x.ticks(nw ? 4 : 8).forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rows.length * rowH).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rows.length * rowH + 15).attr('text-anchor', 'middle').text(v.getFullYear()); });
+      rows.forEach((r, i) => {
+        const cy = i * rowH + rowH / 2, col = TAX.test(r.t) ? cols[1] : cols[0];
+        const nm = lawName(r.t);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', cy + 4).attr('text-anchor', 'end').text(nw && nm.length > 26 ? nm.slice(0, 25) + '…' : nm);
+        const pts = r.pts.map(p => ({ ...p, dd: pd(p.d) })).filter(p => p.dd >= new Date(1990, 0, 1));
+        g.append('line').attr('x1', x(pts[0].dd)).attr('x2', iw).attr('y1', cy).attr('y2', cy).attr('stroke', col).attr('stroke-width', 1).attr('opacity', .4);
+        bindTip(g.append('g').selectAll('circle').data(pts).join('circle').attr('cx', p => x(p.dd)).attr('cy', cy).attr('r', 4.5)
+          .attr('fill', p => p.x ? col : css('--surface')).attr('stroke', p => p.x ? css('--surface') : col).attr('stroke-width', p => p.x ? 1.5 : 1.8),
+          p => `<b>${esc(lawName(r.t))}</b>` + trow(null, L('Sl. glasnik RS', 'Official Gazette'), p.g) + trow(null, L('Datum', 'Date'), (p.x ? '' : '≈ ') + dateTxt(p.d)));
+      });
+      note(el, ['git log (Law, Published)'], fmt(sum(rows, r => r.n)) + L(' izdanja', ' issues'), L('datum izdanja je datum objavljivanja iz komita koji ga navodi; za izdanja bez komita datum je procenjen između poznatih susednih brojeva iste godine (prazan krug).', 'an issue\'s date is the publication date of a commit that names it; for issues without a commit the date is estimated between known neighbouring numbers of the same year (open circle).'));
+      table(el, [L('Zakon', 'Law'), L('Izdanja (broj/godina)', 'Issues (number/year)')], rows.map(r => [lawName(r.t), r.pts.map(p => p.g).join(', ')]));
+    }
+  };
+});
+
+chart('c11', el => {
+  const c = D.c11;
+  const N = sum(c.rows, r => r.n), dec = sum(c.rows, r => r.m[11]), jan = sum(c.rows, r => r.m[0]), j1 = sum(c.rows, r => r.jan1);
+  return {
+    title: L('Pravna godina: izmene najčešće stupaju na snagu u decembru i januaru', 'The legal year: changes most often take effect in December and January'),
+    dek: L(`Izmene propisa (ne novi propisi) po mesecu stupanja na snagu, 2016–2025. Decembar i januar nose ${pct(dec + jan, N)} od ${fmt(N)} izmena; ${fmt(j1)} izmena stupilo je na snagu baš 1. januara.`,
+      `Amendments (not new acts) by the month they took effect, 2016–2025. December and January carry ${pct(dec + jan, N)} of ${fmt(N)} changes; ${fmt(j1)} took effect exactly on 1 January.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), m = { t: 22, r: 54, b: 8, l: 40 };
+      const cw = (w - m.l - m.r) / 12, ch = nw ? 22 : 28, h = m.t + m.b + c.rows.length * ch;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const mx = d3.max(c.rows, r => d3.max(r.m));
+      const col = d3.scaleSequential(d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))).domain([0, mx]);
+      MONTHS[LANG].forEach((mm, i) => g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(nw ? mm[0].toUpperCase() : mm));
+      g.append('text').attr('class', 'lbl mut').attr('x', 12 * cw + 6).attr('y', -7).text(t('total'));
+      c.rows.forEach((r, i) => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', i * ch + ch / 2 + 4).attr('text-anchor', 'end').text(r.y);
+        g.append('text').attr('class', 'lbl').attr('x', 12 * cw + 6).attr('y', i * ch + ch / 2 + 4).text(fmt(r.n));
+        bindTip(g.append('g').selectAll('rect').data(r.m.map((v, k) => ({ v, k }))).join('rect').attr('x', d => d.k * cw + 1).attr('y', i * ch + 1).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 3).attr('fill', d => col(d.v)),
+          d => `<b>${MONTHS[LANG][d.k]} ${r.y}</b>` + trow(null, L('Izmena stupilo na snagu', 'Changes in force'), d.v) + (d.k === 0 ? trow(null, L('od toga 1. januara', 'of which on 1 January'), r.jan1) : '') + trow(null, L('Udeo u godini', 'Share of the year'), pct(d.v, r.n)));
+        r.m.forEach((v, k) => { if (v === d3.max(r.m) && !nw) g.append('text').attr('class', 'lbl').attr('x', k * cw + cw / 2).attr('y', i * ch + ch / 2 + 4).attr('text-anchor', 'middle').style('fill', v > mx * 0.55 ? css('--surface') : css('--text')).text(v); });
+      });
+      note(el, ['git log (Kind: law, In-force)'], fmt(N), L('komit sa izmenom teksta postojećeg akta, po danu stupanja na snagu iz registra. Pre 2016. registar ima malo izmenjenih tekstova, pa te godine nisu prikazane.', 'a commit that changes the text of an existing act, by the register\'s day of entry into force. Before 2016 the register holds few amended texts, so those years are not shown.'));
+      table(el, [t('year'), ...MONTHS[LANG], t('total')], c.rows.map(r => [String(r.y), ...r.m, r.n]));
+    }
+  };
+});
+
+part('p3', 'III. Ustavni sud', 'III. The Constitutional Court',
+  'Odluke iz baze sudske prakse Ustavnog suda (sudska-praksa/ustavni-sud/), sa podacima iz prikolica komita: broj predmeta, datum odluke, ishod, oblast, odredbe Ustava i osporeni akt.',
+  'Decisions from the Constitutional Court\'s case-law database (sudska-praksa/ustavni-sud/), with data from the commit trailers: case number, date of decision, outcome, area, the Constitution\'s provisions and the act challenged.');
+
+const OC = { granted: ['Usvojena', 'Granted'], rejected: ['Odbijena', 'Rejected'], dismissed: ['Odbačena', 'Dismissed'], other: ['Ostalo', 'Other'] };
+chart('c12', el => {
+  const c = D.c12, cols = S8(), keys = ['granted', 'rejected', 'dismissed', 'other'];
+  const colors = [cols[0], cols[1], cols[3], css('--muted-mark')];
+  const T0 = c.tot, N = sum(Object.values(T0));
+  return {
+    title: L('Ustavne žalbe u objavljenoj praksi: baza pokazuje pre svega usvojene žalbe', 'Constitutional complaints in the published case law: the database shows mostly granted complaints'),
+    dek: L(`${fmt(N)} odluka o ustavnim žalbama (Už) iz baze sudske prakse, po godini odluke. ${pct(T0.granted, N)} su usvojene. To nije stopa uspeha žalbi: Sud u bazu ne unosi sve odluke, a odbačene žalbe se posle 2011. gotovo i ne pojavljuju.`,
+      `${fmt(N)} decisions on constitutional complaints (Už) from the case-law database, by year of decision. ${pct(T0.granted, N)} are granted. That is not a success rate: the Court does not enter every decision in the database, and dismissed complaints almost vanish from it after 2011.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...OC[k]) + ' · ' + fmt(T0[k] || 0) })));
+      stackedColumns(el, c.rows, keys, colors, keys.map(k => L(...OC[k])), { topLabel: r => fmt(sum(keys, k => r[k] || 0)) });
+      note(el, ['sudska-praksa/ustavni-sud/', 'git log (Case, Decided, Outcome)'], fmt(N), L('„Usvojena“ = Odluka o usvajanju; „Odbijena“ = Odluka o odbijanju; „Odbačena“ = svako Rešenje o odbacivanju. Godine sa manje od 10 objavljenih odluka su izostavljene.', '"Granted" = Odluka o usvajanju; "Rejected" = Odluka o odbijanju; "Dismissed" = any Rešenje o odbacivanju. Years with fewer than 10 published decisions are left out.'));
+      table(el, [t('year'), ...keys.map(k => L(...OC[k])), t('total')], c.rows.map(r => [String(r.y), ...keys.map(k => r[k] || 0), sum(keys, k => r[k] || 0)]));
+    }
+  };
+});
+
+chart('c13', el => {
+  const c = D.c13, cols = S8();
+  const a32 = c.arts.find(a => a.a === '32');
+  return {
+    title: L('Na koja prava se žalioci pozivaju: pravično suđenje daleko ispred svih', 'Which rights complainants invoke: a fair trial, far ahead of the rest'),
+    dek: L(`Član 32 Ustava (pravo na pravično suđenje, uključujući suđenje u razumnom roku) naveden je u ${pct(a32.n, c.with_art)} odluka koje navode neki član; slede imovina (čl. 58) i jednaka zaštita prava (čl. 36). Desno: koliki deo tih odluka je usvojen.`,
+      `Article 32 of the Constitution (the right to a fair trial, including a trial within a reasonable time) is cited in ${pct(a32.n, c.with_art)} of the decisions that cite any article; then property (art. 58) and equal protection of rights (art. 36). Right: the share of those decisions that granted the complaint.`),
+    draw(el) {
+      const rows = c.arts, w = W(el), nw = narrow(w), rowH = 24, m = { t: 18, r: nw ? 46 : 70, b: 8, l: nw ? 150 : 290 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, iw - 50]);
+      g.append('text').attr('class', 'lbl mut').attr('x', iw + m.r - 4).attr('y', -6).attr('text-anchor', 'end').text(L('usvojeno', 'granted'));
+      rows.forEach((r, i) => {
+        const y = i * rowH + 4, bh = 15;
+        const nm = L(r.sr, r.en);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + 11).attr('text-anchor', 'end').text(`${L('čl.', 'art.')} ${r.a} · ${nw && nm.length > 18 ? nm.slice(0, 17) + '…' : nm}`);
+        g.append('path').attr('d', barPath(0, y, Math.max(2, x(r.n)), bh)).attr('fill', cols[0]);
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', y + 11).text(fmt(r.n));
+        g.append('text').attr('class', 'lbl strong').attr('x', iw + m.r - 4).attr('y', y + 11).attr('text-anchor', 'end').text(pct(r.granted, r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${L('Član', 'Article')} ${d.a}: ${esc(L(d.sr, d.en))}</b>` + trow(null, L('Odluka', 'Decisions'), fmt(d.n)) + trow(null, L(...OC.granted), fmt(d.granted)) + trow(null, L(...OC.rejected), fmt(d.rejected)) + trow(null, L(...OC.dismissed), fmt(d.dismissed)));
+      });
+      note(el, ['git log (Provisions: Устав Члан …)'], `${fmt(c.with_art)} ${L('od', 'of')} ${fmt(c.uz)}`, L('odluka se broji kod svakog člana koji navodi. Nazivi članova su skraćeni nazivi iz Ustava (ustav/clan-NNN.md).', 'a decision counts for every article it cites. The names are short forms of the Constitution\'s article headings (ustav/clan-NNN.md).'));
+      table(el, [L('Član', 'Article'), L('Odluka', 'Decisions'), L(...OC.granted), L(...OC.rejected), L(...OC.dismissed)], rows.map(r => [`${r.a} ${L(r.sr, r.en)}`, r.n, r.granted, r.rejected, r.dismissed]));
+    }
+  };
+});
+
+chart('c14', el => {
+  const c = D.c14;
+  const fys = d3.range(2007, 2027), dys = d3.range(2008, 2027);
+  const M = new Map(c.cells.map(x => [x.f + '-' + x.d, x.n]));
+  return {
+    title: L('Koliko žalba čeka: godina podnošenja naspram godine odluke', 'How long a complaint waits: the year it was filed against the year it was decided'),
+    dek: L('Godina podnošenja je iz broja predmeta (Už-1234/2013 = podneta 2013). Svaki red je jedna godina odluke; što je ćelija dalje levo od dijagonale, to je žalba duže čekala. Medijana čekanja se kreće oko dve do tri godine.',
+      'The filing year comes from the case number (Už-1234/2013 = filed in 2013). Each row is one year of decision; the further a cell sits left of the diagonal, the longer the complaint waited. The median wait is around two to three years.'),
+    draw(el) {
+      const w = W(el), nw = narrow(w), m = { t: 8, r: 64, b: 34, l: 40 };
+      const cw = (w - m.l - m.r) / fys.length, ch = nw ? 16 : 20, rows = dys.filter(d => c.cells.some(x => x.d === d));
+      const h = m.t + m.b + rows.length * ch;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const mx = d3.max(c.cells, x => x.n);
+      const col = d3.scaleSequentialSqrt(d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))).domain([0, mx]);
+      fys.forEach((f, i) => { if (i % (nw ? 4 : 2) === 0) g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', rows.length * ch + 14).attr('text-anchor', 'middle').text(f); });
+      g.append('text').attr('class', 'lbl mut').attr('x', 0).attr('y', rows.length * ch + 28).text(L('godina podnošenja →', 'year filed →'));
+      g.append('text').attr('class', 'lbl mut').attr('x', fys.length * cw + 6).attr('y', -0).text(L('medijana', 'median'));
+      rows.forEach((d, j) => {
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', j * ch + ch / 2 + 4).attr('text-anchor', 'end').text(d);
+        const med = c.med[d];
+        if (med != null) g.append('text').attr('class', 'lbl').attr('x', fys.length * cw + 6).attr('y', j * ch + ch / 2 + 4).text(med + L(' god.', ' yr'));
+        fys.forEach((f, i) => {
+          const n = M.get(f + '-' + d); if (!n) return;
+          bindTip(g.append('rect').attr('x', i * cw + 1).attr('y', j * ch + 1).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 2).attr('fill', col(n)).datum({ f, d, n }),
+            x => `<b>${L('Odlučeno', 'Decided')} ${x.d}, ${L('podneto', 'filed')} ${x.f}</b>` + trow(null, L('Odluka', 'Decisions'), fmt(x.n)) + trow(null, L('Čekanje', 'Wait'), (x.d - x.f) + L(' god.', ' years')));
+        });
+      });
+      note(el, ['git log (Case: Уж-N/GGGG, Decided)'], fmt(c.n), L('samo objavljene odluke o ustavnim žalbama; razlika godina nije tačno trajanje u danima (žalba podneta u decembru i rešena u januaru „čeka godinu dana“).', 'published decisions on constitutional complaints only; a difference of years is not an exact duration (a complaint filed in December and decided in January "waits a year").'));
+      table(el, [L('Odlučeno', 'Decided'), ...fys.map(String), L('Medijana', 'Median')], rows.map(d => [String(d), ...fys.map(f => M.get(f + '-' + d) || 0), c.med[d] != null ? c.med[d] : '–']));
+    }
+  };
+});
+
+const CG = { civil_appeal: ['Drugostepene presude u parnici (Gž)', 'Civil appeal judgments (Gž)'], proceedings: ['Sam postupak koji još traje (trajanje, radnje)', 'The pending proceedings themselves (length, acts)'],
+  civil_first: ['Prvostepeni parnični i vanparnični akti (P, R, St)', 'First-instance civil acts (P, R, St)'], administrative: ['Upravni spor (U, Uzp)', 'Administrative disputes (U, Uzp)'], revision: ['Revizija (Rev, Prev)', 'Revision (Rev, Prev)'],
+  criminal: ['Krivični predmeti (K, Kž)', 'Criminal cases (K, Kž)'], reasonable_time: ['Zahtevi za suđenje u razumnom roku (Rž)', 'Trial within a reasonable time requests (Rž)'], enforcement: ['Izvršenje (I, Ipv)', 'Enforcement (I, Ipv)'],
+  misdemeanour: ['Prekršajni predmeti', 'Misdemeanour cases'], commercial: ['Privredni sporovi (Pž)', 'Commercial disputes (Pž)'], other: ['Ostali akti i radnje', 'Other acts and actions'] };
+chart('c15', el => {
+  const c = D.c15, cols = S8();
+  const lenG = c.groups.filter(g => g.g === 'proceedings' || g.g === 'reasonable_time');
+  return {
+    title: L('Šta se osporava: presude u parnici, ali često i samo trajanje postupka', 'What is challenged: civil judgments, but often the length of the proceedings itself'),
+    dek: L(`Prvi osporeni akt iz svake odluke, grupisan po upisniku suda (oznaka predmeta, npr. Gž, Rev, Kž). ${pct(sum(lenG, g => g.n), c.n)} žalbi ne osporava presudu nego postupak koji traje ili odluku o zahtevu za suđenje u razumnom roku; takve žalbe su gotovo uvek usvojene.`,
+      `The first challenged act of each decision, grouped by the court register it comes from (the case mark, e.g. Gž, Rev, Kž). ${pct(sum(lenG, g => g.n), c.n)} of complaints challenge not a judgment but proceedings still running or a ruling on a reasonable-time request; those are almost always granted.`),
+    draw(el) {
+      legend(el, [{ c: cols[0], l: L(...OC.granted) }, { c: cols[1], l: L(...OC.rejected) }, { c: cols[3], l: L(...OC.dismissed) }]);
+      const rows = c.groups, w = W(el), nw = narrow(w), rowH = 26, m = { t: 6, r: 50, b: 8, l: nw ? 160 : 320 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, iw]);
+      rows.forEach((r, i) => {
+        const y = i * rowH + 5, bh = 16;
+        const nm = L(...CG[r.g]);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + 12).attr('text-anchor', 'end').text(nw && nm.length > 26 ? nm.slice(0, 25) + '…' : nm);
+        let acc = 0; const segs = [['granted', cols[0]], ['rejected', cols[1]], ['dismissed', cols[3]]].filter(([k]) => r[k]);
+        segs.forEach(([k, cc], j) => { const x0 = x(acc) + (j ? 1 : 0); acc += r[k]; const x1 = x(acc) - (j < segs.length - 1 ? 1 : 0); g.append('path').attr('d', j === segs.length - 1 ? barPath(x0, y, x1, bh) : `M${x0},${y}H${x1}V${y + bh}H${x0}Z`).attr('fill', cc); });
+        g.append('text').attr('class', 'lbl').attr('x', x(r.n) + 6).attr('y', y + 12).text(fmt(r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${esc(L(...CG[d.g]))}</b>` + trow(cols[0], L(...OC.granted), `${fmt(d.granted || 0)} · ${pct(d.granted || 0, d.n)}`) + trow(cols[1], L(...OC.rejected), fmt(d.rejected || 0)) + trow(cols[3], L(...OC.dismissed), fmt(d.dismissed || 0)));
+      });
+      note(el, ['git log (Challenged)'], fmt(c.n), L('grupa je pročitana iz oznake upisnika na početku teksta („Presuda Gž. 1882/13 …“) ili iz reči „Postupak u predmetu …“. Odbačene žalbe retko navode osporeni akt.', 'the group is read from the register mark at the start of the text ("Presuda Gž. 1882/13 …") or from the words "Postupak u predmetu …" (proceedings in case …). Dismissed complaints rarely name the act.'));
+      table(el, [L('Šta se osporava', 'What is challenged'), L('Odluka', 'Decisions'), L(...OC.granted), L(...OC.rejected), L(...OC.dismissed)], rows.map(r => [L(...CG[r.g]), r.n, r.granted || 0, r.rejected || 0, r.dismissed || 0]));
+    }
+  };
+});
+
+const AT = { law: ['Zakoni', 'Laws'], regulation: ['Uredbe, pravilnici i drugi propisi', 'Decrees, rulebooks and other regulations'], local: ['Akti gradova i opština', 'City and municipal acts'], statute: ['Statuti, poslovnici, kolektivni ugovori', 'Statutes, rules of procedure, collective agreements'], other: ['Ostalo', 'Other'] };
+chart('c16', el => {
+  const c = D.c16, cols = S8(), keys = ['law', 'regulation', 'local', 'statute', 'other'];
+  const colors = [cols[7], cols[0], cols[2], cols[4], css('--muted-mark')];
+  return {
+    title: L('Kada Sud kaže „nesaglasno“: opšti akti oglašeni neustavnim ili nezakonitim', 'When the Court says "not in conformity": general acts found unconstitutional or unlawful'),
+    dek: L(`${fmt(c.n)} objavljenih odluka o utvrđivanju nesaglasnosti, po godini i vrsti osporenog akta. Najčešće padaju akti gradova i opština (${fmt(c.tot.local || 0)}), a zakoni ${fmt(c.tot.law || 0)} puta.`,
+      `${fmt(c.n)} published decisions finding non-conformity, by year and kind of act challenged. City and municipal acts fall most often (${fmt(c.tot.local || 0)}); laws ${fmt(c.tot.law || 0)} times.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...AT[k]) })));
+      const all = d3.range(2009, 2027).map(y => c.rows.find(r => r.y === y) || { y });
+      stackedColumns(el, all, keys, colors, keys.map(k => L(...AT[k])), { h: 240, topLabel: r => { const s = sum(keys, k => r[k] || 0); return s ? s : ''; } });
+      const sub = el.append('div');
+      sub.append('h4').style('margin', '14px 0 2px').style('font', '600 13px Inter, sans-serif').text(L('Poslednji zakoni za koje je utvrđena nesaglasnost', 'The latest laws found not in conformity'));
+      sub.append('ul').attr('class', 'list').selectAll('li').data(c.laws.slice(0, 12)).join('li').text(d => `${d.y} · ${d.c} · ${d.t}`);
+      note(el, ['git log (Outcome: Одлука о утврђивању несагласности; Case, Challenged)'], fmt(c.n), L('vrsta akta je pročitana iz prve reči osporenog akta (Zakon, Uredba, Pravilnik, Odluka, Statut…) i iz oznake predmeta IUl (lokalni akti).', 'the kind of act is read from the first word of the challenged act (Law, Decree, Rulebook, Decision, Statute…) and from the case mark IUl (local acts).'));
+      table(el, [t('year'), L('Predmet', 'Case'), L('Vrsta', 'Kind'), L('Osporeni akt', 'Act challenged')], c.laws.map(d => [String(d.y), d.c, L(...AT[d.typ]), d.t]));
+    }
+  };
+});
+
+part('p4', 'IV. Uprava pod nadzorom', 'IV. The administration under scrutiny',
+  'Registri nezavisnih tela preuzeti sa portala otvorenih podataka (data/registers/): žalbe Povereniku za informacije od javnog značaja i zaštitu podataka o ličnosti i preporuke Državne revizorske institucije.',
+  'Registers of independent bodies taken from the open-data portal (data/registers/): appeals to the Commissioner for Information of Public Importance and Personal Data Protection, and the State Audit Institution\'s recommendations.');
+
+const GR = { silence: ['Ćutanje uprave (nema odgovora)', 'Administrative silence (no answer)'], answer: ['Nezadovoljstvo odgovorom', 'Dissatisfied with the answer'], decision: ['Rešenje ili zaključak o odbijanju', 'Refusal by ruling or conclusion'], notice: ['Obaveštenje sa elementima odluke', 'Notice amounting to a decision'], costs: ['Troškovi', 'Costs'], other: ['Ostalo', 'Other'] };
+chart('c17', el => {
+  const c = D.c17, cols = S8(), keys = ['silence', 'answer', 'decision', 'notice', 'costs'];
+  const colors = [cols[7], cols[0], cols[2], cols[3], cols[6]];
+  const last = c.rows[c.rows.length - 1].y;
+  return {
+    title: L('Ćutanje uprave: najčešći razlog žalbe Povereniku', 'Administrative silence: the most common ground of appeal to the Commissioner'),
+    dek: L(`Žalbe Povereniku zbog uskraćenog pristupa informacijama, po godini i osnovu. U ${pct(c.silence, c.n)} od ${fmt(c.n)} žalbi organ uopšte nije odgovorio na zahtev. Broj žalbi je skočio 2022–2023.`,
+      `Appeals to the Commissioner over refused access to information, by year and ground. In ${pct(c.silence, c.n)} of ${fmt(c.n)} appeals the body never answered the request at all. Appeals jumped in 2022–2023.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...GR[k]) })));
+      stackedColumns(el, c.rows, keys, colors, keys.map(k => L(...GR[k])), { partial: r => r.y === last, topLabel: r => pct(r.silence || 0, r.n) });
+      note(el, ['data/registers/poverenik/zalbe-iz-oblasti-prava-na-pristup-informacijama.csv'], fmt(c.n), L(`broj iznad stuba je udeo ćutanja uprave. Godina je godina prijema žalbe; ${last} je delimična (do ${dateTxt(PF.poverenik.last)}).`, `the number above each column is the share for silence. The year is the year the appeal was received; ${last} is partial (to ${dateTxt(PF.poverenik.last)}).`));
+      table(el, [t('year'), ...keys.map(k => L(...GR[k])), t('total')], c.rows.map(r => [String(r.y), ...keys.map(k => r[k] || 0), r.n]));
+    }
+  };
+});
+
+chart('c18', el => {
+  const c = D.c18, cols = S8();
+  const rows = c.groups.slice().sort((a, b) => b.silence / b.n - a.silence / a.n);
+  return {
+    title: L('Ko ćuti: udeo žalbi zbog ćutanja, po vrsti organa', 'Who stays silent: the share of appeals over silence, by type of body'),
+    dek: L(`Za svaku vrstu organa: koliko je žalbi podneto protiv nje (siva traka) i koliko zato što organ nije odgovorio (crvena). Najviše žalbi ima protiv organa gradova i opština, a najveći udeo ćutanja je kod grupe „${rows[0].sr}“ (${pct(rows[0].silence, rows[0].n)}).`,
+      `For each type of body: how many appeals were filed against it (grey bar) and how many because it never answered (red). Most appeals are against city and municipal bodies; the highest share of silence is for ${rows[0].en.toLowerCase()} (${pct(rows[0].silence, rows[0].n)}).`),
+    draw(el) {
+      legend(el, [{ c: css('--muted-mark'), l: L('Sve žalbe', 'All appeals') }, { c: cols[7], l: L('Žalbe zbog ćutanja', 'Appeals over silence') }]);
+      const w = W(el), nw = narrow(w), rowH = 26, m = { t: 18, r: 60, b: 8, l: nw ? 150 : 280 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, d3.max(rows, r => r.n)]).range([0, iw]);
+      g.append('text').attr('class', 'lbl mut').attr('x', iw + m.r - 4).attr('y', -6).attr('text-anchor', 'end').text(L('ćutanje', 'silence'));
+      rows.forEach((r, i) => {
+        const y = i * rowH + 5, bh = 16, nm = L(r.sr, r.en);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + 12).attr('text-anchor', 'end').text(nw && nm.length > 22 ? nm.slice(0, 21) + '…' : nm);
+        g.append('path').attr('d', barPath(0, y, x(r.n), bh)).attr('fill', css('--muted-mark'));
+        g.append('path').attr('d', barPath(0, y, Math.max(2, x(r.silence)), bh)).attr('fill', cols[7]);
+        g.append('text').attr('class', 'lbl strong').attr('x', iw + m.r - 4).attr('y', y + 12).attr('text-anchor', 'end').text(pct(r.silence, r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${esc(L(d.sr, d.en))}</b>` + trow(null, L('Žalbi', 'Appeals'), fmt(d.n)) + trow(cols[7], L('Zbog ćutanja', 'Over silence'), `${fmt(d.silence)} · ${pct(d.silence, d.n)}`));
+      });
+      const sub = el.append('div');
+      sub.append('h4').style('margin', '14px 0 2px').style('font', '600 13px Inter, sans-serif').text(L('Organi sa najviše žalbi zbog ćutanja', 'Bodies with the most appeals over silence'));
+      sub.append('ul').attr('class', 'list').selectAll('li').data(c.top).join('li').text(d => `${d.a} · ${fmt(d.n)}`);
+      note(el, ['data/registers/poverenik/zalbe-iz-oblasti-prava-na-pristup-informacijama.csv (AuthorityGroup, BasicOfStarting)'], fmt(sum(rows, r => r.n)), L('vrste organa su one iz registra Poverenika; nekoliko retkih vrsta je spojeno u „Ostali organi“. Veliki broj žalbi protiv jednog organa može da potiče od malog broja podnosilaca.', 'the types of body are the Commissioner\'s own; a few rare types are merged into "Other bodies". Many appeals against one body may come from a small number of applicants.'));
+      table(el, [L('Vrsta organa', 'Type of body'), L('Žalbi', 'Appeals'), L('Zbog ćutanja', 'Over silence'), '%'], rows.map(r => [L(r.sr, r.en), r.n, r.silence, pct(r.silence, r.n, 1)]));
+    }
+  };
+});
+
+const AU = { enterprise: ['Javna i državna preduzeća', 'Public and state-owned companies'], institution: ['Ustanove (škole, zdravstvo, socijalna zaštita, kultura)', 'Institutions (schools, health, social care, culture)'], local: ['Gradovi i opštine', 'Cities and municipalities'],
+  agency: ['Agencije, zavodi, fondovi, upravni okruzi', 'Agencies, institutes, funds, administrative districts'], ministry: ['Ministarstva', 'Ministries'], judiciary: ['Sudovi, tužilaštva, zatvori', 'Courts, prosecutors, prisons'], party: ['Političke stranke', 'Political parties'],
+  province: ['AP Vojvodina', 'Province of Vojvodina'], state_accounts: ['Završni račun budžeta Republike', 'The Republic\'s final budget accounts'], other: ['Ostalo', 'Other'] };
+const STS = { done: ['Postupljeno', 'Implemented'], partly: ['Delimično', 'Partly'], ongoing: ['U toku', 'In progress'], not: ['Nije postupljeno', 'Not implemented'], na: ['Nije primenljivo', 'Not applicable'] };
+chart('c19', el => {
+  const c = D.c19, keys = ['done', 'partly', 'ongoing', 'not', 'na'];
+  const colors = [css('--good'), css('--warn'), css('--info'), css('--bad'), css('--na')];
+  const rows = c.groups.slice().sort((a, b) => (b.done || 0) / b.n - (a.done || 0) / a.n);
+  const N = c.n, T0 = c.tot;
+  const party = c.groups.find(g => g.g === 'party');
+  return {
+    title: L('Preporuke Državne revizorske institucije: ko ih sprovodi', 'State Audit Institution recommendations: who carries them out'),
+    dek: L(`${fmt(N)} preporuka iz registra DRI, po vrsti revidiranog subjekta i statusu na dan 30. 4. 2026. Ukupno je postupljeno po ${pct(T0.done, N)}. Najslabije stoje političke stranke${party ? ` (${pct(party.not || 0, party.n)} nije postupljeno)` : ''}, ministarstva i završni račun budžeta.`,
+      `${fmt(N)} recommendations in the SAI register, by type of audited body and status on 30 April 2026. Overall, ${pct(T0.done, N)} were implemented. Political parties${party ? ` (${pct(party.not || 0, party.n)} not implemented)` : ''}, ministries and the Republic's final budget accounts do worst.`),
+    draw(el) {
+      legend(el, keys.map((k, i) => ({ c: colors[i], l: L(...STS[k]) })));
+      const w = W(el), nw = narrow(w), rowH = 28, m = { t: 6, r: 48, b: 22, l: nw ? 150 : 320 };
+      const h = m.t + m.b + rows.length * rowH;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const iw = w - m.l - m.r;
+      const x = d3.scaleLinear().domain([0, 1]).range([0, iw]);
+      [0, .25, .5, .75, 1].forEach(v => { g.append('line').attr('x1', x(v)).attr('x2', x(v)).attr('y1', 0).attr('y2', rows.length * rowH).attr('stroke', css('--grid')); g.append('text').attr('class', 'lbl').attr('x', x(v)).attr('y', rows.length * rowH + 15).attr('text-anchor', 'middle').text(v * 100 + '%'); });
+      rows.forEach((r, i) => {
+        const y = i * rowH + 6, bh = 16, nm = L(...AU[r.g]);
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', y + 12).attr('text-anchor', 'end').text(nw && nm.length > 22 ? nm.slice(0, 21) + '…' : nm);
+        let acc = 0; const segs = keys.map((k, j) => [k, colors[j]]).filter(([k]) => r[k]);
+        segs.forEach(([k, cc], j) => { const x0 = x(acc / r.n) + (j ? 1 : 0); acc += r[k]; const x1 = x(acc / r.n) - (j < segs.length - 1 ? 1 : 0); if (x1 > x0) g.append('rect').attr('x', x0).attr('y', y).attr('width', x1 - x0).attr('height', bh).attr('rx', j === segs.length - 1 || j === 0 ? 3 : 0).attr('fill', cc); });
+        g.append('text').attr('class', 'lbl').attr('x', iw + 6).attr('y', y + 12).text(fmt(r.n));
+        bindTip(g.append('rect').attr('class', 'hit').attr('x', -m.l).attr('width', iw + m.l + m.r).attr('y', i * rowH).attr('height', rowH).datum(r),
+          d => `<b>${esc(L(...AU[d.g]))}</b>` + keys.map((k, j) => d[k] ? trow(colors[j], L(...STS[k]), `${fmt(d[k])} · ${pct(d[k], d.n)}`) : '').join('') + trow(null, t('total'), fmt(d.n)));
+      });
+      const sub = el.append('div');
+      sub.append('h4').style('margin', '14px 0 2px').style('font', '600 13px Inter, sans-serif').text(L('Subjekti sa najviše nesprovedenih preporuka', 'Bodies with the most recommendations not implemented'));
+      sub.append('ul').attr('class', 'list').selectAll('li').data(c.not_top).join('li').text(d => `${d.who} · ${d.n}`);
+      note(el, ['data/registers/dri/registar-preporuka-1.csv'], fmt(N), L('vrsta subjekta je pročitana iz njegovog naziva. Datoteka registar-preporuka-2.csv je isti registar bez kolone o vrsti revizije, pa nije dvaput brojana. Status je onaj koji DRI vodi, ne nezavisna provera.', 'the type of body is read from its name. registar-preporuka-2.csv is the same register without the audit-type column, so it is not counted twice. The status is the one the SAI records, not an independent check.'));
+      table(el, [L('Vrsta subjekta', 'Type of body'), ...keys.map(k => L(...STS[k])), t('total')], rows.map(r => [L(...AU[r.g]), ...keys.map(k => r[k] || 0), r.n]));
+    }
+  };
+});
+
+part('p5', 'V. Beograd', 'V. Belgrade',
+  'Sadržaj Službenog lista Grada Beograda 2002–2014 (data/local/beograd/acts-<godina>.csv): svaki akt sa brojem lista, datumom i odeljkom u kojem je objavljen.',
+  'The contents of the Official Gazette of the City of Belgrade, 2002–2014 (data/local/beograd/acts-<year>.csv): every act with its issue, date and the section it appeared in.');
+
+chart('c20', el => {
+  const c = D.c20, ys = c.years;
+  const city = c.rows.find(r => r.i === 'Grad Beograd'), muni = c.rows.filter(r => r.i !== 'Grad Beograd');
+  const N = sum(c.rows, r => r.n), top = muni[0];
+  return {
+    title: L('Službeni list Grada Beograda: gradske opštine objave više akata od samog Grada', 'Belgrade\'s Official Gazette: the city municipalities publish more acts than the City itself'),
+    dek: L(`Akti po izdavaocu i godini, 2002–2014. Grad je objavio ${fmt(city.n)} akata, a ${muni.length} gradskih opština zajedno ${fmt(sum(muni, r => r.n))}; najviše ${top.i} (${fmt(top.n)}). Opštine na obodu grada (Obrenovac, Lazarevac, Surčin, Grocka, Mladenovac) objavljuju više od centralnih.`,
+      `Acts by issuer and year, 2002–2014. The City published ${fmt(city.n)} acts and its ${muni.length} municipalities together ${fmt(sum(muni, r => r.n))}; the most, ${top.i} (${fmt(top.n)}). The outer municipalities (Obrenovac, Lazarevac, Surčin, Grocka, Mladenovac) publish more than the central ones.`),
+    draw(el) {
+      const w = W(el), nw = narrow(w), m = { t: 22, r: 56, b: 8, l: nw ? 92 : 120 };
+      const cw = (w - m.l - m.r) / ys.length, ch = 22, rows = c.rows, h = m.t + m.b + rows.length * ch;
+      const svg = svgIn(el, w, h), g = svg.append('g').attr('transform', `translate(${m.l},${m.t})`);
+      const mxM = d3.max(muni, r => d3.max(Object.values(r.by)));
+      const col = d3.scaleSequential(d3.interpolateRgb(css('--seq-lo'), css('--seq-hi'))).domain([0, mxM]);
+      ys.forEach((y, i) => { if (!nw || i % 3 === 0) g.append('text').attr('class', 'lbl').attr('x', i * cw + cw / 2).attr('y', -7).attr('text-anchor', 'middle').text(nw ? String(y).slice(2) : y); });
+      g.append('text').attr('class', 'lbl mut').attr('x', ys.length * cw + 6).attr('y', -7).text(t('total'));
+      rows.forEach((r, j) => {
+        const isCity = r.i === 'Grad Beograd';
+        g.append('text').attr('class', 'lbl strong').attr('x', -8).attr('y', j * ch + ch / 2 + 4).attr('text-anchor', 'end').text(isCity ? L('Grad Beograd', 'City of Belgrade') : r.i);
+        g.append('text').attr('class', 'lbl').attr('x', ys.length * cw + 6).attr('y', j * ch + ch / 2 + 4).text(fmt(r.n));
+        ys.forEach((y, i) => {
+          const n = r.by[y] || 0;
+          bindTip(g.append('rect').attr('x', i * cw + 1).attr('y', j * ch + 1 + (isCity ? 0 : 6)).attr('width', cw - 2).attr('height', ch - 2).attr('rx', 2)
+            .attr('fill', isCity ? d3.interpolateRgb(css('--seq-lo'), css('--s2'))(Math.min(1, n / d3.max(Object.values(city.by)))) : col(Math.min(n, mxM))).datum({ y, n }),
+            d => `<b>${isCity ? L('Grad Beograd', 'City of Belgrade') : esc(r.i)}, ${d.y}</b>` + trow(null, L('Akata', 'Acts'), fmt(d.n)));
+        });
+      });
+      note(el, ['data/local/beograd/acts-*.csv (section, date)'], fmt(N), L('Grad (prvi red) ima svoju skalu boja jer objavljuje mnogo više od bilo koje opštine; opštine dele jednu skalu. Ispravke i akti javnih preduzeća nisu uračunati. Tekstovi akata iz 2024–2026 su u fascikli local/.', 'the City (first row) has its own colour scale because it publishes far more than any one municipality; the municipalities share one scale. Corrections and public companies\' acts are not counted. The texts of acts from 2024–2026 are in local/.'));
+      table(el, [L('Izdavalac', 'Issuer'), ...ys.map(String), t('total')], rows.map(r => [r.i === 'Grad Beograd' ? L('Grad Beograd', 'City of Belgrade') : r.i, ...ys.map(y => r.by[y] || 0), r.n]));
+    }
+  };
+});
+
+// reading order (chart numbers follow it): money and treaties straight after what the Assembly passes
+const ORDER = ['p1', 'c01', 'c04', 'c05', 'c02', 'c03', 'p2', 'c06', 'c07', 'c08', 'c09', 'c10', 'c11', 'p3', 'c12', 'c13', 'c14', 'c15', 'c16', 'p4', 'c17', 'c18', 'c19', 'p5', 'c20'];
+CH.sort((a, b) => ORDER.indexOf(a.id) - ORDER.indexOf(b.id));
+
+// ------------------------------------------------------------------ page
+function profileTable() {
+  const P = PF, el = d3.select('#profile').html('');
+  const rows = [
+    [L('Istorija gita (svi komiti)', 'Git history (every commit)'), 'git log origin/main', fmt(P.commits), L('komiti po vrsti: ', 'commits by kind: ') + P.kinds.map(([k, n]) => `${k} ${fmt(n)}`).join(', '), L('datum komita je datum stupanja na snagu ili odluke, ne datum unosa', 'the commit date is the date of force or decision, not of entry')],
+    [L('Akti u registru', 'Register acts'), '<vrsta>/<godina>/<broj>/, registry/data/acts.json', fmt(P.acts_in_tree), L('važeći akti PIS-a; najstariji iz 1947.', 'acts in force in the Legal Information System; the oldest from 1947'), L('ukinuti akti nisu u registru; tekstovi pre ~2015. često postoje samo kao najstarija dostupna verzija', 'repealed acts are not in the register; texts before ~2015 often exist only as the oldest available version')],
+    [L('Predlozi zakona', 'Bills'), 'data/bills-*.csv', `${fmt(P.bills.filed)} (${fmt(P.bills.adopted)} ${L('usvojeno', 'passed')})`, `${P.bills.first_filed.slice(0, 4)}–${P.bills.last_adopted.slice(0, 4)}`, L('pre 2011. spisak je nepotpun; nema podatka o hitnom postupku ni o predlagaču', 'incomplete before 2011; no field for urgent procedure or for the sponsor')],
+    [L('Ustavni sud', 'Constitutional Court'), 'sudska-praksa/ustavni-sud/', `${fmt(P.cc.decisions)} (${fmt(P.cc.uz)} Už)`, `${P.cc.first.slice(0, 4)}–${P.cc.last.slice(0, 4)}`, L('baza je izbor koji Sud objavljuje, ne sve odluke; tekst odluka koje imenuju fizička lica je izostavljen', 'the database is a selection the Court publishes, not every decision; the text of decisions naming private persons is withheld')],
+    [L('Žalbe Povereniku', 'Appeals to the Commissioner'), 'data/registers/poverenik/', fmt(P.poverenik.appeals), `${P.poverenik.first.slice(0, 4)}–${P.poverenik.last.slice(0, 4)}`, L('registar Poverenika sa portala otvorenih podataka; ishod je za većinu žalbi „No data“', 'the Commissioner\'s register from the open-data portal; the outcome is "No data" for most appeals')],
+    [L('Preporuke DRI', 'SAI recommendations'), 'data/registers/dri/', fmt(D.c19.n), L('status na dan 30. 4. 2026.', 'status on 30 April 2026'), L('status prijavljuje DRI', 'status as reported by the SAI')],
+    [L('Sl. list Grada Beograda', 'Belgrade Official Gazette'), 'data/local/beograd/', fmt(P.local.beograd_index), '2002–2014', L('sadržaj (naslovi) za 2002–2014; tekstovi lokalnih akata od 2024. su u local/ (' + fmt(P.local.local_texts) + ')', 'contents (titles) for 2002–2014; texts of local acts from 2024 are in local/ (' + fmt(P.local.local_texts) + ')')],
+  ];
+  const tb = el.append('table');
+  tb.append('thead').append('tr').selectAll('th').data([t('ds'), t('src'), t('n'), t('cover'), t('caveat')]).join('th').text(d => d);
+  tb.append('tbody').selectAll('tr').data(rows).join('tr').selectAll('td').data(r => r).join('td').html((v, i) => i === 1 ? `<code>${esc(v)}</code>` : esc(v));
+}
+// row labels drawn left of a plot (text-anchor end, negative x) are cut with an ellipsis to the margin they have
+function fitLeftLabels(fig) {
+  fig.selectAll('svg text').each(function () {
+    if (this.getAttribute('text-anchor') !== 'end' || !(+this.getAttribute('x') < 0)) return;
+    const svg = this.ownerSVGElement, room = this.getBoundingClientRect().right - svg.getBoundingClientRect().left - 2;
+    if (this.getComputedTextLength() <= room) return;
+    const full = this.textContent;
+    d3.select(this).append('title').text(full);
+    let lo = 0, hi = full.length;
+    while (lo < hi) { const mid = (lo + hi + 1) >> 1; this.firstChild.nodeValue = full.slice(0, mid) + '…'; if (this.getComputedTextLength() <= room) lo = mid; else hi = mid - 1; }
+    this.firstChild.nodeValue = full.slice(0, lo) + '…';
+  });
+}
+function render() {
+  document.documentElement.lang = LANG === 'sr' ? 'sr-Latn' : 'en';
+  document.title = t('title');
+  d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
+  d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
+  const tl = t('tiles'), tv = [PF.commits, PF.acts_in_tree, PF.bills.filed, PF.cc.decisions, PF.poverenik.appeals, PF.local.beograd_index];
+  d3.select('#tiles').html('').selectAll('div').data(tv).join('div').attr('class', 'tile').html((v, i) => `<b>${fmt(v)}</b><span>${tl[i]}</span>`);
+  profileTable();
+  const main = d3.select('#main').html(''), toc = d3.select('#toc').html('');
+  let sec = null, n = 0;
+  CH.forEach(c => {
+    if (c.part) {
+      sec = main.append('section').attr('class', 'part').attr('id', c.id);
+      sec.append('h2').text(L(c.sr, c.en)); sec.append('p').attr('class', 'pd').text(L(c.dsr, c.den));
+      toc.append('a').attr('class', 'p').attr('href', '#' + c.id).text(L(c.sr, c.en));
+      return;
+    }
+    n++;
+    const fig = sec.append('figure').attr('class', 'chart').attr('id', c.id);
+    const spec = c.fn(fig);
+    fig.append('div').attr('class', 'num').text(`${n} / 20`);
+    fig.append('h3').text(spec.title);
+    fig.append('p').attr('class', 'dek').text(spec.dek);
+    try { spec.draw(fig); } catch (e) { fig.append('p').attr('class', 'note').text('Error: ' + e.message); console.error(c.id, e); }
+    fitLeftLabels(fig);
+    fig.select('svg').attr('aria-label', spec.title);
+    toc.append('a').attr('href', '#' + c.id).text(`${n}. ${spec.title.split(':')[0]}`);
+  });
+  d3.select('#foot').text(t('foot').replace('{built}', PF.built + (PF.head ? ', ' + PF.head.slice(0, 10) : '')));
+}
+d3.selectAll('[data-lang]').on('click', function () { LANG = this.dataset.lang; try { localStorage.setItem('rs-viz-lang', LANG); } catch (e) {} render(); });
+d3.selectAll('[data-theme-set]').on('click', function () {
+  THEME = this.dataset.themeSet;
+  if (THEME === 'auto') document.documentElement.removeAttribute('data-theme'); else document.documentElement.setAttribute('data-theme', THEME);
+  try { localStorage.setItem('rs-viz-theme', THEME); } catch (e) {}
+  render();
+});
+if (THEME !== 'auto') document.documentElement.setAttribute('data-theme', THEME);
+try { matchMedia('(prefers-color-scheme: dark)').addEventListener('change', () => { if (THEME === 'auto') render(); }); } catch (e) {}
+let lastW = innerWidth, rt;
+addEventListener('resize', () => { if (Math.abs(innerWidth - lastW) < 40) return; clearTimeout(rt); rt = setTimeout(() => { lastW = innerWidth; const y = scrollY; render(); scrollTo(0, y); }, 200); });
+render();
+</script>
+</body>
+</html>

@@ -101,6 +101,10 @@ See `LICENSE`.
 
 This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; scripts were written by an AI model (see `REPRODUCE.md` and `registry/REPRODUCE.md`).
 
+## Visualisations
+
+[visualisations/](visualisations/): Serbian law in 20 charts, drawn from this repository: what the National Assembly passes and who lends to Serbia, what the statute book is made of and how often it changes, constitutional complaints, appeals to the Information Commissioner over administrative silence, the State Audit Institution's recommendations and Belgrade's Official Gazette. Open [srpsko-pravo-u-20-grafikona.html](visualisations/srpsko-pravo-u-20-grafikona.html) in a browser; [visualisations/README.en.md](visualisations/README.en.md) shows every chart as an image.
+
 ## More
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
