@@ -60,13 +60,12 @@ The first version of an act is credited to its original publication when it hold
 - [WATCHING.en.md](WATCHING.en.md): every official source watched for Serbia, what is read on it and when it was last read
 - [monitoring/](monitoring/README.en.md): the state of this repository (latest commits, what arrived, what is paused)
 
-The same for every country: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md), [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md) and [monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring) in global-law.
-
 ## How it is checked
 
 - Every version is the register's own consolidated text for that version, with the register's change notes (not law text) left out; the units re-join to the register's text line for line.
 - Every act is read back from git on the day each version took effect and on the day before, and must match the corpus; only checked batches are pushed. Results are in `registry/REPRODUCE.md`.
 - History is append-only: no merge commits, no rewriting, no commit dated in the future, and every commit's trailers parse.
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Serbian law, found by global-law's detectors and checked by hand.
 
 ## What it does not show
 
@@ -91,8 +90,6 @@ This repository is not legal advice and not an official publication. No AI model
 [visualisations/](visualisations/): Serbian law in 20 charts, drawn from this repository: what the National Assembly passes and who lends to Serbia, what the statute book is made of and how often it changes, constitutional complaints, appeals to the Information Commissioner over administrative silence, the State Audit Institution's recommendations and Belgrade's Official Gazette. Open [srpsko-pravo-u-20-grafikona.html](visualisations/srpsko-pravo-u-20-grafikona.html) in a browser; [visualisations/README.en.md](visualisations/README.en.md) shows every chart as an image.
 
 ## More
-
-- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Serbian law, found by global-law's detectors and checked by hand
 
 From [lexifina/global-law](https://github.com/lexifina/global-law):
 
