@@ -97,8 +97,6 @@ Prva verzija propisa pripisuje se njegovom prvobitnom objavljivanju kada sadrži
 
 Vidi `LICENSE`.
 
-**Uslovi korišćenja registra.** Uslovi korišćenja Pravno-informacionog sistema (pročitani 13. novembra 2026) dozvoljavaju kopiranje sadržaja samo u lične, nekomercijalne svrhe, a za automatsko preuzimanje, indeksiranje ili čuvanje podataka i za ponovno objavljivanje sadržaja na drugim sajtovima traže prethodnu pismenu saglasnost Službenog glasnika. Direktni linkovi na javne stranice registra su dozvoljeni. Dok se ta saglasnost ne dobije, iz registra se ne preuzimaju novi tekstovi: propisi koji su već ovde ostaju kakvi jesu, a delovi koji bi došli iz registra označeni su u `PLAN.md` kao delovi za koje je potrebna dozvola izdavača.
-
 Ovaj repozitorijum nije pravni savet niti zvanična publikacija. Nijedan AI model nije pisao niti menjao tekst propisa; skripte je napisao AI model (vidi `REPRODUCE.md` i `registry/REPRODUCE.md`).
 
 Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.

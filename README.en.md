@@ -97,8 +97,6 @@ The first version of an act is credited to its original publication when it hold
 
 See `LICENSE`.
 
-**The register's terms of use.** The terms of use of the Pravno-informacioni sistem (Услови коришћења, read on 13 November 2026) allow copying its content only for personal, non-commercial purposes, and require the prior written consent of Службени гласник for automated extraction, indexing or storage of its data and for republishing its content on other sites. Direct links to its public pages are allowed. Until that consent is given, no further texts are taken from the register: the acts already here stay as they are, and the parts that would come from the register are marked in `PLAN.md` as needing the publisher's permission.
-
 This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; scripts were written by an AI model (see `REPRODUCE.md` and `registry/REPRODUCE.md`).
 
 ## How current it is
