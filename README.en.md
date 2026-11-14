@@ -1,6 +1,6 @@
 # Serbia: law history in git
 
-[Srpski](README.md) · **English**
+**English** · **[Ili pročitajte na srpskom](README.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
@@ -11,37 +11,7 @@ The law of Serbia as a git history: one file per provision, one commit per versi
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is Serbia's national law, which global-law reads at `serbia/national/acts/`.
 
-**What is in it now:** the Constitution and 9,748 acts from the official register, with 13,507 versions. [`PLAN.md`](PLAN.md) lists every part this repository is meant to hold (laws, by-laws, local acts, case law, treaties, legislative history) and how far each one is; [`registry/ACTS.md`](registry/ACTS.md) lists every act.
-
-| Folder | Kind | Acts | Versions |
-| --- | --- | ---: | ---: |
-| `ustav/` | Устав Републике Србије (the Constitution) | 1 | 2 |
-| `pravilnik/` | Правилник (rulebooks) | 3,291 | 4,656 |
-| `odluka/` | Одлука (decisions) | 2,767 | 3,650 |
-| `zakon/` | Закон (laws) | 1,649 | 2,335 |
-| `uredba/` | Уредба (government decrees) | 1,233 | 1,824 |
-| `akt/` | Other acts | 175 | 292 |
-| `memorandum/` | Меморандум (memoranda) | 114 | 114 |
-| `resenje/` | Решење (rulings) | 95 | 113 |
-| `naredba/` | Наредба (orders) | 85 | 93 |
-| `sporazum/` | Споразум (agreements) | 80 | 80 |
-| `uputstvo/` | Упутство (instructions) | 64 | 65 |
-| `tarifa/` | Тарифа (tariffs) | 41 | 51 |
-| `statut/` | Статут (statutes) | 34 | 51 |
-| `poslovnik/` | Пословник (rules of procedure) | 28 | 43 |
-| `kolektivni/` | Колективни уговор (collective agreements) | 25 | 52 |
-| `kodeks/` | Кодекс (codes) | 21 | 30 |
-| `protokol/` | Протокол (protocols) | 17 | 17 |
-| `pravila/` | Правила (rules) | 7 | 7 |
-| `zakljucak/` | Закључак (conclusions) | 7 | 16 |
-| `ustav/` | Уставни закон (constitutional laws) | 3 | 3 |
-| `program/` | Програм (programmes) | 3 | 3 |
-| `strategija/` | Стратегија (strategies) | 3 | 6 |
-| `metodologija/` | Методологија (methodologies) | 2 | 2 |
-| `plan/` | План (plans) | 1 | 1 |
-| `konvencija/` | Конвенција (conventions) | 1 | 1 |
-| `ugovor/` | Уговор (contracts, treaties) | 1 | 1 |
-| `ukaz/` | Указ (decrees) | 1 | 1 |
+**What is in it now:** the Constitution and 9,748 acts from the official register, with 13,507 versions; 4,034 local acts from 20 cities and municipalities; 12,000 court decisions (11,521 of them from the Constitutional Court); 1,384 bills and 178 draft acts, labelled as not law; and 489 decisions and reports of other public bodies. [`PLAN.md`](PLAN.md) lists every part this repository is meant to hold and how far each one is; [`registry/ACTS.md`](registry/ACTS.md) lists every act from the register, by kind.
 
 Each act is in `<kind>/<year>/<Gazette number>-<page>/`, from its first publication (`zakon/2005/24-3/` is the Закон о раду, the Labour Law, "Службени гласник РС" 24/2005, page 3); acts first published in an earlier Gazette carry its name (`sfrj29-1181` is "Службени лист СФРЈ" 29/1978, page 1181). `registry/data/paths.json` maps each act id to its folder.
 

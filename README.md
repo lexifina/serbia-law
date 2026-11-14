@@ -1,6 +1,6 @@
 # Srbija: istorija propisa u gitu
 
-**Srpski** · [English](README.en.md)
+**Srpski** · **[Or read it in English](README.en.md)**
 
 <picture>
 <source media="(prefers-color-scheme: dark)" srcset="data/sr/effort-dark.svg">
@@ -11,37 +11,7 @@ Pravo Srbije kao git istorija: jedna datoteka po odredbi, jedan commit po verzij
 
 Deo projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git istorije prava svih zemalja: ovo je nacionalno pravo Srbije, koje global-law čita na putanji `serbia/national/acts/`.
 
-**Šta sadrži sada:** Ustav i 9.748 propisa iz zvaničnog registra, sa 13.507 verzija. [`PLAN.md`](PLAN.md) navodi sve delove koje ovaj repozitorijum treba da sadrži (zakoni, podzakonski akti, lokalni propisi, sudska praksa, međunarodni ugovori, zakonodavna istorija) i dokle se stiglo sa svakim; [`registry/ACTS.md`](registry/ACTS.md) navodi sve propise.
-
-| Folder | Vrsta | Propisa | Verzija |
-| --- | --- | ---: | ---: |
-| `ustav/` | Ustav Republike Srbije | 1 | 2 |
-| `pravilnik/` | Pravilnici | 3.291 | 4.656 |
-| `odluka/` | Odluke | 2.767 | 3.650 |
-| `zakon/` | Zakoni | 1.649 | 2.335 |
-| `uredba/` | Uredbe | 1.233 | 1.824 |
-| `akt/` | Ostali akti | 175 | 292 |
-| `memorandum/` | Memorandumi | 114 | 114 |
-| `resenje/` | Rešenja | 95 | 113 |
-| `naredba/` | Naredbe | 85 | 93 |
-| `sporazum/` | Sporazumi | 80 | 80 |
-| `uputstvo/` | Uputstva | 64 | 65 |
-| `tarifa/` | Tarife | 41 | 51 |
-| `statut/` | Statuti | 34 | 51 |
-| `poslovnik/` | Poslovnici | 28 | 43 |
-| `kolektivni/` | Kolektivni ugovori | 25 | 52 |
-| `kodeks/` | Kodeksi | 21 | 30 |
-| `protokol/` | Protokoli | 17 | 17 |
-| `pravila/` | Pravila | 7 | 7 |
-| `zakljucak/` | Zaključci | 7 | 16 |
-| `ustav/` | Ustavni zakoni | 3 | 3 |
-| `program/` | Programi | 3 | 3 |
-| `strategija/` | Strategije | 3 | 6 |
-| `metodologija/` | Metodologije | 2 | 2 |
-| `plan/` | Planovi | 1 | 1 |
-| `konvencija/` | Konvencije | 1 | 1 |
-| `ugovor/` | Ugovori | 1 | 1 |
-| `ukaz/` | Ukazi | 1 | 1 |
+**Šta sadrži sada:** Ustav i 9.748 propisa iz zvaničnog registra, sa 13.507 verzija; 4.034 lokalna propisa iz 20 gradova i opština; 12.000 sudskih odluka (od toga 11.521 Ustavnog suda); 1.384 predloga zakona i 178 nacrta, označenih kao tekstovi koji nisu propisi; i 489 odluka i izveštaja drugih javnih organa. [`PLAN.md`](PLAN.md) navodi sve delove koje ovaj repozitorijum treba da sadrži i dokle se stiglo sa svakim; [`registry/ACTS.md`](registry/ACTS.md) navodi sve propise iz registra, po vrsti.
 
 Svaki propis je u `<vrsta>/<godina>/<broj glasnika>-<strana>/`, prema prvom objavljivanju (`zakon/2005/24-3/` je Закон о раду, Zakon o radu, „Службени гласник РС” 24/2005, strana 3); propisi prvi put objavljeni u nekom ranijem glasniku nose njegov naziv (`sfrj29-1181` je „Службени лист СФРЈ” 29/1978, strana 1181). `registry/data/paths.json` povezuje id svakog propisa sa njegovim folderom.
 
