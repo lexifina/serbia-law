@@ -2,6 +2,11 @@
 
 **Srpski** · [English](README.en.md)
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="img/flags-by-category-dark.sr.svg">
+<img alt="3.154 oznake u sedam vrsta: istekli rokovi 2.151, praznine posle ukidanja 38, izmene istog dana 145, retroaktivni datumi 339, dvostruko numerisanje 400, ukinute valute 67, napomene izdavača 14, svaka podeljena na oznake u propisima i u ostalim tekstovima" src="img/flags-by-category.sr.svg" width="880">
+</picture>
+
 Detektori ranjivosti iz repozitorijuma [lexifina/global-law](https://github.com/lexifina/global-law/tree/main/vulnerabilities) traže mehaničke greške u propisima: pravilo koje se i dalje primenjuje „do” datuma koji je prošao, odredbu ukinutu pre nego što je njena zamena stupila na snagu, dve izmene iste odredbe istog dana, pravilo koje važi pre nego što je objavljeno. Lista koju je global-law objavio (9. novembra 2026) još nije obuhvatala Srbiju, pa je ovo provera samo ovog repozitorijuma, u stanju na commitu [`542a099`](https://github.com/lexifina/serbia-law/commit/542a099cd5a137d6bd315b1596b033ce44dcd54e) od 14. novembra 2026.
 
 **Ukratko:** detektori su označili 3.154 mesta. Jezički model je pregledao 194 najjača, i za svako izneo argumente za i protiv; 17 je izdržalo proveru. Pregledano ručno u ovom repozitorijumu, nijedno nije potvrđena greška u pravu Srbije. Osam potiče od načina na koji registar datira verzije ili od načina na koji je ovaj repozitorijum napravljen, pet je zakonito, jedno je istekla prelazna odredba, a tri uopšte nisu propisi. Kasnije će ovo biti formalizovano u Lean-u, slično našem radu na [poreskom zakoniku SAD](https://lexifina.com/blog/formalizing-the-us-tax-code) i [sudskoj praksi SAD](https://lexifina.com/blog/formalizing-all-us-case-law-in-lean).

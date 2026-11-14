@@ -2,6 +2,11 @@
 
 [Srpski](README.md) · **English**
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="img/flags-by-category-dark.svg">
+<img alt="3,154 flags in seven categories: lapsed time limits 2,151, repeal gaps 38, same-day conflicts 145, retroactive dates 339, duplicate numbering 400, dead currencies 67, publisher notes 14, each split into flags in law texts and in other texts" src="img/flags-by-category.svg" width="880">
+</picture>
+
 The vulnerability detectors from [lexifina/global-law](https://github.com/lexifina/global-law/tree/main/vulnerabilities) look for mechanical mistakes in legislation: a rule applying "until" a date that has passed, a provision repealed before its replacement took effect, two amendments to the same provision on the same day, a rule in force before it was published. global-law's published list (9 November 2026) did not include Serbia yet, so this is a run over this repository only, as it stood at commit [`542a099`](https://github.com/lexifina/serbia-law/commit/542a099cd5a137d6bd315b1596b033ce44dcd54e) on 14 November 2026.
 
 **In short:** the detectors raised 3,154 flags. A language model reviewed 194 of the strongest, arguing each one for and against; 17 survived. Checked by hand in this repository, none of them is a confirmed defect in Serbian law. Eight come from how the register dates versions or how this repository was built, five are lawful, one is a spent transitional rule, and three are not law at all. Later, this will be formalised in Lean, similar to our work on [the US tax code](https://lexifina.com/blog/formalizing-the-us-tax-code) and [US case law](https://lexifina.com/blog/formalizing-all-us-case-law-in-lean).
