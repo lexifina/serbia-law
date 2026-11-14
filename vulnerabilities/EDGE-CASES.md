@@ -2,7 +2,7 @@
 
 **Srpski** · [English](EDGE-CASES.en.md)
 
-17 oznaka koje su izdržale pregled modelom, svaka ručno proverena. Nazad na [README o ranjivostima](README.md).
+17 oznaka koje su izdržale pregled modelom, svaka ručno proverena, i šta su ostale oznake. Nazad na [README o ranjivostima](README.md).
 
 ## Otvoreno: datum treba proveriti u „Službenom glasniku” (4)
 
@@ -40,3 +40,8 @@
 | --- | --- | --- |
 | [Predlog zakona 1867-25](https://github.com/lexifina/serbia-law/blob/542a099cd5a137d6bd315b1596b033ce44dcd54e/predlog/14/1867-25/tekst.md) i [predlog zakona 774-21](https://github.com/lexifina/serbia-law/blob/542a099cd5a137d6bd315b1596b033ce44dcd54e/predlog/12/774-21/tekst.md) | pravila „do” 1. avgusta 1992. i 31. decembra 2001. | Predlozi, a ne propisi; oba datuma su namerni presečni datumi. |
 | [Republička komisija za zaštitu prava u postupcima javnih nabavki, 4-00-1237/2010](https://github.com/lexifina/serbia-law/blob/542a099cd5a137d6bd315b1596b033ce44dcd54e/kjn/2010/4-00-1237-2010.md) | period koji se završava 23. avgusta 2008. | Odluka u jednom postupku javne nabavke, a ne propis. |
+
+## Ostale oznake
+
+- **Istekli rokovi:** 1.727 od 2.151 nalazi se u odlukama o javnim nabavkama, obrazloženjima, nacrtima i predlozima zakona, gde su datumi činjenice slučaja ili jednokratni koraci. Model je pregledao 40 najjačih ukupno i 40 najjačih u propisima: u propisima su to prelazne odredbe koje su ispunile svrhu, namerni presečni datumi ili tekst koji je izrada repozitorijuma pogrešno pročitala.
+- **Dvostruko numerisanje, ukinute valute, napomene izdavača:** pročitano ručno, ne modelom. To su lažni pogoci: „dm” su decimetri, a „DM” dijabetes, „dinara” opisuje današnje novčanice, a „brojevi” i „napomene” su engleski tekst međunarodnih ugovora ili pozivi na članove ponovljeni u obrazloženjima.

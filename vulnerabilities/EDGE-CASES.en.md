@@ -2,7 +2,7 @@
 
 [Srpski](EDGE-CASES.md) · **English**
 
-The 17 flags that survived the model review, each checked by hand. Back to [the vulnerabilities README](README.en.md).
+The 17 flags that survived the model review, each checked by hand, and what the other flags are. Back to [the vulnerabilities README](README.en.md).
 
 ## Open: check the date against the Gazette (4)
 
@@ -40,3 +40,8 @@ The 17 flags that survived the model review, each checked by hand. Back to [the 
 | --- | --- | --- |
 | [Bill 1867-25](https://github.com/lexifina/serbia-law/blob/542a099cd5a137d6bd315b1596b033ce44dcd54e/predlog/14/1867-25/tekst.md) and [bill 774-21](https://github.com/lexifina/serbia-law/blob/542a099cd5a137d6bd315b1596b033ce44dcd54e/predlog/12/774-21/tekst.md) | rules "until" 1 August 1992 and 31 December 2001 | Bills, not law; both dates are deliberate cut-offs. |
 | [Republic Commission for Public Procurement, 4-00-1237/2010](https://github.com/lexifina/serbia-law/blob/542a099cd5a137d6bd315b1596b033ce44dcd54e/kjn/2010/4-00-1237-2010.md) | a period ending 23 August 2008 | A decision in one procurement case, not legislation. |
+
+## The other flags
+
+- **Lapsed time limits:** 1,727 of the 2,151 are in procurement decisions, explanatory memoranda, drafts and bills, where the dates are case facts or one-off steps. The model reviewed the 40 strongest overall and the 40 strongest in law texts: in law texts, the dates are transitional clauses that have run their course, deliberate cut-off dates, or text the build misread.
+- **Duplicate numbering, dead currencies, publisher notes:** read by hand, not by a model. They are false positives: "dm" is decimetres and "DM" diabetes, "dinara" describes today's banknotes, and the "numbers" and "notes" are English treaty text or article references repeated in explanations.

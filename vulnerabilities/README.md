@@ -22,14 +22,7 @@ Oznaka je poziv da se pogleda, a ne pravni savet, i ništa od ovoga nije provere
 
 „U propisima” obuhvata zakone, podzakonske akte, odluke i međunarodne ugovore. Ostale oznake su u nacrtima, predlozima zakona, sudskim odlukama i izveštajima, koje ovaj repozitorijum takođe sadrži i označava kao tekstove koji nisu propisi.
 
-## Granični slučajevi
-
-17 oznaka koje su izdržale pregled modelom, svaka ručno proverena, grupisane prema tome šta su se ispostavile: [EDGE-CASES.md](EDGE-CASES.md).
-
-## Šta su ostale oznake
-
-- **Istekli rokovi:** 1.727 od 2.151 nalazi se u odlukama o javnim nabavkama, obrazloženjima, nacrtima i predlozima zakona, gde su datumi činjenice slučaja ili jednokratni koraci. Model je pregledao 40 najjačih ukupno i 40 najjačih u propisima: u propisima su to prelazne odredbe koje su ispunile svrhu, namerni presečni datumi ili tekst koji je izrada repozitorijuma pogrešno pročitala.
-- **Dvostruko numerisanje, ukinute valute, napomene izdavača:** pročitano ručno, ne modelom. To su lažni pogoci: „dm” su decimetri, a „DM” dijabetes, „dinara” opisuje današnje novčanice, a „brojevi” i „napomene” su engleski tekst međunarodnih ugovora ili pozivi na članove ponovljeni u obrazloženjima.
+*Granični slučajevi: 17 oznaka koje su izdržale pregled, grupisane prema tome šta su se ispostavile, i šta su ostale oznake, u [EDGE-CASES.md](EDGE-CASES.md).*
 
 ## Problemi pronađeni u ovom repozitorijumu
 

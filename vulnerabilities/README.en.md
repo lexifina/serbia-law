@@ -22,14 +22,7 @@ A flag is a prompt to look, not legal advice, and nothing here has been tested i
 
 "In law texts" counts laws, by-laws, decisions and treaties. The other flags are in drafts, bills, court decisions and reports, which this repository also holds and labels as not law.
 
-## Edge cases
-
-The 17 flags that survived the model review, each checked by hand, grouped by what they turned out to be: [EDGE-CASES.en.md](EDGE-CASES.en.md).
-
-## What the other flags are
-
-- **Lapsed time limits:** 1,727 of the 2,151 are in procurement decisions, explanatory memoranda, drafts and bills, where the dates are case facts or one-off steps. The model reviewed the 40 strongest overall and the 40 strongest in law texts: in law texts, the dates are transitional clauses that have run their course, deliberate cut-off dates, or text the build misread.
-- **Duplicate numbering, dead currencies, publisher notes:** read by hand, not by a model. They are false positives: "dm" is decimetres and "DM" diabetes, "dinara" describes today's banknotes, and the "numbers" and "notes" are English treaty text or article references repeated in explanations.
+*Edge cases: the 17 flags that survived the review, grouped by what they turned out to be, and what the other flags are, in [EDGE-CASES.en.md](EDGE-CASES.en.md).*
 
 ## Problems found in this repository
 
