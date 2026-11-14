@@ -117,6 +117,8 @@ Isto za sve zemlje: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/m
 
 ## Više
 
+- [vulnerabilities/](vulnerabilities/): moguće greške u propisima Srbije, koje su pronašli detektori iz global-law i koje su ručno proverene
+
 Iz repozitorijuma [lexifina/global-law](https://github.com/lexifina/global-law) (na engleskom):
 
 - [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): sve funkcije i šta svaki korpus mora da podržava (`git blame`, `law.py`, MCP alati)

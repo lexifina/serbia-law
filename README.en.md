@@ -115,6 +115,8 @@ The same for every country: [FRESHNESS.md](https://github.com/lexifina/global-la
 
 ## More
 
+- [vulnerabilities/](vulnerabilities/README.en.md): possible drafting mistakes in Serbian law, found by global-law's detectors and checked by hand
+
 From [lexifina/global-law](https://github.com/lexifina/global-law):
 
 - [FEATURES.md](https://github.com/lexifina/global-law/blob/main/FEATURES.md): every feature, and what every corpus must support (`git blame`, `law.py`, the MCP tools)
