@@ -7,9 +7,7 @@
 <img alt="Propisi Srbije u ovom repozitorijumu: šta sadrži, izmene po godini stupanja na snagu, potpunost u odnosu na zvanične izvore i tačnost onoga što sadrži" src="data/sr/effort-light.svg" width="880">
 </picture>
 
-Deo projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git istorije prava svih zemalja: ovo je nacionalno pravo Srbije, koje global-law čita na putanji `serbia/national/acts/`.
-
-Pravo Srbije kao git istorija: jedna datoteka po odredbi, jedan commit po verziji na dan kada je stupila na snagu, a autor svakog commita je propis koji je doneo izmenu. `git blame` pokazuje propis koji stoji iza svakog člana; `git log` navodi svaku izmenu člana; izborom datuma dobija se tekst koji je tog dana bio na snazi.
+Pravo Srbije kao git istorija: jedna datoteka po odredbi, jedan commit po verziji na dan kada je stupila na snagu, a autor svakog commita je propis koji je doneo izmenu. `git blame` pokazuje propis koji stoji iza svakog člana; `git log` navodi svaku izmenu člana; izborom datuma dobija se tekst koji je tog dana bio na snazi. Deo projekta [lexifina/global-law](https://github.com/lexifina/global-law), jedne git istorije prava svih zemalja: ovo je nacionalno pravo Srbije, koje global-law čita na putanji `serbia/national/acts/`.
 
 **Šta sadrži sada:** Ustav i 9.748 propisa iz zvaničnog registra, sa 13.507 verzija. [`PLAN.md`](PLAN.md) navodi sve delove koje ovaj repozitorijum treba da sadrži (zakoni, podzakonski akti, lokalni propisi, sudska praksa, međunarodni ugovori, zakonodavna istorija) i dokle se stiglo sa svakim; [`registry/ACTS.md`](registry/ACTS.md) navodi sve propise.
 
