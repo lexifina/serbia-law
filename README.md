@@ -89,7 +89,13 @@ Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju,
 
 ## Vizualizacije
 
-[visualisations/](visualisations/): srpsko pravo u 20 grafikona, nacrtanih iz ovog repozitorijuma: šta Narodna skupština usvaja i ko pozajmljuje Srbiji, od čega se sastoji pravni poredak i koliko se često menja, ustavne žalbe, žalbe Povereniku zbog ćutanja uprave, preporuke Državne revizorske institucije i Službeni list Grada Beograda. Otvorite [srpsko-pravo-u-20-grafikona.html](visualisations/srpsko-pravo-u-20-grafikona.html) u pregledaču; [visualisations/README.md](visualisations/README.md) prikazuje svaki grafikon kao sliku.
+[visualisations/](visualisations/): srpsko pravo u 20 grafikona, nacrtanih iz ovog repozitorijuma.
+
+Između ostalog:
+
+- Šta Narodna skupština usvaja i ko pozajmljuje Srbiji
+- Od čega se sastoji pravni poredak i koliko se često menja
+- Preporuke Državne revizorske institucije i Službeni list Grada Beograda
 
 ## Više
 
