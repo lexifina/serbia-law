@@ -54,6 +54,14 @@ Svaki commit nosi datum u podne po beogradskom vremenu (Europe/Belgrade), na dan
 
 Prva verzija propisa pripisuje se njegovom prvobitnom objavljivanju kada sadrži samo to objavljivanje i njegove ispravke; u suprotnom je to „najstarija dostupna verzija”, pripisana izdavaču, i navodi objave koje već obuhvata.
 
+## Koliko je ažurno
+
+- [FRESHNESS.md](FRESHNESS.md): koliko je svaki izvor ažuran, izvor po izvor, i kako ovaj repozitorijum vidi global-law
+- [WATCHING.md](WATCHING.md): svaki zvanični izvor koji se prati za Srbiju, šta se na njemu čita i kada je poslednji put pročitan
+- [monitoring/](monitoring/): stanje ovog repozitorijuma (poslednji komitovi, šta je stiglo, šta je pauzirano)
+
+Isto za sve zemlje: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md), [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md) i [monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring) u global-law-u.
+
 ## Kako se proverava
 
 - Svaka verzija je prečišćeni tekst te verzije iz samog registra, bez napomena registra o izmenama (one nisu tekst propisa); delovi se ponovo spajaju u tekst registra red po red.
@@ -79,14 +87,6 @@ Vidi `LICENSE`.
 Ovaj repozitorijum nije pravni savet niti zvanična publikacija. Nijedan AI model nije pisao niti menjao tekst propisa; skripte je napisao AI model (vidi `REPRODUCE.md` i `registry/REPRODUCE.md`).
 
 Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.
-
-## Koliko je ažurno
-
-- [FRESHNESS.md](FRESHNESS.md): koliko je svaki izvor ažuran, izvor po izvor, i kako ovaj repozitorijum vidi global-law
-- [WATCHING.md](WATCHING.md): svaki zvanični izvor koji se prati za Srbiju, šta se na njemu čita i kada je poslednji put pročitan
-- [monitoring/](monitoring/): stanje ovog repozitorijuma (poslednji komitovi, šta je stiglo, šta je pauzirano)
-
-Isto za sve zemlje: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md), [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md) i [monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring) u global-law-u.
 
 ## Vizualizacije
 

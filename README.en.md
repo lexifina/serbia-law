@@ -54,6 +54,14 @@ Each commit is dated at noon, Europe/Belgrade, on the day the version took effec
 
 The first version of an act is credited to its original publication when it holds only that publication and its corrections; otherwise it is the "oldest version available", credited to the publisher and naming the publications it already includes.
 
+## How current it is
+
+- [FRESHNESS.en.md](FRESHNESS.en.md): how current each source is, source by source, and how global-law sees this repository
+- [WATCHING.en.md](WATCHING.en.md): every official source watched for Serbia, what is read on it and when it was last read
+- [monitoring/](monitoring/README.en.md): the state of this repository (latest commits, what arrived, what is paused)
+
+The same for every country: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md), [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md) and [monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring) in global-law.
+
 ## How it is checked
 
 - Every version is the register's own consolidated text for that version, with the register's change notes (not law text) left out; the units re-join to the register's text line for line.
@@ -77,14 +85,6 @@ The first version of an act is credited to its original publication when it hold
 See `LICENSE`.
 
 This repository is not legal advice and not an official publication. No AI model wrote or changed legal text; scripts were written by an AI model (see `REPRODUCE.md` and `registry/REPRODUCE.md`).
-
-## How current it is
-
-- [FRESHNESS.en.md](FRESHNESS.en.md): how current each source is, source by source, and how global-law sees this repository
-- [WATCHING.en.md](WATCHING.en.md): every official source watched for Serbia, what is read on it and when it was last read
-- [monitoring/](monitoring/README.en.md): the state of this repository (latest commits, what arrived, what is paused)
-
-The same for every country: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md), [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md) and [monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring) in global-law.
 
 ## Visualisations
 
