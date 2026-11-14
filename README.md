@@ -30,7 +30,8 @@ Tekstovi propisa su na srpskom, ćirilicom (neki latinicom), onako kako ih objav
 
 - **[Pitajte Claude o propisima Srbije](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: otvara Claude sa spremnim prvim pitanjem.
 - **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=serbia)**: isto pitanje u ChatGPT-u.
-- **[Pozovite API u pregledaču](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: pretraga propisa Srbije za „godišnji odmor”, odgovor u JSON-u. Dokumentacija je [ovde](https://lexifina.com/api/global-law).
+- **[Pretražite propise Srbije na našem sajtu](https://lexifina.com/law?country=serbia&q=godi%C5%A1nji+odmor)**: pretraga za „godišnji odmor”, sa tekstom svakog člana i njegovim verzijama, bez naloga.
+- **[REST API za programere](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdiction=serbia)**: ista pretraga kao JSON, bez ključa. Dokumentacija je [ovde](https://lexifina.com/api/global-law).
 
 Oba asistenta čitaju podatke preko besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje link kojim se konektor dodaje. Pitajte na srpskom, latinicom ili ćirilicom, ili na engleskom.
 
