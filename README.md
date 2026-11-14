@@ -26,11 +26,11 @@ Tekstovi propisa su na srpskom, ćirilicom (neki latinicom), onako kako ih objav
 | Svaka verzija Zakona o radu, sa danom kada je stupila na snagu | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
 | Član 1 u jednoj od tih verzija | `git show <commit>:zakon/2005/24-3/clan-001.md` |
 
-**Bez gita.** Isti podaci su besplatni, bez naloga i bez ključa:
+**Izvan gita** ove podatke takođe objavljujemo javno i besplatno:
 
-- **[Pitajte Claude o propisima Srbije](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: otvara Claude sa spremnim prvim pitanjem, o godišnjem odmoru u Zakonu o radu i o tome kako se menjao.
+- **[Pitajte Claude o propisima Srbije](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: otvara Claude sa spremnim prvim pitanjem.
 - **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=serbia)**: isto pitanje u ChatGPT-u.
-- **[Pozovite API u pregledaču](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: pretraga propisa Srbije za „godišnji odmor”, odgovor u JSON-u. Pet poziva u minutu ne traži ključ; vidi [sve alate](https://global-law.lexifina.com/v1) i [ključeve i dokumentaciju](https://lexifina.com/api).
+- **[Pozovite API u pregledaču](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: pretraga propisa Srbije za „godišnji odmor”, odgovor u JSON-u. Dokumentacija je [ovde](https://lexifina.com/api/global-law).
 
 Oba asistenta čitaju podatke preko besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje link kojim se konektor dodaje. Pitajte na srpskom, latinicom ili ćirilicom, ili na engleskom.
 
