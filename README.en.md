@@ -52,18 +52,28 @@ The text is in Serbian (Cyrillic, some acts Latin), as the official register pri
 | Question | Command |
 | --- | --- |
 | Every change to Article 1 of the Labour Law | `git log -p --word-diff -- zakon/2005/24-3/clan-001.md` |
-| Which act wrote each line of it? | `git blame zakon/2005/24-3/clan-001.md` |
+| Which act wrote each line of Article 1? | `git blame zakon/2005/24-3/clan-001.md` |
 | Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
-| Article 1 as it stood in one of those versions | `git show <commit>:zakon/2005/24-3/clan-001.md` |
-| Every version in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
+| Article 1 in one of those versions | `git show <commit>:zakon/2005/24-3/clan-001.md` |
+| Every version in this repository, oldest first | `git log --reverse --format="%ad %an" --date=short main` |
 
-**Or ask in plain words.** The same record is free to use without git, an account or a key:
+**Without git.** The same record is free to use, with no account or key:
 
-- **[Ask Claude about Serbian law](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: one click opens Claude with a first question ready (annual leave in the Labour Law, and how it has changed).
+- **[Ask Claude about Serbian law](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: opens Claude with a first question ready, on annual leave in the Labour Law and how it has changed.
 - **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=serbia)**: the same question in ChatGPT.
-- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: Serbian law searched for "godišnji odmor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: a search of Serbian law for "godišnji odmor", returned as JSON. Five calls a minute need no key; see [every tool](https://global-law.lexifina.com/v1) and [keys and documentation](https://lexifina.com/api).
 
-The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. Ask in Serbian, in Latin or Cyrillic letters, or in English.
+Both assistants read the record through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives you the link that adds it. Ask in Serbian, in Latin or Cyrillic letters, or in English.
+
+**Host it yourself easily.** All it takes is git and Python, and the tools run on your machine:
+
+```sh
+git clone --depth 1 https://github.com/lexifina/global-law && cd global-law
+python3 tools/countries.py add serbia/national/acts
+python3 tools/law.py show 2026-01-01 serbia/national/acts/zakon/2005/24-3/clan-001.md
+```
+
+Opened in Claude Code, Cursor, VS Code or Codex, the clone also starts a local MCP server with the same tools ([MCP.md](https://github.com/lexifina/global-law/blob/main/MCP.md)).
 
 ## Dates
 
