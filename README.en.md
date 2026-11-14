@@ -25,7 +25,6 @@ The text is in Serbian (Cyrillic, some acts Latin), as the official register pri
 | Which act wrote each line of Article 1? | `git blame zakon/2005/24-3/clan-001.md` |
 | Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
 | Article 1 in one of those versions | `git show <commit>:zakon/2005/24-3/clan-001.md` |
-| Every version in this repository, oldest first | `git log --reverse --format="%ad %an" --date=short main` |
 
 **Without git.** The same record is free to use, with no account or key:
 

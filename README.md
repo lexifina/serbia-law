@@ -25,7 +25,6 @@ Tekstovi propisa su na srpskom, ćirilicom (neki latinicom), onako kako ih objav
 | Koji propis je napisao svaki red člana 1? | `git blame zakon/2005/24-3/clan-001.md` |
 | Svaka verzija Zakona o radu, sa danom kada je stupila na snagu | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
 | Član 1 u jednoj od tih verzija | `git show <commit>:zakon/2005/24-3/clan-001.md` |
-| Sve verzije u ovom repozitorijumu, od najstarije | `git log --reverse --format="%ad %an" --date=short main` |
 
 **Bez gita.** Isti podaci su besplatni, bez naloga i bez ključa:
 
