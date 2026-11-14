@@ -8,7 +8,7 @@ Kako global-law meri ažurnost svih korpusa (stanja, pragovi od 7 i 30 dana, ala
 
 | Korpus | Stanje | Poslednja provera | Način | Komit u global-law | Novijih komita ovde |
 | --- | --- | --- | --- | --- | ---: |
-| `serbia/national/acts` | `stale` | 4. 11. 2026. | `source-retrieval` | `2abec326ad` | 18.433 |
+| `serbia/national/acts` | `stale` | 4. 11. 2026. | `source-retrieval` | `2abec326ad` | 18.438 |
 
 `stale`: prag za nacionalno pravo je 7 dana od poslednje provere. Komitovi novijih od zakačenog global-law preuzima pri sledećem prolazu; do tada ih čitajte ovde.
 
@@ -18,7 +18,7 @@ Kako global-law meri ažurnost svih korpusa (stanja, pragovi od 7 i 30 dana, ala
 
 | Izvor | Komita | Najnoviji zapis | Poslednji put pročitan | Dana od tada | Stanje | Napomena |
 | --- | ---: | --- | --- | ---: | --- | --- |
-| Pravno-informacioni sistem RS (Službeni glasnik) | 12.388 | 1. 11. 2026. | 3. 11. 2026. | 11 | pauzirano | čeka pismenu saglasnost Službenog glasnika (uslovi korišćenja registra; vidi PLAN.md) |
+| Pravno-informacioni sistem RS (Službeni glasnik) | 12.388 | 1. 11. 2026. | 3. 11. 2026. | 11 | zastarelo |  |
 | Narodna skupština | 1.713 | 14. 11. 2026. | 14. 11. 2026. | 0 | ažurno |  |
 | Ustavni sud | 11.521 | 2. 7. 2026. | 14. 11. 2026. | 0 | ažurno |  |
 | Apelacioni sud u Kragujevcu | 479 | 14. 5. 2026. | 14. 11. 2026. | 0 | ažurno |  |

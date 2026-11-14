@@ -8,7 +8,7 @@ How global-law measures freshness for every corpus (the statuses, the 7- and 30-
 
 | Corpus | Status | Last checked | Method | Commit pinned in global-law | Newer commits here |
 | --- | --- | --- | --- | --- | ---: |
-| `serbia/national/acts` | `stale` | 2026-11-04 | `source-retrieval` | `2abec326ad` | 18,433 |
+| `serbia/national/acts` | `stale` | 2026-11-04 | `source-retrieval` | `2abec326ad` | 18,438 |
 
 `stale`: the threshold for national law is 7 days since the last check. global-law takes commits newer than the pinned one on its next pass; until then, read them here.
 
@@ -18,7 +18,7 @@ How global-law measures freshness for every corpus (the statuses, the 7- and 30-
 
 | Source | Commits | Newest record | Last read | Days since | State | Note |
 | --- | ---: | --- | --- | ---: | --- | --- |
-| Legal Information System of Serbia (Official Gazette) | 12,388 | 2026-11-01 | 2026-11-03 | 11 | paused | waiting for Službeni glasnik's written consent (the register's terms of use; see PLAN.md) |
+| Legal Information System of Serbia (Official Gazette) | 12,388 | 2026-11-01 | 2026-11-03 | 11 | stale |  |
 | National Assembly | 1,713 | 2026-11-14 | 2026-11-14 | 0 | current |  |
 | Constitutional Court | 11,521 | 2026-07-02 | 2026-11-14 | 0 | current |  |
 | Court of Appeal in Kragujevac | 479 | 2026-05-14 | 2026-11-14 | 0 | current |  |

@@ -8,13 +8,12 @@ How global-law monitors every corpus (a pass every 15 minutes, a check of every 
 
 | | |
 | --- | --- |
-| Last commit | 2026-11-14 15:51 UTC: Visualisations: Serbian law in 20 charts (visualisations/srpsko-pravo-u-20-grafikona.html), linked from both READMEs |
-| Last 24 hours | 12,408 court and other decisions; 4,034 local acts; 1,601 drafts and bills; 269 laws as adopted; 102 documents and tables; 19 documentation |
-| Last 7 days | 12,408 court and other decisions; 4,034 local acts; 1,601 drafts and bills; 269 laws as adopted; 102 documents and tables; 23 documentation |
-| Last 30 days | 12,408 court and other decisions; 12,358 acts; 4,034 local acts; 1,601 drafts and bills; 1,037 publisher texts; 269 laws as adopted; 102 documents and tables; 45 documentation; 28 Constitutional Court rulings in the text |
-| global-law | `serbia/national/acts` is `stale`, pinned at `2abec326ad`, 18,433 newer commits here |
-| Register of acts | paused: waiting for Službeni glasnik's written consent (the register's terms of use; see PLAN.md) |
-| Stale sources | none ([FRESHNESS.en.md](../FRESHNESS.en.md)) |
+| Last commit | 2026-11-14 16:23 UTC: vulnerabilities/: what the other flags are moves into EDGE-CASES; the READMEs point to it in a note under the category t… |
+| Last 24 hours | 12,408 court and other decisions; 4,034 local acts; 1,601 drafts and bills; 269 laws as adopted; 102 documents and tables; 24 documentation |
+| Last 7 days | 12,408 court and other decisions; 4,034 local acts; 1,601 drafts and bills; 269 laws as adopted; 102 documents and tables; 28 documentation |
+| Last 30 days | 12,408 court and other decisions; 12,358 acts; 4,034 local acts; 1,601 drafts and bills; 1,037 publisher texts; 269 laws as adopted; 102 documents and tables; 50 documentation; 28 Constitutional Court rulings in the text |
+| global-law | `serbia/national/acts` is `stale`, pinned at `2abec326ad`, 18,438 newer commits here |
+| Stale sources | Legal Information System of Serbia (Official Gazette) ([FRESHNESS.en.md](../FRESHNESS.en.md)) |
 
 ## How new changes arrive
 
@@ -29,3 +28,13 @@ git fetch && git log -1 --format="%cI %s" origin/main
 git log --since=1.day --format="%cs %s" origin/main | wc -l
 python monitoring/make_pages.py           # rebuild these three pages
 ```
+
+## Watch it yourself: a fork and GitHub Actions
+
+Anyone can fork this repository and keep their copy current without us. GitHub Actions is free for public repositories.
+
+1. Fork it: <https://github.com/lexifina/serbia-law/fork>.
+2. In the fork, copy [`monitoring/fork-workflow.yml`](fork-workflow.yml) to `.github/workflows/refresh.yml` and commit it to `main`.
+3. On the fork's **Actions** tab, enable workflows (GitHub turns them off in forks by default) and run **Refresh from lexifina/serbia-law** once.
+
+Every 6 hours the workflow takes the new commits from this repository into your fork's `main` (through GitHub's own "Sync fork", so your `main` is this repository plus your workflow file), rebuilds WATCHING, FRESHNESS and this page for your copy, publishes them to a `status` branch and shows FRESHNESS in the run summary. A run takes about two minutes. The workflow does not read the official sources: it checks how current this repository is.

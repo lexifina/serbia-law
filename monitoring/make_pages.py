@@ -61,8 +61,7 @@ SRC = [
 THRESH = {'national': 7, 'local': 30, 'courts': 30, 'records': 30}
 NOTES = {'kjn': ('arhiva starog sajta komisije: odluke do 2011.', 'the archive of the commission\'s old site: decisions up to 2011'),
          'odp': ('broj je broj skupova podataka, ne komita', 'the count is datasets, not commits')}
-PAUSED = {'pis': ('čeka pismenu saglasnost Službenog glasnika (uslovi korišćenja registra; vidi PLAN.md)',
-                  'waiting for Službeni glasnik\'s written consent (the register\'s terms of use; see PLAN.md)')}
+PAUSED = {}  # source key -> (Serbian, English) reason, when a source is deliberately not re-read
 KIND_SR = {'law': 'propisi', 'publisher': 'tekstovi izdavača', 'court': 'odluke Ustavnog suda u tekstu', 'law-as-adopted': 'zakoni kako su usvojeni',
            'draft': 'nacrti i predlozi', 'decision': 'sudske i druge odluke', 'local-act': 'lokalni akti', 'record': 'dokumenti i tabele'}
 KIND_EN = {'law': 'acts', 'publisher': 'publisher texts', 'court': 'Constitutional Court rulings in the text', 'law-as-adopted': 'laws as adopted',
@@ -204,12 +203,10 @@ def watching(lang):
     o.append('')
     if sr:
         o += ['- **Nema automatskog dnevnog praćenja za Srbiju.** Detektori promena global-law-a napravljeni su, ali još nisu uključeni (vidi gore). Svaki izvor se ponovo čita kada se pokrene njegova traka u ovom repozitorijumu, a datum iznad pokazuje kada je to poslednji put urađeno.',
-              '- **Registar propisa je pauziran.** Uslovi korišćenja Pravno-informacionog sistema traže pismenu saglasnost Službenog glasnika za automatsko preuzimanje i ponovno objavljivanje. Dok je nema, iz registra se ne preuzimaju novi tekstovi; propisi koji su već ovde ostaju, ali mogu da kasne za izmenama (vidi [FRESHNESS.md](FRESHNESS.md) i [PLAN.md](PLAN.md)).',
               '- **Pravila ponašanja.** Svaki izvor se čita uz poštovanje njegovog robots.txt, sa pauzama između zahteva; tekstovi uvek dolaze iz zvaničnog izvora, a promena se nikada ne izvodi iz detektora.',
               '- **Pogodak.** Kada izvor objavi nešto novo, to postaje novi komit sa datumom dana kada se primenjuje; global-law ga zatim preuzima pri sledećem prolazu ([monitoring/](monitoring/)).']
     else:
         o += ['- **There is no automatic daily watch for Serbia yet.** global-law\'s change detectors are built but not switched on (see above). Each source is re-read when its lane in this repository runs, and the date above shows when that last happened.',
-              '- **The register of acts is paused.** The Legal Information System\'s terms of use require Službeni glasnik\'s written consent for automated extraction and republication. Until it is given, no new texts are taken from the register; the acts already here stay, but may lag behind later amendments (see [FRESHNESS.en.md](FRESHNESS.en.md) and [PLAN.md](PLAN.md)).',
               '- **Manners.** Every source is read within its robots.txt, with pauses between requests; text always comes from the official source, never from a detector.',
               '- **A hit.** When a source publishes something new, it becomes a new commit dated the day it applies; global-law picks it up on its next pass ([monitoring/](monitoring/README.en.md)).']
     o.append('')
@@ -293,7 +290,8 @@ def monitoring(lang):
     o.append(f'| {"Poslednjih 30 dana" if sr else "Last 30 days"} | {wtxt(w30)} |')
     if gl:
         o.append(f'| global-law | `{CORPUS}` {"je" if sr else "is"} `{gl["status"]}`, {"zakačen na" if sr else "pinned at"} `{gl["pinned"][:10]}`' + (f', {num(behind, lang)} {"novijih komita ovde" if sr else "newer commits here"}' if behind else '') + ' |')
-    o.append(f'| {"Registar propisa" if sr else "Register of acts"} | {"pauziran: " + PAUSED["pis"][0] if sr else "paused: " + PAUSED["pis"][1]} |')
+    for k, (rsr, ren) in PAUSED.items():
+        o.append(f'| {name(k, lang)} | {"pauzirano: " + rsr if sr else "paused: " + ren} |')
     stale = [name(k, lang) for k in ORDER if status(k, S[k], lang) in ('zastarelo', 'stale')]
     o.append(f'| {"Zastareli izvori" if sr else "Stale sources"} | {", ".join(stale) if stale else ("nema" if sr else "none")} ([{"FRESHNESS.md" if sr else "FRESHNESS.en.md"}](../{"FRESHNESS.md" if sr else "FRESHNESS.en.md"})) |')
     o.append('')
@@ -315,6 +313,25 @@ def monitoring(lang):
     o.append('git log --since=1.day --format="%cs %s" origin/main | wc -l')
     o.append('python monitoring/make_pages.py           ' + ('# ponovo napravi ove tri stranice' if sr else '# rebuild these three pages'))
     o.append('```')
+    o.append('')
+    o.append('## Pratite sami: fork i GitHub Actions' if sr else '## Watch it yourself: a fork and GitHub Actions')
+    o.append('')
+    if sr:
+        o += ['Svako može da napravi fork ovog repozitorijuma i da ga sam drži ažurnim, bez nas. GitHub Actions je besplatan za javne repozitorijume.',
+              '',
+              '1. Napravite fork: <https://github.com/lexifina/serbia-law/fork>.',
+              '2. U forku kopirajte [`monitoring/fork-workflow.yml`](fork-workflow.yml) u `.github/workflows/refresh.yml` i pošaljite izmenu u granu `main`.',
+              '3. Na kartici **Actions** forka uključite tokove rada (GitHub ih u forkovima podrazumevano isključuje) i jednom pokrenite **Refresh from lexifina/serbia-law**.',
+              '',
+              'Svakih 6 sati tok rada preuzima nove komitove iz ovog repozitorijuma u `main` vašeg forka (GitHub-ovim „Sync fork“, pa je `main` ovaj repozitorijum plus vaš tok rada), ponovo pravi WATCHING, FRESHNESS i ovu stranicu za vaš primerak, objavljuje ih u granu `status` i prikazuje FRESHNESS u sažetku pokretanja. Jedno pokretanje traje oko dva minuta. Tok rada ne čita zvanične izvore: proverava koliko je ovaj repozitorijum ažuran.']
+    else:
+        o += ['Anyone can fork this repository and keep their copy current without us. GitHub Actions is free for public repositories.',
+              '',
+              '1. Fork it: <https://github.com/lexifina/serbia-law/fork>.',
+              '2. In the fork, copy [`monitoring/fork-workflow.yml`](fork-workflow.yml) to `.github/workflows/refresh.yml` and commit it to `main`.',
+              '3. On the fork\'s **Actions** tab, enable workflows (GitHub turns them off in forks by default) and run **Refresh from lexifina/serbia-law** once.',
+              '',
+              'Every 6 hours the workflow takes the new commits from this repository into your fork\'s `main` (through GitHub\'s own "Sync fork", so your `main` is this repository plus your workflow file), rebuilds WATCHING, FRESHNESS and this page for your copy, publishes them to a `status` branch and shows FRESHNESS in the run summary. A run takes about two minutes. The workflow does not read the official sources: it checks how current this repository is.']
     o.append('')
     return '\n'.join(o)
 

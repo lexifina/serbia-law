@@ -4,11 +4,11 @@
 
 Kako global-law prati izvore svih zemalja (detektori promena, dnevna provera, šta znači pogodak): [global-law WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md). Ova stranica je isto to, samo za Srbiju: svaki zvanični izvor iz kojeg ovaj repozitorijum uzima tekstove, šta se na njemu čita da bi se videlo da li ima nečeg novog, i kada je poslednji put pročitan.
 
-Napravljeno 14. 11. 2026. iz istorije gita (`f724da1f13`): izvor svakog komita je u njegovom redu `Source:`, a „poslednji put pročitan“ je dan kada je ovaj repozitorijum poslednji put objavio nešto iz tog izvora.
+Napravljeno 14. 11. 2026. iz istorije gita (`b67514289f`): izvor svakog komita je u njegovom redu `Source:`, a „poslednji put pročitan“ je dan kada je ovaj repozitorijum poslednji put objavio nešto iz tog izvora.
 
 | Izvor | Šta se čita | Fascikle | Komita | Poslednji put pročitan | Stanje |
 | --- | --- | --- | ---: | --- | --- |
-| [Pravno-informacioni sistem RS (Službeni glasnik)](https://www.pravno-informacioni-sistem.rs) | spisak važećih propisa po oblastima i vremenska linija verzija svakog propisa | `pravilnik/`, `odluka/`, `zakon/`, `uredba/` … | 12.388 | 3. 11. 2026. | pauzirano |
+| [Pravno-informacioni sistem RS (Službeni glasnik)](https://www.pravno-informacioni-sistem.rs) | spisak važećih propisa po oblastima i vremenska linija verzija svakog propisa | `pravilnik/`, `odluka/`, `zakon/`, `uredba/` … | 12.388 | 3. 11. 2026. | zastarelo |
 | [Narodna skupština](https://www.parlament.gov.rs) | spisak predloga zakona po sazivu, usvojeni zakoni i sednice | `predlog/11/`, `predlog/14/`, `zakon/`, `predlog/12/` … | 1.713 | 14. 11. 2026. | ažurno |
 | [Ustavni sud](https://www.ustavni.sud.rs) | baza sudske prakse | `sudska-praksa/ustavni-sud/` | 11.521 | 14. 11. 2026. | ažurno |
 | [Apelacioni sud u Kragujevcu](https://www.kg.ap.sud.rs) | sudska praksa na sajtu suda | `sudska-praksa/apelacioni-sud-kragujevac/` | 479 | 14. 11. 2026. | ažurno |
@@ -29,7 +29,6 @@ Uz to, [`data/bills-*.csv`](data/) drži spisak svih predloga zakona Narodne sku
 ## Kako se prati
 
 - **Nema automatskog dnevnog praćenja za Srbiju.** Detektori promena global-law-a napravljeni su, ali još nisu uključeni (vidi gore). Svaki izvor se ponovo čita kada se pokrene njegova traka u ovom repozitorijumu, a datum iznad pokazuje kada je to poslednji put urađeno.
-- **Registar propisa je pauziran.** Uslovi korišćenja Pravno-informacionog sistema traže pismenu saglasnost Službenog glasnika za automatsko preuzimanje i ponovno objavljivanje. Dok je nema, iz registra se ne preuzimaju novi tekstovi; propisi koji su već ovde ostaju, ali mogu da kasne za izmenama (vidi [FRESHNESS.md](FRESHNESS.md) i [PLAN.md](PLAN.md)).
 - **Pravila ponašanja.** Svaki izvor se čita uz poštovanje njegovog robots.txt, sa pauzama između zahteva; tekstovi uvek dolaze iz zvaničnog izvora, a promena se nikada ne izvodi iz detektora.
 - **Pogodak.** Kada izvor objavi nešto novo, to postaje novi komit sa datumom dana kada se primenjuje; global-law ga zatim preuzima pri sledećem prolazu ([monitoring/](monitoring/)).
 

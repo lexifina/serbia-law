@@ -8,13 +8,12 @@ Kako global-law prati sve korpuse (prolaz na svakih 15 minuta, provera svakog ko
 
 | | |
 | --- | --- |
-| Poslednji komit | 2026-11-14 15:51 UTC: Visualisations: Serbian law in 20 charts (visualisations/srpsko-pravo-u-20-grafikona.html), linked from both READMEs |
-| Poslednja 24 sata | 12.408 sudske i druge odluke; 4.034 lokalni akti; 1.601 nacrti i predlozi; 269 zakoni kako su usvojeni; 102 dokumenti i tabele; 19 dokumentacija |
-| Poslednjih 7 dana | 12.408 sudske i druge odluke; 4.034 lokalni akti; 1.601 nacrti i predlozi; 269 zakoni kako su usvojeni; 102 dokumenti i tabele; 23 dokumentacija |
-| Poslednjih 30 dana | 12.408 sudske i druge odluke; 12.358 propisi; 4.034 lokalni akti; 1.601 nacrti i predlozi; 1.037 tekstovi izdavača; 269 zakoni kako su usvojeni; 102 dokumenti i tabele; 45 dokumentacija; 28 odluke Ustavnog suda u tekstu |
-| global-law | `serbia/national/acts` je `stale`, zakačen na `2abec326ad`, 18.433 novijih komita ovde |
-| Registar propisa | pauziran: čeka pismenu saglasnost Službenog glasnika (uslovi korišćenja registra; vidi PLAN.md) |
-| Zastareli izvori | nema ([FRESHNESS.md](../FRESHNESS.md)) |
+| Poslednji komit | 2026-11-14 16:23 UTC: vulnerabilities/: what the other flags are moves into EDGE-CASES; the READMEs point to it in a note under the category t… |
+| Poslednja 24 sata | 12.408 sudske i druge odluke; 4.034 lokalni akti; 1.601 nacrti i predlozi; 269 zakoni kako su usvojeni; 102 dokumenti i tabele; 24 dokumentacija |
+| Poslednjih 7 dana | 12.408 sudske i druge odluke; 4.034 lokalni akti; 1.601 nacrti i predlozi; 269 zakoni kako su usvojeni; 102 dokumenti i tabele; 28 dokumentacija |
+| Poslednjih 30 dana | 12.408 sudske i druge odluke; 12.358 propisi; 4.034 lokalni akti; 1.601 nacrti i predlozi; 1.037 tekstovi izdavača; 269 zakoni kako su usvojeni; 102 dokumenti i tabele; 50 dokumentacija; 28 odluke Ustavnog suda u tekstu |
+| global-law | `serbia/national/acts` je `stale`, zakačen na `2abec326ad`, 18.438 novijih komita ovde |
+| Zastareli izvori | Pravno-informacioni sistem RS (Službeni glasnik) ([FRESHNESS.md](../FRESHNESS.md)) |
 
 ## Kako nove izmene stižu
 
@@ -29,3 +28,13 @@ git fetch && git log -1 --format="%cI %s" origin/main
 git log --since=1.day --format="%cs %s" origin/main | wc -l
 python monitoring/make_pages.py           # ponovo napravi ove tri stranice
 ```
+
+## Pratite sami: fork i GitHub Actions
+
+Svako može da napravi fork ovog repozitorijuma i da ga sam drži ažurnim, bez nas. GitHub Actions je besplatan za javne repozitorijume.
+
+1. Napravite fork: <https://github.com/lexifina/serbia-law/fork>.
+2. U forku kopirajte [`monitoring/fork-workflow.yml`](fork-workflow.yml) u `.github/workflows/refresh.yml` i pošaljite izmenu u granu `main`.
+3. Na kartici **Actions** forka uključite tokove rada (GitHub ih u forkovima podrazumevano isključuje) i jednom pokrenite **Refresh from lexifina/serbia-law**.
+
+Svakih 6 sati tok rada preuzima nove komitove iz ovog repozitorijuma u `main` vašeg forka (GitHub-ovim „Sync fork“, pa je `main` ovaj repozitorijum plus vaš tok rada), ponovo pravi WATCHING, FRESHNESS i ovu stranicu za vaš primerak, objavljuje ih u granu `status` i prikazuje FRESHNESS u sažetku pokretanja. Jedno pokretanje traje oko dva minuta. Tok rada ne čita zvanične izvore: proverava koliko je ovaj repozitorijum ažuran.

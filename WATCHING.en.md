@@ -4,11 +4,11 @@
 
 How global-law watches every country's sources (change detectors, the daily poll, what a hit means): [global-law WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md). This page is the same thing for Serbia only: every official source this repository takes text from, what is read on it to see whether anything is new, and when it was last read.
 
-Built on 2026-11-14 from the git history (`f724da1f13`): each commit names its source in its `Source:` line, and "last read" is the day this repository last published something from that source.
+Built on 2026-11-14 from the git history (`b67514289f`): each commit names its source in its `Source:` line, and "last read" is the day this repository last published something from that source.
 
 | Source | What is read | Folders | Commits | Last read | State |
 | --- | --- | --- | ---: | --- | --- |
-| [Legal Information System of Serbia (Official Gazette)](https://www.pravno-informacioni-sistem.rs) | the listing of acts in force by area and each act's timeline of versions | `pravilnik/`, `odluka/`, `zakon/`, `uredba/` … | 12,388 | 2026-11-03 | paused |
+| [Legal Information System of Serbia (Official Gazette)](https://www.pravno-informacioni-sistem.rs) | the listing of acts in force by area and each act's timeline of versions | `pravilnik/`, `odluka/`, `zakon/`, `uredba/` … | 12,388 | 2026-11-03 | stale |
 | [National Assembly](https://www.parlament.gov.rs) | the list of bills by convocation, the laws passed and the sittings | `predlog/11/`, `predlog/14/`, `zakon/`, `predlog/12/` … | 1,713 | 2026-11-14 | current |
 | [Constitutional Court](https://www.ustavni.sud.rs) | the case-law database | `sudska-praksa/ustavni-sud/` | 11,521 | 2026-11-14 | current |
 | [Court of Appeal in Kragujevac](https://www.kg.ap.sud.rs) | the case law on the court's site | `sudska-praksa/apelacioni-sud-kragujevac/` | 479 | 2026-11-14 | current |
@@ -29,7 +29,6 @@ In addition, [`data/bills-*.csv`](data/) holds the National Assembly's list of e
 ## How it is watched
 
 - **There is no automatic daily watch for Serbia yet.** global-law's change detectors are built but not switched on (see above). Each source is re-read when its lane in this repository runs, and the date above shows when that last happened.
-- **The register of acts is paused.** The Legal Information System's terms of use require Službeni glasnik's written consent for automated extraction and republication. Until it is given, no new texts are taken from the register; the acts already here stay, but may lag behind later amendments (see [FRESHNESS.en.md](FRESHNESS.en.md) and [PLAN.md](PLAN.md)).
 - **Manners.** Every source is read within its robots.txt, with pauses between requests; text always comes from the official source, never from a detector.
 - **A hit.** When a source publishes something new, it becomes a new commit dated the day it applies; global-law picks it up on its next pass ([monitoring/](monitoring/README.en.md)).
 
