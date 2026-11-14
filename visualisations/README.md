@@ -2,6 +2,8 @@
 
 [English](README.en.md)
 
+Grafikoni o pravu svih zemalja, iz celog global-law-a: [global-law visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations). Ovde su samo grafikoni o Srbiji.
+
 Dvadeset grafikona o srpskom pravu, nacrtanih samo iz podataka ovog repozitorijuma: propisi iz Pravno-informacionog sistema, predlozi zakona Narodne skupštine, praksa Ustavnog suda, žalbe Povereniku za informacije od javnog značaja, preporuke Državne revizorske institucije i Službeni list Grada Beograda.
 
 Otvorite [`srpsko-pravo-u-20-grafikona.html`](srpsko-pravo-u-20-grafikona.html) u pregledaču. Stranica je jedna datoteka sa svim podacima u sebi; sa interneta učitava samo biblioteku d3 i fontove. Gore desno se biraju jezik (srpski, latinica, ili engleski) i tema (svetla ili tamna). Uz svaki grafikon stoje putanja podataka u repozitorijumu, broj zapisa i ograničenja, a ispod njega tabela sa svim brojevima. Pređite mišem preko oznake da vidite tačne vrednosti.

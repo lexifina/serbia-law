@@ -103,6 +103,14 @@ Ovaj repozitorijum nije pravni savet niti zvanična publikacija. Nijedan AI mode
 
 Ovo je prevod engleske verzije ([README.en.md](README.en.md)); ako se razlikuju, važi engleska verzija.
 
+## Koliko je ažurno
+
+- [FRESHNESS.md](FRESHNESS.md): koliko je svaki izvor ažuran, izvor po izvor, i kako ovaj repozitorijum vidi global-law
+- [WATCHING.md](WATCHING.md): svaki zvanični izvor koji se prati za Srbiju, šta se na njemu čita i kada je poslednji put pročitan
+- [monitoring/](monitoring/): stanje ovog repozitorijuma (poslednji komitovi, šta je stiglo, šta je pauzirano)
+
+Isto za sve zemlje: [FRESHNESS.md](https://github.com/lexifina/global-law/blob/main/FRESHNESS.md), [WATCHING.md](https://github.com/lexifina/global-law/blob/main/WATCHING.md) i [monitoring/](https://github.com/lexifina/global-law/tree/main/monitoring) u global-law-u.
+
 ## Vizualizacije
 
 [visualisations/](visualisations/): srpsko pravo u 20 grafikona, nacrtanih iz ovog repozitorijuma: šta Narodna skupština usvaja i ko pozajmljuje Srbiji, od čega se sastoji pravni poredak i koliko se često menja, ustavne žalbe, žalbe Povereniku zbog ćutanja uprave, preporuke Državne revizorske institucije i Službeni list Grada Beograda. Otvorite [srpsko-pravo-u-20-grafikona.html](visualisations/srpsko-pravo-u-20-grafikona.html) u pregledaču; [visualisations/README.md](visualisations/README.md) prikazuje svaki grafikon kao sliku.

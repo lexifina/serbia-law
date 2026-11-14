@@ -130,6 +130,7 @@ footer { color: var(--text-3); font-size: 12px; padding: 40px 0 60px; }
   </div>
   <h1 data-i="title"></h1>
   <p class="lede" data-i="lede"></p>
+  <p class="note" id="gl-link"></p>
   <div class="tiles" id="tiles"></div>
   <details class="profile"><summary data-i="profile_h"></summary><div class="scroll" id="profile"></div></details>
   <nav class="toc" id="toc"></nav>
@@ -161,6 +162,7 @@ sr: {
   tiles: ['komita u istoriji', 'akata u registru (važeći)', 'predloga zakona (2007–2026)', 'odluka Ustavnog suda', 'žalbi Povereniku', 'akata u Sl. listu Beograda'],
   year: 'Godina', total: 'Ukupno', laws: 'zakona', days: 'dana', share: 'Udeo', count: 'Broj', of: 'od',
   partial: 'delimična godina',
+  gl: 'Grafikoni o pravu svih zemalja, iz celog global-law-a: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. Ovde su samo grafikoni o Srbiji.',
 },
 en: {
   kicker: 'serbia-law · visualisations',
@@ -172,6 +174,7 @@ en: {
   tiles: ['commits in the history', 'register acts (in force)', 'bills (2007–2026)', 'Constitutional Court decisions', 'appeals to the Commissioner', 'acts in Belgrade\'s gazette'],
   year: 'Year', total: 'Total', laws: 'laws', days: 'days', share: 'Share', count: 'Count', of: 'of',
   partial: 'partial year',
+  gl: 'Charts on every country\'s law, from the whole of global-law: <a href="https://github.com/lexifina/global-law/tree/main/visualisations">global-law visualisations/</a>. These are the charts on Serbia alone.',
 }};
 const t = k => S[LANG][k];
 const L = (sr, en) => LANG === 'sr' ? sr : en;
@@ -972,6 +975,7 @@ function render() {
   document.documentElement.lang = LANG === 'sr' ? 'sr-Latn' : 'en';
   document.title = t('title');
   d3.selectAll('[data-i]').each(function () { this.textContent = t(this.dataset.i); });
+  document.getElementById('gl-link').innerHTML = t('gl');
   d3.selectAll('[data-lang]').attr('aria-pressed', function () { return String(this.dataset.lang === LANG); });
   d3.selectAll('[data-theme-set]').attr('aria-pressed', function () { return String(this.dataset.themeSet === THEME); });
   const tl = t('tiles'), tv = [PF.commits, PF.acts_in_tree, PF.bills.filed, PF.cc.decisions, PF.poverenik.appeals, PF.local.beograd_index];

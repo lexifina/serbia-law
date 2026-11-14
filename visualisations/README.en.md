@@ -2,6 +2,8 @@
 
 [Srpski](README.md)
 
+Charts on every country's law, from the whole of global-law: [global-law visualisations/](https://github.com/lexifina/global-law/tree/main/visualisations). These are the charts on Serbia alone.
+
 Twenty charts on Serbian law, drawn only from the data in this repository: the acts of the Legal Information System, the National Assembly's bills, the Constitutional Court's case law, appeals to the Commissioner for Information of Public Importance, the State Audit Institution's recommendations and the Official Gazette of the City of Belgrade.
 
 Open [`srpsko-pravo-u-20-grafikona.html`](srpsko-pravo-u-20-grafikona.html) in a browser. The page is one file with all its data inside; it loads only the d3 library and its fonts from the web. The controls at the top right switch the language (Serbian in Latin script, or English) and the theme (light or dark). Each chart names its data path in the repository, its record count and its limits, and has a table of every number under it. Hover over a mark for the exact values.
