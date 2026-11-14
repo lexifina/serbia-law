@@ -47,7 +47,7 @@ Each act is in `<kind>/<year>/<Gazette number>-<page>/`, from its first publicat
 
 The text is in Serbian (Cyrillic, some acts Latin), as the official register prints it. An English translation is not part of this record.
 
-## A lawyer's questions as git commands
+## Questions as git commands
 
 | Question | Command |
 | --- | --- |
@@ -56,6 +56,14 @@ The text is in Serbian (Cyrillic, some acts Latin), as the official register pri
 | Every version of the Labour Law, with the day each took effect | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
 | Article 1 as it stood in one of those versions | `git show <commit>:zakon/2005/24-3/clan-001.md` |
 | Every version in the record, in order | `git log --reverse --format="%ad %an" --date=short main` |
+
+**Or ask in plain words.** The same record is free to use without git, an account or a key:
+
+- **[Ask Claude about Serbian law](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: one click opens Claude with a first question ready (annual leave in the Labour Law, and how it has changed).
+- **[Ask ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=serbia)**: the same question in ChatGPT.
+- **[Call the API in your browser](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: Serbian law searched for "godišnji odmor", answered as JSON. No key for 5 calls a minute; [every tool](https://global-law.lexifina.com/v1), [keys and documentation](https://lexifina.com/api).
+
+The assistants read it through the free Global law connector (MCP, `https://global-law.lexifina.com/mcp`); the first time, the chat gives the link that adds it. Ask in Serbian, in Latin or Cyrillic letters, or in English.
 
 ## Dates
 

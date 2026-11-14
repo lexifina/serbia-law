@@ -47,7 +47,7 @@ Svaki propis je u `<vrsta>/<godina>/<broj glasnika>-<strana>/`, prema prvom obja
 
 Tekstovi propisa su na srpskom, ćirilicom (neki latinicom), onako kako ih objavljuje zvanični registar. Prevod propisa na engleski nije deo ovog repozitorijuma.
 
-## Pitanja pravnika kao git komande
+## Pitanja kao git komande
 
 | Pitanje | Komanda |
 | --- | --- |
@@ -56,6 +56,14 @@ Tekstovi propisa su na srpskom, ćirilicom (neki latinicom), onako kako ih objav
 | Svaka verzija Zakona o radu, sa danom kada je stupila na snagu | `git log --format="%h %(trailers:key=In-force,valueonly,separator=) %an" -- zakon/2005/24-3` |
 | Član 1 kakav je bio u jednoj od tih verzija | `git show <commit>:zakon/2005/24-3/clan-001.md` |
 | Sve verzije u repozitorijumu, redom | `git log --reverse --format="%ad %an" --date=short main` |
+
+**Ili pitajte običnim rečima.** Isti podaci su besplatni i bez gita, naloga ili ključa:
+
+- **[Pitajte Claude o propisima Srbije](https://global-law.lexifina.com/v1/try_claude?country=serbia)**: jedan klik otvara Claude sa spremnim prvim pitanjem (godišnji odmor u Zakonu o radu i kako se menjao).
+- **[Pitajte ChatGPT](https://global-law.lexifina.com/v1/try_chatgpt?country=serbia)**: isto pitanje u ChatGPT-u.
+- **[Pozovite API u pregledaču](https://global-law.lexifina.com/v1/search_law?query=godi%C5%A1nji+odmor&jurisdictions=serbia)**: pretraga propisa Srbije za „godišnji odmor”, odgovor u JSON-u. Bez ključa 5 poziva u minutu; [svi alati](https://global-law.lexifina.com/v1), [ključevi i dokumentacija](https://lexifina.com/api).
+
+Asistenti čitaju podatke preko besplatnog konektora Global law (MCP, `https://global-law.lexifina.com/mcp`); prvi put razgovor daje link kojim se konektor dodaje. Pitajte na srpskom, latinicom ili ćirilicom, ili na engleskom.
 
 ## Datumi
 
