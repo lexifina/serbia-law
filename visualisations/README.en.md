@@ -14,58 +14,133 @@ The charts are descriptive: they show what the sources record, not why.
 
 ### I. The National Assembly
 
-1. **What the Assembly passes.** Laws by year and type: amendments, new laws, treaty ratifications, loans, guarantees, budget.
-   ![1](stills/en/01.png)
-2. **Who lends to Serbia.** Laws ratifying loan agreements, by lender and year.
-   ![2](stills/en/02.png)
-3. **Who Serbia signs treaties with.** Ratification laws by the other contracting party.
-   ![3](stills/en/03.png)
-4. **Laws pass in bundles.** Every voting day and how many laws passed on it; two thirds of all laws pass on days with 10 or more.
-   ![4](stills/en/04.png)
-5. **From bill to law.** How many days a bill spends in the Assembly, by convocation.
-   ![5](stills/en/05.png)
+#### 1. What the Assembly passes
+
+Laws by year and type: amendments, new laws, treaty ratifications, loans, guarantees, budget.
+
+![What the Assembly passes](stills/en/01.png)
+
+#### 2. Who lends to Serbia
+
+Laws ratifying loan agreements, by lender and year.
+
+![Who lends to Serbia](stills/en/02.png)
+
+#### 3. Who Serbia signs treaties with
+
+Ratification laws by the other contracting party.
+
+![Who Serbia signs treaties with](stills/en/03.png)
+
+#### 4. Laws pass in bundles
+
+Every voting day and how many laws passed on it; two thirds of all laws pass on days with 10 or more.
+
+![Laws pass in bundles](stills/en/04.png)
+
+#### 5. From bill to law
+
+How many days a bill spends in the Assembly, by convocation.
+
+![From bill to law](stills/en/05.png)
 
 ### II. The statute book
 
-6. **Who writes the rules.** Acts in force by kind: laws are about one in six; the rest are rulebooks, decisions and decrees.
-   ![6](stills/en/06.png)
-7. **Yugoslav layers.** Acts in force that were published in the gazettes of the FPRY, SFRY, Socialist Republic of Serbia, FRY and Serbia and Montenegro.
-   ![7](stills/en/07.png)
-8. **Vacatio legis.** How many laws, decrees, rulebooks and decisions take effect before the eighth day after publication (Constitution, art. 196).
-   ![8](stills/en/08.png)
-9. **The most-changed laws.** The number of Official Gazette issues that changed the text, for 25 laws.
-   ![9](stills/en/09.png)
-10. **Lives of laws.** The same issues on a time axis.
-    ![10](stills/en/10.png)
-11. **The legal year.** Amendments by the month they took effect, 2016–2025.
-    ![11](stills/en/11.png)
+#### 6. Who writes the rules
+
+Acts in force by kind: laws are about one in six; the rest are rulebooks, decisions and decrees.
+
+![Who writes the rules](stills/en/06.png)
+
+#### 7. Yugoslav layers
+
+Acts in force that were published in the gazettes of the FPRY, SFRY, Socialist Republic of Serbia, FRY and Serbia and Montenegro.
+
+![Yugoslav layers](stills/en/07.png)
+
+#### 8. Vacatio legis
+
+How many laws, decrees, rulebooks and decisions take effect before the eighth day after publication (Constitution, art. 196).
+
+![Vacatio legis](stills/en/08.png)
+
+#### 9. The most-changed laws
+
+The number of Official Gazette issues that changed the text, for 25 laws.
+
+![The most-changed laws](stills/en/09.png)
+
+#### 10. Lives of laws
+
+The same issues on a time axis.
+
+![Lives of laws](stills/en/10.png)
+
+#### 11. The legal year
+
+Amendments by the month they took effect, 2016–2025.
+
+![The legal year](stills/en/11.png)
 
 ### III. The Constitutional Court
 
-12. **Constitutional complaints in the published case law.** Decisions by year and outcome, and what the database actually shows.
-    ![12](stills/en/12.png)
-13. **Which rights complainants invoke.** The Constitution's articles cited in decisions and how many of those decisions granted the complaint.
-    ![13](stills/en/13.png)
-14. **How long a complaint waits.** The year filed (from the case number) against the year decided.
-    ![14](stills/en/14.png)
-15. **What is challenged.** The challenged act by court register; a fifth of complaints challenge proceedings still running or a ruling on a reasonable-time request.
-    ![15](stills/en/15.png)
-16. **When the Court says "not in conformity".** General acts found unconstitutional or unlawful, by year and kind.
-    ![16](stills/en/16.png)
+#### 12. Constitutional complaints in the published case law
+
+Decisions by year and outcome, and what the database actually shows.
+
+![Constitutional complaints in the published case law](stills/en/12.png)
+
+#### 13. Which rights complainants invoke
+
+The Constitution's articles cited in decisions and how many of those decisions granted the complaint.
+
+![Which rights complainants invoke](stills/en/13.png)
+
+#### 14. How long a complaint waits
+
+The year filed (from the case number) against the year decided.
+
+![How long a complaint waits](stills/en/14.png)
+
+#### 15. What is challenged
+
+The challenged act by court register; a fifth of complaints challenge proceedings still running or a ruling on a reasonable-time request.
+
+![What is challenged](stills/en/15.png)
+
+#### 16. When the Court says "not in conformity"
+
+General acts found unconstitutional or unlawful, by year and kind.
+
+![When the Court says "not in conformity"](stills/en/16.png)
 
 ### IV. The administration under scrutiny
 
-17. **Administrative silence.** Appeals to the Commissioner by year and ground; almost half are because the body never answered.
-    ![17](stills/en/17.png)
-18. **Who stays silent.** The share of appeals over silence, by type of body.
-    ![18](stills/en/18.png)
-19. **State Audit Institution recommendations.** The status of recommendations by type of audited body.
-    ![19](stills/en/19.png)
+#### 17. Administrative silence
+
+Appeals to the Commissioner by year and ground; almost half are because the body never answered.
+
+![Administrative silence](stills/en/17.png)
+
+#### 18. Who stays silent
+
+The share of appeals over silence, by type of body.
+
+![Who stays silent](stills/en/18.png)
+
+#### 19. State Audit Institution recommendations
+
+The status of recommendations by type of audited body.
+
+![State Audit Institution recommendations](stills/en/19.png)
 
 ### V. Belgrade
 
-20. **Belgrade's Official Gazette.** Acts by issuer (the City and its 17 municipalities) and year, 2002–2014.
-    ![20](stills/en/20.png)
+#### 20. Belgrade's Official Gazette
+
+Acts by issuer (the City and its 17 municipalities) and year, 2002–2014.
+
+![Belgrade's Official Gazette](stills/en/20.png)
 
 ## Data
 

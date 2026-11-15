@@ -14,58 +14,133 @@ Grafikoni su opisni: pokazuju šta izvori beleže, ne zašto.
 
 ### I. Narodna skupština
 
-1. **Šta Skupština usvaja.** Zakoni po godini i vrsti: izmene i dopune, novi zakoni, potvrđivanje ugovora, zajmovi, garancije, budžet.
-   ![1](stills/sr/01.png)
-2. **Ko pozajmljuje Srbiji.** Zakoni o potvrđivanju ugovora o zajmu, po zajmodavcu i godini.
-   ![2](stills/sr/02.png)
-3. **S kim Srbija sklapa ugovore.** Zakoni o potvrđivanju po drugoj strani ugovornici.
-   ![3](stills/sr/03.png)
-4. **Zakoni se usvajaju u paketima.** Svaki dan za glasanje i koliko je zakona tada usvojeno; dve trećine zakona prođe na danima sa 10 ili više zakona.
-   ![4](stills/sr/04.png)
-5. **Od predloga do zakona.** Koliko dana predlog provede u Skupštini, po sazivu.
-   ![5](stills/sr/05.png)
+#### 1. Šta Skupština usvaja
+
+Zakoni po godini i vrsti: izmene i dopune, novi zakoni, potvrđivanje ugovora, zajmovi, garancije, budžet.
+
+![Šta Skupština usvaja](stills/sr/01.png)
+
+#### 2. Ko pozajmljuje Srbiji
+
+Zakoni o potvrđivanju ugovora o zajmu, po zajmodavcu i godini.
+
+![Ko pozajmljuje Srbiji](stills/sr/02.png)
+
+#### 3. S kim Srbija sklapa ugovore
+
+Zakoni o potvrđivanju po drugoj strani ugovornici.
+
+![S kim Srbija sklapa ugovore](stills/sr/03.png)
+
+#### 4. Zakoni se usvajaju u paketima
+
+Svaki dan za glasanje i koliko je zakona tada usvojeno; dve trećine zakona prođe na danima sa 10 ili više zakona.
+
+![Zakoni se usvajaju u paketima](stills/sr/04.png)
+
+#### 5. Od predloga do zakona
+
+Koliko dana predlog provede u Skupštini, po sazivu.
+
+![Od predloga do zakona](stills/sr/05.png)
 
 ### II. Pravni poredak
 
-6. **Ko piše propise.** Važeći akti po vrsti: zakoni su oko šestine; ostalo su pravilnici, odluke i uredbe.
-   ![6](stills/sr/06.png)
-7. **Jugoslovenski slojevi.** Važeći akti objavljeni u glasilima FNRJ, SFRJ, SR Srbije, SRJ i SCG.
-   ![7](stills/sr/07.png)
-8. **Vacatio legis.** Koliko zakona, uredbi, pravilnika i odluka stupa na snagu pre osmog dana od objavljivanja (Ustav, čl. 196).
-   ![8](stills/sr/08.png)
-9. **Najčešće menjani zakoni.** Broj izdanja Službenog glasnika koja su menjala tekst, za 25 zakona.
-   ![9](stills/sr/09.png)
-10. **Život zakona.** Ista izdanja na vremenskoj osi.
-    ![10](stills/sr/10.png)
-11. **Pravna godina.** Izmene po mesecu stupanja na snagu, 2016–2025.
-    ![11](stills/sr/11.png)
+#### 6. Ko piše propise
+
+Važeći akti po vrsti: zakoni su oko šestine; ostalo su pravilnici, odluke i uredbe.
+
+![Ko piše propise](stills/sr/06.png)
+
+#### 7. Jugoslovenski slojevi
+
+Važeći akti objavljeni u glasilima FNRJ, SFRJ, SR Srbije, SRJ i SCG.
+
+![Jugoslovenski slojevi](stills/sr/07.png)
+
+#### 8. Vacatio legis
+
+Koliko zakona, uredbi, pravilnika i odluka stupa na snagu pre osmog dana od objavljivanja (Ustav, čl. 196).
+
+![Vacatio legis](stills/sr/08.png)
+
+#### 9. Najčešće menjani zakoni
+
+Broj izdanja Službenog glasnika koja su menjala tekst, za 25 zakona.
+
+![Najčešće menjani zakoni](stills/sr/09.png)
+
+#### 10. Život zakona
+
+Ista izdanja na vremenskoj osi.
+
+![Život zakona](stills/sr/10.png)
+
+#### 11. Pravna godina
+
+Izmene po mesecu stupanja na snagu, 2016–2025.
+
+![Pravna godina](stills/sr/11.png)
 
 ### III. Ustavni sud
 
-12. **Ustavne žalbe u objavljenoj praksi.** Odluke po godini i ishodu, i šta baza zapravo pokazuje.
-    ![12](stills/sr/12.png)
-13. **Na koja prava se žalioci pozivaju.** Članovi Ustava navedeni u odlukama i koliko je tih odluka usvojeno.
-    ![13](stills/sr/13.png)
-14. **Koliko žalba čeka.** Godina podnošenja (iz broja predmeta) naspram godine odluke.
-    ![14](stills/sr/14.png)
-15. **Šta se osporava.** Osporeni akt po upisniku suda; petina žalbi osporava sam postupak koji traje ili odluku o zahtevu za suđenje u razumnom roku.
-    ![15](stills/sr/15.png)
-16. **Kada Sud kaže „nesaglasno“.** Opšti akti oglašeni neustavnim ili nezakonitim, po godini i vrsti.
-    ![16](stills/sr/16.png)
+#### 12. Ustavne žalbe u objavljenoj praksi
+
+Odluke po godini i ishodu, i šta baza zapravo pokazuje.
+
+![Ustavne žalbe u objavljenoj praksi](stills/sr/12.png)
+
+#### 13. Na koja prava se žalioci pozivaju
+
+Članovi Ustava navedeni u odlukama i koliko je tih odluka usvojeno.
+
+![Na koja prava se žalioci pozivaju](stills/sr/13.png)
+
+#### 14. Koliko žalba čeka
+
+Godina podnošenja (iz broja predmeta) naspram godine odluke.
+
+![Koliko žalba čeka](stills/sr/14.png)
+
+#### 15. Šta se osporava
+
+Osporeni akt po upisniku suda; petina žalbi osporava sam postupak koji traje ili odluku o zahtevu za suđenje u razumnom roku.
+
+![Šta se osporava](stills/sr/15.png)
+
+#### 16. Kada Sud kaže „nesaglasno“
+
+Opšti akti oglašeni neustavnim ili nezakonitim, po godini i vrsti.
+
+![Kada Sud kaže „nesaglasno“](stills/sr/16.png)
 
 ### IV. Uprava pod nadzorom
 
-17. **Ćutanje uprave.** Žalbe Povereniku po godini i osnovu; skoro polovina je zato što organ nije odgovorio.
-    ![17](stills/sr/17.png)
-18. **Ko ćuti.** Udeo žalbi zbog ćutanja po vrsti organa.
-    ![18](stills/sr/18.png)
-19. **Preporuke Državne revizorske institucije.** Status preporuka po vrsti revidiranog subjekta.
-    ![19](stills/sr/19.png)
+#### 17. Ćutanje uprave
+
+Žalbe Povereniku po godini i osnovu; skoro polovina je zato što organ nije odgovorio.
+
+![Ćutanje uprave](stills/sr/17.png)
+
+#### 18. Ko ćuti
+
+Udeo žalbi zbog ćutanja po vrsti organa.
+
+![Ko ćuti](stills/sr/18.png)
+
+#### 19. Preporuke Državne revizorske institucije
+
+Status preporuka po vrsti revidiranog subjekta.
+
+![Preporuke Državne revizorske institucije](stills/sr/19.png)
 
 ### V. Beograd
 
-20. **Službeni list Grada Beograda.** Akti po izdavaocu (Grad i 17 gradskih opština) i godini, 2002–2014.
-    ![20](stills/sr/20.png)
+#### 20. Službeni list Grada Beograda
+
+Akti po izdavaocu (Grad i 17 gradskih opština) i godini, 2002–2014.
+
+![Službeni list Grada Beograda](stills/sr/20.png)
 
 ## Podaci
 
